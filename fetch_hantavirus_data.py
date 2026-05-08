@@ -213,11 +213,10 @@ def compile_hantavirus_data():
 
 def main():
     """Main execution"""
-    print("[*] Starting Hantavirus Data Collection...")
+    print("Starting Hantavirus Data Collection...")
 
     data = compile_hantavirus_data()
 
-    # Ensure output directory exists
     data_dir = Path("docs/data")
     data_dir.mkdir(parents=True, exist_ok=True)
 
@@ -225,4 +224,12 @@ def main():
     with open(output_file, 'w') as f:
         json.dump(data, f, indent=2)
 
-    print(f"\n[✓] Da
+    print("Data written to " + str(output_file))
+    print("Total cases: " + str(data['totalCases']))
+    print("Total deaths: " + str(data['deaths']))
+    print("Active outbreaks: " + str(data['activeOutbreaks']))
+    print("Countries: " + str(data['countriesAffected']))
+    print("Last updated: " + str(data['lastUpdated']))
+
+if __name__ == "__main__":
+    main()
