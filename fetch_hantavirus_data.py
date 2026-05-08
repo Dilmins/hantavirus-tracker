@@ -110,7 +110,6 @@ LOCATION_COORDS = {
     "mongolia": {"lat": 46.8625, "lng": 103.8467, "country": "Mongolia"},
     "kazakhstan": {"lat": 48.0196, "lng": 66.9237, "country": "Kazakhstan"},
     "uzbekistan": {"lat": 41.3775, "lng": 64.5853, "country": "Uzbekistan"},
-    "russia": {"lat": 61.5240, "lng": 105.3188, "country": "Russia"},
     "nigeria": {"lat": 9.0820, "lng": 8.6753, "country": "Nigeria"},
     "ethiopia": {"lat": 9.1450, "lng": 40.4897, "country": "Ethiopia"},
     "kenya": {"lat": -0.0236, "lng": 37.9062, "country": "Kenya"},
@@ -144,32 +143,79 @@ def extract_location(text):
             return coords
     return None
 
+def make_request(url, timeout=20):
+    """Make HTTP request with rotating user agents and headers to avoid blocks."""
+    headers_list = [
+        {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+            "Accept-Language": "en-US,en;q=0.9",
+        },
+        {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        },
+        {
+            "User-Agent": "Wget/1.21.3",
+            "Accept": "*/*",
+        }
+    ]
+    last_error = None
+    for headers in headers_list:
+        try:
+            resp = requests.get(url, timeout=timeout, headers=headers)
+            if resp.status_code == 200:
+                return resp
+        except Exception as e:
+            last_error = e
+    raise Exception("All request attempts failed: " + str(last_error))
+
 def fetch_who_don():
     articles = []
     urls = [
         "https://www.who.int/feeds/entity/csr/don/en/rss.xml",
         "https://www.who.int/rss-feeds/news-releases.xml",
+        # Try direct disease outbreak news page
+        "https://www.who.int/emergencies/disease-outbreak-news",
     ]
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; HantavirusTracker/1.0)"}
     for url in urls:
         try:
-            resp = requests.get(url, timeout=15, headers=headers)
-            feed = feedparser.parse(resp.content)
-            for entry in feed.entries:
-                title = entry.get('title', '')
-                summary = entry.get('summary', '')
-                if 'hanta' in title.lower() or 'hanta' in summary.lower():
-                    coords = extract_location(title + ' ' + summary)
-                    articles.append({
-                        "title": title,
-                        "published": entry.get('published', ''),
-                        "link": entry.get('link', ''),
-                        "summary": summary[:300],
-                        "source": "WHO",
-                        "coords": coords
-                    })
+            resp = make_request(url)
+            if 'rss' in url or 'feed' in url:
+                feed = feedparser.parse(resp.content)
+                for entry in feed.entries:
+                    title = entry.get('title', '')
+                    summary = entry.get('summary', '')
+                    if 'hanta' in title.lower() or 'hanta' in summary.lower():
+                        coords = extract_location(title + ' ' + summary)
+                        articles.append({
+                            "title": title,
+                            "published": entry.get('published', ''),
+                            "link": entry.get('link', ''),
+                            "summary": summary[:300],
+                            "source": "WHO",
+                            "coords": coords
+                        })
+            else:
+                # Scrape the HTML page
+                soup = BeautifulSoup(resp.text, 'html.parser')
+                for link in soup.find_all('a', href=True):
+                    text = link.get_text(strip=True)
+                    href = link['href']
+                    if 'hanta' in text.lower() or 'hanta' in href.lower():
+                        if not href.startswith('http'):
+                            href = 'https://www.who.int' + href
+                        coords = extract_location(text)
+                        articles.append({
+                            "title": text,
+                            "published": '',
+                            "link": href,
+                            "summary": '',
+                            "source": "WHO",
+                            "coords": coords
+                        })
         except Exception as e:
-            print("WHO feed failed: " + str(e))
+            print("WHO source failed (" + url + "): " + str(e))
     print("WHO DON: found " + str(len(articles)) + " articles")
     return articles
 
@@ -178,16 +224,16 @@ def fetch_promedmail():
     urls = [
         "https://promedmail.org/promed-posts/?place=&disease=hantavirus&submit=Search&format=RSS",
         "https://www.promedmail.org/feed.aspx?type=RSS",
+        "https://promedmail.org/feed/",
     ]
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; HantavirusTracker/1.0)"}
     for url in urls:
         try:
-            resp = requests.get(url, timeout=15, headers=headers)
+            resp = make_request(url)
             feed = feedparser.parse(resp.content)
             for entry in feed.entries[:15]:
                 title = entry.get('title', '')
                 summary = entry.get('summary', '')
-                if not alerts or 'hanta' in title.lower() or 'hanta' in summary.lower() or True:
+                if 'hanta' in title.lower() or 'hanta' in summary.lower() or not alerts:
                     coords = extract_location(title + ' ' + summary)
                     alerts.append({
                         "title": title,
@@ -200,7 +246,7 @@ def fetch_promedmail():
             if alerts:
                 break
         except Exception as e:
-            print("ProMED feed failed: " + str(e))
+            print("ProMED source failed (" + url + "): " + str(e))
     print("ProMED: fetched " + str(len(alerts)) + " alerts")
     return alerts
 
@@ -210,13 +256,13 @@ def fetch_google_news():
         "hantavirus",
         "hantavirus outbreak 2026",
         "hantavirus cases",
+        "hantavirus death",
     ]
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; HantavirusTracker/1.0)"}
     seen = set()
     for query in queries:
         try:
             url = "https://news.google.com/rss/search?q=" + query.replace(' ', '+') + "&hl=en-US&gl=US&ceid=US:en"
-            resp = requests.get(url, timeout=15, headers=headers)
+            resp = make_request(url)
             feed = feedparser.parse(resp.content)
             for entry in feed.entries[:10]:
                 title = entry.get('title', '')
@@ -242,21 +288,30 @@ def fetch_google_news():
     return news_items
 
 def fetch_cdc_us_cases():
+    """Fetch US case count and deaths from CDC."""
+    result = {"cases": None, "deaths": None}
     try:
         url = "https://www.cdc.gov/hantavirus/data-research/cases/index.html"
-        headers = {"User-Agent": "Mozilla/5.0 (compatible; HantavirusTracker/1.0)"}
-        response = requests.get(url, timeout=15, headers=headers)
-        response.raise_for_status()
+        response = make_request(url)
         soup = BeautifulSoup(response.text, 'html.parser')
         text = soup.get_text()
-        match = re.search(r'([\d,]+)\s*(?:confirmed\s*)?cases', text, re.IGNORECASE)
-        if match:
-            count = int(match.group(1).replace(',', ''))
-            print("CDC: found " + str(count) + " US cases")
-            return count
+
+        # Try to extract case count
+        case_match = re.search(r'([\d,]+)\s*(?:confirmed\s*)?(?:HPS\s*)?cases', text, re.IGNORECASE)
+        if case_match:
+            result["cases"] = int(case_match.group(1).replace(',', ''))
+
+        # Try to extract death count
+        death_match = re.search(r'([\d,]+)\s*(?:people\s*)?(?:have\s*)?died|deaths?\s*[:\-]?\s*([\d,]+)', text, re.IGNORECASE)
+        if death_match:
+            count_str = death_match.group(1) or death_match.group(2)
+            if count_str:
+                result["deaths"] = int(count_str.replace(',', ''))
+
+        print("CDC: cases=" + str(result["cases"]) + ", deaths=" + str(result["deaths"]))
     except Exception as e:
         print("CDC fetch failed: " + str(e))
-    return None
+    return result
 
 def build_map_points(who_articles, promed_alerts, news_items):
     location_map = {}
@@ -303,7 +358,7 @@ def compile_hantavirus_data():
     who_articles = fetch_who_don()
     promed_alerts = fetch_promedmail()
     news_items = fetch_google_news()
-    us_cases = fetch_cdc_us_cases()
+    cdc_data = fetch_cdc_us_cases()
 
     map_points = build_map_points(who_articles, promed_alerts, news_items)
     countries_with_alerts = len(map_points)
@@ -327,8 +382,13 @@ def compile_hantavirus_data():
         "countriesWithAlerts": countries_with_alerts,
         "mapPoints": map_points,
         "recentNews": all_news,
+        # Cases and deaths
+        "totalCases": cdc_data["cases"],
+        "totalDeaths": cdc_data["deaths"],
+        "caseFatalityRate": 38,  # ~38% historically per CDC
         "usHistoric": {
-            "totalCases": us_cases if us_cases else "N/A",
+            "totalCases": cdc_data["cases"] if cdc_data["cases"] else "N/A",
+            "totalDeaths": cdc_data["deaths"] if cdc_data["deaths"] else "N/A",
             "source": "CDC",
             "url": "https://www.cdc.gov/hantavirus/data-research/cases/index.html"
         },
@@ -343,7 +403,8 @@ def compile_hantavirus_data():
             "who": len(who_articles),
             "promed": len(promed_alerts),
             "news": len(news_items),
-            "cdc_us_cases": us_cases
+            "cdc_us_cases": cdc_data["cases"],
+            "cdc_us_deaths": cdc_data["deaths"],
         }
     }
     return data
@@ -359,6 +420,8 @@ def main():
     print("Done. Written to " + str(output_file))
     print("Map points: " + str(len(data['mapPoints'])))
     print("Total news: " + str(len(data['recentNews'])))
+    print("Cases: " + str(data['totalCases']))
+    print("Deaths: " + str(data['totalDeaths']))
     print("Last updated: " + str(data['lastUpdated']))
 
 if __name__ == "__main__":
