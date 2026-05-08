@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { TrendingUp, AlertTriangle, MapPin, Clock, Virus, Heart } from 'lucide-react';
+import { TrendingUp, AlertTriangle, MapPin, Clock, Bug, Heart } from 'lucide-react';
 
 export default function HantavirusDashboard() {
   const [data, setData] = useState(null);
@@ -21,7 +21,6 @@ export default function HantavirusDashboard() {
     };
 
     fetchData();
-    // Refetch every 5 minutes
     const interval = setInterval(fetchData, 5 * 60 * 1000);
     return () => clearInterval(interval);
   }, []);
@@ -31,7 +30,7 @@ export default function HantavirusDashboard() {
       <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 flex items-center justify-center">
         <div className="text-center">
           <div className="animate-pulse mb-4">
-            <Virus className="w-16 h-16 text-cyan-400 mx-auto" />
+            <Bug className="w-16 h-16 text-cyan-400 mx-auto" />
           </div>
           <p className="text-cyan-400 font-light tracking-widest">INITIALIZING...</p>
         </div>
@@ -51,7 +50,7 @@ export default function HantavirusDashboard() {
   }
 
   const stats = [
-    { label: 'Total Cases', value: data.totalCases, icon: Virus, trend: data.caseTrend },
+    { label: 'Total Cases', value: data.totalCases, icon: Bug, trend: data.caseTrend },
     { label: 'Confirmed Deaths', value: data.deaths, icon: Heart, trend: data.deathTrend },
     { label: 'Active Outbreaks', value: data.activeOutbreaks, icon: AlertTriangle },
     { label: 'Countries Affected', value: data.countriesAffected, icon: MapPin },
@@ -59,13 +58,12 @@ export default function HantavirusDashboard() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-white">
-      {/* Header */}
       <header className="border-b border-slate-800 sticky top-0 z-50 backdrop-blur-sm bg-slate-950/80">
         <div className="max-w-7xl mx-auto px-6 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="p-2 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-lg">
-                <Virus className="w-6 h-6 text-white" />
+                <Bug className="w-6 h-6 text-white" />
               </div>
               <div>
                 <h1 className="text-2xl font-bold tracking-tight">HANTAVIRUS TRACKER</h1>
@@ -84,7 +82,6 @@ export default function HantavirusDashboard() {
       </header>
 
       <main className="max-w-7xl mx-auto px-6 py-12">
-        {/* Key Metrics Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
           {stats.map((stat, idx) => {
             const Icon = stat.icon;
@@ -123,7 +120,6 @@ export default function HantavirusDashboard() {
           })}
         </div>
 
-        {/* Current Outbreak Section */}
         <div
           className="mb-12"
           style={{
@@ -154,7 +150,7 @@ export default function HantavirusDashboard() {
                         <p className="text-xs text-slate-400">cases</p>
                       </div>
                     </div>
-                    
+
                     {selectedRegion === idx && (
                       <div className="mt-6 pt-6 border-t border-slate-700 space-y-3">
                         <div className="grid grid-cols-3 gap-4 text-sm">
@@ -187,7 +183,6 @@ export default function HantavirusDashboard() {
           </div>
         </div>
 
-        {/* Endemic Regions */}
         <div
           style={{
             animation: `slideUp 0.6s ease-out 0.5s forwards`,
@@ -208,7 +203,6 @@ export default function HantavirusDashboard() {
         </div>
       </main>
 
-      {/* Footer */}
       <footer className="border-t border-slate-800 mt-16 py-8 text-center text-xs text-slate-500">
         <p>
           Data sourced from CDC, WHO, ECDC, and ProMED. Last automated update: {lastUpdate?.toLocaleString()}
