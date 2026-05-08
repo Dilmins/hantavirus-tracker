@@ -10,7 +10,7 @@ export default function HantavirusDashboard() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('./data/hantavirus-data.json');
+        const response = await fetch('/hantavirus-tracker/data/hantavirus-data.json');
         const jsonData = await response.json();
         setData(jsonData);
         setLastUpdate(new Date(jsonData.lastUpdated));
@@ -214,14 +214,8 @@ export default function HantavirusDashboard() {
 
       <style>{`
         @keyframes slideUp {
-          from {
-            opacity: 0;
-            transform: translateY(20px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
+          from { opacity: 0; transform: translateY(20px); }
+          to { opacity: 1; transform: translateY(0); }
         }
       `}</style>
     </div>
