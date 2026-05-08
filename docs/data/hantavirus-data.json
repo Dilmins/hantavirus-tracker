@@ -1,0 +1,63 @@
+{
+  "lastUpdated": "2026-05-08T07:17:54.871481",
+  "totalCases": 8,
+  "deaths": 3,
+  "caseTrend": "+2 this week",
+  "deathTrend": "+1 this week",
+  "activeOutbreaks": 1,
+  "countriesAffected": 3,
+  "outbreaks": [
+    {
+      "location": "MV Hondius (Cruise Ship)",
+      "strain": "Andes Orthohantavirus",
+      "cases": 8,
+      "deaths": 3,
+      "confirmed": 7,
+      "lastUpdate": "2026-05-07",
+      "notes": "Laboratory-confirmed Andes virus on expedition cruise. The only hantavirus with documented person-to-person transmission. WHO assesses global risk as LOW.",
+      "route": "Atlantic Ocean \u2192 Canary Islands",
+      "status": "En route to disembarkation"
+    },
+    {
+      "location": "Ays\u00e9n Region, Chile",
+      "strain": "Andes Orthohantavirus",
+      "cases": 14,
+      "deaths": 2,
+      "confirmed": 14,
+      "lastUpdate": "2026-04-15",
+      "notes": "Agricultural workers in Chile showing Andes virus cases. Genomic sequences deposited to GenBank.",
+      "status": "Active surveillance"
+    }
+  ],
+  "endemicRegions": [
+    "Argentina",
+    "Chile",
+    "USA (West)",
+    "Mexico",
+    "Brazil",
+    "Canada",
+    "Eastern Europe",
+    "Russia",
+    "China",
+    "Korea"
+  ],
+  "stats": {
+    "usHistoric": {
+      "totalCases": 1063,
+      "totalDeaths": 389,
+      "mortRate": "37%"
+    }
+  },
+  "dataSources": [
+    "CDC Hantavirus Surveillance",
+    "WHO Disease Outbreak News",
+    "ECDC Threat Assessment",
+    "ProMED-mail Alerts",
+    "National Health Authorities"
+  ],
+  "lastFetch": {
+    "cdc": "2026-05-08T07:17:54.871492",
+    "who": "2026-05-08T07:17:54.871493",
+    "promedmail": "2026-05-08T07:17:54.871494"
+  }
+}
