@@ -1,0 +1,133 @@
+{
+  "lastUpdated": "2026-05-08T10:02:45.475215",
+  "totalCases": 22,
+  "deaths": 5,
+  "activeOutbreaks": 2,
+  "countriesAffected": 4,
+  "caseTrend": "+22 confirmed",
+  "deathTrend": "+5 confirmed",
+  "outbreaks": [
+    {
+      "location": "MV Hondius (Cruise Ship)",
+      "strain": "Andes Orthohantavirus",
+      "cases": 8,
+      "deaths": 3,
+      "confirmed": 7,
+      "lastUpdate": "2026-05-07",
+      "notes": "Laboratory-confirmed Andes virus on expedition cruise ship. Only hantavirus with documented person-to-person transmission. WHO assessed global risk as LOW as of 4 May 2026.",
+      "status": "Active \u2014 en route to disembarkation",
+      "source": "WHO DON599"
+    },
+    {
+      "location": "Ays\u00e9n Region, Chile",
+      "strain": "Andes Orthohantavirus",
+      "cases": 14,
+      "deaths": 2,
+      "confirmed": 14,
+      "lastUpdate": "2026-04-15",
+      "notes": "Agricultural workers in southern Chile. Genomic sequences deposited to GenBank. Active surveillance ongoing.",
+      "status": "Active surveillance",
+      "source": "Chile Ministry of Health"
+    }
+  ],
+  "endemicRegions": [
+    "Argentina",
+    "Chile",
+    "USA (West)",
+    "Mexico",
+    "Brazil",
+    "Canada",
+    "Eastern Europe",
+    "Russia",
+    "China",
+    "Korea"
+  ],
+  "recentNews": [
+    {
+      "title": "Cruise ship hantavirus outbreak sparks international effort to track passengers - NBC News",
+      "published": "Thu, 07 May 2026 10:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU09KTExTUDV0M3BOSjBMcVBmVDZhZkVuRV9taUFRWW5mRFA0RWxZUUhYSDVyZ0d6SmVGaWJHWWhZdHdKYjZjZXZhcVdIVkdsa2ZrRnM3ZTZDWkczSnV3ZFBqWnQwRGQ4V2t5R3hqeHpXWUFHYnJJMFZ2blNLYXl0clJMeW45QkYzQi1pQ1psdm9fbWxfS0k4TncxU3lKNTN6aUVGa05aZjBtaHV6d2h4UmVhdURmdXAyRm1lUWsybw?oc=5",
+      "source": "NBC News"
+    },
+    {
+      "title": "Trump administration cut funding to study hantavirus, the virus behind deadly cruise ship outbreak - Scientific American",
+      "published": "Thu, 07 May 2026 19:45:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMGFmbmJGd3B1WkN5VzJDYTVieHZTOFJUckdibDVPVkdkUmFRMTdpNXFyMjhiVGUxYXJ0TFlLVEs1R0JpaU5OdnNNSUpVLVRYX0tKNnVxaGZRaGZJcEcwNnY1WktfdGdERnIxcDlaSHN6WUpucWhoWlR3azZBZ1ZNbmd6SGNuRDAySk5GMGgwUjJEVUgtakxLU3RtOXdyZmwzWGE1WVlCS1kyc2ZOS2VXSHFCY2RaeFFLbUYxcy1WbGxtcnUxdkZWU0VwZw?oc=5",
+      "source": "Scientific American"
+    },
+    {
+      "title": "Spain readies for evacuations as a hantavirus-hit cruise ship heads for Canary Islands - NPR",
+      "published": "Fri, 08 May 2026 09:29:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XZFZvZnhhcm82bWV5bzZjUHlQRjFzSGdFc1JHOXBZSnNpajIwMEFBS0QzZHhaR2d4aWdNZ3p1cVRkeENRRXFGWTM5NnFGMHk5b2JvX1JPQmljRnZ3VjRVdng1LUhIWVhETnZJcXRKU3VuUUM1RDdOWHZELWc?oc=5",
+      "source": "NPR"
+    },
+    {
+      "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+      "published": "Fri, 08 May 2026 07:23:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamtOeE5VVFlZTGRDYTJxR245NGh6TnZCQXBLZVFMTlFmeFliajllZzMtTVZqZXN5X05aYWw3OWo1YkJkanJqMzFHeW9HLTRwTlRtcXFmSXNSQjNWNEhJc0JabGlIWlhmNEFHczUwQ1NCRW9xWWdiVEFIVGRfdVpLT3hrRmxnMUt6cXpCVGUwRmZTZ1RoZnh0NmtzYUJtdTRJVmhwVHJFd2dRUQ?oc=5",
+      "source": "World Health Organization (WHO)"
+    },
+    {
+      "title": "Third British national has suspected hantavirus infection, government says - BBC",
+      "published": "Fri, 08 May 2026 06:03:23 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qSXpoaWZKOWkyc2p0QlNFUktSWFJiLW1RM1NXMkVndm1Pc2M0T1pPSTR3YnJLVnFVc20tMmVITUZQZTRrZUxWWENrU0xEaW8zdHp1bzRQM01Xdw?oc=5",
+      "source": "BBC"
+    },
+    {
+      "title": "Central California health agencies monitoring hantavirus outbreak - ABC30 Fresno",
+      "published": "Fri, 08 May 2026 06:30:38 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVUUxUDlwUWY0aGYxaThPNzJtMnhwZU93SlpCeEtuRGJWRUx6VThYck80X25mNVhKYmZQNERpSEkxMnkzalBqOUVOVE12WTczajNndmkxMVl6S05CVFEtbWV1cmxkR245MkNnRm96R1laN0RIQ2JINlo5Q0ZxSm1xblA5OUlWRW9pVUw0bkZqR1M0M19ycEN4VVJoUEZXTE3SAaQBQVVfeXFMUGJpSnhDeC1md1ZBRFFvX2pGcFdqX0xxVGtPcV9zaVVtekJiNkdjcTduSEN3bWt5YWlYYWdQcjF5U1JaMFRIbnpsTHU1RWJIck5XWUxmWWR5ZXN1bFc5Nl9tbnZGUE1MOXpoVTZNdnlWbHN2dEQwazFEWTlDaEZUX09tZTk1eXRiOVlZV3ZnQXF5QXdJTk1wYmNHQ3I5LVVOZkNlRzA?oc=5",
+      "source": "ABC30 Fresno"
+    },
+    {
+      "title": "Some passengers on the cruise with hantavirus outbreak are back in California - NBC Bay Area",
+      "published": "Fri, 08 May 2026 06:14:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ0MyR1hYR2NXVG5pQjhhQXlEUkZPTkpmNW11cmtwaHlFUWcwM3lvc2pHNTR2QmQ0MDNuWVBBMnByeHJMZHhlV1piQTVCRW5STmZDN0dwcWd2UG5iYlpfYTNiNEJfUW8yd09IMWpoT1hDcHZIZzR2X29DNWVDaUM3RTRWWXhRM2I4S29ENDFza9IBlwFBVV95cUxPU0tFUjI0Q3lGZUgyZllsTUVkOHpGM2RiQWFwcXBqODBGUzhnaW96YURXQWk4bHcyT243blMzcWUwVWprOHktTDJIUE9WN0R2NEVza3JWbXJCWXgxOGl1UE84NmZKaW92Znh2M2xGQ1pKLTFWX1MwSE5ycUJtY1VuOERxb0ttOUo4c0FTNEFZNFdRUlZLM21V?oc=5",
+      "source": "NBC Bay Area"
+    },
+    {
+      "title": "Authorities scramble to limit hantavirus outbreak, trace contacts around globe - The Washington Post",
+      "published": "Fri, 08 May 2026 02:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMmdLTGZLOGVHV3hOdzZuNXU1ejV1SC1KekhkWVVBZngtMHNJclFLMWVjUXZfVVBUWlBvVFNXbmZST2tqN0lPUlJObHNZMXZsMkFLUVIzMnF3enVvT3BOLTIwRVRnWUJIa2xLUzZmMERSdTctWGdfcXZBUGEySm9jRVFkRDJwZkFoRmpqMVBnNHMzZ0RqSzZtTA?oc=5",
+      "source": "The Washington Post"
+    },
+    {
+      "title": "Hantavirus outbreak on cruise ship raises transmission concerns - University of California, Riverside",
+      "published": "Thu, 07 May 2026 19:51:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
+      "source": "University of California, Riverside"
+    },
+    {
+      "title": "Key takeaways from WHO briefing on hantavirus cruise ship outbreak - statnews.com",
+      "published": "Thu, 07 May 2026 19:43:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR09VUEdLaXQwZmJXZkdRTHlHTWwxdmdjUEZwTFBYT3BQZVlvaTY5WUVUb2xWdHdnZU43MmpwQTlFWWNGd1dvRmZCbThEVVg1T01Fd3IyZ2lYdGJvdUpDV1hScWo0NVM4QlhEQWJ3LXQ1cHhDZEJWYUhBbjRod18tNVVpYmhzR0s1MVg3Q2hLSjU1VkQ3ZlVSY2Znaw?oc=5",
+      "source": "statnews.com"
+    }
+  ],
+  "whoAlerts": [],
+  "promedAlerts": [],
+  "stats": {
+    "usHistoric": {
+      "totalCases": 890,
+      "totalDeaths": 389,
+      "mortRate": "37%",
+      "source": "CDC",
+      "note": "Cumulative US cases since surveillance began"
+    }
+  },
+  "dataSources": [
+    "CDC Hantavirus Surveillance",
+    "WHO Disease Outbreak News",
+    "ECDC Threat Assessment",
+    "ProMED-mail Alerts",
+    "Google News RSS",
+    "National Health Authorities"
+  ],
+  "lastFetch": {
+    "timestamp": "2026-05-08T10:02:45.475226",
+    "who_articles": 0,
+    "news_items": 15,
+    "promed_alerts": 0,
+    "cdc_us_cases": 890
+  }
+}
