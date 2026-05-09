@@ -38,6 +38,9 @@ jobs:
       - name: Build Vite app
         run: npm run build
 
+      - name: Ensure .nojekyll exists
+        run: touch docs/.nojekyll
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -57,25 +60,21 @@ jobs:
             echo "ERROR: docs/data/hantavirus-data.json was not created!"
             exit 1
           fi
-          echo "File exists, size: $(wc -c < docs/data/hantavirus-data.json) bytes"
-          head -3 docs/data/hantavirus-data.json
+          echo "OK: $(wc -c < docs/data/hantavirus-data.json) bytes written"
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          git status
-          git add docs/
-          git status
+          git add -A
 
           if git diff --staged --quiet; then
-            echo "[info] No changes to docs/ — forcing touch to ensure commit"
-            touch docs/data/hantavirus-data.json
-            git add docs/data/hantavirus-data.json
+            echo "[skip] No changes to commit."
+            exit 0
           fi
 
-          git commit -m "chore: update hantavirus data [$(date -u '+%Y-%m-%d %H:%M UTC')]" || echo "[info] Nothing to commit"
+          git commit -m "chore: update hantavirus data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
 
           for attempt in 1 2 3; do
             echo "[push] Attempt $attempt..."
