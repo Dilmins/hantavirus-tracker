@@ -49,14 +49,24 @@ jobs:
           pip install requests feedparser beautifulsoup4
 
       - name: Fetch hantavirus data
-        run: python fetch_hantavirus_data.py
+        run: |
+          python fetch_hantavirus_data.py
+          echo "--- Checking output file ---"
+          ls -la docs/data/ || echo "docs/data/ does not exist!"
+          cat docs/data/hantavirus-data.json | head -5 || echo "File missing or empty!"
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
+          echo "--- Git status before add ---"
+          git status
+
           git add -A
+
+          echo "--- Git status after add ---"
+          git status
 
           if git diff --staged --quiet; then
             echo "[skip] No changes to commit."
