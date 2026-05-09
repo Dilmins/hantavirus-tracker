@@ -2,11 +2,14 @@ name: Update Hantavirus Data
 
 on:
   schedule:
-    # Every 15 minutes — keeps numbers as fresh as possible
+    # Every 15 minutes
     - cron: '*/15 * * * *'
   workflow_dispatch:
-  push:
-    branches: [main, master]
+
+# Prevent concurrent runs from racing each other
+concurrency:
+  group: update-hantavirus
+  cancel-in-progress: false
 
 jobs:
   update-data:
@@ -23,7 +26,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      # ── Python setup ──────────────────────────────────────────────────────
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -34,11 +36,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests feedparser beautifulsoup4
 
-      # ── Fetch live data FIRST (before build, so JSON is baked in) ─────────
       - name: Fetch hantavirus data
         run: python fetch_hantavirus_data.py
 
-      # ── Node / Vite build ─────────────────────────────────────────────────
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
@@ -50,10 +50,6 @@ jobs:
       - name: Build Vite app
         run: npm run build
 
-      # ── Commit & push ─────────────────────────────────────────────────────
-      # Strategy: stash → pull --rebase → pop → commit → push
-      # This avoids "index contains uncommitted changes" errors when two
-      # workflow runs race each other.
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
@@ -61,23 +57,23 @@ jobs:
 
           git add -A
 
-          # Nothing changed? Skip.
           if git diff --staged --quiet; then
             echo "[skip] No changes to commit."
             exit 0
           fi
 
-          # Stash staged + unstaged changes so rebase can run cleanly
-          git stash --include-untracked
-
-          # Pull any commits pushed by a concurrent run
-          git pull --rebase origin main || git pull --rebase origin master
-
-          # Restore our changes on top
-          git stash pop
-
-          # Stage again (stash pop may leave files unstaged)
-          git add -A
-
           git commit -m "chore: update hantavirus data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+
+          for attempt in 1 2 3; do
+            echo "[push] Attempt $attempt..."
+            git pull --rebase origin main
+            if git push origin main; then
+              echo "[push] Success on attempt $attempt."
+              exit 0
+            fi
+            echo "[push] Failed, retrying..."
+            sleep $((attempt * 5))
+          done
+
+          echo "[push] All 3 attempts failed."
+          exit 1
