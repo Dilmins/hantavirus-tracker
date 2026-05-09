@@ -49,31 +49,33 @@ jobs:
           pip install requests feedparser beautifulsoup4
 
       - name: Fetch hantavirus data
+        run: python fetch_hantavirus_data.py
+
+      - name: Verify data file exists
         run: |
-          python fetch_hantavirus_data.py
-          echo "--- Checking output file ---"
-          ls -la docs/data/ || echo "docs/data/ does not exist!"
-          cat docs/data/hantavirus-data.json | head -5 || echo "File missing or empty!"
+          if [ ! -f docs/data/hantavirus-data.json ]; then
+            echo "ERROR: docs/data/hantavirus-data.json was not created!"
+            exit 1
+          fi
+          echo "File exists, size: $(wc -c < docs/data/hantavirus-data.json) bytes"
+          head -3 docs/data/hantavirus-data.json
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          echo "--- Git status before add ---"
           git status
-
-          git add -A
-
-          echo "--- Git status after add ---"
+          git add docs/
           git status
 
           if git diff --staged --quiet; then
-            echo "[skip] No changes to commit."
-            exit 0
+            echo "[info] No changes to docs/ — forcing touch to ensure commit"
+            touch docs/data/hantavirus-data.json
+            git add docs/data/hantavirus-data.json
           fi
 
-          git commit -m "chore: update hantavirus data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git commit -m "chore: update hantavirus data [$(date -u '+%Y-%m-%d %H:%M UTC')]" || echo "[info] Nothing to commit"
 
           for attempt in 1 2 3; do
             echo "[push] Attempt $attempt..."
@@ -82,9 +84,8 @@ jobs:
               echo "[push] Success on attempt $attempt."
               exit 0
             fi
-            echo "[push] Failed, retrying..."
             sleep $((attempt * 5))
           done
 
-          echo "[push] All 3 attempts failed."
+          echo "[push] All 3 push attempts failed."
           exit 1
