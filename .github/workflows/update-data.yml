@@ -2,11 +2,9 @@ name: Update Hantavirus Data
 
 on:
   schedule:
-    # Every 15 minutes
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
-# Prevent concurrent runs from racing each other
 concurrency:
   group: update-hantavirus
   cancel-in-progress: false
