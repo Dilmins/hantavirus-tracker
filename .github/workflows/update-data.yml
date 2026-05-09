@@ -43,7 +43,10 @@ jobs:
           node-version: '18'
 
       - name: Install Node dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
+
+      - name: Install d3 and topojson-client
+        run: npm install d3 topojson-client --legacy-peer-deps
 
       - name: Build Vite app
         run: npm run build
