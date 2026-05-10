@@ -15,6 +15,32 @@ const RISK_COLORS = {
 };
 const riskColor = (level) => RISK_COLORS[level] ?? RISK_COLORS.default;
 
+// ── Strip HTML tags from a string ────────────────────────────────────────────
+function stripHtml(str) {
+  if (!str) return '';
+  return str
+    .replace(/<[^>]*>/g, ' ')   // remove all tags
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/\s{2,}/g, ' ')    // collapse whitespace
+    .trim();
+}
+
+// ── Is this item published within the last 24 hours? ────────────────────────
+function isNew(publishedStr) {
+  if (!publishedStr) return false;
+  try {
+    const pub = new Date(publishedStr);
+    return (Date.now() - pub.getTime()) < 24 * 60 * 60 * 1000;
+  } catch {
+    return false;
+  }
+}
+
 // ── TopoJSON cache ────────────────────────────────────────────────────────────
 let _worldCache = null;
 
@@ -313,6 +339,9 @@ export default function HantavirusDashboard() {
     { id: 'news',      label: '📰 News' },
   ];
 
+  // Count truly new news items for badge
+  const newNewsCount = (data.recentNews ?? []).filter(item => isNew(item.published)).length;
+
   return (
     <div style={{ minHeight: '100vh', background: '#0f172a', color: '#f1f5f9',
       fontFamily: "'Space Mono', monospace" }}>
@@ -391,8 +420,18 @@ export default function HantavirusDashboard() {
               color: activeTab === tab.id ? '#f1f5f9' : '#64748b',
               padding: '10px 20px', cursor: 'pointer',
               fontFamily: "'Space Mono', monospace", fontSize: 13,
-              transition: 'color 0.2s' }}>
+              transition: 'color 0.2s', display: 'flex', alignItems: 'center', gap: 6 }}>
             {tab.label}
+            {/* NEW badge on News tab when there are recent items */}
+            {tab.id === 'news' && newNewsCount > 0 && (
+              <span style={{
+                background: '#ef4444', color: '#fff', fontSize: 9,
+                padding: '1px 5px', borderRadius: 3, letterSpacing: 0.5,
+                fontWeight: 700, lineHeight: 1.6,
+              }}>
+                {newNewsCount} NEW
+              </span>
+            )}
           </button>
         ))}
       </div>
@@ -403,6 +442,11 @@ export default function HantavirusDashboard() {
         {/* Outbreaks tab */}
         {activeTab === 'outbreaks' && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+            {(data.outbreaks ?? []).length === 0 && (
+              <div style={{ color: '#64748b', fontSize: 13, textAlign: 'center', padding: 40 }}>
+                No active outbreaks reported.
+              </div>
+            )}
             {(data.outbreaks ?? []).map((ob, i) => {
               const cfr = ob.cases ? `${((ob.deaths / ob.cases) * 100).toFixed(0)}%` : 'N/A';
               const color = riskColor(ob.riskLevel);
@@ -466,32 +510,95 @@ export default function HantavirusDashboard() {
         {/* News tab */}
         {activeTab === 'news' && (
           <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-            {(data.recentNews ?? []).slice(0, 30).map((item, i) => (
-              <a key={i} href={item.link} target="_blank" rel="noopener noreferrer"
-                style={{ textDecoration: 'none', display: 'block', background: '#1e293b',
-                  borderRadius: 8, padding: '14px 16px', border: '1px solid #334155',
-                  transition: 'border-color 0.2s' }}
-                onMouseEnter={e => e.currentTarget.style.borderColor = '#ef4444'}
-                onMouseLeave={e => e.currentTarget.style.borderColor = '#334155'}>
-                <div style={{ fontSize: 13, color: '#f1f5f9', marginBottom: 6, lineHeight: 1.5 }}>
-                  {item.title}
-                </div>
-                <div style={{ display: 'flex', gap: 12, fontSize: 11, color: '#64748b' }}>
-                  <span style={{ color: '#6366f1' }}>{item.source}</span>
-                  <span>{item.published ? new Date(item.published).toLocaleDateString() : ''}</span>
-                </div>
-                {item.summary && (
-                  <div style={{ fontSize: 11, color: '#94a3b8', marginTop: 6, lineHeight: 1.6,
-                    display: '-webkit-box', WebkitLineClamp: 2,
-                    WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
-                    {item.summary}
+            {/* Summary line */}
+            <div style={{ fontSize: 11, color: '#64748b', marginBottom: 4 }}>
+              {(data.recentNews ?? []).length} articles · sources updated every 15 min
+              {newNewsCount > 0 && (
+                <span style={{ color: '#ef4444', marginLeft: 8 }}>
+                  · {newNewsCount} published in the last 24h
+                </span>
+              )}
+            </div>
+
+            {(data.recentNews ?? []).slice(0, 30).map((item, i) => {
+              const cleanTitle   = stripHtml(item.title);
+              const cleanSummary = stripHtml(item.summary);
+              const itemIsNew    = isNew(item.published);
+
+              // Format date nicely
+              let dateStr = '';
+              try {
+                const d = new Date(item.published);
+                if (!isNaN(d)) {
+                  dateStr = d.toLocaleDateString('en-GB', {
+                    day: '2-digit', month: 'short', year: 'numeric',
+                  });
+                }
+              } catch { /* ignore */ }
+
+              return (
+                <a key={i} href={item.link} target="_blank" rel="noopener noreferrer"
+                  style={{ textDecoration: 'none', display: 'block', background: '#1e293b',
+                    borderRadius: 8, padding: '14px 16px',
+                    border: itemIsNew ? '1px solid #ef444455' : '1px solid #334155',
+                    transition: 'border-color 0.2s' }}
+                  onMouseEnter={e => e.currentTarget.style.borderColor = '#ef4444'}
+                  onMouseLeave={e => e.currentTarget.style.borderColor = itemIsNew ? '#ef444455' : '#334155'}>
+
+                  {/* Title row with NEW badge */}
+                  <div style={{ display: 'flex', alignItems: 'flex-start', gap: 8, marginBottom: 6 }}>
+                    {itemIsNew && (
+                      <span style={{
+                        flexShrink: 0, marginTop: 2,
+                        background: '#ef4444', color: '#fff', fontSize: 9,
+                        padding: '2px 5px', borderRadius: 3, letterSpacing: 0.5,
+                        fontWeight: 700, lineHeight: 1.5,
+                      }}>NEW</span>
+                    )}
+                    <div style={{ fontSize: 13, color: '#f1f5f9', lineHeight: 1.5 }}>
+                      {cleanTitle || '(no title)'}
+                    </div>
                   </div>
-                )}
-              </a>
-            ))}
+
+                  {/* Source + date row */}
+                  <div style={{ display: 'flex', gap: 12, fontSize: 11, color: '#64748b', marginBottom: cleanSummary ? 6 : 0 }}>
+                    <span style={{ color: '#6366f1' }}>{item.source}</span>
+                    {dateStr && <span>{dateStr}</span>}
+                  </div>
+
+                  {/* Clean summary — no HTML */}
+                  {cleanSummary && (
+                    <div style={{ fontSize: 11, color: '#94a3b8', lineHeight: 1.6,
+                      display: '-webkit-box', WebkitLineClamp: 2,
+                      WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+                      {cleanSummary}
+                    </div>
+                  )}
+                </a>
+              );
+            })}
           </div>
         )}
       </div>
+
+      {/* ── Endemic regions ──────────────────────────────────────────────────── */}
+      {(data.endemicRegions ?? []).length > 0 && (
+        <div style={{ margin: '0 24px 20px', padding: '12px 16px',
+          background: '#1e293b', borderRadius: 8, border: '1px solid #1d4ed822' }}>
+          <div style={{ fontSize: 11, color: '#64748b', marginBottom: 8 }}>
+            ENDEMIC REGIONS
+          </div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            {(data.endemicRegions ?? []).map((region) => (
+              <span key={region} style={{
+                background: '#1d4ed811', color: '#93c5fd',
+                border: '1px solid #1d4ed833', borderRadius: 4,
+                fontSize: 11, padding: '3px 10px',
+              }}>{region}</span>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* ── Footer ──────────────────────────────────────────────────────────── */}
       <div style={{ borderTop: '1px solid #1e293b', padding: '16px 24px',
