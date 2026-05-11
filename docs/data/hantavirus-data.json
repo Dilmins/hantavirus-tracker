@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-11T04:22:36.619052Z",
+  "lastUpdated": "2026-05-11T08:00:02.388526Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 6,
-  "newsCount": 40,
+  "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -51,6 +51,20 @@
       "lng": -20.0,
       "alerts": [
         {
+          "title": "Cruise ship hantavirus patients arrive in Europe for treatment - AP News",
+          "published": "Wed, 06 May 2026 20:30:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lVW1WZ1ZzNUFEZ2ZScjdyVkZqRTliWnBzRzhSVDBLVTF3QVFHOGtEckkzeG1laXJiN25iMTl6YkZKX1NUYUVaUDV1NUVHYXRPODB0S2VwQnludWNmVlZoc3ZOUDYwNURKU1dRZm83bjYyZGM?oc=5",
+          "summary": "Cruise ship hantavirus patients arrive in Europe for treatment &nbsp;&nbsp; AP News",
+          "source": "AP News"
+        },
+        {
+          "title": "WHO confirms Andes strain of hantavirus in cruise ship passengers, with 3 transferred from ship for treatment - CBC",
+          "published": "Wed, 06 May 2026 10:45:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1I3Ml9qckRLM1ZhRC13LWJ4ZWh3ZW9CRWNQUXh4Wjh1T3FuRVVYZXpkUTZwV3o1LXp4SlBhV0poNUt5Q25JcEVpcTNMdEliWDlVaVhLbjFBMUhDTWo5NzdHMGp3Z3psTnpBRFhCVWJFVDI4aFVvYzA4SkR6ZVctTFI5WQ?oc=5",
+          "summary": "WHO confirms Andes strain of hantavirus in cruise ship passengers, with 3 transferred from ship for treatment &nbsp;&nbsp; CBC",
+          "source": "CBC"
+        },
+        {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
           "published": "Tue, 05 May 2026 10:07:26 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -93,52 +107,38 @@
           "source": "MSN"
         },
         {
-          "title": "What comes next for US passengers evacuated from hantavirus-hit cruise ship - BBC",
-          "published": "Sun, 10 May 2026 21:29:56 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw?oc=5",
-          "summary": "What comes next for US passengers evacuated from hantavirus-hit cruise ship &nbsp;&nbsp; BBC",
+          "title": "Hantavirus: What is the cruise ship virus and how is it spread? - BBC",
+          "published": "Sun, 10 May 2026 16:22:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zWWNSSE1ySENvRVJRT0hwdHlvUW5qU3NYZE9RbE0tTTB4eHhGRmI2dkpHdmhGa0ZfMXhnYVh3T0VlNzJVX196cUtlT1RMZnBhNmNVUVFLYVFIUQ?oc=5",
+          "summary": "Hantavirus: What is the cruise ship virus and how is it spread? &nbsp;&nbsp; BBC",
           "source": "BBC"
         },
         {
-          "title": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say - Los Angeles Times",
-          "published": "Sun, 10 May 2026 21:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0ZiVzBUQ0NIX0R1blMtdW8tR0ZtVXpiZEQ0c2I1eEFQUC1Zc1JuRHVvS2pwWnBQWVhkUGc3ZHN1NmJmM25SLUk5MUg3XzJtT0t5YWxXWXp4bjFkRlNZd1RJNVhrSHNoUHBLc0RDd2VVNXZRRkdZelh2bnFVam00eXFDSUhNRi05QkU4UWU5RXhTUkNlWXNBbjBTVWlVUjc4dFV4eUNKWFpaOExxY3dIVllMWjdYRVB3?oc=5",
-          "summary": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say &nbsp;&nbsp; Los Angeles Times",
-          "source": "Los Angeles Times"
-        },
-        {
-          "title": "Americans onboard hantavirus cruise ship to be repatriated to US - The Guardian",
-          "published": "Sun, 10 May 2026 20:19:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5",
-          "summary": "Americans onboard hantavirus cruise ship to be repatriated to US &nbsp;&nbsp; The Guardian",
-          "source": "The Guardian"
-        },
-        {
-          "title": "Countries airlift nationals evacuated from virus-hit cruise ship - BBC",
-          "published": "Sun, 10 May 2026 18:07:48 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HcnFfclF5UHczNGdVXzhOWUJaM0x6NGJhYmlJdDJLM2hDcV80b1dXTlBCNU5DRWFhTGV5S0Vubm1EX01vRGQyejRyVkNOZVM0azRKX1B3OFlpUQ?oc=5",
-          "summary": "Countries airlift nationals evacuated from virus-hit cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "title": "More than 100 people stranded on cruise ship after deadly hantavirus outbreak. Here\u2019s what we know - CNN",
+          "published": "Sun, 03 May 2026 21:13:21 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnp5TTd0V3hieTMzZ1lha19QcldkV3NUdDhxQWlvN3B0ZDEwWF9Va01XbjZjWFZ5WHE3MUdPNzlzRG1qMkRCLVFwNjFWUk9QaEVvZ3VCWV8xRWRxR1g4WXFJcFFQTUJlMkhpZ3pNdF9wT1d4aTM5alRHcVZOcHNiMkJ0YkRMSjFnckduWkxGVUdBUjQ?oc=5",
+          "summary": "More than 100 people stranded on cruise ship after deadly hantavirus outbreak. Here\u2019s what we know &nbsp;&nbsp; CNN",
+          "source": "CNN"
         }
       ],
       "sources": [
-        "MSN",
-        "Al Jazeera",
-        "World Health Organization (WHO)",
-        "CBS News",
-        "NBC News",
-        "The New York Times",
-        "Forbes",
-        "Los Angeles Times",
-        "KATU",
-        "BBC",
-        "CNN",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Al Jazeera",
+        "The Times",
+        "MSN",
+        "World Health Organization (WHO)",
+        "CBC",
+        "NPR",
+        "BBC",
+        "The Independent",
+        "AP News",
         "the-independent.com",
-        "PBS",
         "Entertainment Weekly",
+        "CBS News",
+        "CNN",
         "The Guardian",
-        "The Times"
+        "The New York Times",
+        "KATU"
       ],
       "alertCount": 21
     },
@@ -148,10 +148,10 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "American passengers from hantavirus-hit cruise ship to stop at Nebraska facility before heading home. Here\u2019s what we know - CNN",
+          "title": "At least one American headed to Nebraska from hantavirus-hit ship presumed positive. Here\u2019s what we know - CNN",
           "published": "Sun, 10 May 2026 19:26:57 GMT",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2UwdHFGQWRnNUJfUWdteUdzWkpkNHdrSG8wczBENnd0WFJhR0E0cVdVM2haSkNiTldEa0VjM3NqbHhoNmY5am1sVzRyREp1T3FqRXB2eXVkVUpaX0FVVUY2VDc1VXNaWGtCd1NWQkUwMDZXUmdqT21xT3AwR080dU1YZEF6dWc?oc=5",
-          "summary": "American passengers from hantavirus-hit cruise ship to stop at Nebraska facility before heading home. Here\u2019s what we know &nbsp;&nbsp; CNN Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking &nbsp;&nbsp; The New York Times One American has tested positive for",
+          "summary": "At least one American headed to Nebraska from hantavirus-hit ship presumed positive. Here\u2019s what we know &nbsp;&nbsp; CNN U.S. Passenger And French Woman Test Positive For Hantavirus After Evacuation From Cruise Ship (Latest Updates) &nbsp;&nbsp; Forbes \u2018It was either this or the pool\u2019: hantavirus s",
           "source": "CNN"
         },
         {
@@ -167,20 +167,13 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGhSVm9adFhJSG8wWEpXdE9LR3FPekhxMmx6YzF2SVd2aW9WRnlNaGZlS2cxY2laQ1BtV0ZZcGhXakF0Z05oZmwwcy0weGE5OFR2YkRIdWxtNDZuLXVuNzFhTWxPZ3JoUjRvVmltM25kQ0VUd19pU2tvRVFkS3VBendYLURvM0xza0tGU2poNVFiaW1LLUZ3d3pmYWRuQjdRUEQ2SEdIbXBsRG5zNXltWXB1WVRwMW8?oc=5",
           "summary": "US residents monitored for hantavirus after cruise outbreak. Updates &nbsp;&nbsp; USA Today",
           "source": "USA Today"
-        },
-        {
-          "title": "What the numbers tell us about hantavirus - CNN",
-          "published": "Fri, 08 May 2026 07:35:51 GMT",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MzJKMEJPV2ZUQ0JNQVBHd1Nzd0F6QzNPaWM4eXRtT0NZMENKRTJvRlppTkJ1M1B0andsSzlWbzQ1cUppaTBZNHJmdEZoTTZrN0IyM0xXeVZlRlNsanUzcW1FdlM4bGVvUnItMHBoQ28?oc=5",
-          "summary": "What the numbers tell us about hantavirus &nbsp;&nbsp; CNN Hantavirus: Current Situation &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov) Hantavirus latest updates: French passenger develops symptoms during flight home as cruise ship evacuation continues &nbsp;&nbsp; Yahoo Hantav",
-          "source": "CNN"
         }
       ],
       "sources": [
-        "USA Today",
-        "CNN"
+        "CNN",
+        "USA Today"
       ],
-      "alertCount": 4
+      "alertCount": 3
     },
     {
       "country": "United Kingdom",
@@ -201,24 +194,6 @@
       "alertCount": 1
     },
     {
-      "country": "Spain",
-      "lat": 40.46,
-      "lng": -3.75,
-      "alerts": [
-        {
-          "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking - The New York Times",
-          "published": "Sun, 10 May 2026 22:27:58 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5",
-          "summary": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking &nbsp;&nbsp; The New York Times",
-          "source": "The New York Times"
-        }
-      ],
-      "sources": [
-        "The New York Times"
-      ],
-      "alertCount": 1
-    },
-    {
       "country": "Argentina",
       "lat": -38.42,
       "lng": -63.62,
@@ -233,6 +208,24 @@
       ],
       "sources": [
         "The Guardian"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Canada",
+      "lat": 56.13,
+      "lng": -106.35,
+      "alerts": [
+        {
+          "title": "Risk of hantavirus pandemic 'very low,' Canada's top health official says - CBC",
+          "published": "Fri, 08 May 2026 22:55:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVmY5UG5yY211N1cxREQ0bTNzWXJJcExKNi14UU8xUHNZNS11cnd3THRLZ2VPelJpM1VBZm9yenRXY3JqeHdGNVh5Z2Z0cVhETVZqdkVFbkRXLVZZV0hsQmtzWDFXWXJKdTc0TVJYRFhCUWwtUXJkRjZkVTZSNGdWemFKakx0ZUk?oc=5",
+          "summary": "Risk of hantavirus pandemic 'very low,' Canada's top health official says &nbsp;&nbsp; CBC",
+          "source": "CBC"
+        }
+      ],
+      "sources": [
+        "CBC"
       ],
       "alertCount": 1
     },
@@ -257,6 +250,13 @@
   ],
   "recentNews": [
     {
+      "title": "Cruise ship hantavirus patients arrive in Europe for treatment - AP News",
+      "published": "Wed, 06 May 2026 20:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lVW1WZ1ZzNUFEZ2ZScjdyVkZqRTliWnBzRzhSVDBLVTF3QVFHOGtEckkzeG1laXJiN25iMTl6YkZKX1NUYUVaUDV1NUVHYXRPODB0S2VwQnludWNmVlZoc3ZOUDYwNURKU1dRZm83bjYyZGM?oc=5",
+      "summary": "Cruise ship hantavirus patients arrive in Europe for treatment &nbsp;&nbsp; AP News",
+      "source": "AP News"
+    },
+    {
       "title": "Foreign Secretary's statement: Hantavirus outbreak, 6 May 2026 - GOV.UK",
       "published": "Wed, 06 May 2026 14:24:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVJSeGp2cDJDQm1TWGxFQjUxdWZ4TDNGaXNkYVZBWUlfVDlPOEF5TDhwdkFUT21nSzBpeHB0OElNbUlhWkFaMFpGOE5rTGJEZmU1Yk1uVFRrb3F4VmVsNUloZnVtdkV2elRkd2RzQmt2OGRPTzF5aklRdVpab3VyOWRid09DZHJFZVdjc1R3dl9yMmRhdmJIVnhB?oc=5",
@@ -264,18 +264,11 @@
       "source": "GOV.UK"
     },
     {
-      "title": "Hantavirus: WHO assesses public health risk as low - DW.com",
-      "published": "Wed, 06 May 2026 10:13:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRm5NREwxUmtwSDA1VklZMzFKVHdzS1NYcnFxWHRaNDNLT1JvRGtadWlVOEZGSVA1YVB4RHh1VVdwYTh1ZnZ4ZE9PTTdwNGQ3dUZvZlc5cXd6SFpIWFoyVWFLbzJoc3FXRk9wSTZfNHZpbHlXU2xYSXo2NjNqZy1NWHh3SS03b0VCRHFyT2Zn?oc=5",
-      "summary": "Hantavirus: WHO assesses public health risk as low &nbsp;&nbsp; DW.com",
-      "source": "DW.com"
-    },
-    {
-      "title": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure - The New York Times",
-      "published": "Tue, 05 May 2026 22:11:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHRucC0yb2tBOGlsWTMtcDd5ZTR1Nml3NHA2cFhmUWVpMmZBaGEzZGhkWlZVQWQ2SE1abkpieDVYb1ZIcy1qVDNRYnREa3FqYkNzTHZ2Q002dG9RUVpjbzRGZlctcHZ1MzVjQjBUa3FoaWtIVlRHWTZZUVlrSHdTTFVQbGg1ZTVDWk9F?oc=5",
-      "summary": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
+      "title": "WHO confirms Andes strain of hantavirus in cruise ship passengers, with 3 transferred from ship for treatment - CBC",
+      "published": "Wed, 06 May 2026 10:45:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1I3Ml9qckRLM1ZhRC13LWJ4ZWh3ZW9CRWNQUXh4Wjh1T3FuRVVYZXpkUTZwV3o1LXp4SlBhV0poNUt5Q25JcEVpcTNMdEliWDlVaVhLbjFBMUhDTWo5NzdHMGp3Z3psTnpBRFhCVWJFVDI4aFVvYzA4SkR6ZVctTFI5WQ?oc=5",
+      "summary": "WHO confirms Andes strain of hantavirus in cruise ship passengers, with 3 transferred from ship for treatment &nbsp;&nbsp; CBC",
+      "source": "CBC"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -283,6 +276,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
       "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
       "source": "BBC"
+    },
+    {
+      "title": "Here's how many past hantavirus cases were reported in the US - WCVB",
+      "published": "Thu, 07 May 2026 23:52:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15RlNrODJHRmwzTklId0N5TGU0aDNlR3hPWDgtbGJFRUNiR21McG55S3Nna2pxbUNBemdQeUI5OXh3YldHdjFySzhtWkZ3RXNSU3I0NG9JN3ZpVXRhdHdtRWlKRFRaMmJq?oc=5",
+      "summary": "Here's how many past hantavirus cases were reported in the US &nbsp;&nbsp; WCVB",
+      "source": "WCVB"
     },
     {
       "title": "Hantavirus \u2014 cause of death for Gene Hackman's wife \u2014 at the center of Dutch cruise outbreak - Entertainment Weekly",
@@ -304,13 +304,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
       "summary": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
       "source": "NPR"
-    },
-    {
-      "title": "Passenger Aboard Hantavirus Ship Speaks Out About 'Shock' of Deaths on Board - People.com",
-      "published": "Thu, 07 May 2026 19:29:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDFDclRndEZ5VzhnVEhiaUdCREh3SDljU2U2UFRxTXNQQkh5MlBZbjdzd01zUDd5aUFONlVWQkg0aGxXT1VxS2UzdG9EYVY2WlI4VEJ1MUIwS1RhQnVJX0QtMl9hcVEwV2JGWUxRWkFCbUZLdW9XRUJTTWFubzlxUzhoNmgwLUt5bnk0alFoeUV6bWRHWDVxdWluNzBxYy0yRW1hZQ?oc=5",
-      "summary": "Passenger Aboard Hantavirus Ship Speaks Out About 'Shock' of Deaths on Board &nbsp;&nbsp; People.com",
-      "source": "People.com"
     },
     {
       "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
@@ -341,60 +334,18 @@
       "source": "MSN"
     },
     {
-      "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking - The New York Times",
-      "published": "Sun, 10 May 2026 22:27:58 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamFkTUppLTNGdE13ZXdWZHl0R2IwZTh6SHVYUmRDdGtTWXl1c09EVGhqZmwtUHN3UTgxSC1xeDZIbzB2YXF5cG92bi1heWppT3c2WXBOT2pXSEdHWk5mY1gtT1VYSWp1Tzh0Y2VaUndPRXF1b1E0c2pBSzBNcDFWRGxtLXVHYU1lWUhBNndLN3k1YjZi?oc=5",
-      "summary": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
-    },
-    {
-      "title": "What comes next for US passengers evacuated from hantavirus-hit cruise ship - BBC",
-      "published": "Sun, 10 May 2026 21:29:56 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lWDIzcjV5WHlZZzFES0ZWSkY1ajVlUlFwaUxJZHdGb1RGcnhmcG5UWF9WbTJ1amYxTks3aHk1eDZBd2E2ZEpIQW8zbWl4aS1PM1Rvb2xSbFh1dw?oc=5",
-      "summary": "What comes next for US passengers evacuated from hantavirus-hit cruise ship &nbsp;&nbsp; BBC",
+      "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak - BBC",
+      "published": "Sun, 10 May 2026 20:05:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAybU5zOHlveTBJQlJPbWdBcUZZWHlrTUdYNHQzb3YxY3lSY1YwblgzSnFFNkxudTFPYnV3d1lBTEdRNmlMaEtmd0RKQ2wyc2FVdXloeGRkMHJydw?oc=5",
+      "summary": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak &nbsp;&nbsp; BBC",
       "source": "BBC"
     },
     {
-      "title": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say - Los Angeles Times",
-      "published": "Sun, 10 May 2026 21:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0ZiVzBUQ0NIX0R1blMtdW8tR0ZtVXpiZEQ0c2I1eEFQUC1Zc1JuRHVvS2pwWnBQWVhkUGc3ZHN1NmJmM25SLUk5MUg3XzJtT0t5YWxXWXp4bjFkRlNZd1RJNVhrSHNoUHBLc0RDd2VVNXZRRkdZelh2bnFVam00eXFDSUhNRi05QkU4UWU5RXhTUkNlWXNBbjBTVWlVUjc4dFV4eUNKWFpaOExxY3dIVllMWjdYRVB3?oc=5",
-      "summary": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say &nbsp;&nbsp; Los Angeles Times",
-      "source": "Los Angeles Times"
-    },
-    {
-      "title": "Americans onboard hantavirus cruise ship to be repatriated to US - The Guardian",
-      "published": "Sun, 10 May 2026 20:19:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzZKZnJaVTZHd3RaOXdvYVhKbk8zMTZHQS1ISXRqQWltMEpwR0lhMDhDUFUwcVZfM3hXNllIclJPcmp1cFowRmpFOGJ0WFNDcEtpY0FBcW1USklqNXN4dlRLSDRnVFhUeUVsWGF5VGVzQ2RhcDUzeUNsVzAtdG5YeWw0MEctdkpmU1ZTREhsTWdYb0ZUc05N?oc=5",
-      "summary": "Americans onboard hantavirus cruise ship to be repatriated to US &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
-    },
-    {
-      "title": "French national shows symptoms on return from hantavirus-hit ship - BBC",
-      "published": "Sun, 10 May 2026 19:43:57 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaHBPNUU2WkRCc1YzcFdPbzEzZ2ZNaU5ScEdfdm5wb0NDVWNoSUlTNEdqRUI3cmRIS3pzbV9NTEJzQ19OVWJZM1pyVUZyV1gzRVBWdFBNTDNhZw?oc=5",
-      "summary": "French national shows symptoms on return from hantavirus-hit ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
-      "title": "American passengers from hantavirus-hit cruise ship to stop at Nebraska facility before heading home. Here\u2019s what we know - CNN",
+      "title": "At least one American headed to Nebraska from hantavirus-hit ship presumed positive. Here\u2019s what we know - CNN",
       "published": "Sun, 10 May 2026 19:26:57 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2UwdHFGQWRnNUJfUWdteUdzWkpkNHdrSG8wczBENnd0WFJhR0E0cVdVM2haSkNiTldEa0VjM3NqbHhoNmY5am1sVzRyREp1T3FqRXB2eXVkVUpaX0FVVUY2VDc1VXNaWGtCd1NWQkUwMDZXUmdqT21xT3AwR080dU1YZEF6dWc?oc=5",
-      "summary": "American passengers from hantavirus-hit cruise ship to stop at Nebraska facility before heading home. Here\u2019s what we know &nbsp;&nbsp; CNN Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain\u2019s Canary Islands for Disembarking &nbsp;&nbsp; The New York Times One American has tested positive for",
+      "summary": "At least one American headed to Nebraska from hantavirus-hit ship presumed positive. Here\u2019s what we know &nbsp;&nbsp; CNN U.S. Passenger And French Woman Test Positive For Hantavirus After Evacuation From Cruise Ship (Latest Updates) &nbsp;&nbsp; Forbes \u2018It was either this or the pool\u2019: hantavirus s",
       "source": "CNN"
-    },
-    {
-      "title": "Countries airlift nationals evacuated from virus-hit cruise ship - BBC",
-      "published": "Sun, 10 May 2026 18:07:48 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HcnFfclF5UHczNGdVXzhOWUJaM0x6NGJhYmlJdDJLM2hDcV80b1dXTlBCNU5DRWFhTGV5S0Vubm1EX01vRGQyejRyVkNOZVM0azRKX1B3OFlpUQ?oc=5",
-      "summary": "Countries airlift nationals evacuated from virus-hit cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
-      "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak - PBS",
-      "published": "Sun, 10 May 2026 17:03:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5",
-      "summary": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak &nbsp;&nbsp; PBS",
-      "source": "PBS"
     },
     {
       "title": "Hantavirus: What is the cruise ship virus and how is it spread? - BBC",
@@ -409,13 +360,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVXFUUklxRlVfZ2FqT25lYUFaUUlkVDBFYlpKTmp4aGJpWFk1OW9TcjFtX2YtQTJDSVhPZzVqSnlBQkRFMzRCM2pHdjR5UnhZdGlkck11bkcwUQ?oc=5",
       "summary": "Army parachutes onto Tristan da Cunha to help Briton with suspected hantavirus &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case - Reuters",
-      "published": "Sun, 10 May 2026 12:27:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRURzdnNtQ3FnNlJuMUFsdU9JdWxUa21jb1RBMGItR2Ixam56d05DT2hOcjZtREZTYThYbXR5OVFsSTBOaDhLTnZlUG90Vk5qOHlkMTJfNjZoMVoxbU4yb1dCOVV3LU1oWjRtUW5xanVvZ0VLZTNDbGZ6VlZTY29sRVNLaWFfNzdEcEhPRml5VGhZZTBKMU5sbXhjaTBKQ2FxU0o5bWdKbXdaR3FVc2l3Rnd1d0tBV3ZxcTV2NWRmQ040WE94bnBaeE5SN2JNS3BKM3NMN1phdHBKaHBObHlxS1Bn?oc=5",
-      "summary": "British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case &nbsp;&nbsp; Reuters",
-      "source": "Reuters"
     },
     {
       "title": "More than 100 people stranded on cruise ship after deadly hantavirus outbreak. Here\u2019s what we know - CNN",
@@ -453,6 +397,13 @@
       "source": "The Guardian"
     },
     {
+      "title": "Experts wonder \u2018Where is the CDC?\u2019 as a hantavirus outbreak unfolds on a cruise ship - AP News",
+      "published": "Sat, 09 May 2026 18:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmJnb3F3Y0t0ckJhVVRSeWVIaDJTVTdURVdCUXZnR3pIRkhFWWZEcFBfVWx0bWtqdnhGWV9ncFZwdENxeUgyS0tJYkVHY1BoWmVFTERxX3NGQmwtNHhqMlpuVWx6cXd2bTlFM0tKTlhseHlmcjRCWTRsNWtXSWFWbGplcnlMTExVRW51b2I4NmhBYjZaNUZTTTIzY3o?oc=5",
+      "summary": "Experts wonder \u2018Where is the CDC?\u2019 as a hantavirus outbreak unfolds on a cruise ship &nbsp;&nbsp; AP News",
+      "source": "AP News"
+    },
+    {
       "title": "Death on the hantavirus cruise ship: how a hellish month unfolded - The Times",
       "published": "Sat, 09 May 2026 14:45:37 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWxWYVdWTm5DR1VNN0hlMms4SmxmbDhQMnpYU2xaRWlNNTZ1TGZCWURhMFJmSk9qZDBrWVBCbnlJZzVTdjY5OXNON3l6UDl4VGNjZ1d0UU9vZlZIamg3R1EyNV9LenBaWjhLbnM4RFZBV2l1YnF2X2I1ZW5xTW5FOW91Um05U0U1NUx2aVBlbm5tcHNGQXZDZXUtSGRnbi1IR3dnT3NxOEE?oc=5",
@@ -460,11 +411,53 @@
       "source": "The Times"
     },
     {
-      "title": "US Passenger Tests Positive For Hantavirus After Evacuation From Cruise Ship (Latest Updates) - Forbes",
-      "published": "Mon, 11 May 2026 03:49:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSGRWaEFYUkQ0U0tmLXpUR2ZDbjJDQXB2eExTaGx4OERjX0tZWmFSS2ZGS2xxNVVUd3FyRVY2eEJfeUlXQzRJeVcySUpMV08zQk9SMXM2VmJZcU1pQXVYWkdTWmtaNTFXTDRDQ1ZTZmxZUzdGM2M2SnFsaWpkYmNNQm5XQVdmMGc2Ri0xaVRIYnZZN3J5dHNJakd6T1J0ZlBTZW5qU1pCS1NhX2pyQXdPQUU0cXNaNjFrMFpSb0ZNUTF1NjBHT0dWNUNERFNqVWhwYXJUX0pOcWtNWnBGb2c?oc=5",
-      "summary": "US Passenger Tests Positive For Hantavirus After Evacuation From Cruise Ship (Latest Updates) &nbsp;&nbsp; Forbes",
-      "source": "Forbes"
+      "title": "US national on repatriation flight tests positive for hantavirus - BBC",
+      "published": "Mon, 11 May 2026 07:30:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFY3oydExDUlVxYVNReUU3NDhNMjBYYVhYYzFNcGxlVjJick1zcFJfX2M0dTAwZnY1VExDaGd2Vm1wWGxRWjREcmE1djNjYjNJZldIUjNZNnZ6QQ?oc=5",
+      "summary": "US national on repatriation flight tests positive for hantavirus &nbsp;&nbsp; BBC",
+      "source": "BBC"
+    },
+    {
+      "title": "French woman evacuated from cruise ship tests positive for hantavirus - AP News",
+      "published": "Mon, 11 May 2026 07:05:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmM5Vm9HTHdmdXQ5V2c1RlVRMGstYmRoNVNtNTNPYzdORmlHZkpQR3Q0MjJPMzVKSng3cUR3SkhxM2VmWWlxWGtSOW1ST1daQzVVdHR1V3ZsREo5WGpSbUVYNk94elJ4OE03VnZHamNhaGsyYl9IS3BBdlBWYS14VGN6VU0zaGI0LVN4SFpNLW1LT1o5RXZkcm0wanV6TDU0?oc=5",
+      "summary": "French woman evacuated from cruise ship tests positive for hantavirus &nbsp;&nbsp; AP News",
+      "source": "AP News"
+    },
+    {
+      "title": "Hantavirus: what happens to cruise ship passengers now and will they quarantine? - The Guardian",
+      "published": "Mon, 11 May 2026 05:56:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObHBNNHNkQ3AzTktHYzVkSURZRzluWVFlR2JWdzNuamFMRzNCZk1JX1Q0OEd5b1gzUnM2bUJkS1dHUEcwYmMyMDVkN0Y0Zzl0a0NYLWxLNGdMZ1RIQkZ1YmM0blp5cnNRZHpPVDFRWGlfc0ZXZEd3bFB3VlBDWFhvbm5jOHZrLUlDajMyRGZQTTFwVmhBLW5yZ00tb0FBTm9jcVZRTW0wRTNYYVo3cTdWZDlhNTFiSl9PdFJvVmxTTGtxcWtyNmhWY09rQ0ppUlV5VDJWWkl5YTB1aE50RW15ZEFB?oc=5",
+      "summary": "Hantavirus: what happens to cruise ship passengers now and will they quarantine? &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
+    },
+    {
+      "title": "One US citizen tests mildly positive for hantavirus, another has mild symptoms - Reuters",
+      "published": "Mon, 11 May 2026 05:53:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONksydVI3RlBtSE9VRHZrRV8xbzZoUm5yaXpVVkFEbDhRUVZDWUJRY3Q0em84dHJ2ZERtbGJVRkl3QWhWdjJmXzh6anVxSWNrUmc3QjNBUks0N21HdmRyY1BRMVpjelhSR0lFR2hGcVdla1ZWb0V3T0NKZ0VvYzRHcXY3WGVNNDFsZlhYSEhKblVULS11STh0MXRkd0lNMFdIdWNyekg5VU1KMDhlU29RZ2E5bWtlSndCZFBESlVUS0NwbExJZzBvSzN5Tk42S0FxU09HYVR5VmhuLWY3ZFE?oc=5",
+      "summary": "One US citizen tests mildly positive for hantavirus, another has mild symptoms &nbsp;&nbsp; Reuters",
+      "source": "Reuters"
+    },
+    {
+      "title": "Andes hantavirus outbreak highlights global spillover and transmission risks - News-Medical",
+      "published": "Mon, 11 May 2026 05:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWh5alBZWmxwVEZ0MGVTNzFKNE1MSmNjeVlXejBIZzZ0ZVE5N3hHOEFFN0NEazN0YUFKdGFNUUYxT1RueGtMRlhJdW5laGo5TnpJN2JqMTdNVkNxR0ZvUVZxS1N3bUlNNXlHZnA4RDRSczllVU92M0w3aFRTTkNuaHBnc0RPYm1nVHN3RHRLVllDZFpoMWdZQXRMcjl4UndqUllQTEN5U2RtM0VaZUdKSUVmR0k4Qm5vTGk4c3BRLTgyQQ?oc=5",
+      "summary": "Andes hantavirus outbreak highlights global spillover and transmission risks &nbsp;&nbsp; News-Medical",
+      "source": "News-Medical"
+    },
+    {
+      "title": "French national shows symptoms on return from hantavirus-hit ship - BBC",
+      "published": "Mon, 11 May 2026 03:29:58 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaHBPNUU2WkRCc1YzcFdPbzEzZ2ZNaU5ScEdfdm5wb0NDVWNoSUlTNEdqRUI3cmRIS3pzbV9NTEJzQ19OVWJZM1pyVUZyV1gzRVBWdFBNTDNhZw?oc=5",
+      "summary": "French national shows symptoms on return from hantavirus-hit ship &nbsp;&nbsp; BBC",
+      "source": "BBC"
+    },
+    {
+      "title": "American Passengers Exposed to Hantavirus Are Flying Back to the U.S. - The New York Times",
+      "published": "Mon, 11 May 2026 03:06:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWDNTYnRWeHFvOGh3bmtyeDh0MENRaUZMUndQRTk3OVRmV2R1aU1CN09SdzJreV9LRE1DWG5hSFhERFlmeE9SVkU5cWV4R2c4TTJRWVNvR25BVmU3ZWNvUHVuODduakpJZGZWUTc5QWM2UlNBWURxVG1DQ0lQWm5EeWk1UmtEbnpYb1V4Vw?oc=5",
+      "summary": "American Passengers Exposed to Hantavirus Are Flying Back to the U.S. &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times"
     }
   ],
   "usHistoric": {
@@ -494,10 +487,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-11T04:22:36.619064Z",
+    "timestamp": "2026-05-11T08:00:02.388540Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 43,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
