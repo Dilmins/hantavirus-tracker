@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-14T21:50:07.901076Z",
+  "lastUpdated": "2026-05-14T22:48:15.053018Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 6,
-  "newsCount": 44,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -65,6 +65,13 @@
           "source": "KING5.com"
         },
         {
+          "title": "Jake Rosmarin, passenger from hantavirus-stricken cruise ship, on quarantine experience - CBS News",
+          "published": "Thu, 14 May 2026 22:41:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcndpQ0Z6d3daUnFVRHRxamVvcFZiTlJYWmJfSHZoTW9WNTRvR1dHM1pvaVNkVVk2X0hac3NySC1PSTUxOEs4STk3bmdmYkdWSUJxdGZjTENNdFBELV8xcTVtRndkYS1KR1o2SjJFWVJ6cF9IQ2JURWJyaFpiYmFGZmZFbm5hSDh3by1aMDM4LXV1MWF4U2wzeHhRYk5SUzRaOTFXTXlfZ3RJb1RjZl84dDFzeXhUcW8?oc=5",
+          "summary": "Jake Rosmarin, passenger from hantavirus-stricken cruise ship, on quarantine experience &nbsp;&nbsp; CBS News",
+          "source": "CBS News"
+        },
+        {
           "title": "WHO Details Its Hantavirus Cruise Outbreak Working Hypothesis - U.S. News & World Report",
           "published": "Thu, 14 May 2026 17:59:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVFJIRUlucVcwX0V3Z0g4bm0zVlViaE83aGVsc05rOEk4VnJiVTVGSmJCR1ZNN05zUkk2U0cyR1pEMnRUWWhMSEhjRzFHNTN3OTlkWEYxN2N1REtfTVRiZWh1OTFhdHZvS2RmbWNwT1RJYmEwYnN1dnlvTGZ2OE5HOE1pR0NNcG1jcFlLb1M1alpuSHRIRXFXRVR3SnFFSFhZSmRjdTZJakJKWHdBVEduSFphU21PSXdSc1hNS0JOZlVGR1o3SHY5V0dDaHJWaEU1ZWxLSTllbWRMY2xGbmpYTW5vaFVIMDVIbkVLNHlJak5ERDVieTJGWDlB?oc=5",
@@ -101,28 +108,55 @@
         }
       ],
       "sources": [
-        "AP News",
-        "U.S. News & World Report",
         "KING5.com",
         "CBS News",
         "UCHealth",
-        "MSN",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "U.S. News & World Report",
+        "AP News",
+        "MSN"
       ],
-      "alertCount": 7
+      "alertCount": 8
+    },
+    {
+      "country": "Argentina",
+      "lat": -38.42,
+      "lng": -63.62,
+      "alerts": [
+        {
+          "title": "CDC not requiring hantavirus cruise passengers to isolate at home - The Hill",
+          "published": "Wed, 13 May 2026 22:26:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NUmxWeldpaUZKRmhzYWgzamVDVDJzNW52LTJMMGJZMzMxeTdNS1lJSDJIcFpCYmc3bnNMV21HRzlNc1pONG1NWjJETnN6cGJ4RHZKQkhlUWZCNUJTZTgwZzhnakdYQUhWOElaMkxOc3BwTF800gF6QVVfeXFMUE5rLTNtQnBMUXZCcnoxS2dJTVh1aGxtdG1IdjhUQ0dwR0dhYWZqYUlHWGFyUHE1REQ0b2dPdG1mRW5iQXoxUUlwWTE2eF9yRFJqcEw3NVkzYk5idy14OHRpQmJkR05HejVzcmtmOWhtRjZwRmtkc3BrN3c?oc=5",
+          "summary": "CDC not requiring hantavirus cruise passengers to isolate at home &nbsp;&nbsp; The Hill Argentina Races To Find Origin of Hantavirus Outbreak &nbsp;&nbsp; The New York Times Osterholm on hantavirus: We\u2019re missing \u2018main point of this outbreak\u2019 &nbsp;&nbsp; CIDRAP",
+          "source": "The Hill"
+        },
+        {
+          "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
+          "published": "Wed, 13 May 2026 17:45:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5",
+          "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning &nbsp;&nbsp; The Washington Post",
+          "source": "The Washington Post"
+        },
+        {
+          "title": "Argentina Races To Find Origin of Hantavirus Outbreak - The New York Times",
+          "published": "Thu, 14 May 2026 15:09:36 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZU29EZEFGSHR3MDM0UWVpdkctNklXZTlzQUdBRkc3Nkpvc2djaW1oY01qdlB2UGJ1Wm5CdU1tLVBfN2JkM0x4MFU2RDV3RXFxZm1CeE5XeEh3WHRuM1FSM3ZDeVlhSnRrM2pENy11el8zY0ZVNlNvdDFHRzFIQkI3RTkyZDN3eHdwTmRMWGw?oc=5",
+          "summary": "Argentina Races To Find Origin of Hantavirus Outbreak &nbsp;&nbsp; The New York Times",
+          "source": "The New York Times"
+        }
+      ],
+      "sources": [
+        "The New York Times",
+        "The Washington Post",
+        "The Hill"
+      ],
+      "alertCount": 3
     },
     {
       "country": "USA",
       "lat": 37.09,
       "lng": -95.71,
       "alerts": [
-        {
-          "title": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases - The New York Times",
-          "published": "Wed, 13 May 2026 13:35:19 GMT",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5",
-          "summary": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases &nbsp;&nbsp; The New York Times Hantavirus outbreak isn't another Covid pandemic \u2013 but experts say it's testing U.S. readiness &nbsp;&nbsp; CNBC CDC says 41 people currently being monitored for hantavirus in US &nbsp;&nbsp; USA",
-          "source": "The New York Times"
-        },
         {
           "title": "41 people being monitored for hantavirus exposure. See map of states. - USA Today",
           "published": "Thu, 14 May 2026 18:54:00 GMT",
@@ -139,10 +173,9 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "The New York Times"
+        "USA Today"
       ],
-      "alertCount": 3
+      "alertCount": 2
     },
     {
       "country": "United Kingdom",
@@ -159,24 +192,6 @@
       ],
       "sources": [
         "GOV.UK"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Argentina",
-      "lat": -38.42,
-      "lng": -63.62,
-      "alerts": [
-        {
-          "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
-          "published": "Wed, 13 May 2026 17:45:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5",
-          "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning &nbsp;&nbsp; The Washington Post",
-          "source": "The Washington Post"
-        }
-      ],
-      "sources": [
-        "The Washington Post"
       ],
       "alertCount": 1
     },
@@ -219,18 +234,11 @@
   ],
   "recentNews": [
     {
-      "title": "Americans exposed to hantavirus remain in quarantine as testing and monitoring for symptoms continue - NBC News",
-      "published": "Wed, 13 May 2026 23:45:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekpMQURPN0U5LXhsT1BTVlVhd3R4MVNETWdCenhUVmgwTF91TXpHWlRzT1BfUC1FTGdOeU1YLUNTWjd1NFdfLUNXbGR1MDdUVXZPX2lrbDBFYTB2NWZkU0QtYTFsNzhNajNoYk5ZYi0tMGJKcnd2SmRkSFppQ1BSSm40ZjQxY3paS0NEQnd5SlJEa2FaeWxCMW8xa0FjeXZwNmxUQTR4Z0pFSmZsR3dTanFGOG1yZGZXemc?oc=5",
-      "summary": "Americans exposed to hantavirus remain in quarantine as testing and monitoring for symptoms continue &nbsp;&nbsp; NBC News",
-      "source": "NBC News"
-    },
-    {
-      "title": "Reported hantavirus protocol breach at hospital forces 12 employees into 6-week quarantine - Fox News",
-      "published": "Wed, 13 May 2026 22:49:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVJaNzZDZUppbzRnM0Iyb0UtMDM0REhneWtoUGFEQkhZWVEwalBEUkZXeTk1cDdkSmgzMFRCZThxTUwwdFMteXNsc1pIYlVJN2hueXdZY3JGYU1HTDJGY2hfZHBxZXRudzI4UzE3TkVPVWU4NjZlM3lqUzA2WXlvdVhKT1VxeWFUUGRvRWswXzNJQ0FadFRKRHpxTE1RTVljSXRFRk9kcVFYYmtpT2l0TUQ3SdIBuAFBVV95cUxOQXNRZ1NKWV9za2JlNVZQdDhJM0tGM2dUZnprbGZ3d201WmF2bDR6YjZTcDAzWkJ4ZzhaRXFzSWlMNzFhLXFtRmdQU1B0UUVQaGhELVFHdFR4SzBzdlFQVU84U3dSWEk5UWNDQ2RHa3BtVTF2SHlaVjNfVkhNQlJHUV9kSVJYQnhQMUo0UWhzUHZ6TzhfbWVEYXRIaXhIR2pqbnoyck5jVGVQUnlQOVZWRWlpdEJuU05a?oc=5",
-      "summary": "Reported hantavirus protocol breach at hospital forces 12 employees into 6-week quarantine &nbsp;&nbsp; Fox News",
-      "source": "Fox News"
+      "title": "CDC not requiring hantavirus cruise passengers to isolate at home - The Hill",
+      "published": "Wed, 13 May 2026 22:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NUmxWeldpaUZKRmhzYWgzamVDVDJzNW52LTJMMGJZMzMxeTdNS1lJSDJIcFpCYmc3bnNMV21HRzlNc1pONG1NWjJETnN6cGJ4RHZKQkhlUWZCNUJTZTgwZzhnakdYQUhWOElaMkxOc3BwTF800gF6QVVfeXFMUE5rLTNtQnBMUXZCcnoxS2dJTVh1aGxtdG1IdjhUQ0dwR0dhYWZqYUlHWGFyUHE1REQ0b2dPdG1mRW5iQXoxUUlwWTE2eF9yRFJqcEw3NVkzYk5idy14OHRpQmJkR05HejVzcmtmOWhtRjZwRmtkc3BrN3c?oc=5",
+      "summary": "CDC not requiring hantavirus cruise passengers to isolate at home &nbsp;&nbsp; The Hill Argentina Races To Find Origin of Hantavirus Outbreak &nbsp;&nbsp; The New York Times Osterholm on hantavirus: We\u2019re missing \u2018main point of this outbreak\u2019 &nbsp;&nbsp; CIDRAP",
+      "source": "The Hill"
     },
     {
       "title": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital - KCTV",
@@ -238,6 +246,13 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTNFczlwcDVEc0wtd1B4YXBGd25wQm56Q2Q4WXZqNW5GTUdhQmgyUVlaZlhHT1lFMUNvNmdpY1Y2blR2Uk5FQ0ktU2FzY2FndHh5VFhvOF9ZSmttSVBRM0IxVnRQbm1nTzFfaVNyQ2NFc2E1cGhSbEdOSm9BNHBNbTNTaVJ4LTRmSU82QjlJLU92bElxczR1Y0NvX1RqSWFqU1NJVUQ2SVrSAbwBQVVfeXFMUGwtaWtFUFYydE5WY0pDNDR1TjB6OE56N09meklxdjZwOG1ZVUF4VlVJUXdTQ3FvUEQ2alRLUjJ0d0c4MFZObXAxSmlZU2RteTFDVklvZTNFVXpfall0U3dua0w3dzRVa3V0SXhFNzBBQ1RtWDlKaTJqZlVEeVNRU1Q3R0VjTWFxTjJoMHFWMlI4UllUWEVFRHhaS0JVcERIbnNiVFYybnNobDNCVUtRbENaR0VfT2JLUW9vd20?oc=5",
       "summary": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital &nbsp;&nbsp; KCTV",
       "source": "KCTV"
+    },
+    {
+      "title": "I'm an influencer stuck in hantavirus quarantine. I have complicated feelings about my sudden fame. - Business Insider",
+      "published": "Wed, 13 May 2026 19:31:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTlUTFdnUExubDYtUVlLc0hoYkhLX2FHUjBZUDlPa2lZalQyWWdXN2VOMFNSbFk2bnJEcl80ajZlUzk1d0czbkVhbFNhWkkzcEw4aVUzdVJ0RlNVV0M1RUZxbjdGWlJuYlNralpVVmJXQ2VhWEhDVHR0ejJTTEx2TGdIVHdyTTdWcEVzQmdORU9RM2lWNkF3X01Ra3NDOFVXS2FEclNTTFhka25Oc1Z1dUFR?oc=5",
+      "summary": "I'm an influencer stuck in hantavirus quarantine. I have complicated feelings about my sudden fame. &nbsp;&nbsp; Business Insider",
+      "source": "Business Insider"
     },
     {
       "title": "What it's like for passengers isolating in hantavirus quarantine in Nebraska - BBC",
@@ -266,13 +281,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CWmFDZ0tra2RlX3pBSE5hVWhWZjNERVl2VkdMT0REcUZYSWFDSXJnYm50MmI4SEV3STBQZTIwVzZGY1p4Mkk4U1BrRndvaFhUZnZ4eC1Mc1Mzdw?oc=5",
       "summary": "Woman isolating on British island in South Pacific after hantavirus contact &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases - The New York Times",
-      "published": "Wed, 13 May 2026 13:35:19 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5",
-      "summary": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases &nbsp;&nbsp; The New York Times Hantavirus outbreak isn't another Covid pandemic \u2013 but experts say it's testing U.S. readiness &nbsp;&nbsp; CNBC CDC says 41 people currently being monitored for hantavirus in US &nbsp;&nbsp; USA",
-      "source": "The New York Times"
     },
     {
       "title": "Are hantavirus cases spreading? French woman in critical condition in hospital - Euronews.com",
@@ -331,13 +339,6 @@
       "source": "KING5.com"
     },
     {
-      "title": "Hantavirus outbreak - as it happened: French woman on life support with severe case - Sky News",
-      "published": "Tue, 12 May 2026 16:26:05 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUlvaVJfdnM5RkNrVlhlMUJESE5jQk5GY0JPNndnMmtwSEpZTHUwR1pMak0wUl8zbTR6eXNpdEY0aUZOY0dxNFFkTDB6RnlNVWJsOVBZSWFJTElRWDc2eDZqTFROT2drQVE0czZlcU0zSXRkZmY4dENZT2pNbjJaQmRsY05yTzNIRy1LN1dOcS1tM25DS2IyUTJGM0Nwc05BNHFaSnJHWk5lRGFTWHc?oc=5",
-      "summary": "Hantavirus outbreak - as it happened: French woman on life support with severe case &nbsp;&nbsp; Sky News",
-      "source": "Sky News"
-    },
-    {
       "title": "Hantavirus: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
@@ -352,18 +353,25 @@
       "source": "The New York Times"
     },
     {
-      "title": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says - The New York Times",
-      "published": "Thu, 14 May 2026 21:09:58 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUsxVkl6Mmw4VG1qS3g1SXJMUEFxcjByQ0pQRXV2bGttOEd2NmxnV2FIMEt3b2dRRlJjYWZVLVo3aVc5bjJvZ0RNTEc0LU93eEM1aXpBcy1hVVRoYUFwRDRDVWhjSFpOSnhUXzhKbTl6VVJvRDVqRldTckM3Q1BKY3hrYw?oc=5",
-      "summary": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
+      "title": "Jake Rosmarin, passenger from hantavirus-stricken cruise ship, on quarantine experience - CBS News",
+      "published": "Thu, 14 May 2026 22:41:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcndpQ0Z6d3daUnFVRHRxamVvcFZiTlJYWmJfSHZoTW9WNTRvR1dHM1pvaVNkVVk2X0hac3NySC1PSTUxOEs4STk3bmdmYkdWSUJxdGZjTENNdFBELV8xcTVtRndkYS1KR1o2SjJFWVJ6cF9IQ2JURWJyaFpiYmFGZmZFbm5hSDh3by1aMDM4LXV1MWF4U2wzeHhRYk5SUzRaOTFXTXlfZ3RJb1RjZl84dDFzeXhUcW8?oc=5",
+      "summary": "Jake Rosmarin, passenger from hantavirus-stricken cruise ship, on quarantine experience &nbsp;&nbsp; CBS News",
+      "source": "CBS News"
     },
     {
-      "title": "CDC monitoring 41 people for hantavirus, no reported cases - The Hill",
-      "published": "Thu, 14 May 2026 20:14:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQkR2MndfZnBSTDc5aXNJdk1lS3ktX2RiMThyTmw3cFpPbUVSZkhFWHlFSlJ0SW1ycXBUX0xLR3l5aURqZUFnT1hUWnhBYl82VWJwRWdNX2hFTDh4ZERjQjFjOXpvVldza2M1OGRjSjZKb1hLTnJ1ZXFJT292UVJGVm95VkxIMkox0gGOAUFVX3lxTE1BTE5PVTE5SlhQLUhEc19xdkM4OW8tX1VFUWVEd01SM0xlaGtfU2s2emkwcnlHQTJ3Vl9TWGJodUZJX0x1Q3k0Y3A3ZFVrdkpZZzU0ZnZaenJMNjlFYkcyVUtSbWNfVHRkNHVRZlRIOUlFZ1o0REVPaU5YYXJFNnRGdU4yazRBSlQ3VGNWdFE?oc=5",
-      "summary": "CDC monitoring 41 people for hantavirus, no reported cases &nbsp;&nbsp; The Hill",
-      "source": "The Hill"
+      "title": "KDHE: Kansas monitoring 3 people at KU hospital after 'high-risk exposure' to person with hantavirus - KMBC",
+      "published": "Thu, 14 May 2026 22:24:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdnNUVEJWSVJNenNVWjYxSW1KNkVZc280VVo3UEZ1WDdnYmVqN3c1cWJjT01TdDZZVGpVS3A3R1V0dFhkQXBaeGszeE5lSHNWTTFyUmp5MS10S2NtOWY0d3h0S296SExBcFF6OWpnRkNsRHhZTXZrWk5OR2lNeHhhb25sOGo?oc=5",
+      "summary": "KDHE: Kansas monitoring 3 people at KU hospital after 'high-risk exposure' to person with hantavirus &nbsp;&nbsp; KMBC",
+      "source": "KMBC"
+    },
+    {
+      "title": "Hantavirus case suspected in Ontario County - 13wham.com",
+      "published": "Thu, 14 May 2026 19:42:55 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtbGd5NXZ2M3R5THFUVlNnMHVjZGktSjM5eFNKeDJkWnJDNGpoOGVpUE1rcVBGblYtaFk4MXljWnMxdlEteF9wZEdKX1lWYTIxSzBsNC1JaVBVZE1teXlQeWxLSl9BNF9rZEZQbm1WeWFqdlFFdHhfb3NTeVphdw?oc=5",
+      "summary": "Hantavirus case suspected in Ontario County &nbsp;&nbsp; 13wham.com",
+      "source": "13wham.com"
     },
     {
       "title": "41 people being monitored for hantavirus exposure. See map of states. - USA Today",
@@ -378,6 +386,13 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
       "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
       "source": "CNBC"
+    },
+    {
+      "title": "KU Hospital monitoring 3 Kansans exposed to deadly hantavirus, state confirms - Kansas City Star",
+      "published": "Thu, 14 May 2026 18:13:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJLTV3TjhsMmxVU21EeTVIUUpzVVVkZWt1UmI5Nm0zYXR3V1hnR1haWndVOTRvQm94aUoxOVY0b2tmRThacUxUcXp5MDIxaGpkcV9wNlRxRm5ZdkNZc2dRU005UGpmUG9ibXRN0gFrQVVfeXFMTVNCb3luZjNrX2oyWHh0TF9fTGJJc3RKbWhqdnlYLWRvdjFJaUhreVNVT2N3V0VsaGxITGw0OGg2MnZZazhfc0tpYkEybk5UMXRJblJGODdEa0xoRy1DeW5NNE5iVERIQXdVdGM?oc=5",
+      "summary": "KU Hospital monitoring 3 Kansans exposed to deadly hantavirus, state confirms &nbsp;&nbsp; Kansas City Star",
+      "source": "Kansas City Star"
     },
     {
       "title": "WHO Details Its Hantavirus Cruise Outbreak Working Hypothesis - U.S. News & World Report",
@@ -401,6 +416,13 @@
       "source": "World Health Organization (WHO)"
     },
     {
+      "title": "Should You Be Worried About Hantavirus? | Health Matters | NYP - NewYork-Presbyterian",
+      "published": "Thu, 14 May 2026 16:53:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82emJXcnVnbDJRZXBRMmc0YUZnSlFQOXRfS3gzZF9XMzFvSk1kc2FWdHEtemlwRVdIRTJtUTNvbUFoSVdiZVljSVdyOGRHdVpKZFpESTB0UGhqTEJwWUVGSjhmU2EyOFpQU2poOVo2LXhzQUhBQkxlX05LQWo?oc=5",
+      "summary": "Should You Be Worried About Hantavirus? | Health Matters | NYP &nbsp;&nbsp; NewYork-Presbyterian",
+      "source": "NewYork-Presbyterian"
+    },
+    {
       "title": "26 \u2018low-risk\u2019 Canadian air passengers may have hantavirus exposure - National - Global News",
       "published": "Thu, 14 May 2026 16:26:02 GMT",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR09Xdm11dWxXLWQ3Y1hKMEQtcVlqRnZzQ3RqQncxLTZYd2lJaFhhRkxqZHNwZ0xVaC1MN21UUUltRTlTTUhKUEtvVE1UNVF4VmpzcU9zSmo1TFFqMGZxbmZKSXdXMzBYOGFacy1PaUZBU2FaaWdxSVh6dmVUdnYzTQ?oc=5",
@@ -420,13 +442,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91VnFNY3d0UDZmVmVycEZUNVg4LVExcktzb2s5TGl3QkJfUm5LRWF4TUN5ZDZXLVR2OE1HLUpGMFh3NDVneEdQVnBFQmFvS0lhMy0yMGpHR2VMOEYwTk1GQ2hieXYwazhWTkdHczd0NEV3Rl8tTXdyZA?oc=5",
       "summary": "Hantavirus Doesn\u2019t Spread Easily, but Officials May Be Downplaying Risks &nbsp;&nbsp; The New York Times",
       "source": "The New York Times"
-    },
-    {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
-      "published": "Thu, 14 May 2026 15:46:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Johns Hopkins Medicine"
     }
   ],
   "usHistoric": {
@@ -456,10 +471,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-14T21:50:07.901085Z",
+    "timestamp": "2026-05-14T22:48:15.053028Z",
     "who": 0,
     "promed": 0,
-    "news": 44,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
