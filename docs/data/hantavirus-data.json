@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-16T10:14:04.521930Z",
+  "lastUpdated": "2026-05-16T11:18:29.903191Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 7,
-  "newsCount": 40,
+  "locationsTracked": 6,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,11 +58,25 @@
           "source": "AP News"
         },
         {
+          "title": "All passengers evacuated from hantavirus-hit cruise ship - CNN",
+          "published": "Tue, 12 May 2026 07:26:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGd3pjR2Zhb0I3N053QzBGTE9sVGhQUDhwaWZrQnZVZlo4aGl0aWxleVl4eVJ5WGNSZmpMYVVWOU1WenZ1VnNQdHVJSWFHNURXRTdaZWxSRndCX1U1cDdueWltclNTWkJnOEt3bGMzUDJJcnd5N3hnTXZn?oc=5",
+          "summary": "All passengers evacuated from hantavirus-hit cruise ship &nbsp;&nbsp; CNN",
+          "source": "CNN"
+        },
+        {
           "title": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
           "published": "Thu, 14 May 2026 08:25:53 GMT",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54a0hHNDdXYW1vT1RwSjFVek0yZW01WDAwT0hBdVc2TTNtSV82ZjhNYW9hdURjdWtMOFNuUWNjdkM1Y2pUS1VFcm82aXVmaGE3Z1dpU1FfYXlOMDRjdjRYU3hKbmZiNnVycUJGUHJVT1RlNmFSNFdVeFNR?oc=5",
           "summary": "Hantavirus cluster linked to cruise ship travel, Multi-country &nbsp;&nbsp; World Health Organization (WHO)",
           "source": "World Health Organization (WHO)"
+        },
+        {
+          "title": "The hantavirus debacle raises a key question: why would anyone go on a cruise? - The Guardian",
+          "published": "Sat, 16 May 2026 11:01:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUC1uNTVfRW84VEFVTHJqdURkLXV4Mll6QzZoVVhpY3BmWGhBTUFDZ0NZeUJ3Zk9mX05iUmd6WllBMERmNE1BNERlYjNvRlBCbkpCY3pzeGRySk9yMUxRdGFCOXVZNlZlSG1LcjY5UXNTM1FRRXZxYmlNSkhfdjlsZGlsbFZseGJ1MmtOSg?oc=5",
+          "summary": "The hantavirus debacle raises a key question: why would anyone go on a cruise? &nbsp;&nbsp; The Guardian",
+          "source": "The Guardian"
         },
         {
           "title": "Suspected hantavirus case in Ontario County involves Geneva HS student, district says - 13wham.com",
@@ -86,6 +100,13 @@
           "source": "The Intercept"
         },
         {
+          "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting - NPR",
+          "published": "Fri, 15 May 2026 19:28:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BSkt0QThlMnVDa09EdVVKakVpQzRxcDhHd0o0LXlWSmZDNFE1ZjNhMHhyMXBycjFCNjduSlRBYzZLN3I1ZzNHRWRaaUNaMG5ZVzI5cENmZkdOWTkxY2xuUEh1VWE0NElld3BKbTEtSThFMWJI?oc=5",
+          "summary": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting &nbsp;&nbsp; NPR 2 cruise passengers moved to Nebraska amid hantavirus watch &nbsp;&nbsp; NewsNation How a Nature Cruise Turned Into a Nightmare &nbsp;&nbsp; The New York Times",
+          "source": "NPR"
+        },
+        {
           "title": "WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free - Al Jazeera",
           "published": "Fri, 15 May 2026 18:54:27 GMT",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTW5QeHlINHhQbS1sT1BoMFB2M0QtTC1XQ29yYWQ1Um9qai1WZGVWOHFDZlhCOXRjTkk1OU5aZDFnQ1BWcjVkeEVXRUF5N0dnMzFWVVhYZ1BYc3U4YXd1UTRoNjdjYUh1bWdVbHd2MU95TkhyYlF3RzBXby1CR1BpakYyejRDeG8yQk1FMGtzVHhRRkh6bzhadGUwS2czV2lFdW4wZ25adWt3a3dtMzFUU1dCNNIBuAFBVV95cUxPenkxNmdteC1PWHRhZ0RiTjZKX0VydUZHb3VJeUxQSmNzYUJKSk9yMklxcVZiQVZJY2M5Y2xOUm42UGtJVzl0LVpNNUFFN01zTFBaa1dSZjFVUWtkSmRVd2RNMjUxajFsY0JTRlltU1MzTzQ4bktpay1kTU1FNUxUVU1HNFljSFpPZmpGT0NOS0NXTFhQQmdnbFdYWUlKNjUwb2VXTnpfMUlyUWRKUGwwZ3lTN2FGaWJv?oc=5",
@@ -102,14 +123,18 @@
       ],
       "sources": [
         "CBS News",
-        "World Health Organization (WHO)",
+        "The Santa Barbara Independent",
+        "upi.com",
+        "CNN",
         "AP News",
         "13wham.com",
-        "upi.com",
+        "The Guardian",
         "Al Jazeera",
+        "NPR",
+        "World Health Organization (WHO)",
         "The Intercept"
       ],
-      "alertCount": 7
+      "alertCount": 11
     },
     {
       "country": "USA",
@@ -145,50 +170,6 @@
       "alertCount": 3
     },
     {
-      "country": "Argentina",
-      "lat": -38.42,
-      "lng": -63.62,
-      "alerts": [
-        {
-          "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
-          "published": "Wed, 13 May 2026 17:45:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5",
-          "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning &nbsp;&nbsp; The Washington Post",
-          "source": "The Washington Post"
-        },
-        {
-          "title": "Argentina Races to Find Origin of Hantavirus Contagion - The New York Times",
-          "published": "Thu, 14 May 2026 09:04:59 GMT",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZU29EZEFGSHR3MDM0UWVpdkctNklXZTlzQUdBRkc3Nkpvc2djaW1oY01qdlB2UGJ1Wm5CdU1tLVBfN2JkM0x4MFU2RDV3RXFxZm1CeE5XeEh3WHRuM1FSM3ZDeVlhSnRrM2pENy11el8zY0ZVNlNvdDFHRzFIQkI3RTkyZDN3eHdwTmRMWGw?oc=5",
-          "summary": "Argentina Races to Find Origin of Hantavirus Contagion &nbsp;&nbsp; The New York Times",
-          "source": "The New York Times"
-        }
-      ],
-      "sources": [
-        "The New York Times",
-        "The Washington Post"
-      ],
-      "alertCount": 2
-    },
-    {
-      "country": "Australia",
-      "lat": -25.27,
-      "lng": 133.78,
-      "alerts": [
-        {
-          "title": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting - NPR",
-          "published": "Fri, 15 May 2026 19:28:03 GMT",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BSkt0QThlMnVDa09EdVVKakVpQzRxcDhHd0o0LXlWSmZDNFE1ZjNhMHhyMXBycjFCNjduSlRBYzZLN3I1ZzNHRWRaaUNaMG5ZVzI5cENmZkdOWTkxY2xuUEh1VWE0NElld3BKbTEtSThFMWJI?oc=5",
-          "summary": "Hantavirus countdown: U.S. cruise passengers settle in for 42 days of waiting &nbsp;&nbsp; NPR 6 passengers from hantavirus-hit cruise ship arrive in Australia for 3-week quarantine &nbsp;&nbsp; PBS Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries &nbsp;&nbsp; cidr",
-          "source": "NPR"
-        }
-      ],
-      "sources": [
-        "NPR"
-      ],
-      "alertCount": 1
-    },
-    {
       "country": "United Kingdom",
       "lat": 55.38,
       "lng": -3.44,
@@ -203,6 +184,24 @@
       ],
       "sources": [
         "GOV.UK"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Argentina",
+      "lat": -38.42,
+      "lng": -63.62,
+      "alerts": [
+        {
+          "title": "Opinion | 11 hantavirus deaths in Argentina were a warning - The Washington Post",
+          "published": "Wed, 13 May 2026 17:45:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHJJRUVKelNLY0pGQkRFZ3g2OXFfUUFCOUZzcGRfSDNpMEdKRll2V2lKSXkxR0lUVDlXZlY4d1gxeUNQMzZRQld0VlpHM2FDb2l4RWZrcGctUm5nV05zUlpMTmQ5MDlXcHhOZWd2NkQxemVGOEphUUpHU0tRV0VZWnFIOUhLQ040M3BXRFA3VlhkOUthTDNhdGg0cnVWUXNYeVlTQmFqbkg?oc=5",
+          "summary": "Opinion | 11 hantavirus deaths in Argentina were a warning &nbsp;&nbsp; The Washington Post",
+          "source": "The Washington Post"
+        }
+      ],
+      "sources": [
+        "The Washington Post"
       ],
       "alertCount": 1
     },
@@ -259,6 +258,13 @@
       "source": "BBC"
     },
     {
+      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
+      "published": "Wed, 13 May 2026 04:11:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
+      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; AP News",
+      "source": "AP News"
+    },
+    {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Wed, 13 May 2026 01:22:32 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
@@ -301,6 +307,13 @@
       "source": "KFF"
     },
     {
+      "title": "All passengers evacuated from hantavirus-hit cruise ship - CNN",
+      "published": "Tue, 12 May 2026 07:26:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGd3pjR2Zhb0I3N053QzBGTE9sVGhQUDhwaWZrQnZVZlo4aGl0aWxleVl4eVJ5WGNSZmpMYVVWOU1WenZ1VnNQdHVJSWFHNURXRTdaZWxSRndCX1U1cDdueWltclNTWkJnOEt3bGMzUDJJcnd5N3hnTXZn?oc=5",
+      "summary": "All passengers evacuated from hantavirus-hit cruise ship &nbsp;&nbsp; CNN",
+      "source": "CNN"
+    },
+    {
       "title": "Hantavirus: Current Situation - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
@@ -312,6 +325,13 @@
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHRucC0yb2tBOGlsWTMtcDd5ZTR1Nml3NHA2cFhmUWVpMmZBaGEzZGhkWlZVQWQ2SE1abkpieDVYb1ZIcy1qVDNRYnREa3FqYkNzTHZ2Q002dG9RUVpjbzRGZlctcHZ1MzVjQjBUa3FoaWtIVlRHWTZZUVlrSHdTTFVQbGg1ZTVDWk9F?oc=5",
       "summary": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times"
+    },
+    {
+      "title": "Hantavirus Doesn\u2019t Spread Easily, but Officials May Be Downplaying Risks - The New York Times",
+      "published": "Thu, 14 May 2026 15:54:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91VnFNY3d0UDZmVmVycEZUNVg4LVExcktzb2s5TGl3QkJfUm5LRWF4TUN5ZDZXLVR2OE1HLUpGMFh3NDVneEdQVnBFQmFvS0lhMy0yMGpHR2VMOEYwTk1GQ2hieXYwazhWTkdHczd0NEV3Rl8tTXdyZA?oc=5",
+      "summary": "Hantavirus Doesn\u2019t Spread Easily, but Officials May Be Downplaying Risks &nbsp;&nbsp; The New York Times",
       "source": "The New York Times"
     },
     {
@@ -329,13 +349,6 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "Argentina Races to Find Origin of Hantavirus Contagion - The New York Times",
-      "published": "Thu, 14 May 2026 09:04:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZU29EZEFGSHR3MDM0UWVpdkctNklXZTlzQUdBRkc3Nkpvc2djaW1oY01qdlB2UGJ1Wm5CdU1tLVBfN2JkM0x4MFU2RDV3RXFxZm1CeE5XeEh3WHRuM1FSM3ZDeVlhSnRrM2pENy11el8zY0ZVNlNvdDFHRzFIQkI3RTkyZDN3eHdwTmRMWGw?oc=5",
-      "summary": "Argentina Races to Find Origin of Hantavirus Contagion &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
-    },
-    {
       "title": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
       "published": "Thu, 14 May 2026 08:25:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54a0hHNDdXYW1vT1RwSjFVek0yZW01WDAwT0hBdVc2TTNtSV82ZjhNYW9hdURjdWtMOFNuUWNjdkM1Y2pUS1VFcm82aXVmaGE3Z1dpU1FfYXlOMDRjdjRYU3hKbmZiNnVycUJGUHJVT1RlNmFSNFdVeFNR?oc=5",
@@ -348,6 +361,20 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWnNDUGRsdW1KUHBpYUJOMkY0UzlfN05SRUwwNEVnbVh3TzVISXZsMXF1NFIxRWF2SnpoMnZnX24tS3BVSW5ocGw4dHRSREV4bnI1RExteTJ3WV9FaUpWTF9ZTTMwMm03dm9IUmYxQ1k0SVhITDZDUEpzX0F4UFR6cA?oc=5",
       "summary": "From US to Singapore, countries race to track hantavirus &nbsp;&nbsp; CNN",
       "source": "CNN"
+    },
+    {
+      "title": "The hantavirus debacle raises a key question: why would anyone go on a cruise? - The Guardian",
+      "published": "Sat, 16 May 2026 11:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUC1uNTVfRW84VEFVTHJqdURkLXV4Mll6QzZoVVhpY3BmWGhBTUFDZ0NZeUJ3Zk9mX05iUmd6WllBMERmNE1BNERlYjNvRlBCbkpCY3pzeGRySk9yMUxRdGFCOXVZNlZlSG1LcjY5UXNTM1FRRXZxYmlNSkhfdjlsZGlsbFZseGJ1MmtOSg?oc=5",
+      "summary": "The hantavirus debacle raises a key question: why would anyone go on a cruise? &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
+    },
+    {
+      "title": "\u2018I just don\u2019t want it to take over my life\u2019: Hantavirus sparks fear, questions for some students in a post-COVID world - Chicago Tribune",
+      "published": "Sat, 16 May 2026 10:10:27 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGNTRTlEMl9aNEFreVlfdWtraG40eTNPNVZ2WTdEWTF1bUZ2UDJQMF93VmxSNWpobVVCcF9Ycm1JNTY4M3lUT1RTbmNVSDZJaERyQUFsRjd5cDk3UUM3SWd6NUNJMW9UVmNPVEF4Q08xS0ZpM2JPOFR3TVA1S1pYOVdDRWtfZmJMV0E?oc=5",
+      "summary": "\u2018I just don\u2019t want it to take over my life\u2019: Hantavirus sparks fear, questions for some students in a post-COVID world &nbsp;&nbsp; Chicago Tribune",
+      "source": "Chicago Tribune"
     },
     {
       "title": "Hantavirus has no cure. Here\u2019s where researchers are at with treatments and vaccines - CBC",
@@ -425,34 +452,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLXQ3ejJsZHNEVVlySTg4akxXTm82LUlsUTJ6dFBRdVhmYUtpdjI3RHJiRS1zTFU0eDkxdGdGVVM1OEVxOF8yM3NSTncwckxmTmtMM1ZwS3lXNWdTVTVHaGpXLUpDb3R4dk43ckVwUnJFYkhIcTZQRFRKZDJjSnNRMEhFNEx5VV92bWJROXQ3QkxYa3lyVW45VnhXQUpuVlN6blBfNGJUNG8yN2lxRFpZLTY0Q0tHd3FjLVlfTEVfNA?oc=5",
       "summary": "Hantavirus outbreak reduced to 10 cases as ship passengers return to home countries &nbsp;&nbsp; cidrap.umn.edu",
       "source": "cidrap.umn.edu"
-    },
-    {
-      "title": "CDC Didn\u2019t Tell New York About Resident on Hantavirus-Plagued Cruise - The Intercept",
-      "published": "Fri, 15 May 2026 20:41:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNVh3a2UtNkRHcGVYLW9rMjJOUUpSVEhNVXpwOUExTGxVMmppSkdtbW43NjBCZ1FndXRyZTR5MWdER3A3WFE2NWcwdTJuc3h3a3RUbFZ0bWxONTE1aURhY0JRQUdTV2FON09weThQUnN2SDFpeVRWaXdTZERvRGE0b1R3?oc=5",
-      "summary": "CDC Didn\u2019t Tell New York About Resident on Hantavirus-Plagued Cruise &nbsp;&nbsp; The Intercept",
-      "source": "The Intercept"
-    },
-    {
-      "title": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home - TODAY.com",
-      "published": "Fri, 15 May 2026 20:37:41 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3VCd2dmNUFxNjl5NEM5cV9sUVJNbDRfTFdidS12Q2pyZGRoOG1yaXdUYkJHMDN1WlN5a1BuZTB1amk2bEtmME9ydGkwclkyWnNmcDFBSTVTOXpfRTdPUkg3VEtGOHFiWHRkTnQxT2c3NzhlRnVRX1VvSmdOcWRRdnFKak1ybG1LSG50SjVhdHR4Z3doVmxkT3BsT2dKQzdzUEhN?oc=5",
-      "summary": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home &nbsp;&nbsp; TODAY.com",
-      "source": "TODAY.com"
-    },
-    {
-      "title": "Will the Hantavirus Outbreak Cause a Lockdown? What Experts Want You to Know - TODAY.com",
-      "published": "Fri, 15 May 2026 20:15:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSV9BRHJ1eXJDSFFySXNOSXBQUDVOUkdxejNRdFd4SXNTWEl2cUhDZE9QZ3dhVWVEUkJFUDNpdHE1NXE2T0FIazhKWURqdThLVmRYUWRDQlBGNGY3QXNvS3llTlR0ZVc5NzFrVkxqNGRCMkxSajNZLUxydTk3c0NRTnhmX0VYNmQ0TlNna1dR?oc=5",
-      "summary": "Will the Hantavirus Outbreak Cause a Lockdown? What Experts Want You to Know &nbsp;&nbsp; TODAY.com",
-      "source": "TODAY.com"
-    },
-    {
-      "title": "Hantavirus can persist in semen for years, but that doesn\u2019t mean it remains contagious - Scientific American",
-      "published": "Fri, 15 May 2026 19:45:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjlJZkloeTdwTmtSTzBLOGp3QklHdnkySlYySVhjMmlJcHpIbHpnMDZpR09adFdMZk1yd2hybWM4V2JUTXhGQnJlRnNZdUtRbks4cWQ4clZwM1hmcGZzZGdwUHRiemYwQnpYdlJEWkRTZWt4WGtZa3BGeVBrSGNReXB5OHBJeTBKTVNkZHF0MjhkVFJUa2N5dFBfendSUU1CS0c1SU93THo3NkVmWTZOb0E4RDdoTkJPdGM3eTk1VFR3U01IdlZ3?oc=5",
-      "summary": "Hantavirus can persist in semen for years, but that doesn\u2019t mean it remains contagious &nbsp;&nbsp; Scientific American",
-      "source": "Scientific American"
     }
   ],
   "usHistoric": {
@@ -482,10 +481,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-16T10:14:04.521941Z",
+    "timestamp": "2026-05-16T11:18:29.903205Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
