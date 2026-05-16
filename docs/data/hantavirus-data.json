@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-16T17:41:06.342047Z",
+  "lastUpdated": "2026-05-16T18:39:05.902148Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 5,
-  "newsCount": 44,
+  "locationsTracked": 7,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -51,11 +51,11 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "CDC not requiring hantavirus cruise passengers to isolate at home - The Hill",
-          "published": "Wed, 13 May 2026 22:26:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NUmxWeldpaUZKRmhzYWgzamVDVDJzNW52LTJMMGJZMzMxeTdNS1lJSDJIcFpCYmc3bnNMV21HRzlNc1pONG1NWjJETnN6cGJ4RHZKQkhlUWZCNUJTZTgwZzhnakdYQUhWOElaMkxOc3BwTF800gF6QVVfeXFMUE5rLTNtQnBMUXZCcnoxS2dJTVh1aGxtdG1IdjhUQ0dwR0dhYWZqYUlHWGFyUHE1REQ0b2dPdG1mRW5iQXoxUUlwWTE2eF9yRFJqcEw3NVkzYk5idy14OHRpQmJkR05HejVzcmtmOWhtRjZwRmtkc3BrN3c?oc=5",
-          "summary": "CDC not requiring hantavirus cruise passengers to isolate at home &nbsp;&nbsp; The Hill",
-          "source": "The Hill"
+          "title": "Hantavirus questions grow in the wake of a cruise ship outbreak - Science News",
+          "published": "Wed, 13 May 2026 17:24:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3ZEU2LTUtYmdSV1FmQ1p5XzNrSWcwakFNU2FDeW0yRTExYmR1WkUyRlI1MlJFLTl1c28zc3BhOHJnUmRqQzBPWkl0YlMtdXVmVDRpaGd5cGpYZ0VxSWhUaEdmdkxfMHp1WDBIb0R4ZWVsN1VJYVhKc0F4SVNsdw?oc=5",
+          "summary": "Hantavirus questions grow in the wake of a cruise ship outbreak &nbsp;&nbsp; Science News",
+          "source": "Science News"
         },
         {
           "title": "Cruise ship hantavirus patients arrive in Europe for treatment - AP News",
@@ -65,18 +65,25 @@
           "source": "AP News"
         },
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
-          "published": "Thu, 14 May 2026 05:30:19 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RaFRfUGNQMk5VaTZiMnhGbDBTTlJCTlh4VG85Ylk2M3dwOU1QaE1jeEdkQy05US1QaURySjhxUERCRENhaUJoVWlVQTliQjFBSjFHYVhUNlF6bUx0MVE?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
-          "source": "KDHE (.gov)"
+          "title": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
+          "published": "Thu, 14 May 2026 08:25:53 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54a0hHNDdXYW1vT1RwSjFVek0yZW01WDAwT0hBdVc2TTNtSV82ZjhNYW9hdURjdWtMOFNuUWNjdkM1Y2pUS1VFcm82aXVmaGE3Z1dpU1FfYXlOMDRjdjRYU3hKbmZiNnVycUJGUHJVT1RlNmFSNFdVeFNR?oc=5",
+          "summary": "Hantavirus cluster linked to cruise ship travel, Multi-country &nbsp;&nbsp; World Health Organization (WHO)",
+          "source": "World Health Organization (WHO)"
         },
         {
           "title": "How a Nature Cruise Turned Into a Nightmare - The New York Times",
-          "published": "Sat, 16 May 2026 15:27:12 GMT",
+          "published": "Sat, 16 May 2026 17:25:54 GMT",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0RhYk1MVnRWZ01DdEhhcTRIelU0ZFMtVDMwekFBdlBjSUdQSG56cllUc1ljYjJyZkM0RXhoRHAyRE0xOHE0MEJvM3BZUTd4UWkwaGE4UE8wVlhUM1g5R29YWWIyeFV2bXBjN09yT2p6OV9acUNYRVctSzd1YmhSZVZFeTI?oc=5",
           "summary": "How a Nature Cruise Turned Into a Nightmare &nbsp;&nbsp; The New York Times",
           "source": "The New York Times"
+        },
+        {
+          "title": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship - Yahoo",
+          "published": "Sat, 16 May 2026 15:41:29 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYk8xRUV4V3loUl9VYkZTRXdQN2RBTkZfbl9JLWxkN2l2NFpaSzM1amtMX3ZvYzBnY1FPQWZWT0hERkk0Q0pONm9aQ0xIUUpHbmNoUnRUZDhoa0pBdHE4NHpycUlUeFQ2RmZZTV91RTVpWTFIYzZpOE0wdVF3VUNGWmlpMDh6anVqSjcyQkhzTXhmWDRiUV9sMHY5UnBsbWJULV9XYm1nMW85Y0dMSTZ2aWI5Nmk4emFYWEhpTjVRVVk2M2VGb3lySmVYUkhObktFeFQ0dTZQelRkYVU?oc=5",
+          "summary": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship &nbsp;&nbsp; Yahoo",
+          "source": "Yahoo"
         },
         {
           "title": "The hantavirus debacle raises a key question: why would anyone go on a cruise? | Dave Schilling - The Guardian",
@@ -112,30 +119,22 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTW5QeHlINHhQbS1sT1BoMFB2M0QtTC1XQ29yYWQ1Um9qai1WZGVWOHFDZlhCOXRjTkk1OU5aZDFnQ1BWcjVkeEVXRUF5N0dnMzFWVVhYZ1BYc3U4YXd1UTRoNjdjYUh1bWdVbHd2MU95TkhyYlF3RzBXby1CR1BpakYyejRDeG8yQk1FMGtzVHhRRkh6bzhadGUwS2czV2lFdW4wZ25adWt3a3dtMzFUU1dCNNIBuAFBVV95cUxPenkxNmdteC1PWHRhZ0RiTjZKX0VydUZHb3VJeUxQSmNzYUJKSk9yMklxcVZiQVZJY2M5Y2xOUm42UGtJVzl0LVpNNUFFN01zTFBaa1dSZjFVUWtkSmRVd2RNMjUxajFsY0JTRlltU1MzTzQ4bktpay1kTU1FNUxUVU1HNFljSFpPZmpGT0NOS0NXTFhQQmdnbFdYWUlKNjUwb2VXTnpfMUlyUWRKUGwwZ3lTN2FGaWJv?oc=5",
           "summary": "WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free &nbsp;&nbsp; Al Jazeera",
           "source": "Al Jazeera"
-        },
-        {
-          "title": "WHO reports 10 hantavirus cases, 3 deaths, tied to cruise ship - upi.com",
-          "published": "Fri, 15 May 2026 17:26:38 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeHRvcjFHSUtKcGdYTVZVak9rWHJ6LXF2Rm14MUF1N29PZDFlRG1neEpjdWpXRkZmYVJudldDcnVZZC1obE4temxfNUpJaVZpMWw0dDgzcUJpSVNpcjllWS1aYVFjX2ZYWmJMTGRLZ3J6eHg2dEFkbEtoaG81NnVvTjFUNUdQWmtURUZwaHRiRUNSNGhXTV9IYlRsWHZDTlBsbmdsd3FsNFLSAa4BQVVfeXFMT0RoVnJKOVpzSGh5SVlqbXZIM0pKbHllQnVTTnhIcGNiLTRmeHltRjRkYWFraElfMVd1Mk1pNVN4cHZHTmlHV3hKS2dncXJMWEcyeUtudnpYYzZ3SEhCZUxkN1hBX1ZiMm8xMEJnS1hoYnBiWVNnQVVmU3RzZ2llVHA1bXFSZHIyd2lubHhZbDdJUXhNZEkwb0xVQTlVVUlES05tRXkwbGlpZHZtVlVR?oc=5",
-          "summary": "WHO reports 10 hantavirus cases, 3 deaths, tied to cruise ship &nbsp;&nbsp; upi.com",
-          "source": "upi.com"
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
-        "Al Jazeera",
-        "AP News",
-        "The New York Times",
         "The Guardian",
-        "MSN",
-        "upi.com",
+        "Al Jazeera",
+        "NPR",
+        "World Health Organization (WHO)",
+        "Yahoo",
         "CBS News",
-        "KDHE (.gov)",
-        "The Hill",
-        "NPR"
+        "upi.com",
+        "The New York Times",
+        "AP News",
+        "MSN",
+        "Science News"
       ],
-      "alertCount": 12
+      "alertCount": 11
     },
     {
       "country": "USA",
@@ -153,7 +152,7 @@
           "title": "Colorado health officials confirm deadly hantavirus case - KUSA.com",
           "published": "Sat, 16 May 2026 00:40:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDViczlYYzJIMU9lNDVXclVmbnozNW5CNjlybnZtdU93SlNRSDNSdU41WTQ1azRWZWUyY3gxRU44RGVUd0g0N1VlVEgwNHRlMHdhX1JuT01LZHhxOFpFYUlJb3RGeVAtY0kxcjZEMWlQWUYzV2Q5UGJzM1BmLXVlOG51REZKdXdjd2RPYWItSjQ0RjlHYlJjX085VlQ3ZU5EN1hkZjVuM2hEM2lEc3Jzd0ZTNDhWNU9FWlRRTE9GRzNSOUl5c3pGR05VYVlGTDRTWm5DbA?oc=5",
-          "summary": "Colorado health officials confirm deadly hantavirus case &nbsp;&nbsp; KUSA.com Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship &nbsp;&nbsp; Yahoo Here\u2019s What Science Tells Us About the Risks of Hantavirus &nbsp;&nbsp; WSJ",
+          "summary": "Colorado health officials confirm deadly hantavirus case &nbsp;&nbsp; KUSA.com",
           "source": "KUSA.com"
         },
         {
@@ -165,10 +164,46 @@
         }
       ],
       "sources": [
-        "KUSA.com",
-        "USA Today"
+        "USA Today",
+        "KUSA.com"
       ],
       "alertCount": 3
+    },
+    {
+      "country": "France",
+      "lat": 46.23,
+      "lng": 2.21,
+      "alerts": [
+        {
+          "title": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says - CBS News",
+          "published": "Sat, 16 May 2026 18:07:02 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ01MSERfY0JHbWVCdy1rSWtHZ3EtNkJCNU5kcU9SQjNwbGY1b1B1NWE1alpYOGVsRnJxZWM5cU90Q2VIZzJiYzdjM0h2blhaUzExWEEtNlYtRkxORE1UR3dWTkhLTEsxTnFXSjczNHlJRmlVc3NpbHNfcGMwVTFRNlFtaGVlTjdlMUHSAY8BQVVfeXFMTUhqV3ctTE9hV3luREJWRnpHbzBnQ2EwZmk2anZfZTlFTGFIU193QVlUUFJpOWpTMGEzNXkwZFREaDFnZTMyc0xHb0tZWVhkN0pGUThSbEVPWHVtUVVhRXpFanBxN0pmYzVHMEtOWjNSNkxPMHJZV1Nlb1Z1bXlDT2NUbDVndlZONjgxb2lxcFk?oc=5",
+          "summary": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says &nbsp;&nbsp; CBS News",
+          "source": "CBS News"
+        }
+      ],
+      "sources": [
+        "CBS News"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Australia",
+      "lat": -25.27,
+      "lng": 133.78,
+      "alerts": [
+        {
+          "title": "6 passengers from hantavirus-hit cruise ship arrive in Australia for 3-week quarantine - PBS",
+          "published": "Fri, 15 May 2026 17:57:43 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaGhaR2VuWnozQWEteTlJajZXVDllcm9zUHU5cXdjMUVya2lvQUsya3Vwa2ViRnVlU21ZYzVqcFp3V2hzR0x5YkRERjJlZm5USlAzcDN0RTRNSlJ2V1gtSHp5RTlDRktNU0c2LXZVcG9ZQUpFX21NYUlLcDlKQnh1aFMyWDVsVmNtSG9zcEw5OEJpTjJHakZlaTMwOEFxbzBKQUZIcVlXUW1jWWQxRmFjSHprUEd6MVNMMkJvNW9R?oc=5",
+          "summary": "6 passengers from hantavirus-hit cruise ship arrive in Australia for 3-week quarantine &nbsp;&nbsp; PBS",
+          "source": "PBS"
+        }
+      ],
+      "sources": [
+        "PBS"
+      ],
+      "alertCount": 1
     },
     {
       "country": "United Kingdom",
@@ -227,11 +262,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC not requiring hantavirus cruise passengers to isolate at home - The Hill",
-      "published": "Wed, 13 May 2026 22:26:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NUmxWeldpaUZKRmhzYWgzamVDVDJzNW52LTJMMGJZMzMxeTdNS1lJSDJIcFpCYmc3bnNMV21HRzlNc1pONG1NWjJETnN6cGJ4RHZKQkhlUWZCNUJTZTgwZzhnakdYQUhWOElaMkxOc3BwTF800gF6QVVfeXFMUE5rLTNtQnBMUXZCcnoxS2dJTVh1aGxtdG1IdjhUQ0dwR0dhYWZqYUlHWGFyUHE1REQ0b2dPdG1mRW5iQXoxUUlwWTE2eF9yRFJqcEw3NVkzYk5idy14OHRpQmJkR05HejVzcmtmOWhtRjZwRmtkc3BrN3c?oc=5",
-      "summary": "CDC not requiring hantavirus cruise passengers to isolate at home &nbsp;&nbsp; The Hill",
-      "source": "The Hill"
+      "title": "Hantavirus questions grow in the wake of a cruise ship outbreak - Science News",
+      "published": "Wed, 13 May 2026 17:24:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3ZEU2LTUtYmdSV1FmQ1p5XzNrSWcwakFNU2FDeW0yRTExYmR1WkUyRlI1MlJFLTl1c28zc3BhOHJnUmRqQzBPWkl0YlMtdXVmVDRpaGd5cGpYZ0VxSWhUaEdmdkxfMHp1WDBIb0R4ZWVsN1VJYVhKc0F4SVNsdw?oc=5",
+      "summary": "Hantavirus questions grow in the wake of a cruise ship outbreak &nbsp;&nbsp; Science News",
+      "source": "Science News"
     },
     {
       "title": "Woman isolating on British island in South Pacific after hantavirus contact - BBC",
@@ -318,11 +353,11 @@
       "source": "Spectrum News"
     },
     {
-      "title": "Follow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response - World Health Organization (WHO)",
-      "published": "Thu, 14 May 2026 17:30:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWHUyMWpfWHNpMGdCOV9JemRJNlhmcU9ZY19LTEF5b0ROSzlnY3JpQzlKWjJfVEpPeS1IZ2RSY2xEYVA2OWcyVlJsdU9FeENMUDIyTG8yb2pHRVAwX3hxel9ES3dlaHEzSy03N2NzUUVjR0VHdlFFbmppbUVLYi02TEtRT3lrLWY2NVlJTW9fWER3RjRIcHhSZkhVZndYZC1XaWFhYWNOX25JNWdiMVUzN3lQQk4zak9qSWFza291dVkzbElkdkxWa2Zka0VqcDJGaFBNWF9CQjdVaTF0TDN3?oc=5",
-      "summary": "Follow-up message by the WHO Director-General to the people of Tenerife regarding the hantavirus response &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
+      "published": "Thu, 14 May 2026 18:21:14 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
+      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
+      "source": "CNBC"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -339,11 +374,11 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
-      "published": "Thu, 14 May 2026 05:30:19 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RaFRfUGNQMk5VaTZiMnhGbDBTTlJCTlh4VG85Ylk2M3dwOU1QaE1jeEdkQy05US1QaURySjhxUERCRENhaUJoVWlVQTliQjFBSjFHYVhUNlF6bUx0MVE?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
-      "source": "KDHE (.gov)"
+      "title": "Hantavirus cluster linked to cruise ship travel, Multi-country - World Health Organization (WHO)",
+      "published": "Thu, 14 May 2026 08:25:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54a0hHNDdXYW1vT1RwSjFVek0yZW01WDAwT0hBdVc2TTNtSV82ZjhNYW9hdURjdWtMOFNuUWNjdkM1Y2pUS1VFcm82aXVmaGE3Z1dpU1FfYXlOMDRjdjRYU3hKbmZiNnVycUJGUHJVT1RlNmFSNFdVeFNR?oc=5",
+      "summary": "Hantavirus cluster linked to cruise ship travel, Multi-country &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
       "title": "From US to Singapore, countries race to track hantavirus - CNN",
@@ -353,18 +388,32 @@
       "source": "CNN"
     },
     {
-      "title": "Arkansas man accused of threatening a mass shooting if the country were locked down due to hantavirus - KY3",
-      "published": "Sat, 16 May 2026 16:49:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRjdxZ2JjQmtXNmtIX3FZenBYMnJtQjZpN3BYNl9jaXJLTHI4b0tlcXlXSUF4d1BqaUF3X3hsMVhPY3Zua1hrSEJ2Y0EzWVhBTjAtZi1tdVYyY1F3LVc4RU1QTGFRT2luWEZTQkVHcWpNVHFUdDF6bGlSbFlER1loZ21NUHMzODdIRUdHemQzRXl6YWt3dkFqUnZPcEFIMmU5NFdtMm9KaFdDZDltNVNCR2ZSeUdoYnd1VWZFQ2o4THN6Q1o1MlRielcwM2Yzd9IB4gFBVV95cUxQSkd5RzV4SFpCWmxxZUJVWFAtSXd6WUc2SnpUV2RhVm5NY211V29Tb0dJZlNldXFSVWh1ajlHb2JIdG5vbmk5Y3lCZDNub0ZZZHZtSFp5ZVprVUJGRlBrb3hZWHdVV0E2V2hDSDV4RjZHU3dJSUVhbjdvSmo3UzZ4MWplWjEwTUprYlAzemt4bjQ2ZFFzZFZLQkpZVDFkUkpyUm81SXd0Nm5mWDNROEU4TlZqNDdoMTJ1UWlObVJ1TER3UjZLSjRMZlZKVlNVbThnRWc3cGgtaDljNmswMnBqZE13?oc=5",
-      "summary": "Arkansas man accused of threatening a mass shooting if the country were locked down due to hantavirus &nbsp;&nbsp; KY3",
-      "source": "KY3"
+      "title": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says - CBS News",
+      "published": "Sat, 16 May 2026 18:07:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ01MSERfY0JHbWVCdy1rSWtHZ3EtNkJCNU5kcU9SQjNwbGY1b1B1NWE1alpYOGVsRnJxZWM5cU90Q2VIZzJiYzdjM0h2blhaUzExWEEtNlYtRkxORE1UR3dWTkhLTEsxTnFXSjczNHlJRmlVc3NpbHNfcGMwVTFRNlFtaGVlTjdlMUHSAY8BQVVfeXFMTUhqV3ctTE9hV3luREJWRnpHbzBnQ2EwZmk2anZfZTlFTGFIU193QVlUUFJpOWpTMGEzNXkwZFREaDFnZTMyc0xHb0tZWVhkN0pGUThSbEVPWHVtUVVhRXpFanBxN0pmYzVHMEtOWjNSNkxPMHJZV1Nlb1Z1bXlDT2NUbDVndlZONjgxb2lxcFk?oc=5",
+      "summary": "Version of hantavirus behind deadly cruise ship outbreak matches known strain, France says &nbsp;&nbsp; CBS News",
+      "source": "CBS News"
+    },
+    {
+      "title": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home - TODAY.com",
+      "published": "Sat, 16 May 2026 17:35:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR3VCd2dmNUFxNjl5NEM5cV9sUVJNbDRfTFdidS12Q2pyZGRoOG1yaXdUYkJHMDN1WlN5a1BuZTB1amk2bEtmME9ydGkwclkyWnNmcDFBSTVTOXpfRTdPUkg3VEtGOHFiWHRkTnQxT2c3NzhlRnVRX1VvSmdOcWRRdnFKak1ybG1LSG50SjVhdHR4Z3doVmxkT3BsT2dKQzdzUEhN?oc=5",
+      "summary": "Is the Hantavirus in the US? Map Shows States Where Passengers Have Returned Home &nbsp;&nbsp; TODAY.com",
+      "source": "TODAY.com"
     },
     {
       "title": "How a Nature Cruise Turned Into a Nightmare - The New York Times",
-      "published": "Sat, 16 May 2026 15:27:12 GMT",
+      "published": "Sat, 16 May 2026 17:25:54 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0RhYk1MVnRWZ01DdEhhcTRIelU0ZFMtVDMwekFBdlBjSUdQSG56cllUc1ljYjJyZkM0RXhoRHAyRE0xOHE0MEJvM3BZUTd4UWkwaGE4UE8wVlhUM1g5R29YWWIyeFV2bXBjN09yT2p6OV9acUNYRVctSzd1YmhSZVZFeTI?oc=5",
       "summary": "How a Nature Cruise Turned Into a Nightmare &nbsp;&nbsp; The New York Times",
       "source": "The New York Times"
+    },
+    {
+      "title": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship - Yahoo",
+      "published": "Sat, 16 May 2026 15:41:29 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYk8xRUV4V3loUl9VYkZTRXdQN2RBTkZfbl9JLWxkN2l2NFpaSzM1amtMX3ZvYzBnY1FPQWZWT0hERkk0Q0pONm9aQ0xIUUpHbmNoUnRUZDhoa0pBdHE4NHpycUlUeFQ2RmZZTV91RTVpWTFIYzZpOE0wdVF3VUNGWmlpMDh6anVqSjcyQkhzTXhmWDRiUV9sMHY5UnBsbWJULV9XYm1nMW85Y0dMSTZ2aWI5Nmk4emFYWEhpTjVRVVk2M2VGb3lySmVYUkhObktFeFQ0dTZQelRkYVU?oc=5",
+      "summary": "Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship &nbsp;&nbsp; Yahoo",
+      "source": "Yahoo"
     },
     {
       "title": "The hantavirus debacle raises a key question: why would anyone go on a cruise? | Dave Schilling - The Guardian",
@@ -405,7 +454,7 @@
       "title": "Colorado health officials confirm deadly hantavirus case - KUSA.com",
       "published": "Sat, 16 May 2026 00:40:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObDViczlYYzJIMU9lNDVXclVmbnozNW5CNjlybnZtdU93SlNRSDNSdU41WTQ1azRWZWUyY3gxRU44RGVUd0g0N1VlVEgwNHRlMHdhX1JuT01LZHhxOFpFYUlJb3RGeVAtY0kxcjZEMWlQWUYzV2Q5UGJzM1BmLXVlOG51REZKdXdjd2RPYWItSjQ0RjlHYlJjX085VlQ3ZU5EN1hkZjVuM2hEM2lEc3Jzd0ZTNDhWNU9FWlRRTE9GRzNSOUl5c3pGR05VYVlGTDRTWm5DbA?oc=5",
-      "summary": "Colorado health officials confirm deadly hantavirus case &nbsp;&nbsp; KUSA.com Hantavirus latest updates: Suspected case at New York high school not linked to cruise ship &nbsp;&nbsp; Yahoo Here\u2019s What Science Tells Us About the Risks of Hantavirus &nbsp;&nbsp; WSJ",
+      "summary": "Colorado health officials confirm deadly hantavirus case &nbsp;&nbsp; KUSA.com",
       "source": "KUSA.com"
     },
     {
@@ -421,20 +470,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmI4d0lyVkVqLU5NR0VZd0pRMzlMTDR6U2hMVUp6LXdlY2dZM3BUbnBIU0dzV3UtWl8wM2tXRFR0aGdNajRPaUczUGhZSlk3SXFEZFRtT3Z5UnRNeFdFZzVvaHJubjR0UDRicGFzVENSOTVsTnd3VkNxZXkxRE05TUhKdldIS0pvd3k2Skhzc3kzV0JQUlhZa1VBc2Qyd3Ffdkc4NWJCRdIBrAFBVV95cUxOdjk1enFUNVd3VUc1R01NeHQtXzBaX05STG5UTW80VUYtc2piMTB4WUF6Z3Uwb0tWdFppbHU4RlFKZ0NVRWFfYVBBbjZZbFYtV0xEWHVyVDcyOXlGdEUtOHpfTXIxSVI3dEI0OWVZOTZXTjlDaVJ0YW8tOUFUenJuT2NNaWw1dG8wakhzSUpHcFp3X1hwY1FtRGxyYkpXaDNmUHlnM0RHanM1UTh1?oc=5",
       "summary": "Where did the hantavirus outbreak start, and where has it spread? &nbsp;&nbsp; Al Jazeera",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Hantavirus patients discharged from Emory Hospital - WSB-TV",
-      "published": "Fri, 15 May 2026 23:51:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzVnYXNxTVFjY2tCa0hjaDhiV015eXlIMnJuY3ZqczMzSnFwSE5BR1dNSTFETFNTOXQyLURobFFqckNuUVkzb0QwczJpN2JrVVlYNU5pcHI2YW1yMEljeG9jdE0xVG0zOW5HRXBIQlVTdEU0SDlDRFE0QWk5U2Q1YmZyYmZ3S3hSSkhMYWJOVl80aVJ0SDFtRks2WEQtV2wzNWdwbllGR1gtVlpQamJialJVOV9ZTjlFYko2Q9IB0AFBVV95cUxOUm91QjlWQ0tSRVFrM20wc28xb08tVkhtZE10VmxFTFcyTldZb1ZJRVFGVWY4NllhaW1lWG96QndSZUlhdXJHMTMyb19ZOW1GZHpUTWtRY2xrclVGN0xZLWc4YmJwc3pxdk1uV0xkRFJOMEhQRUppNFh4cW9XdVBSOHktcUl0ZGpvZGFaNEI2a2g5NDNQZWFtal9xNVE2bUxrN2lVeHF5RlZULUhkQnBiNFpyWWQ3ZW1ZMHByOGYtLXBWOEpnQlhYQ042eFFBOE9o?oc=5",
-      "summary": "Hantavirus patients discharged from Emory Hospital &nbsp;&nbsp; WSB-TV",
-      "source": "WSB-TV"
-    },
-    {
-      "title": "Hantavirus: US has no cases of Andes hantavirus - ABC7 Los Angeles",
-      "published": "Fri, 15 May 2026 23:16:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWUxZ2dqd21RbmhLM25NRXpYWmVSNGwybk1RNHY0ZzhQRklFaVd6akw4ZEdQdlFSTWtEY2tWczkxdmpfY3BXQ2RTaXo4a0pBMlNqQjc0bnQ4NmItM29tR1pzZDB6bUNkazBMTENhckhlZFFCZzlaMTVBQ0d3dHVKTkNRLTJLV3d0S0JoRTNXTkdtRkQ5Y0hYOVJn?oc=5",
-      "summary": "Hantavirus: US has no cases of Andes hantavirus &nbsp;&nbsp; ABC7 Los Angeles",
-      "source": "ABC7 Los Angeles"
     }
   ],
   "usHistoric": {
@@ -464,10 +499,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-16T17:41:06.342059Z",
+    "timestamp": "2026-05-16T18:39:05.902164Z",
     "who": 0,
     "promed": 0,
-    "news": 44,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
