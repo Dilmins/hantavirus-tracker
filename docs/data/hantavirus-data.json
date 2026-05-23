@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-23T11:53:59.782585Z",
+  "lastUpdated": "2026-05-23T12:57:18.856300Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
-  "newsCount": 43,
+  "locationsTracked": 7,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -89,7 +89,7 @@
           "title": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 - NBC News",
           "published": "Thu, 21 May 2026 16:03:50 GMT",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMngxR01GbXROaGt6ODNrVEM2UEduZkp3Zms5SFI4YlByRUlpOUc2YXRiTC1IRTRYUHVpU19oUzA4aE9UMnM1bk8zSVRYaTRyWVNkLWFfLTNqTWdBNi10dzlMOVdSUlE5Q2hHdHZyc2ZIN1I2TXNWdjVBUGFpMVhZMVM0b0dCcFpGdWlGM1l4Y1EwTkZldDRuSEI2bExJVU5MU2wyS1RPcTQ4VkNLWW1ENTRhT1BzcVlubVE?oc=5",
-          "summary": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 &nbsp;&nbsp; NBC News",
+          "summary": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 &nbsp;&nbsp; NBC News American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
           "source": "NBC News"
         },
         {
@@ -122,19 +122,18 @@
         }
       ],
       "sources": [
-        "PBS",
-        "Colorado Public Radio",
-        "CBS News",
-        "The Colorado Sun",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "CIDRAP",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "The Hill",
-        "AP News",
         "NBC News",
-        "The Atlantic"
+        "AP News",
+        "CBS News",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The Colorado Sun",
+        "Colorado Public Radio",
+        "PBS"
       ],
-      "alertCount": 13
+      "alertCount": 11
     },
     {
       "country": "USA",
@@ -149,18 +148,11 @@
           "source": "USA Today"
         },
         {
-          "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - Medical Xpress",
-          "published": "Sat, 23 May 2026 09:18:59 GMT",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhyTFdUSjg4OGVmdlNSQUs2bWxDS3d5TGRFUG5DRmpac3RpTnZDMFhPbGNxOFVJSG03WU1ZYnhtVTg3aWZ5TVZ3dkw0R1R5U1Fkd3lIM2czNTNIc3YtUWNyaHh4NlB6VDhMdDZaQjhhbWpJU05kOXNFc2JGN3plT0JwQ0RmenVlUHFFRG1zaw?oc=5",
-          "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; Medical Xpress",
-          "source": "Medical Xpress"
-        },
-        {
-          "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - Ottumwa Courier",
-          "published": "Sat, 23 May 2026 08:04:32 GMT",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTzVmNDRmSEpwcnJ5RENMSjVIMFZ2c3JSckwwSzQyYV9udm92Sy1Ua2V0OHdEU2xUQkpqbGw1MERQUV9rdDJTRmhpenB5NmJMU3RCcmdKYXpySi1iUkVmcnF6dUpwQ1VqSVozMXZfVW9rN2NzRzlBYnEyZTF1dEVhTXBfVVhzWUZVMUZ3ZFNjUkJWT3lBemQ5bWV5VTQ2aFo0WENfUmU4ZU5odTBpODlWa1hIcUgyRjZrS0ZTOEY3Y1Vtb0xwTC1NUUw1Y2JZZkxQTTFwNVA1OWt4V1RBRUF3eG5HVE5qTEVPeFcyUnAyNkdueW10V3VpSkZ4Tmt3b3ZkRzQwNS00MUJZMFAyQWdXVVZwMVVnb3lIYmFV?oc=5",
-          "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; Ottumwa Courier",
-          "source": "Ottumwa Courier"
+          "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - The Washington Post",
+          "published": "Sat, 23 May 2026 12:42:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWllQczI3OE1OYkJYTFZORnZoZ3dxUFBkcHZfVGNUODBlRkd4d2RzUWJuRksxUDN0dV9Pdi1DU1hiSFVaeGRoOVhuQkNtR0xnQVRfZERvUG1WRWVXdVpIWjhwcE14QXhxY1puMHk4RGc1SDg1RExkOHN1N3drR1c1N0pHT2VRemVTc2RnaU1sSVBhaGJXSjZLa2VEb3FkaUt0dXZQT29GdDBZWFRmTGFSTFdNX2pTMkVUMTNEbXpOM1lQaGpLTHptWS1NRDhsaHFrNnJ2RGpQdw?oc=5",
+          "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; The Washington Post",
+          "source": "The Washington Post"
         },
         {
           "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
@@ -185,12 +177,11 @@
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "USA Today",
         "Live Science",
-        "Ottumwa Courier"
+        "USA Today",
+        "The Washington Post"
       ],
-      "alertCount": 6
+      "alertCount": 5
     },
     {
       "country": "Pacific Ocean",
@@ -227,12 +218,30 @@
         }
       ],
       "sources": [
+        "Scientific American",
         "WSU Insider",
         "KATU",
-        "KOMO",
-        "Scientific American"
+        "KOMO"
       ],
       "alertCount": 4
+    },
+    {
+      "country": "Netherlands",
+      "lat": 52.13,
+      "lng": 5.29,
+      "alerts": [
+        {
+          "title": "WHO says 12th person infected with hantavirus detected in the Netherlands - Al Jazeera",
+          "published": "Fri, 22 May 2026 16:40:47 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkRYcVhEU28tbVZPYjdxQTRUMXFrczNlSEIwN3ZHdGRncG9UMWppaEVrOXp2cTNQOWctYVpmLU1CSTdPaXFGYWpsdXVsSE1fX1I5WWFKamRycUlqa3dHSExlZWtxOU9lejg1bHJvUkQ3YTU3WlczLWlxaTBXS1ZYaEc1UVFvdWlGMmxGN1RSTVlhcERSa24wcC1Gc3FfSzZYdmU2enpzZEhSZXlFSVhmaFVVMC3SAboBQVVfeXFMTW1BaEdIekxvWWhpUDg4b2xidGY4WWpaVWNzWjh1UTdOSVJJcnJtOVl4dUMzUkZmRndaMjlyVFRNSzVkZTRqNzcyeC1MZjc5a0VjUnVma3E1dGZobk0ySDFSaHZFWGtFOGl2SV93Y0liNEk3UjNuaEFCZjdzSUE4TFVlVzd6V1cxYXd4aWEwRDJ1V3hSTllKZHhxM1JqTlhJOUljbTladjFrcE9RU2paTThoak1URTZZLXlR?oc=5",
+          "summary": "WHO says 12th person infected with hantavirus detected in the Netherlands &nbsp;&nbsp; Al Jazeera",
+          "source": "Al Jazeera"
+        }
+      ],
+      "sources": [
+        "Al Jazeera"
+      ],
+      "alertCount": 1
     },
     {
       "country": "Argentina",
@@ -296,6 +305,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
       "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "Wed, 20 May 2026 12:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "summary": "Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
       "title": "Cruise ship hantavirus patients arrive in Europe for treatment - AP News",
@@ -385,7 +401,7 @@
       "title": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 - NBC News",
       "published": "Thu, 21 May 2026 16:03:50 GMT",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMngxR01GbXROaGt6ODNrVEM2UEduZkp3Zms5SFI4YlByRUlpOUc2YXRiTC1IRTRYUHVpU19oUzA4aE9UMnM1bk8zSVRYaTRyWVNkLWFfLTNqTWdBNi10dzlMOVdSUlE5Q2hHdHZyc2ZIN1I2TXNWdjVBUGFpMVhZMVM0b0dCcFpGdWlGM1l4Y1EwTkZldDRuSEI2bExJVU5MU2wyS1RPcTQ4VkNLWW1ENTRhT1BzcVlubVE?oc=5",
-      "summary": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 &nbsp;&nbsp; NBC News",
+      "summary": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 &nbsp;&nbsp; NBC News American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
       "source": "NBC News"
     },
     {
@@ -431,32 +447,18 @@
       "source": "CNN"
     },
     {
-      "title": "Why the quarantine for hantavirus is so long - The Washington Post",
-      "published": "Sat, 23 May 2026 10:34:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd19QN2JEZXBkWXZpcDhNS2ppb0lGLXFnejJNT3Qzc3EyMDB1QTNTYzBMWlFqcWp1SUpLZXltT1hNaEFMMnBGcW9JV08yWWlXYlAtR1lwUDJ4NThPRkJPUGlVaTIyVS1LdFdlbTRSeHlicmw0ZURsbldRRXZkMjJVb0swUDJZaFdBa3lZOEkyZXdBdw?oc=5",
-      "summary": "Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
+      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - The Washington Post",
+      "published": "Sat, 23 May 2026 12:42:54 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWllQczI3OE1OYkJYTFZORnZoZ3dxUFBkcHZfVGNUODBlRkd4d2RzUWJuRksxUDN0dV9Pdi1DU1hiSFVaeGRoOVhuQkNtR0xnQVRfZERvUG1WRWVXdVpIWjhwcE14QXhxY1puMHk4RGc1SDg1RExkOHN1N3drR1c1N0pHT2VRemVTc2RnaU1sSVBhaGJXSjZLa2VEb3FkaUt0dXZQT29GdDBZWFRmTGFSTFdNX2pTMkVUMTNEbXpOM1lQaGpLTHptWS1NRDhsaHFrNnJ2RGpQdw?oc=5",
+      "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; The Washington Post",
       "source": "The Washington Post"
     },
     {
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - Medical Xpress",
-      "published": "Sat, 23 May 2026 09:18:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSGhyTFdUSjg4OGVmdlNSQUs2bWxDS3d5TGRFUG5DRmpac3RpTnZDMFhPbGNxOFVJSG03WU1ZYnhtVTg3aWZ5TVZ3dkw0R1R5U1Fkd3lIM2czNTNIc3YtUWNyaHh4NlB6VDhMdDZaQjhhbWpJU05kOXNFc2JGN3plT0JwQ0RmenVlUHFFRG1zaw?oc=5",
-      "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; Medical Xpress",
-      "source": "Medical Xpress"
-    },
-    {
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - Ottumwa Courier",
-      "published": "Sat, 23 May 2026 08:04:32 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTzVmNDRmSEpwcnJ5RENMSjVIMFZ2c3JSckwwSzQyYV9udm92Sy1Ua2V0OHdEU2xUQkpqbGw1MERQUV9rdDJTRmhpenB5NmJMU3RCcmdKYXpySi1iUkVmcnF6dUpwQ1VqSVozMXZfVW9rN2NzRzlBYnEyZTF1dEVhTXBfVVhzWUZVMUZ3ZFNjUkJWT3lBemQ5bWV5VTQ2aFo0WENfUmU4ZU5odTBpODlWa1hIcUgyRjZrS0ZTOEY3Y1Vtb0xwTC1NUUw1Y2JZZkxQTTFwNVA1OWt4V1RBRUF3eG5HVE5qTEVPeFcyUnAyNkdueW10V3VpSkZ4Tmt3b3ZkRzQwNS00MUJZMFAyQWdXVVZwMVVnb3lIYmFV?oc=5",
-      "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; Ottumwa Courier",
-      "source": "Ottumwa Courier"
-    },
-    {
-      "title": "Hantavirus, Type II Diabetes Trial, Maricopa Community College Funding - Arizona PBS",
-      "published": "Sat, 23 May 2026 07:07:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbENTdmFsb1RicDV4eE5neFVDV3VtYVdGelVXbjNxVXJCLXpSQm1ISlZCTjBwS2Rqdnh6a0ZHV19lTGVOaVExdTRFQ2lGTXAxblJZcUNLaXlhRGVvYlp5SW9KLVdTa2R1dTA0ZnozeUhXbUFYUVphQzJ3bFN1bHRGYkNVTjdCc2M5SGdrTU5xRWwtdXoybzhhSUR1U1M0UENBcDZJOTB3?oc=5",
-      "summary": "Hantavirus, Type II Diabetes Trial, Maricopa Community College Funding &nbsp;&nbsp; Arizona PBS",
-      "source": "Arizona PBS"
+      "title": "Why the quarantine for hantavirus is so long - The Washington Post",
+      "published": "Sat, 23 May 2026 12:04:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd19QN2JEZXBkWXZpcDhNS2ppb0lGLXFnejJNT3Qzc3EyMDB1QTNTYzBMWlFqcWp1SUpLZXltT1hNaEFMMnBGcW9JV08yWWlXYlAtR1lwUDJ4NThPRkJPUGlVaTIyVS1LdFdlbTRSeHlicmw0ZURsbldRRXZkMjJVb0swUDJZaFdBa3lZOEkyZXdBdw?oc=5",
+      "summary": "Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
+      "source": "The Washington Post"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -499,6 +501,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU0UyRDVUdWNmS2ltLVk3VzllSUd4Z05yeFRwSnctTXZUNDNkemxIbC1QcDFKZkU0azhQeFhnb1lzNGx4VUpVVUM5UFBYYkRnNjA0XzQ4dFJRdHBGWWE1M19oZWdVYVpHZTlRMVlxcDc2ZVFhS0dEcDlXTzZqVXU2UldkWW5ZN3h6ZHh0OWxveG9ZTWdST0oyOXNJYTlxQdIBsgFBVV95cUxPVE1Da1d3SlFiZVlrUmZZeWhLY2t1UlVNQWU3dEpxd29peWhsZ0RzUXZDX0RwOWR4Sk1tWlIxUEx5SnFJZ2JFNlMzdC1tQlNwNHR2ZGFRR3VzbmU4MjRYWHlJWFUyLWxWWDhiV0xPSWxUeE4yVzVJSFJjWkZhaURKbVNKWU9OV1EzT0w1SDRGa2tKa2NzdEJVajhjX1VvVXREQlpoT1otYm5ZeUhNdUxocVZn?oc=5",
       "summary": "Health leaders offer safety tips after Colorado hantavirus death &nbsp;&nbsp; KKTV",
       "source": "KKTV"
+    },
+    {
+      "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
+      "published": "Mon, 18 May 2026 09:55:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
+      "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
+      "source": "CBS News"
     }
   ],
   "usHistoric": {
@@ -528,10 +537,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-23T11:53:59.782594Z",
+    "timestamp": "2026-05-23T12:57:18.856312Z",
     "who": 0,
     "promed": 0,
-    "news": 43,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
