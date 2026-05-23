@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T19:49:01.470865Z",
+  "lastUpdated": "2026-05-23T20:38:21.892337Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "news.cgtn.com",
-        "BBC",
+        "The New York Times",
+        "CBS News",
+        "Colorado Public Radio",
         "KDVR",
-        "The Colorado Sun",
-        "The Hill",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "PBS",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The Colorado Sun",
+        "news.cgtn.com",
         "CIDRAP",
         "NBC News",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CBS News",
-        "The New York Times",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Colorado Public Radio"
+        "The Hill",
+        "BBC"
       ],
       "alertCount": 15
     },
@@ -180,9 +180,9 @@
         }
       ],
       "sources": [
-        "USA Today",
         "Live Science",
-        "AP News"
+        "AP News",
+        "USA Today"
       ],
       "alertCount": 5
     },
@@ -353,6 +353,13 @@
       "source": "KOMO"
     },
     {
+      "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
+      "published": "Thu, 21 May 2026 20:19:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5",
+      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR",
+      "source": "NPR"
+    },
+    {
       "title": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 - NBC News",
       "published": "Thu, 21 May 2026 16:03:50 GMT",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMngxR01GbXROaGt6ODNrVEM2UEduZkp3Zms5SFI4YlByRUlpOUc2YXRiTC1IRTRYUHVpU19oUzA4aE9UMnM1bk8zSVRYaTRyWVNkLWFfLTNqTWdBNi10dzlMOVdSUlE5Q2hHdHZyc2ZIN1I2TXNWdjVBUGFpMVhZMVM0b0dCcFpGdWlGM1l4Y1EwTkZldDRuSEI2bExJVU5MU2wyS1RPcTQ4VkNLWW1ENTRhT1BzcVlubVE?oc=5",
@@ -365,13 +372,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
       "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
       "source": "Medical Xpress"
-    },
-    {
-      "title": "COVID is shaping Americans' reaction to Ebola and hantavirus - NPR",
-      "published": "Thu, 21 May 2026 09:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlUdGMzNV9aelhBVzh0bGxSYnN0V0toREtuelNIQ2wwSUE5YVRkWGI0VDhKNHhSNkVadGdreVlwVE5fd2dGQWVXMW9ablktZEF0YjkwaURPM2g1U3RVZWY1ZmtXWFcwb0s4WWtBMUpBNGhtN1E0bWRmYW1UamZScWFVRWtscEVCaUE?oc=5",
-      "summary": "COVID is shaping Americans' reaction to Ebola and hantavirus &nbsp;&nbsp; NPR",
-      "source": "NPR"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -506,7 +506,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-23T19:49:01.470874Z",
+    "timestamp": "2026-05-23T20:38:21.892353Z",
     "who": 0,
     "promed": 0,
     "news": 40,
