@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T11:42:03.752931Z",
+  "lastUpdated": "2026-05-24T12:46:15.863389Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "CBS News",
-        "Colorado Public Radio",
         "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "PBS",
-        "The Colorado Sun",
-        "NBC News",
-        "The Hill",
-        "TODAY.com",
         "ABC News - Breaking News, Latest News and Videos",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "NBC News",
+        "The Colorado Sun",
+        "Colorado Public Radio",
+        "CBS News",
+        "The Hill",
         "BBC",
+        "PBS",
+        "TODAY.com",
         "The New York Times"
       ],
       "alertCount": 14
@@ -173,8 +173,8 @@
       ],
       "sources": [
         "USA Today",
-        "AP News",
-        "Live Science"
+        "Live Science",
+        "AP News"
       ],
       "alertCount": 4
     },
@@ -206,9 +206,9 @@
         }
       ],
       "sources": [
-        "Yahoo",
+        "Medical Xpress",
         "KATU",
-        "Medical Xpress"
+        "Yahoo"
       ],
       "alertCount": 3
     },
@@ -371,6 +371,13 @@
       "source": "USA Today"
     },
     {
+      "title": "WHO head tells countries to prepare for more hantavirus cases - The Guardian",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1RFNVFzOGFiUnpFbl94b3pKaXdCc2xEMkZPT2pVdVVtclNxYmx1MUx1ZXB6bGcwZzNVSDJGaVI5c2VUSllFNTc4cVdJemI0RnF0UDBnT3h1cU9pRlJZci0yTmZxTTIxd2pWbUhUeXE5TGlZM0R5b29nSGdBWENlYWh2LXNoRTY0d3VJcGQ3a3g1YW42VEZPbldkWmJLdXo3X0E?oc=5",
+      "summary": "WHO head tells countries to prepare for more hantavirus cases &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
+    },
+    {
       "title": "Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures - The New York Times",
       "published": "Thu, 21 May 2026 23:55:24 GMT",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmdiMUpQZm90UkJ4T3BLdzdPQk90QmV3emhrWFZ6UmZuNjJYMU9RSC01RnFFalZUcXlNWXJlNFJKZ2hPMnJ0bVU1WFVHUzlIbWFyTW5lRDZJQlBLMjRGalRGMFVSMTMxZk00LXdvLWUzeHA3NUFQdG8ydHduZVBXbzlR?oc=5",
@@ -488,13 +495,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
       "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
       "source": "Live Science"
-    },
-    {
-      "title": "Fatal Colorado hantavirus case not linked to cruise ship, officials say - The Hill",
-      "published": "Mon, 18 May 2026 20:39:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWpOWGd0ekhGbDhyOE1uNTZQM1FuOHNoeTlKWnQ2ZFJHaGRhczNfUzlhMDVBX2QtRGhtbHM5dEFUb2JCYkhmY1RTRTFmRDIwMWk0MUR3WmhPcF91ZTZ1NUVSWFV2VHJvblg1VkVFSGJvaEhfLVhEZmp2RUQtbE9WOW81NWNoMDlnU2VEY01Vb1RPTUXSAZgBQVVfeXFMT3hrTU8xMlByVHM5d3RNdk9uZUUzX3RVU3g4QWV1eWNpWkRMZGN6SGQySzVVbVFPYzhVYUNCUU9kQXdSRE10S2wwQlFEd25WUEVDb3VZR0t0X2ktU3dGRE9ZM3VtMURfczYxYmZmS3IwaFBDeXM1NjJUeTBZY1BqWlRiUnRmd3dlbmJEcWlNdTB6TnhPUFh5T2k?oc=5",
-      "summary": "Fatal Colorado hantavirus case not linked to cruise ship, officials say &nbsp;&nbsp; The Hill",
-      "source": "The Hill"
     }
   ],
   "usHistoric": {
@@ -524,7 +524,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-24T11:42:03.752946Z",
+    "timestamp": "2026-05-24T12:46:15.863407Z",
     "who": 0,
     "promed": 0,
     "news": 41,
