@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-24T14:20:13.094382Z",
+  "lastUpdated": "2026-05-24T15:41:09.147989Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 8,
-  "newsCount": 41,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,21 +122,63 @@
         }
       ],
       "sources": [
-        "The Hill",
-        "ABC News - Breaking News, Latest News and Videos",
-        "NBC News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "PBS",
-        "The Colorado Sun",
-        "Anadolu Ajans\u0131",
-        "CBS News",
-        "The New York Times",
-        "BBC",
         "TODAY.com",
         "Colorado Public Radio",
-        "CIDRAP"
+        "The Hill",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Anadolu Ajans\u0131",
+        "NBC News",
+        "The New York Times",
+        "The Colorado Sun",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "CIDRAP",
+        "PBS",
+        "CBS News"
       ],
       "alertCount": 15
+    },
+    {
+      "country": "Pacific Ocean",
+      "lat": 0.0,
+      "lng": -160.0,
+      "alerts": [
+        {
+          "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Yahoo",
+          "published": "Thu, 21 May 2026 19:15:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEJPZHhUNkdvMm1sNDNxUUN6dXRUQm10Z2lkbUs2S204RnNDQUR2TktkV09WNE4wOUpGOHdNV1lEMXJWR0ZVenpSZFZ0VEowSmNkYWlQVkxEd2ZESmN6enZJQTY5MXVIeW50dk9WTUx2Z0hMTHVzSWFkNk1LRE1tY2dqLUFPWGJUdVBDbndWMGZJUWNvdDFEN1NmMUlwUkl3?oc=5",
+          "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Yahoo",
+          "source": "Yahoo"
+        },
+        {
+          "title": "High prevalence of hantavirus in some areas of the Pacific Northwest - Medical Xpress",
+          "published": "Thu, 21 May 2026 15:40:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
+          "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
+          "source": "Medical Xpress"
+        },
+        {
+          "title": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds - KTVZ",
+          "published": "Sun, 24 May 2026 04:39:22 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDc2NGhDWWtsdnR4WVA0QVlkZXQ2elB5eFMwdXZodzJuRTg3eGlYQkdtSlhLUXgyMkhmNDUzVXBVTkViVVJ3Z2hTNTFiV1k0WmR0VTdWR3JEUTlXRUZDRVpTSjd3YVVjMTFuNWljLVRQUDJVRHBpS0s5YmtOY04zOTRnZFdfZ1VLN1prN2V6ekJUMlliclV6MnJhU0xERW5PMnBaUmpWN2hmanVITGdleWNwcmRob05td015ZDZtWGJabWc?oc=5",
+          "summary": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds &nbsp;&nbsp; KTVZ",
+          "source": "KTVZ"
+        },
+        {
+          "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected - KATU",
+          "published": "Fri, 22 May 2026 00:35:42 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOMW1UVFV4RTRnVldFQnU2UzRGd2s4OGczNDV1RjZfZk1JNE1YZVNvOC1SODdQZy1mUXY2cEhxX1VaYkMzdjZhRWdacU1sbDdqYWJ0cXVuMTFqREVWdi1kVTBSbFREenF6WXVqTFh4ZEx2SUljaGhVZlgwMnRhTXByaG96WE9VMWF4R1VhZmdCRE1NRWl1TU5MRjliMS1qNGlkNVU3ekhWSk5DOU5TQ2pmV1FnbDNXaFBfNTZDaWdIOC1Sd09pekV6VjZ0R29FcGFJeEk3YjIxS01pU0M4cnl4eXE0S29XN2JLSzY0bUxDS0dhUjdZT1hpNjQyVVJmdDltREZ2NkFSRG9qaEhUamtDQmRucjdjOGxPUDFfYWRQMlVSRUw3VWh3eENmb2JoU2VvVVZOUG0xNC1vdnlueGlSSklzSWZrSWJpQ0E?oc=5",
+          "summary": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected &nbsp;&nbsp; KATU",
+          "source": "KATU"
+        }
+      ],
+      "sources": [
+        "KTVZ",
+        "Yahoo",
+        "KATU",
+        "Medical Xpress"
+      ],
+      "alertCount": 4
     },
     {
       "country": "USA",
@@ -166,42 +208,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
-      ],
-      "alertCount": 3
-    },
-    {
-      "country": "Pacific Ocean",
-      "lat": 0.0,
-      "lng": -160.0,
-      "alerts": [
-        {
-          "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Yahoo",
-          "published": "Thu, 21 May 2026 19:15:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEJPZHhUNkdvMm1sNDNxUUN6dXRUQm10Z2lkbUs2S204RnNDQUR2TktkV09WNE4wOUpGOHdNV1lEMXJWR0ZVenpSZFZ0VEowSmNkYWlQVkxEd2ZESmN6enZJQTY5MXVIeW50dk9WTUx2Z0hMTHVzSWFkNk1LRE1tY2dqLUFPWGJUdVBDbndWMGZJUWNvdDFEN1NmMUlwUkl3?oc=5",
-          "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
-        },
-        {
-          "title": "High prevalence of hantavirus in some areas of the Pacific Northwest - Medical Xpress",
-          "published": "Thu, 21 May 2026 15:40:06 GMT",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
-          "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
-          "source": "Medical Xpress"
-        },
-        {
-          "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected - KATU",
-          "published": "Fri, 22 May 2026 00:35:42 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOMW1UVFV4RTRnVldFQnU2UzRGd2s4OGczNDV1RjZfZk1JNE1YZVNvOC1SODdQZy1mUXY2cEhxX1VaYkMzdjZhRWdacU1sbDdqYWJ0cXVuMTFqREVWdi1kVTBSbFREenF6WXVqTFh4ZEx2SUljaGhVZlgwMnRhTXByaG96WE9VMWF4R1VhZmdCRE1NRWl1TU5MRjliMS1qNGlkNVU3ekhWSk5DOU5TQ2pmV1FnbDNXaFBfNTZDaWdIOC1Sd09pekV6VjZ0R29FcGFJeEk3YjIxS01pU0M4cnl4eXE0S29XN2JLSzY0bUxDS0dhUjdZT1hpNjQyVVJmdDltREZ2NkFSRG9qaEhUamtDQmRucjdjOGxPUDFfYWRQMlVSRUw3VWh3eENmb2JoU2VvVVZOUG0xNC1vdnlueGlSSklzSWZrSWJpQ0E?oc=5",
-          "summary": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected &nbsp;&nbsp; KATU",
-          "source": "KATU"
-        }
-      ],
-      "sources": [
-        "Medical Xpress",
-        "Yahoo",
-        "KATU"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 3
     },
@@ -382,17 +390,10 @@
       "source": "USA Today"
     },
     {
-      "title": "Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures - The New York Times",
-      "published": "Thu, 21 May 2026 23:55:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmdiMUpQZm90UkJ4T3BLdzdPQk90QmV3emhrWFZ6UmZuNjJYMU9RSC01RnFFalZUcXlNWXJlNFJKZ2hPMnJ0bVU1WFVHUzlIbWFyTW5lRDZJQlBLMjRGalRGMFVSMTMxZk00LXdvLWUzeHA3NUFQdG8ydHduZVBXbzlR?oc=5",
-      "summary": "Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
-    },
-    {
       "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
       "published": "Thu, 21 May 2026 20:19:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5",
-      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR",
+      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures &nbsp;&nbsp; The New York Times Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
       "source": "NPR"
     },
     {
@@ -452,11 +453,25 @@
       "source": "BBC"
     },
     {
+      "title": "Hantavirus is gaining ground in the US, startling researchers: \u2018Widespread and complex virus\u2019 - New York Post",
+      "published": "Sun, 24 May 2026 14:13:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOThlZWllWlVaNWdUTnFmY1JrMi03Sncza2JETXAyV0tVSEp3NlRoYllwVjZTQ1E2emFVOUx0ZVZDa0VqNENBajJUb2JRSVZmcURpSUg1eDhYcDVPZXBHa202d29oQmp4ODZjU1VlQnpZWDFlZnlhcXNKOEJPUnJZNTY1dlNmbGZZWkZxV2s1Y0F2cTdOQ1RraW1nYndBcHc?oc=5",
+      "summary": "Hantavirus is gaining ground in the US, startling researchers: \u2018Widespread and complex virus\u2019 &nbsp;&nbsp; New York Post",
+      "source": "New York Post"
+    },
+    {
       "title": "How Prepared Are We for a Public-Health Emergency? - The New Yorker",
       "published": "Sun, 24 May 2026 10:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjBOYnptOFFZMEJtVFNGQnlMNHg0cW1oRHdHMXE0Z2FiOGRLZ3h4TkVJeUdCT25NdzNQdURZMHZxWE1xUWlaRmRHb2REbnk1Q3g3VWx6c0lWVzd0OWNfdFFjYW9Jc3U5aUY1SktqLW90WGJRSkh2ZkZmeXdST195eTVTbFdTdTJOcFpsVHR2dHp0blpUeXp2d2tTZw?oc=5",
       "summary": "How Prepared Are We for a Public-Health Emergency? &nbsp;&nbsp; The New Yorker",
       "source": "The New Yorker"
+    },
+    {
+      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds - KTVZ",
+      "published": "Sun, 24 May 2026 04:39:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDc2NGhDWWtsdnR4WVA0QVlkZXQ2elB5eFMwdXZodzJuRTg3eGlYQkdtSlhLUXgyMkhmNDUzVXBVTkViVVJ3Z2hTNTFiV1k0WmR0VTdWR3JEUTlXRUZDRVpTSjd3YVVjMTFuNWljLVRQUDJVRHBpS0s5YmtOY04zOTRnZFdfZ1VLN1prN2V6ekJUMlliclV6MnJhU0xERW5PMnBaUmpWN2hmanVITGdleWNwcmRob05td015ZDZtWGJabWc?oc=5",
+      "summary": "A shocking number of Pacific Northwest rodents may carry hantavirus, study finds &nbsp;&nbsp; KTVZ",
+      "source": "KTVZ"
     },
     {
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
@@ -499,13 +514,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
       "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
       "source": "PBS"
-    },
-    {
-      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-      "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-      "source": "Live Science"
     }
   ],
   "usHistoric": {
@@ -535,10 +543,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-24T14:20:13.094394Z",
+    "timestamp": "2026-05-24T15:41:09.148001Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
