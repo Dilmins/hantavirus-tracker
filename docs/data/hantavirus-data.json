@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-05-24T12:46:15.863389Z",
+  "lastUpdated": "2026-05-24T14:20:13.094382Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 7,
+  "locationsTracked": 8,
   "newsCount": 41,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -122,20 +122,21 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "NBC News",
-        "The Colorado Sun",
-        "Colorado Public Radio",
-        "CBS News",
         "The Hill",
-        "BBC",
+        "ABC News - Breaking News, Latest News and Videos",
+        "NBC News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "PBS",
+        "The Colorado Sun",
+        "Anadolu Ajans\u0131",
+        "CBS News",
+        "The New York Times",
+        "BBC",
         "TODAY.com",
-        "The New York Times"
+        "Colorado Public Radio",
+        "CIDRAP"
       ],
-      "alertCount": 14
+      "alertCount": 15
     },
     {
       "country": "USA",
@@ -148,13 +149,6 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
           "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
           "source": "USA Today"
-        },
-        {
-          "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - AP News",
-          "published": "Sat, 23 May 2026 13:49:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMV9oSDhNOVo4cF82Y2ZZX0tDM0ZFMUpsTnRrT01KR0NxZFR3Ul9aWUh1dktuZDlFenVTUEp2Smx2S3d3X0FOS25keVNSNm5PZTN3XzVhVHZia204b0FKQ0tUaEs2RmdiN192S3hPQWJTLTlOZ2VlQ1Q4d3dCeWhuYm42Y0dkRFFhTVFpOE9Wb29uRTVCbHN4SkwzWEFqSXVOSnI5X2x1MA?oc=5",
-          "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; AP News",
-          "source": "AP News"
         },
         {
           "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
@@ -172,11 +166,10 @@
         }
       ],
       "sources": [
-        "USA Today",
         "Live Science",
-        "AP News"
+        "USA Today"
       ],
-      "alertCount": 4
+      "alertCount": 3
     },
     {
       "country": "Pacific Ocean",
@@ -207,10 +200,28 @@
       ],
       "sources": [
         "Medical Xpress",
-        "KATU",
-        "Yahoo"
+        "Yahoo",
+        "KATU"
       ],
       "alertCount": 3
+    },
+    {
+      "country": "Netherlands",
+      "lat": 52.13,
+      "lng": 5.29,
+      "alerts": [
+        {
+          "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
+          "published": "Sun, 17 May 2026 16:41:46 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
+          "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks &nbsp;&nbsp; Yahoo",
+          "source": "Yahoo"
+        }
+      ],
+      "sources": [
+        "Yahoo"
+      ],
+      "alertCount": 1
     },
     {
       "country": "India",
@@ -371,13 +382,6 @@
       "source": "USA Today"
     },
     {
-      "title": "WHO head tells countries to prepare for more hantavirus cases - The Guardian",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1RFNVFzOGFiUnpFbl94b3pKaXdCc2xEMkZPT2pVdVVtclNxYmx1MUx1ZXB6bGcwZzNVSDJGaVI5c2VUSllFNTc4cVdJemI0RnF0UDBnT3h1cU9pRlJZci0yTmZxTTIxd2pWbUhUeXE5TGlZM0R5b29nSGdBWENlYWh2LXNoRTY0d3VJcGQ3a3g1YW42VEZPbldkWmJLdXo3X0E?oc=5",
-      "summary": "WHO head tells countries to prepare for more hantavirus cases &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
-    },
-    {
       "title": "Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures - The New York Times",
       "published": "Thu, 21 May 2026 23:55:24 GMT",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmdiMUpQZm90UkJ4T3BLdzdPQk90QmV3emhrWFZ6UmZuNjJYMU9RSC01RnFFalZUcXlNWXJlNFJKZ2hPMnJ0bVU1WFVHUzlIbWFyTW5lRDZJQlBLMjRGalRGMFVSMTMxZk00LXdvLWUzeHA3NUFQdG8ydHduZVBXbzlR?oc=5",
@@ -448,6 +452,13 @@
       "source": "BBC"
     },
     {
+      "title": "How Prepared Are We for a Public-Health Emergency? - The New Yorker",
+      "published": "Sun, 24 May 2026 10:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjBOYnptOFFZMEJtVFNGQnlMNHg0cW1oRHdHMXE0Z2FiOGRLZ3h4TkVJeUdCT25NdzNQdURZMHZxWE1xUWlaRmRHb2REbnk1Q3g3VWx6c0lWVzd0OWNfdFFjYW9Jc3U5aUY1SktqLW90WGJRSkh2ZkZmeXdST195eTVTbFdTdTJOcFpsVHR2dHp0blpUeXp2d2tTZw?oc=5",
+      "summary": "How Prepared Are We for a Public-Health Emergency? &nbsp;&nbsp; The New Yorker",
+      "source": "The New Yorker"
+    },
+    {
       "title": "Mayday! SA scientists identified hantavirus outbreak in 24 hours - The Times of India",
       "published": "Sun, 24 May 2026 00:04:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaGRNTGp0QnJVOVdMcTI0N1o2SVc3YU9IbGlpeGxCUWRiUWZTeE16RUduTDhQUUMyY2tMUWtrRmtHOXEzd1JPZnk0cWwxd0tUT1dyV0dQcnMwMU1BSUR6SEtvaTJBT1k0VThGVE13Y0YwSmxVS01yUFFfQUJCSG5NeENpZ2RQMGVob3JqVVJBZEdSUVY3dXZSd2pRaTlYY3M5U2N4c1FkZm9aaEJUbEJpVFk5WWtHOWJKdVFPakx6TjROQ0N5dXJtTFRzTUVYX2xuekZEOEpiVVRoS2NvU1HSAeMBQVVfeXFMTmYxYVlMVy1UNm9pLTBBMEVvM3lHN0V0UDd4WXhBY093Z2tRemVrSlduMnBfUlMtaTdyOG1yUW9hOGE4OWV3a3lWRk1rZElLLVlZTXRJYTBzMHZQSDA3cGtXUmRSaF8ybkp4Uy1EUXd1TVJQdkN1VUFfTzFzVTAxUlFVMFowcEdXMnFLanJfWW5ndTQzNm5DTHJSQldfdjFRb3o2S3hzQ2pqNmlzQnpwVVZ1dDF2dnhWU1V1RW9kMDZnZGI3OHd4OFZYOHc3Q2NSeFNRZkJjQlNkTDl6RkRSSS00VWc?oc=5",
@@ -462,6 +473,13 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
+      "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
+      "published": "Sun, 17 May 2026 16:41:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
+      "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks &nbsp;&nbsp; Yahoo",
+      "source": "Yahoo"
+    },
+    {
       "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - CNN",
       "published": "Sun, 10 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMzgyMm1yWFlqRm1iTEwyWmFCY3h5VmpVREMxbXphMDdkb2hmSnJCQzdlRjBya3JrbXdiN1pDWjVwUHZzdkU4T0U2Sk13aVdONGhxTzN5dGwydFpNZ3hNN1Z5UVA1V1FlX2xFaUpoRkJ5VGdreXh1dFFReURSRGs?oc=5",
@@ -474,13 +492,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd19QN2JEZXBkWXZpcDhNS2ppb0lGLXFnejJNT3Qzc3EyMDB1QTNTYzBMWlFqcWp1SUpLZXltT1hNaEFMMnBGcW9JV08yWWlXYlAtR1lwUDJ4NThPRkJPUGlVaTIyVS1LdFdlbTRSeHlicmw0ZURsbldRRXZkMjJVb0swUDJZaFdBa3lZOEkyZXdBdw?oc=5",
       "summary": "Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
       "source": "The Washington Post"
-    },
-    {
-      "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away - AP News",
-      "published": "Sat, 23 May 2026 13:49:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMV9oSDhNOVo4cF82Y2ZZX0tDM0ZFMUpsTnRrT01KR0NxZFR3Ul9aWUh1dktuZDlFenVTUEp2Smx2S3d3X0FOS25keVNSNm5PZTN3XzVhVHZia204b0FKQ0tUaEs2RmdiN192S3hPQWJTLTlOZ2VlQ1Q4d3dCeWhuYm42Y0dkRFFhTVFpOE9Wb29uRTVCbHN4SkwzWEFqSXVOSnI5X2x1MA?oc=5",
-      "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; AP News",
-      "source": "AP News"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -524,7 +535,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-24T12:46:15.863407Z",
+    "timestamp": "2026-05-24T14:20:13.094394Z",
     "who": 0,
     "promed": 0,
     "news": 41,
