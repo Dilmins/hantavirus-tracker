@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T08:15:23.780111Z",
+  "lastUpdated": "2026-05-24T10:12:42.302440Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -100,6 +100,13 @@
           "source": "TODAY.com"
         },
         {
+          "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
+          "published": "Thu, 21 May 2026 20:19:09 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5",
+          "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR Hantavirus update: Nebraska officials awaiting CDC guidance on passengers\u2019 release &nbsp;&nbsp; WOWT Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post Americans exposed ",
+          "source": "NPR"
+        },
+        {
           "title": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 - NBC News",
           "published": "Thu, 21 May 2026 16:03:50 GMT",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMngxR01GbXROaGt6ODNrVEM2UEduZkp3Zms5SFI4YlByRUlpOUc2YXRiTC1IRTRYUHVpU19oUzA4aE9UMnM1bk8zSVRYaTRyWVNkLWFfLTNqTWdBNi10dzlMOVdSUlE5Q2hHdHZyc2ZIN1I2TXNWdjVBUGFpMVhZMVM0b0dCcFpGdWlGM1l4Y1EwTkZldDRuSEI2bExJVU5MU2wyS1RPcTQ4VkNLWW1ENTRhT1BzcVlubVE?oc=5",
@@ -112,31 +119,76 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WX3FzX3VwMlh5aWhGWFhKSWxrN3dlUDctSWpiVVNHeFZJM29qbUtJdWJYcGVJbGRVMGlzLVpUOTIyTTNKVUp2aHBLb2xhUENma0tvTUNLZ0llQQ?oc=5",
           "summary": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says &nbsp;&nbsp; BBC",
           "source": "BBC"
-        },
-        {
-          "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
-          "published": "Sun, 17 May 2026 20:26:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
-          "summary": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CBS News",
-        "BBC",
-        "The Hill",
-        "TODAY.com",
-        "The Colorado Sun",
-        "CIDRAP",
-        "PBS",
-        "NBC News",
-        "CNN",
         "Colorado Public Radio",
+        "PBS",
+        "Travel Weekly",
+        "The Colorado Sun",
+        "NPR",
+        "NBC News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "AP News",
-        "ABC News - Breaking News, Latest News and Videos"
+        "CIDRAP",
+        "CBS News",
+        "The Hill",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "BBC",
+        "TODAY.com"
       ],
-      "alertCount": 15
+      "alertCount": 17
+    },
+    {
+      "country": "Pacific Ocean",
+      "lat": 0.0,
+      "lng": -160.0,
+      "alerts": [
+        {
+          "title": "A shocking number of Pacific Northwest rodents may carry hantavirus - Scientific American",
+          "published": "Thu, 21 May 2026 19:15:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL?oc=5",
+          "summary": "A shocking number of Pacific Northwest rodents may carry hantavirus &nbsp;&nbsp; Scientific American",
+          "source": "Scientific American"
+        },
+        {
+          "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Yahoo",
+          "published": "Thu, 21 May 2026 19:15:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEJPZHhUNkdvMm1sNDNxUUN6dXRUQm10Z2lkbUs2S204RnNDQUR2TktkV09WNE4wOUpGOHdNV1lEMXJWR0ZVenpSZFZ0VEowSmNkYWlQVkxEd2ZESmN6enZJQTY5MXVIeW50dk9WTUx2Z0hMTHVzSWFkNk1LRE1tY2dqLUFPWGJUdVBDbndWMGZJUWNvdDFEN1NmMUlwUkl3?oc=5",
+          "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Yahoo",
+          "source": "Yahoo"
+        },
+        {
+          "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+          "published": "Thu, 21 May 2026 17:33:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
+          "summary": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+          "source": "WSU Insider"
+        },
+        {
+          "title": "High prevalence of hantavirus in some areas of the Pacific Northwest - Medical Xpress",
+          "published": "Thu, 21 May 2026 15:40:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
+          "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
+          "source": "Medical Xpress"
+        },
+        {
+          "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected - KATU",
+          "published": "Fri, 22 May 2026 00:35:42 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOMW1UVFV4RTRnVldFQnU2UzRGd2s4OGczNDV1RjZfZk1JNE1YZVNvOC1SODdQZy1mUXY2cEhxX1VaYkMzdjZhRWdacU1sbDdqYWJ0cXVuMTFqREVWdi1kVTBSbFREenF6WXVqTFh4ZEx2SUljaGhVZlgwMnRhTXByaG96WE9VMWF4R1VhZmdCRE1NRWl1TU5MRjliMS1qNGlkNVU3ekhWSk5DOU5TQ2pmV1FnbDNXaFBfNTZDaWdIOC1Sd09pekV6VjZ0R29FcGFJeEk3YjIxS01pU0M4cnl4eXE0S29XN2JLSzY0bUxDS0dhUjdZT1hpNjQyVVJmdDltREZ2NkFSRG9qaEhUamtDQmRucjdjOGxPUDFfYWRQMlVSRUw3VWh3eENmb2JoU2VvVVZOUG0xNC1vdnlueGlSSklzSWZrSWJpQ0E?oc=5",
+          "summary": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected &nbsp;&nbsp; KATU",
+          "source": "KATU"
+        }
+      ],
+      "sources": [
+        "Medical Xpress",
+        "KATU",
+        "Scientific American",
+        "Yahoo",
+        "WSU Insider"
+      ],
+      "alertCount": 5
     },
     {
       "country": "USA",
@@ -173,45 +225,11 @@
         }
       ],
       "sources": [
+        "AP News",
         "Live Science",
-        "USA Today",
-        "AP News"
+        "USA Today"
       ],
       "alertCount": 4
-    },
-    {
-      "country": "Pacific Ocean",
-      "lat": 0.0,
-      "lng": -160.0,
-      "alerts": [
-        {
-          "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Yahoo",
-          "published": "Thu, 21 May 2026 19:15:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEJPZHhUNkdvMm1sNDNxUUN6dXRUQm10Z2lkbUs2S204RnNDQUR2TktkV09WNE4wOUpGOHdNV1lEMXJWR0ZVenpSZFZ0VEowSmNkYWlQVkxEd2ZESmN6enZJQTY5MXVIeW50dk9WTUx2Z0hMTHVzSWFkNk1LRE1tY2dqLUFPWGJUdVBDbndWMGZJUWNvdDFEN1NmMUlwUkl3?oc=5",
-          "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
-        },
-        {
-          "title": "High prevalence of hantavirus in some areas of the Pacific Northwest - Medical Xpress",
-          "published": "Thu, 21 May 2026 15:40:06 GMT",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
-          "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
-          "source": "Medical Xpress"
-        },
-        {
-          "title": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected - KATU",
-          "published": "Fri, 22 May 2026 00:35:42 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOMW1UVFV4RTRnVldFQnU2UzRGd2s4OGczNDV1RjZfZk1JNE1YZVNvOC1SODdQZy1mUXY2cEhxX1VaYkMzdjZhRWdacU1sbDdqYWJ0cXVuMTFqREVWdi1kVTBSbFREenF6WXVqTFh4ZEx2SUljaGhVZlgwMnRhTXByaG96WE9VMWF4R1VhZmdCRE1NRWl1TU5MRjliMS1qNGlkNVU3ekhWSk5DOU5TQ2pmV1FnbDNXaFBfNTZDaWdIOC1Sd09pekV6VjZ0R29FcGFJeEk3YjIxS01pU0M4cnl4eXE0S29XN2JLSzY0bUxDS0dhUjdZT1hpNjQyVVJmdDltREZ2NkFSRG9qaEhUamtDQmRucjdjOGxPUDFfYWRQMlVSRUw3VWh3eENmb2JoU2VvVVZOUG0xNC1vdnlueGlSSklzSWZrSWJpQ0E?oc=5",
-          "summary": "Study finds deadly hantavirus more widespread in Pacific Northwest rodents than expected &nbsp;&nbsp; KATU",
-          "source": "KATU"
-        }
-      ],
-      "sources": [
-        "Yahoo",
-        "KATU",
-        "Medical Xpress"
-      ],
-      "alertCount": 3
     },
     {
       "country": "Netherlands",
@@ -219,33 +237,15 @@
       "lng": 5.29,
       "alerts": [
         {
-          "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
-          "published": "Sun, 17 May 2026 16:41:46 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
-          "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
+          "title": "WHO says 12th person infected with hantavirus detected in the Netherlands - Al Jazeera",
+          "published": "Fri, 22 May 2026 16:40:47 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYkRYcVhEU28tbVZPYjdxQTRUMXFrczNlSEIwN3ZHdGRncG9UMWppaEVrOXp2cTNQOWctYVpmLU1CSTdPaXFGYWpsdXVsSE1fX1I5WWFKamRycUlqa3dHSExlZWtxOU9lejg1bHJvUkQ3YTU3WlczLWlxaTBXS1ZYaEc1UVFvdWlGMmxGN1RSTVlhcERSa24wcC1Gc3FfSzZYdmU2enpzZEhSZXlFSVhmaFVVMC3SAboBQVVfeXFMTW1BaEdIekxvWWhpUDg4b2xidGY4WWpaVWNzWjh1UTdOSVJJcnJtOVl4dUMzUkZmRndaMjlyVFRNSzVkZTRqNzcyeC1MZjc5a0VjUnVma3E1dGZobk0ySDFSaHZFWGtFOGl2SV93Y0liNEk3UjNuaEFCZjdzSUE4TFVlVzd6V1cxYXd4aWEwRDJ1V3hSTllKZHhxM1JqTlhJOUljbTladjFrcE9RU2paTThoak1URTZZLXlR?oc=5",
+          "summary": "WHO says 12th person infected with hantavirus detected in the Netherlands &nbsp;&nbsp; Al Jazeera",
+          "source": "Al Jazeera"
         }
       ],
       "sources": [
-        "Yahoo"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Canary Islands",
-      "lat": 28.29,
-      "lng": -16.63,
-      "alerts": [
-        {
-          "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - CNN",
-          "published": "Sun, 10 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMzgyMm1yWFlqRm1iTEwyWmFCY3h5VmpVREMxbXphMDdkb2hmSnJCQzdlRjBya3JrbXdiN1pDWjVwUHZzdkU4T0U2Sk13aVdONGhxTzN5dGwydFpNZ3hNN1Z5UVA1V1FlX2xFaUpoRkJ5VGdreXh1dFFReURSRGs?oc=5",
-          "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus &nbsp;&nbsp; CNN",
-          "source": "CNN"
-        }
-      ],
-      "sources": [
-        "CNN"
+        "Al Jazeera"
       ],
       "alertCount": 1
     },
@@ -264,6 +264,24 @@
       ],
       "sources": [
         "The Guardian"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Canary Islands",
+      "lat": 28.29,
+      "lng": -16.63,
+      "alerts": [
+        {
+          "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - CNN",
+          "published": "Sun, 10 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMzgyMm1yWFlqRm1iTEwyWmFCY3h5VmpVREMxbXphMDdkb2hmSnJCQzdlRjBya3JrbXdiN1pDWjVwUHZzdkU4T0U2Sk13aVdONGhxTzN5dGwydFpNZ3hNN1Z5UVA1V1FlX2xFaUpoRkJ5VGdreXh1dFFReURSRGs?oc=5",
+          "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus &nbsp;&nbsp; CNN",
+          "source": "CNN"
+        }
+      ],
+      "sources": [
+        "CNN"
       ],
       "alertCount": 1
     },
@@ -293,6 +311,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
       "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "The hantavirus outbreak is a tragedy\u2014and a valuable data source - The Economist",
+      "published": "Wed, 20 May 2026 16:37:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2cyY1JBckhNYW5SYkg0Tk5jU0t0ZUZZbDdrdXQyRTlHWDBONFVueTV4RDdkLU5FanVWUnhEdXQ0M09iOEdlNkJjWGM1OEhwQkhPQ3VOLXlDa1FuQXB0bzlEYi0wci1MeTA0dDZWS2dSeHNNSi1Ub2hQQnF3STdONFRTd2lRMmVyaVV3bXVDcGZnSVYteWMtVzhLT1Z3dkNiNFcwdU9Hb3dKdGJSZUp2ckgtcEZWZ3R1Y0VRclRZdnY?oc=5",
+      "summary": "The hantavirus outbreak is a tragedy\u2014and a valuable data source &nbsp;&nbsp; The Economist",
+      "source": "The Economist"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
@@ -372,25 +397,18 @@
       "source": "USA Today"
     },
     {
-      "title": "WHO head tells countries to prepare for more hantavirus cases - The Guardian",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1RFNVFzOGFiUnpFbl94b3pKaXdCc2xEMkZPT2pVdVVtclNxYmx1MUx1ZXB6bGcwZzNVSDJGaVI5c2VUSllFNTc4cVdJemI0RnF0UDBnT3h1cU9pRlJZci0yTmZxTTIxd2pWbUhUeXE5TGlZM0R5b29nSGdBWENlYWh2LXNoRTY0d3VJcGQ3a3g1YW42VEZPbldkWmJLdXo3X0E?oc=5",
-      "summary": "WHO head tells countries to prepare for more hantavirus cases &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures - The New York Times",
-      "published": "Thu, 21 May 2026 23:55:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmdiMUpQZm90UkJ4T3BLdzdPQk90QmV3emhrWFZ6UmZuNjJYMU9RSC01RnFFalZUcXlNWXJlNFJKZ2hPMnJ0bVU1WFVHUzlIbWFyTW5lRDZJQlBLMjRGalRGMFVSMTMxZk00LXdvLWUzeHA3NUFQdG8ydHduZVBXbzlR?oc=5",
-      "summary": "Health Experts \u2018Stunned\u2019 by Trump Officials\u2019 Strict Quarantine Measures &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
-    },
-    {
       "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
       "published": "Thu, 21 May 2026 20:19:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5",
-      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR Hantavirus update: Nebraska officials awaiting CDC guidance on passengers\u2019 release &nbsp;&nbsp; WOWT Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post",
+      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR Hantavirus update: Nebraska officials awaiting CDC guidance on passengers\u2019 release &nbsp;&nbsp; WOWT Why the quarantine for hantavirus is so long &nbsp;&nbsp; The Washington Post Americans exposed ",
       "source": "NPR"
+    },
+    {
+      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus - Scientific American",
+      "published": "Thu, 21 May 2026 19:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL?oc=5",
+      "summary": "A shocking number of Pacific Northwest rodents may carry hantavirus &nbsp;&nbsp; Scientific American",
+      "source": "Scientific American"
     },
     {
       "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Yahoo",
@@ -398,6 +416,13 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEJPZHhUNkdvMm1sNDNxUUN6dXRUQm10Z2lkbUs2S204RnNDQUR2TktkV09WNE4wOUpGOHdNV1lEMXJWR0ZVenpSZFZ0VEowSmNkYWlQVkxEd2ZESmN6enZJQTY5MXVIeW50dk9WTUx2Z0hMTHVzSWFkNk1LRE1tY2dqLUFPWGJUdVBDbndWMGZJUWNvdDFEN1NmMUlwUkl3?oc=5",
       "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Yahoo",
       "source": "Yahoo"
+    },
+    {
+      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+      "published": "Thu, 21 May 2026 17:33:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
+      "summary": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+      "source": "WSU Insider"
     },
     {
       "title": "N.Y. man who was on hantavirus cruise ship says Nebraska isolation center feels like \u2018prison\u2019 - NBC News",
@@ -412,13 +437,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
       "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
       "source": "Medical Xpress"
-    },
-    {
-      "title": "COVID is shaping Americans' reaction to Ebola and hantavirus - NPR",
-      "published": "Thu, 21 May 2026 09:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlUdGMzNV9aelhBVzh0bGxSYnN0V0toREtuelNIQ2wwSUE5YVRkWGI0VDhKNHhSNkVadGdreVlwVE5fd2dGQWVXMW9ablktZEF0YjkwaURPM2g1U3RVZWY1ZmtXWFcwb0s4WWtBMUpBNGhtN1E0bWRmYW1UamZScWFVRWtscEVCaUE?oc=5",
-      "summary": "COVID is shaping Americans' reaction to Ebola and hantavirus &nbsp;&nbsp; NPR",
-      "source": "NPR"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -449,6 +467,13 @@
       "source": "BBC"
     },
     {
+      "title": "Hantavirus cases on expedition ship haven't impacted cruise sales or pricing - Travel Weekly",
+      "published": "Sun, 24 May 2026 04:30:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVV85WWdxd0hyc3hZZjlhSmpleUU4enVuM0ZTVndaVW0wTG1uZjRPbUdzRmtqR0NUMW5LTEp1T05tdEFnOTJZTDJKSF9vVmM2MEUtQjAtUENlVllOR0tOb3lPNmhSbUhBNVVWSUdvQ1hyTlg5cktaZ0Y1czc0bTRReHlzYUV1U205QTh3bzF0Yl9wbFpObllrc2NOS3VIZnM?oc=5",
+      "summary": "Hantavirus cases on expedition ship haven't impacted cruise sales or pricing &nbsp;&nbsp; Travel Weekly",
+      "source": "Travel Weekly"
+    },
+    {
       "title": "Ohioans should 'just generally stay tuned and not worry' about hantavirus, local experts agree - Toledo Blade",
       "published": "Sun, 24 May 2026 04:05:58 GMT",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV2U5b0FqX2s4UzBoaW1PYU9ISWR5T1RUMGtvQTNEZnIydGJCSTFNNXdsRU1KSktNenRHbnk2aEFweEhUVkQ4aGdYeUpJMEk5eGVNa0todGdSOHVRYmZZSHdUbHlaVm9yS3ZsbTE1a3dEMXpBaWpwdGt1c212R3JJT25SNnZsNzA4MVBrNE5FdTBBbk1IWk9YUlFyR2xOa2owZ3ZUdGxMbGx6aGxqaFp3R2dJb0txYlVmOUp2UU1fWHMxWDd3Y1lFd1I5UE01SGxaZjdtSjZTTVNaTE00TlJCaHp6N0ZKajA0OUJ2Y2RHNTNnTDM4QkE?oc=5",
@@ -461,13 +486,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
       "summary": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
-      "published": "Sun, 17 May 2026 16:41:46 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
-      "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks &nbsp;&nbsp; Yahoo",
-      "source": "Yahoo"
     },
     {
       "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - CNN",
@@ -525,7 +543,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-24T08:15:23.780130Z",
+    "timestamp": "2026-05-24T10:12:42.302452Z",
     "who": 0,
     "promed": 0,
     "news": 42,
