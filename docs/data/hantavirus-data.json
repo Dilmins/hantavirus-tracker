@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-24T23:50:53.576405Z",
+  "lastUpdated": "2026-05-25T02:12:25.796604Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 5,
-  "newsCount": 39,
+  "locationsTracked": 6,
+  "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "TODAY.com",
         "World Health Organization (WHO)",
-        "PBS",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "The Colorado Sun",
-        "Anadolu Ajans\u0131",
-        "NBC News",
-        "BBC",
         "ABC News - Breaking News, Latest News and Videos",
         "The New York Times",
         "CIDRAP",
-        "CBS News"
+        "CBS News",
+        "NBC News",
+        "PBS",
+        "TODAY.com",
+        "Anadolu Ajans\u0131",
+        "The Colorado Sun",
+        "BBC",
+        "Centers for Disease Control and Prevention | CDC (.gov)"
       ],
       "alertCount": 13
     },
@@ -172,9 +172,9 @@
         }
       ],
       "sources": [
+        "Live Science",
         "AP News",
-        "USA Today",
-        "Live Science"
+        "USA Today"
       ],
       "alertCount": 4
     },
@@ -198,19 +198,37 @@
           "source": "Scientific American"
         },
         {
-          "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
-          "published": "Thu, 21 May 2026 17:33:01 GMT",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-          "summary": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
-          "source": "WSU Insider"
+          "title": "High prevalence of hantavirus in some areas of the Pacific Northwest - Medical Xpress",
+          "published": "Thu, 21 May 2026 15:40:06 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
+          "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
+          "source": "Medical Xpress"
         }
       ],
       "sources": [
+        "Medical Xpress",
         "Scientific American",
-        "KOMO",
-        "WSU Insider"
+        "KOMO"
       ],
       "alertCount": 3
+    },
+    {
+      "country": "Taiwan",
+      "lat": 23.7,
+      "lng": 120.96,
+      "alerts": [
+        {
+          "title": "Third hantavirus case confirmed in Taiwan this year - Outbreak News Today",
+          "published": "Mon, 25 May 2026 01:23:58 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWllpT2xVcDJ1LXBGY0F4eVZGb3haRTRiSFg1ckpocGZ5Zl9IN1g5dTNqekNNenRhUGJPbXllSWwtTHpTY3JGRjdqVVRmV0ZqcHNNWE9ZcXNGUldXTUFZcXlyTmlGRHRMd1hjcGpkOENhTXNndUtVaUtCVDRCVGNSZg?oc=5",
+          "summary": "Third hantavirus case confirmed in Taiwan this year &nbsp;&nbsp; Outbreak News Today",
+          "source": "Outbreak News Today"
+        }
+      ],
+      "sources": [
+        "Outbreak News Today"
+      ],
+      "alertCount": 1
     },
     {
       "country": "Argentina",
@@ -293,13 +311,6 @@
       "source": "TODAY.com"
     },
     {
-      "title": "Hantavirus Death Confirmed in Colorado as Health Officials Launch Investigation - People.com",
-      "published": "Tue, 19 May 2026 13:50:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95bWdPV0RJblN6Qkd1ZGJ6a0RhM1RzLXdRY0poNGFaZmZCLUpyLU4zLVphN3pPQThGd1ZvZFU2UFc1NGV0TTB6MlFvRHNuX1dJVnlETGtCd0JyNkowZjUxcWJFZHVWbkxVTWpJQ2UtbW8tSWpS?oc=5",
-      "summary": "Hantavirus Death Confirmed in Colorado as Health Officials Launch Investigation &nbsp;&nbsp; People.com",
-      "source": "People.com"
-    },
-    {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Tue, 19 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
@@ -363,11 +374,11 @@
       "source": "Scientific American"
     },
     {
-      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
-      "published": "Thu, 21 May 2026 17:33:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
-      "summary": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
-      "source": "WSU Insider"
+      "title": "High prevalence of hantavirus in some areas of the Pacific Northwest - Medical Xpress",
+      "published": "Thu, 21 May 2026 15:40:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQckNzYmlQeUt1OHpaQ1pDUWZfSHNTSlhCUFBJelA5cDktbk9xUUVkWmJGM0E5ZmhHbXFHX1VzWVJhUjJ5amlhTlJFWml2ZUNudzhHYmJYUWV4X0w1c0RkWUdKVG1NcFRPQ3UweHJVSmgtQzAzYTBnUXlUM1I0TG5BR0JWNTh0aFNIWEVOQg?oc=5",
+      "summary": "High prevalence of hantavirus in some areas of the Pacific Northwest &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -419,13 +430,6 @@
       "source": "The Hill"
     },
     {
-      "title": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine - KSL.com",
-      "published": "Sun, 24 May 2026 15:28:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTN5QWVfRUdtYnRqMmRkeGZqenVWb3YtMUxmTEhQODg2TGYzeWVEUm10d0dOR2kzRVFNYlBPWC1DQ0gydHBYVG1QWktvR2NSOTNpQnpiMTVjS3h5WmlMN0w2enRYS1BTSVhTV29XM3dvNGNDRlFGN3M4b3E2dmdPM0JZX2ZLaDd6WVRMbFFuWFNfb21fSldDMXAtNTJZR0ZYMFlST0pGdXgxbWpKcFE5bEMxWWRWQTBBbHlER1JJTnU?oc=5",
-      "summary": "Americans exposed to hantavirus on ship enjoy Nebraska hospitality while in quarantine &nbsp;&nbsp; KSL.com",
-      "source": "KSL.com"
-    },
-    {
       "title": "Hantavirus is gaining ground in the US, startling researchers: \u2018Widespread and complex virus\u2019 - New York Post",
       "published": "Sun, 24 May 2026 14:13:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOThlZWllWlVaNWdUTnFmY1JrMi03Sncza2JETXAyV0tVSEp3NlRoYllwVjZTQ1E2emFVOUx0ZVZDa0VqNENBajJUb2JRSVZmcURpSUg1eDhYcDVPZXBHa202d29oQmp4ODZjU1VlQnpZWDFlZnlhcXNKOEJPUnJZNTY1dlNmbGZZWkZxV2s1Y0F2cTdOQ1RraW1nYndBcHc?oc=5",
@@ -459,6 +463,20 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMV9oSDhNOVo4cF82Y2ZZX0tDM0ZFMUpsTnRrT01KR0NxZFR3Ul9aWUh1dktuZDlFenVTUEp2Smx2S3d3X0FOS25keVNSNm5PZTN3XzVhVHZia204b0FKQ0tUaEs2RmdiN192S3hPQWJTLTlOZ2VlQ1Q4d3dCeWhuYm42Y0dkRFFhTVFpOE9Wb29uRTVCbHN4SkwzWEFqSXVOSnI5X2x1MA?oc=5",
       "summary": "How South African scientists identified hantavirus on a cruise ship thousands of miles away &nbsp;&nbsp; AP News",
       "source": "AP News"
+    },
+    {
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
+    },
+    {
+      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
+      "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
+      "source": "Live Science"
     }
   ],
   "usHistoric": {
@@ -488,10 +506,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-24T23:50:53.576418Z",
+    "timestamp": "2026-05-25T02:12:25.796621Z",
     "who": 0,
     "promed": 0,
-    "news": 39,
+    "news": 38,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
