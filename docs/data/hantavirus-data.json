@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-26T01:29:04.250419Z",
+  "lastUpdated": "2026-05-26T05:37:51.731657Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
-  "newsCount": 37,
+  "locationsTracked": 7,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -65,6 +65,13 @@
           "source": "AP News"
         },
         {
+          "title": "Hantavirus-Caused Cruise Ship Deaths Focus Attention on Disease Transmission, Prevention, and Global Alliance - Beyond Pesticides",
+          "published": "Tue, 26 May 2026 04:06:22 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmdDb24xVmtYMDE3SjVVbG1iekpaYVFuQ1dUdDFPY29VWjZZbWxSWm4xN09EMU55cTAwV0U5VHZlcTRHQ0RkemdaNHhWcXhvNC1uVDBBOVpBUXlINWdGWWJqY2lncmJMUkRwRDFLOWl0alppbmFhOWdNWUhiU0tCVFdWVFl5TUxSUlBtSnZxNzhkN3F4bVNMZG1vMk5oWXEyZm51ZzZHZzVjZ3lEdzNKZnpWQW13clBGUkNVRVFzVUp1T3ZiVnJYa3JiSFJ1S2dRbE9RcVFZNDFYM0llMDIzOVBGa3BzbHlIS2FKUjBLdks?oc=5",
+          "summary": "Hantavirus-Caused Cruise Ship Deaths Focus Attention on Disease Transmission, Prevention, and Global Alliance &nbsp;&nbsp; Beyond Pesticides",
+          "source": "Beyond Pesticides"
+        },
+        {
           "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
           "published": "Tue, 19 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
@@ -107,45 +114,43 @@
           "source": "Denver7"
         },
         {
-          "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus - CBC",
-          "published": "Mon, 25 May 2026 21:00:37 GMT",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWRhSUJoQ0lTbnBQc2ZrMUN5dlE3OUF5WW9tSjVkWnFJOXY5ZktVb2xNOXZwQlVmN2hIbFlsYWgwYWU1OWZxOWVqNEZjWDY5ZWxXWi1KVTBIRDRsaGhJWk8wNFpOUXNtRjlaT3p0TzY0aHhzcjlSTDh6RnBCamNYLW10enlOM3hLWDc5dzZRVWdtNHprenFBTFBLaWYxQQ?oc=5",
-          "summary": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus &nbsp;&nbsp; CBC Spaniard evacuated from hantavirus ship tests positive &nbsp;&nbsp; RTE.ie Spanish government confirms new case of hantavirus &nbsp;&nbsp; NBC News",
-          "source": "CBC"
-        },
-        {
-          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-          "published": "Mon, 25 May 2026 18:28:56 GMT",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
-          "source": "CNN"
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - AOL.com",
+          "published": "Mon, 25 May 2026 11:38:36 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWo4bFJWcnN4cEprX0p4MkVndmV5NXdJcWJHUVp1RUFVbFFxbmRMR191ZTNvR0oxRmpqTFVQem90MkJXdUNCOFZ5cmE4ZjJON3c5SDlpODBIV3V6bGlZM3QyUVBXNHAyYkdLU0tISW5JQ0tnSWhmWE41d1NSUW9OSmNKSQ?oc=5",
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; AOL.com",
+          "source": "AOL.com"
         }
       ],
       "sources": [
-        "PBS",
-        "CNN",
+        "AOL.com",
+        "CBS News",
         "World Health Organization (WHO)",
         "ABC News - Breaking News, Latest News and Videos",
+        "PBS",
+        "Beyond Pesticides",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CIDRAP",
         "NBC News",
         "Anadolu Ajans\u0131",
-        "AP News",
-        "CBS News",
-        "TODAY.com",
-        "AOL.com",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "Denver7",
-        "CBC",
+        "AP News",
         "The Colorado Sun",
-        "Reuters",
-        "CIDRAP"
+        "TODAY.com"
       ],
-      "alertCount": 17
+      "alertCount": 15
     },
     {
       "country": "USA",
       "lat": 37.09,
       "lng": -95.71,
       "alerts": [
+        {
+          "title": "More hantavirus cases are expected, WHO chief says - USA Today",
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
+          "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
+          "source": "USA Today"
+        },
         {
           "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
           "published": "Sat, 09 May 2026 07:00:00 GMT",
@@ -161,13 +166,6 @@
           "source": "KUSA.com"
         },
         {
-          "title": "Hantavirus risk from rodents may be higher in Pacific Northwest - USA Today",
-          "published": "Fri, 22 May 2026 18:24:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjdDdThiRUZYY2ZDeEMweEdZOVlINUFYUVUyRjcxb0xhX0FGSW0tUXZkTG1nbHN4MkVORGZabndVTGhJcnNvMjRsY012c3pFZTEtY1N0aVN3NkdxUmFVWDlfT0luY2NZaHoxYUs0UFYyX3VSdGdrNEdydjBobWxFVERJaDFYcE1xZUEtWXlSV0RWckdnempfSmxIWmxjUHBxWk1CY1EzODlTMTlnRDBlRGpB?oc=5",
-          "summary": "Hantavirus risk from rodents may be higher in Pacific Northwest &nbsp;&nbsp; USA Today",
-          "source": "USA Today"
-        },
-        {
           "title": "Hantavirus being monitored in US. Latest on cruise ship outbreak - USA Today",
           "published": "Fri, 08 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlRaellHNWVFdHlvN3FwYUYtUGdVa3Jub1dIVmdhNUZrbWFXS3dvdDFhd1lIZzZSLWxVU1VkeVh3ZHdZWWhuTmh1Qk04LTdMMm1lMk5kQjFwV1U5LUJKZnZnOFJqUVRsX1U2S0lSbUZjQWV4a0lyN09SWlpCSWJLREl4ZC1wbFZqc05VREVubVBlYUhKMWJpSEpOY0lOeDB5Q3hpVm4yRXo5S0NHNmRrSnZKRUtUWUprWmc?oc=5",
@@ -176,29 +174,37 @@
         }
       ],
       "sources": [
+        "KUSA.com",
         "USA Today",
-        "Live Science",
-        "KUSA.com"
+        "Live Science"
       ],
       "alertCount": 4
     },
     {
-      "country": "Netherlands",
-      "lat": 52.13,
-      "lng": 5.29,
+      "country": "Pacific Ocean",
+      "lat": 0.0,
+      "lng": -160.0,
       "alerts": [
         {
-          "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
-          "published": "Sat, 23 May 2026 18:17:56 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
-          "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
+          "title": "A shocking number of Pacific Northwest rodents may carry hantavirus - Scientific American",
+          "published": "Thu, 21 May 2026 19:15:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL?oc=5",
+          "summary": "A shocking number of Pacific Northwest rodents may carry hantavirus &nbsp;&nbsp; Scientific American",
+          "source": "Scientific American"
+        },
+        {
+          "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+          "published": "Thu, 21 May 2026 17:33:01 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
+          "summary": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+          "source": "WSU Insider"
         }
       ],
       "sources": [
-        "Yahoo"
+        "WSU Insider",
+        "Scientific American"
       ],
-      "alertCount": 1
+      "alertCount": 2
     },
     {
       "country": "Spain",
@@ -206,15 +212,15 @@
       "lng": -3.75,
       "alerts": [
         {
-          "title": "Health ministry confirms another hantavirus case in Spain - Euronews",
-          "published": "Mon, 25 May 2026 17:50:43 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnJBUnpjNzdub24xTElYT3pFSUllWW1rVHBPRDRWNE5hV1BnLTRDNjE4QTN5UXRRbHFKaEE0RUNTQzRxN2xDdW9CYk9GdkZScURuZXlweHZCLWVDLXljaEQ4Q20tQnlBUHRlYVRUd3pKTGk4dkxrRFgyczRxSXBYOFBDc09pZEZubE1vWUhDeTVuM1Z1cEFncm1KZXJqTDUzRzFQVVdNV01CZm1JYm4zOG43NkJ6a2VkdC1IRmNSXzFwaWFzaXBrVGktcw?oc=5",
-          "summary": "Health ministry confirms another hantavirus case in Spain &nbsp;&nbsp; Euronews",
-          "source": "Euronews"
+          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
+          "published": "Mon, 25 May 2026 18:28:56 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
+          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN Spanish national evacuated from hantavirus cruise ship tests positive &nbsp;&nbsp; Reuters Spanish government confirms new case of hantavirus &nbsp;&nbsp; NBC News Spanish passenger from the MV Hondius cruise s",
+          "source": "CNN"
         }
       ],
       "sources": [
-        "Euronews"
+        "CNN"
       ],
       "alertCount": 1
     },
@@ -233,6 +239,24 @@
       ],
       "sources": [
         "The Guardian"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "lat": 52.13,
+      "lng": 5.29,
+      "alerts": [
+        {
+          "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks - Yahoo",
+          "published": "Sat, 23 May 2026 18:17:56 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
+          "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks &nbsp;&nbsp; Yahoo",
+          "source": "Yahoo"
+        }
+      ],
+      "sources": [
+        "Yahoo"
       ],
       "alertCount": 1
     },
@@ -285,6 +309,20 @@
       "source": "The Guardian"
     },
     {
+      "title": "Hantavirus-Caused Cruise Ship Deaths Focus Attention on Disease Transmission, Prevention, and Global Alliance - Beyond Pesticides",
+      "published": "Tue, 26 May 2026 04:06:22 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSmdDb24xVmtYMDE3SjVVbG1iekpaYVFuQ1dUdDFPY29VWjZZbWxSWm4xN09EMU55cTAwV0U5VHZlcTRHQ0RkemdaNHhWcXhvNC1uVDBBOVpBUXlINWdGWWJqY2lncmJMUkRwRDFLOWl0alppbmFhOWdNWUhiU0tCVFdWVFl5TUxSUlBtSnZxNzhkN3F4bVNMZG1vMk5oWXEyZm51ZzZHZzVjZ3lEdzNKZnpWQW13clBGUkNVRVFzVUp1T3ZiVnJYa3JiSFJ1S2dRbE9RcVFZNDFYM0llMDIzOVBGa3BzbHlIS2FKUjBLdks?oc=5",
+      "summary": "Hantavirus-Caused Cruise Ship Deaths Focus Attention on Disease Transmission, Prevention, and Global Alliance &nbsp;&nbsp; Beyond Pesticides",
+      "source": "Beyond Pesticides"
+    },
+    {
+      "title": "Acting NIAID chief steps down amid Ebola, hantavirus concerns - Medical Xpress",
+      "published": "Tue, 26 May 2026 03:20:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VQWxVbk1BcTVoQmdyVkY5YkNFU016eFNkYnpHS1N3dXNIdWo3UmhtYXo1NzlEWGVHU25BdVpESlhFbDA2bFlUeGFwcFJlTHJnVTYtUnMxaEtidjE2dHJNRHBhcXpteVl6VkhfaWNEV0oyZ3NCeWxid0FQOUc?oc=5",
+      "summary": "Acting NIAID chief steps down amid Ebola, hantavirus concerns &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress"
+    },
+    {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Tue, 19 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
@@ -306,11 +344,32 @@
       "source": "Stanford Medicine"
     },
     {
+      "title": "More hantavirus cases are expected, WHO chief says - USA Today",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
+      "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
+      "source": "USA Today"
+    },
+    {
       "title": "WHO head tells countries to prepare for more hantavirus cases - The Guardian",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV1RFNVFzOGFiUnpFbl94b3pKaXdCc2xEMkZPT2pVdVVtclNxYmx1MUx1ZXB6bGcwZzNVSDJGaVI5c2VUSllFNTc4cVdJemI0RnF0UDBnT3h1cU9pRlJZci0yTmZxTTIxd2pWbUhUeXE5TGlZM0R5b29nSGdBWENlYWh2LXNoRTY0d3VJcGQ3a3g1YW42VEZPbldkWmJLdXo3X0E?oc=5",
       "summary": "WHO head tells countries to prepare for more hantavirus cases &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
+    },
+    {
+      "title": "A shocking number of Pacific Northwest rodents may carry hantavirus - Scientific American",
+      "published": "Thu, 21 May 2026 19:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL?oc=5",
+      "summary": "A shocking number of Pacific Northwest rodents may carry hantavirus &nbsp;&nbsp; Scientific American",
+      "source": "Scientific American"
+    },
+    {
+      "title": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest - WSU Insider",
+      "published": "Thu, 21 May 2026 17:33:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3ZjdlQ3bjV4alloM1R6eThyZ2dKNGVnV2s4MjF1dk5rZ0ZicndDQkI4YUo3TVU2TlpsMU9uTDVCNFl3LWdCZDRrMW1jd0ZVb3l3dTZBTFh3YUtlbm9jRm5wS3UtSnQ1QlJUZHJLb1duZXQ1Snk5NXpwWHNlVnZiaG1HQ05CbEVwelBtZ3AxRHIwT0RhelN5X2l2WEw4bER2MjVRRWtUcHhQdnI0XzFDcjh6QXZYZkdKS0RWdWJ0Qlp4dWdHMEE?oc=5",
+      "summary": "WSU study finds high prevalence of hantavirus in some parts of Pacific Northwest &nbsp;&nbsp; WSU Insider",
+      "source": "WSU Insider"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -404,32 +463,11 @@
       "source": "Denver7"
     },
     {
-      "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus - CBC",
-      "published": "Mon, 25 May 2026 21:00:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWRhSUJoQ0lTbnBQc2ZrMUN5dlE3OUF5WW9tSjVkWnFJOXY5ZktVb2xNOXZwQlVmN2hIbFlsYWgwYWU1OWZxOWVqNEZjWDY5ZWxXWi1KVTBIRDRsaGhJWk8wNFpOUXNtRjlaT3p0TzY0aHhzcjlSTDh6RnBCamNYLW10enlOM3hLWDc5dzZRVWdtNHprenFBTFBLaWYxQQ?oc=5",
-      "summary": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus &nbsp;&nbsp; CBC Spaniard evacuated from hantavirus ship tests positive &nbsp;&nbsp; RTE.ie Spanish government confirms new case of hantavirus &nbsp;&nbsp; NBC News",
-      "source": "CBC"
-    },
-    {
       "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
       "published": "Mon, 25 May 2026 18:28:56 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-      "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
+      "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN Spanish national evacuated from hantavirus cruise ship tests positive &nbsp;&nbsp; Reuters Spanish government confirms new case of hantavirus &nbsp;&nbsp; NBC News Spanish passenger from the MV Hondius cruise s",
       "source": "CNN"
-    },
-    {
-      "title": "Spanish national evacuated from hantavirus cruise ship tests positive - Reuters",
-      "published": "Mon, 25 May 2026 18:18:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdG5aWm9aVUVPU1loQ0xlQnhZUHV4VmlmdzJ4bGtETVlRSUVELW9EUlE1T0tIX185QldQOHRneUNzZXB1cWxRazUxcmhZZlF2My1jMGpRSG5VODluNmxUU3luMUJCLVI4bGtfQXNaN0N5TjdicHRUcG1YT1R0VWc5c25vZDBiU0k2RlVCSHFvZkhYZGtiRFF4b3VEQTVndmtEYkRPeDZUekFpWWluRWJEN2dTcmRyZ3lpbFFiLUU0ekdTdU1YcjRiUm9Qb2NPOHBmQkE?oc=5",
-      "summary": "Spanish national evacuated from hantavirus cruise ship tests positive &nbsp;&nbsp; Reuters",
-      "source": "Reuters"
-    },
-    {
-      "title": "Health ministry confirms another hantavirus case in Spain - Euronews",
-      "published": "Mon, 25 May 2026 17:50:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnJBUnpjNzdub24xTElYT3pFSUllWW1rVHBPRDRWNE5hV1BnLTRDNjE4QTN5UXRRbHFKaEE0RUNTQzRxN2xDdW9CYk9GdkZScURuZXlweHZCLWVDLXljaEQ4Q20tQnlBUHRlYVRUd3pKTGk4dkxrRFgyczRxSXBYOFBDc09pZEZubE1vWUhDeTVuM1Z1cEFncm1KZXJqTDUzRzFQVVdNV01CZm1JYm4zOG43NkJ6a2VkdC1IRmNSXzFwaWFzaXBrVGktcw?oc=5",
-      "summary": "Health ministry confirms another hantavirus case in Spain &nbsp;&nbsp; Euronews",
-      "source": "Euronews"
     },
     {
       "title": "Hantavirus \u2018stable for now,\u2019 WHO leader says - The Independent",
@@ -439,13 +477,6 @@
       "source": "The Independent"
     },
     {
-      "title": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US - The Guardian",
-      "published": "Mon, 25 May 2026 12:57:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTG0yVEUycEoyZjAwdnlZaUo5Mlk0X1A3NjFEYzc4c3pBQ3ZBZ242eWpQY1FkTVBXMkgyT2dsMmpLVm4zcW9TYW5SbTFLY1poSml5ZFIyV09OV2V0QWVKa1RsZkZCQ3BYYlhvNlNIcnQzZ3dRaGNtX3lZeWhPMGpJSTNMR0V1Y1FmaU5icw?oc=5",
-      "summary": "Ebola and hantavirus outbreaks prompt raft of conspiracy theories in divided US &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
-    },
-    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - AOL.com",
       "published": "Mon, 25 May 2026 11:38:36 GMT",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWo4bFJWcnN4cEprX0p4MkVndmV5NXdJcWJHUVp1RUFVbFFxbmRMR191ZTNvR0oxRmpqTFVQem90MkJXdUNCOFZ5cmE4ZjJON3c5SDlpODBIV3V6bGlZM3QyUVBXNHAyYkdLU0tISW5JQ0tnSWhmWE41d1NSUW9OSmNKSQ?oc=5",
@@ -453,18 +484,11 @@
       "source": "AOL.com"
     },
     {
-      "title": "Hantavirus outbreak: WHO chief calls situation stable for the time being | NewsNation Prime - NewsNation",
-      "published": "Mon, 25 May 2026 00:29:31 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFJfbDNhM29wSlA2cGttNmhMT3dXMURQWmtwX3BPZmxXMy0yOTc4WFpoZ1R0Z0s4UzJzTHktcmQ0ejRzUTE4YklJRWNMbzRxYmVyOWEzVlhMajFpWEsxN2thM2N4U0YzLXhwZEljUVE5VlJNQWJEdkN1SjVaTGRXUGcxQ3YwQVBnUFlkdVJvVjhNYmhha2RURkJQaXZ5RlpMTFZTV2RLWE9yczFVeUVRaXI0UXNIbkowOVI1dkpPVjZWclhUV2t4N2o2OEQ4R2c?oc=5",
-      "summary": "Hantavirus outbreak: WHO chief calls situation stable for the time being | NewsNation Prime &nbsp;&nbsp; NewsNation",
-      "source": "NewsNation"
-    },
-    {
-      "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
-      "published": "Mon, 18 May 2026 20:02:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
-      "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
-      "source": "The Colorado Sun"
+      "title": "Utahns concerned about hantavirus outbreak: Poll - Deseret News",
+      "published": "Mon, 25 May 2026 03:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYzZveEhtLWg2aHBPWVdUUUp6bld5dUgyajYwOWlzMWJrQThheThUa3RDM2YtODBob3BoRmFCazNTRnhhTHlOOXpsMTJzZ0otUzd1YzN3OFNVTVVYblpjSjZTOTZkV18wVzZZYUFnTllEbUlmaXVnUmV5cXhhbHFndGx2YXE1RHExX0gyQ3dJdE1wNVpscjM0Z2lzek5hYXpUUnE5dzNWcEFYcXdtT2JaS0ZIcUhXdHZjWjhPalRMWnNwQ3hWeGlGbw?oc=5",
+      "summary": "Utahns concerned about hantavirus outbreak: Poll &nbsp;&nbsp; Deseret News",
+      "source": "Deseret News"
     }
   ],
   "usHistoric": {
@@ -494,10 +518,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-26T01:29:04.250431Z",
+    "timestamp": "2026-05-26T05:37:51.731669Z",
     "who": 0,
     "promed": 0,
-    "news": 37,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
