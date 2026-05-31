@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T11:54:18.241013Z",
+  "lastUpdated": "2026-05-31T13:10:37.266412Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CNN",
-        "CBS News",
         "The Guardian",
         "CIDRAP",
         "The Colorado Sun",
-        "BBC",
         "PBS",
-        "World Health Organization (WHO)",
+        "BBC",
         "Bloomberg.com",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CNN",
+        "CBS News",
+        "World Health Organization (WHO)",
         "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 12
@@ -197,8 +197,8 @@
         }
       ],
       "sources": [
-        "Reuters",
-        "Yahoo"
+        "Yahoo",
+        "Reuters"
       ],
       "alertCount": 2
     },
@@ -385,11 +385,11 @@
       "source": "USA Today"
     },
     {
-      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - The Portland Press Herald",
+      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - Portland Press Herald - Maine Sunday Telegram",
       "published": "Sun, 31 May 2026 08:34:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SjJaV28yai1CQTRQM1MwU1lscGpmOWctWklHeVdGaHJjQU50ZE1sR1MwSExDQmxDb3NjLUVJT3hoMFpZeGZMU2NoYVBQMGM?oc=5",
-      "summary": "Ebola, hantavirus and the warning America should not ignore | Opinion &nbsp;&nbsp; The Portland Press Herald",
-      "source": "The Portland Press Herald"
+      "summary": "Ebola, hantavirus and the warning America should not ignore | Opinion &nbsp;&nbsp; Portland Press Herald - Maine Sunday Telegram",
+      "source": "Portland Press Herald - Maine Sunday Telegram"
     },
     {
       "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
@@ -496,7 +496,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-31T11:54:18.241027Z",
+    "timestamp": "2026-05-31T13:10:37.266431Z",
     "who": 0,
     "promed": 0,
     "news": 39,
