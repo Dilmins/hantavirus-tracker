@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T17:05:32.342327Z",
+  "lastUpdated": "2026-05-31T18:16:32.011136Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "PBS",
-        "ABC News - Breaking News, Latest News and Videos",
-        "World Health Organization (WHO)",
-        "BBC",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CBS News",
-        "CNN",
-        "CIDRAP",
-        "AOL.com",
         "Bloomberg.com",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "CIDRAP",
+        "World Health Organization (WHO)",
+        "CBS News",
         "The Guardian",
-        "The Colorado Sun"
+        "PBS",
+        "CNN",
+        "The Colorado Sun",
+        "AOL.com"
       ],
       "alertCount": 13
     },
@@ -172,8 +172,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 4
     },
@@ -344,6 +344,13 @@
       "source": "AFP Fact Check"
     },
     {
+      "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
+      "published": "Thu, 21 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5",
+      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR",
+      "source": "NPR"
+    },
+    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -384,13 +391,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlZSeFN2bDFYRjVqYUpiNXNpNVB1cWVLOGZvRVFrZThiZjhjVC16ZWFQbzlvaU1kcnFZeFIzMWVUWFYwQkxEeUo1YnZsM2YwZHlrRlZsUUxfLV9rYVp6c2VPcnoxWEFDMU5keWFjTWwwOUtxQ09VeWxLVjFuWGlJYUZFeDYyWWtCZTNJQU1HQjlpZTJVUWV5dDJCZDRLbWxFOHhXNDJNYV9ndDJUbEV2TmJualhzaE5qYVJ1c1ppbGV3WThzTzliYy13cw?oc=5",
       "summary": "Hantavirus that killed Gene Hackman\u2019s wife hits cruise ship &nbsp;&nbsp; USA Today",
       "source": "USA Today"
-    },
-    {
-      "title": "Ebola, hantavirus and the warning America should not ignore | Opinion - Portland Press Herald - Maine Sunday Telegram",
-      "published": "Sun, 31 May 2026 08:34:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SjJaV28yai1CQTRQM1MwU1lscGpmOWctWklHeVdGaHJjQU50ZE1sR1MwSExDQmxDb3NjLUVJT3hoMFpZeGZMU2NoYVBQMGM?oc=5",
-      "summary": "Ebola, hantavirus and the warning America should not ignore | Opinion &nbsp;&nbsp; Portland Press Herald - Maine Sunday Telegram",
-      "source": "Portland Press Herald - Maine Sunday Telegram"
     },
     {
       "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
@@ -497,7 +497,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-31T17:05:32.342339Z",
+    "timestamp": "2026-05-31T18:16:32.011151Z",
     "who": 0,
     "promed": 0,
     "news": 38,
