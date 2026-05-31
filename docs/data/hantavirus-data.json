@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T18:16:32.011136Z",
+  "lastUpdated": "2026-05-31T19:47:17.787052Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "Bloomberg.com",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "BBC",
-        "CIDRAP",
         "World Health Organization (WHO)",
-        "CBS News",
-        "The Guardian",
         "PBS",
-        "CNN",
+        "CBS News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "The Colorado Sun",
-        "AOL.com"
+        "Bloomberg.com",
+        "AOL.com",
+        "BBC",
+        "CNN",
+        "CIDRAP",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The Guardian"
       ],
       "alertCount": 13
     },
@@ -198,8 +198,8 @@
         }
       ],
       "sources": [
-        "Reuters",
-        "Yahoo"
+        "Yahoo",
+        "Reuters"
       ],
       "alertCount": 2
     },
@@ -344,13 +344,6 @@
       "source": "AFP Fact Check"
     },
     {
-      "title": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine - NPR",
-      "published": "Thu, 21 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekR2UTJBWnI1N09nQko0YXpaU3hUeFNGNVZjMXUwWkZSdll6a3dRUFNJaTdNTlJoTkVNajBBLWZWWEU5TGxWS3FZZU1SdXFyeUcyZWFEaHhuZnY1UU9mNjJhQjFFTzlRZnFVZFRLQWNpNThBYnZvRDFtVVJoMV85TW9fdjBFZGZsaWU3OGFLS19tSTljZVE?oc=5",
-      "summary": "American passenger feels 'betrayed' by federal order to stay in hantavirus quarantine &nbsp;&nbsp; NPR",
-      "source": "NPR"
-    },
-    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -391,6 +384,13 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlZSeFN2bDFYRjVqYUpiNXNpNVB1cWVLOGZvRVFrZThiZjhjVC16ZWFQbzlvaU1kcnFZeFIzMWVUWFYwQkxEeUo1YnZsM2YwZHlrRlZsUUxfLV9rYVp6c2VPcnoxWEFDMU5keWFjTWwwOUtxQ09VeWxLVjFuWGlJYUZFeDYyWWtCZTNJQU1HQjlpZTJVUWV5dDJCZDRLbWxFOHhXNDJNYV9ndDJUbEV2TmJualhzaE5qYVJ1c1ppbGV3WThzTzliYy13cw?oc=5",
       "summary": "Hantavirus that killed Gene Hackman\u2019s wife hits cruise ship &nbsp;&nbsp; USA Today",
       "source": "USA Today"
+    },
+    {
+      "title": "What you should know about hantavirus regarding your pets - The Lewiston Tribune",
+      "published": "Sun, 31 May 2026 08:22:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODVPWnRmeUJzNzY5NTAtR0lKMmlSY2tZVWFEWFBUMjJ3MWNzSXM0Z3JzZmtKN05leDVCVktsaVBmTHZhUDUtZlVyOHJUZVBCVzZlaWhES0FuNjJFTWw5ZXJ4LUpaTnBfdkpnZVV0MkdKZU5abkYzVUN4eDdHSmdLdDFZRTNpSE9kQWM2OElfMjA0UVRISUhtNG1NaUVHd3pmOVFZTA?oc=5",
+      "summary": "What you should know about hantavirus regarding your pets &nbsp;&nbsp; The Lewiston Tribune",
+      "source": "The Lewiston Tribune"
     },
     {
       "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
@@ -497,7 +497,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-05-31T18:16:32.011151Z",
+    "timestamp": "2026-05-31T19:47:17.787066Z",
     "who": 0,
     "promed": 0,
     "news": 38,
