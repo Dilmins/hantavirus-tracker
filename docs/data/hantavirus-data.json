@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-03T10:04:39.842089Z",
+  "lastUpdated": "2026-06-03T15:00:48.905628Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 36,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -51,13 +51,6 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
-          "published": "Wed, 27 May 2026 20:05:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
-          "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
-          "source": "CIDRAP"
-        },
-        {
           "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
@@ -65,32 +58,32 @@
           "source": "CIDRAP"
         },
         {
-          "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-          "published": "Wed, 03 Jun 2026 05:51:29 GMT",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-          "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-        },
-        {
-          "title": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
-          "published": "Wed, 03 Jun 2026 03:26:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
-          "summary": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
-          "source": "OregonLive.com"
-        },
-        {
-          "title": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
-          "published": "Wed, 03 Jun 2026 01:44:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5",
-          "summary": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com Cruise sh",
-          "source": "The Washington Post"
-        },
-        {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
           "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
           "source": "BBC"
+        },
+        {
+          "title": "Dr. Stephen Kornfeld could be back in Oregon after hantavirus outbreak on cruise ship - KTVZ",
+          "published": "Tue, 02 Jun 2026 22:44:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYndUNWUwbGVOZ2lnZUdid3B0TjN6azlFdi1QbnpPYUVFOXR4a1NWUjZOcWtaU0oyQjhBX1Z1Q3RGelc1SThuajZrSVZiRGlXRUh1VjZjRDJqOVpSWjJHdTROM0tlWEprV3I0MGdadzZnTUJBSHpnVURCU2NZV3BlLVotaTF0VW9mLUFob1g4UURYb3c1akJHbE9GblBudHZGM3d2Y1ozSkxyMU5Xd2VPc1NB?oc=5",
+          "summary": "Dr. Stephen Kornfeld could be back in Oregon after hantavirus outbreak on cruise ship &nbsp;&nbsp; KTVZ",
+          "source": "KTVZ"
+        },
+        {
+          "title": "Hantavirus update: five cruise passengers leave Omaha quarantine unit - WOWT",
+          "published": "Tue, 02 Jun 2026 13:50:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1oxTTZLZjBJQ0xyTERxTmlwdlIzOGhob2ZnUDIwemhyTElLYUszSmhZdk5nbDJqQ0pJTHJjM1l1cEtWeDcxZ2hZbVN2ejVFYTJveWd0MUdCVzJNc2h6SGQ5N0FjejAzTzU4b2MyU2VNZFZNMy1jblhvNlktQXpKY2kzTGZ1Q2VlRXBOZi1SQllHV2NjdVE0Vi04cVNWQnpKMzFr?oc=5",
+          "summary": "Hantavirus update: five cruise passengers leave Omaha quarantine unit &nbsp;&nbsp; WOWT",
+          "source": "WOWT"
+        },
+        {
+          "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+          "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+          "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
         },
         {
           "title": "Where did the cruise ship hantavirus come from and what happens next? - The Guardian",
@@ -119,21 +112,29 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
           "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
           "source": "The Colorado Sun"
+        },
+        {
+          "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
+          "published": "Mon, 18 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
+          "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
+          "source": "CBS News"
         }
       ],
       "sources": [
-        "The Washington Post",
-        "The Colorado Sun",
-        "BBC",
-        "World Health Organization (WHO)",
+        "NBC News",
         "CNN",
-        "CBS News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "ABC News - Breaking News, Latest News and Videos",
         "CIDRAP",
         "The Guardian",
-        "ABC News - Breaking News, Latest News and Videos",
-        "OregonLive.com",
-        "KJZZ"
+        "The Colorado Sun",
+        "World Health Organization (WHO)",
+        "KJZZ",
+        "BBC",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "WOWT",
+        "KTVZ",
+        "CBS News"
       ],
       "alertCount": 14
     },
@@ -150,11 +151,11 @@
           "source": "USA Today"
         },
         {
-          "title": "5 Americans exposed to hantavirus return home after weeks in quarantine - USA Today",
-          "published": "Tue, 02 Jun 2026 14:57:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVENqNThZRWxXS3gyNlFUeHo4NWNKdFVsRzBNMmxqMk1tcTlqYnZXWnFFUTNiR24xRUM2YTdoMVpFV21mMy1zQTVsZVN4M2xnaVhxMnJwN1hGMVRwcWZ1YVd5blMxbGp0dzB5QlpfVGVqSlJGa193NFVBc19KeDdIMEwtejJYa2ZacnhpSHdZR01vS1NhbTFkMjNYTE9kdTZscTZzcUVDbjdVcHlIckFaOENESWFjRWZJSUE?oc=5",
-          "summary": "5 Americans exposed to hantavirus return home after weeks in quarantine &nbsp;&nbsp; USA Today",
-          "source": "USA Today"
+          "title": "5 Americans exposed to hantavirus on a cruise ship are leaving quarantine - WUSA9",
+          "published": "Tue, 02 Jun 2026 21:41:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPazY0aTdKN1huMUhoa1FlLUU0SzlSbXVaRTN3U1FBdjY3dnNpMkRDV01VSWl2SnQ2aWg5WFgtVWxvRXpsTWZOOGhuZmJ1QWswZWhqUEU4WTlRLWpmcnpISXVyMnpTUWgzSmJ6bWswSVBqZTVDaEdrOTdOUC1LQ0R5aXZqVEpjOEFfNWNORDZ5MElqZlc5SC1zU2hWbGlJZ0JBb0VCbElfTGtyQy1md3AybG5DLWd1MkxnM01YaUpSU2RadDNjTjl3OVFSU2lGTlN6dmt6Zno5MVpkS3NYcWtLdkYxbHlES0Y3cDlER2gwR2ZjWlNidVhTU05n?oc=5",
+          "summary": "5 Americans exposed to hantavirus on a cruise ship are leaving quarantine &nbsp;&nbsp; WUSA9",
+          "source": "WUSA9"
         },
         {
           "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
@@ -165,6 +166,7 @@
         }
       ],
       "sources": [
+        "WUSA9",
         "USA Today",
         "Live Science"
       ],
@@ -235,13 +237,6 @@
   ],
   "recentNews": [
     {
-      "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
-      "published": "Wed, 27 May 2026 20:05:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
-      "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
       "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists - The New York Times",
       "published": "Wed, 27 May 2026 14:00:08 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
@@ -256,11 +251,25 @@
       "source": "CIDRAP"
     },
     {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
+    },
+    {
       "title": "UKHSA update on the hantavirus cruise ship outbreak - GOV.UK",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenluQ21BemRjS3hrOTZKaGJhY0FYdDkwaG1xeDIxaUtsUzIzYWp0RkpqQWFZUHQzcTFINmRRdG5CaFNya2dBNXJnOTF4aDdNb2pLNFpnVlJGOWxLLTR3TjJYWmxtU2M1N09ralVzN3c4RUd0Q1ZOLTRJZzFnSTB5X3lXZWstT2tYWkpGZmNLcw?oc=5",
       "summary": "UKHSA update on the hantavirus cruise ship outbreak &nbsp;&nbsp; GOV.UK",
       "source": "GOV.UK"
+    },
+    {
+      "title": "Sin Nombre Hantavirus Strain Kills One In Arizona - Forbes",
+      "published": "Wed, 03 Jun 2026 14:05:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5",
+      "summary": "Sin Nombre Hantavirus Strain Kills One In Arizona &nbsp;&nbsp; Forbes",
+      "source": "Forbes"
     },
     {
       "title": "Could environmental changes affect hantavirus risk? Duke researchers think so - WRAL",
@@ -270,13 +279,6 @@
       "source": "WRAL"
     },
     {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Wed, 03 Jun 2026 05:51:29 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
       "published": "Wed, 03 Jun 2026 04:33:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
@@ -284,39 +286,11 @@
       "source": "AZ Family"
     },
     {
-      "title": "First hantavirus death in 2026 reported in Arizona - KPTV",
+      "title": "First hantavirus death in 2026 reported in Arizona - WDBJ7",
       "published": "Wed, 03 Jun 2026 04:32:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWUJnX0xETk1xZ2hTWUZwQkxGMy1PVkFvVlAzOV9hMHpYeVo3Tks0c3FHclBIQThBUHpvbHg5WlhJdktKNWFHREsyeTh3bzk0ODdNT2JSZXdWM0diU1JFaWdSdE9KeUhicV9hc1BuZmZXcUNfRi1MODA3UkZWRThER1FXRUNWUE5vRlBN?oc=5",
-      "summary": "First hantavirus death in 2026 reported in Arizona &nbsp;&nbsp; KPTV",
-      "source": "KPTV"
-    },
-    {
-      "title": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
-      "published": "Wed, 03 Jun 2026 03:26:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
-      "summary": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
-      "source": "OregonLive.com"
-    },
-    {
-      "title": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
-      "published": "Wed, 03 Jun 2026 01:44:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5",
-      "summary": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com Cruise sh",
-      "source": "The Washington Post"
-    },
-    {
-      "title": "Oregonian exposed to hantavirus returns home, goes into quarantine - Statesman Journal",
-      "published": "Wed, 03 Jun 2026 00:39:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0NDQkN3TVhjWkZ1SGZMcFdkcU9oek83OU9ja3kzbEgxdTJpTWRVTlFyYWw5UFpyN2FSNXdDaF9lSlhUWEIwc3J4YXJaejJpT1l4SVB4TFhmWTZ4aVF2WjFEUDlqV2RQcFFBQ0Z1Mmg1V2dPUlZjTWxrRl9JLTZiTzlsbkNKbmtzS2Y2eThZVHp0NmpuSi1yQ3htRXpVblVTRjUzck5Gb2Fxd1J2RHM4M0I1ZW5XRmZDdlE?oc=5",
-      "summary": "Oregonian exposed to hantavirus returns home, goes into quarantine &nbsp;&nbsp; Statesman Journal",
-      "source": "Statesman Journal"
-    },
-    {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUd5VXFDLUh1UG0tb0lmZ0Nya2tFV2k5Sk95T0xJMkQ0aGItTFNqMldZbmVYeTBSZmQ0VVdsNGtpb19TRjN0eDM4S2hITDM5UGJacW1JUmk3cjZoYVFLWnlyTjh4aXdJZHJSaWpFZWpHZWdjTlAxVy1sRDlSSGNmWGE5OE83OXBKRV9uaQ?oc=5",
+      "summary": "First hantavirus death in 2026 reported in Arizona &nbsp;&nbsp; WDBJ7",
+      "source": "WDBJ7"
     },
     {
       "title": "More hantavirus cases are expected, WHO chief says - USA Today",
@@ -324,6 +298,13 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
       "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
       "source": "USA Today"
+    },
+    {
+      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0JNSktqOUQxQXhoVnVXVE9ZTElDelV5Q0tLWG9UOEhWSWxTUGJJSkhjdXlXZ211VGRBU2JHUVA5NHlWY0dqWG5KY1J0R3hsaHlxTW9CamJjd09sdkJTakU0WFZxS0tHNndZVklHWk5aaW1GMmp0Zy01R05qd2tSTWl0TmFWdEd1dW10bXV2YkJzQkFLTmhOOW5R?oc=5",
+      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
@@ -340,6 +321,20 @@
       "source": "BBC"
     },
     {
+      "title": "Dr. Stephen Kornfeld could be back in Oregon after hantavirus outbreak on cruise ship - KTVZ",
+      "published": "Tue, 02 Jun 2026 22:44:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYndUNWUwbGVOZ2lnZUdid3B0TjN6azlFdi1QbnpPYUVFOXR4a1NWUjZOcWtaU0oyQjhBX1Z1Q3RGelc1SThuajZrSVZiRGlXRUh1VjZjRDJqOVpSWjJHdTROM0tlWEprV3I0MGdadzZnTUJBSHpnVURCU2NZV3BlLVotaTF0VW9mLUFob1g4UURYb3c1akJHbE9GblBudHZGM3d2Y1ozSkxyMU5Xd2VPc1NB?oc=5",
+      "summary": "Dr. Stephen Kornfeld could be back in Oregon after hantavirus outbreak on cruise ship &nbsp;&nbsp; KTVZ",
+      "source": "KTVZ"
+    },
+    {
+      "title": "5 Americans exposed to hantavirus on a cruise ship are leaving quarantine - WUSA9",
+      "published": "Tue, 02 Jun 2026 21:41:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPazY0aTdKN1huMUhoa1FlLUU0SzlSbXVaRTN3U1FBdjY3dnNpMkRDV01VSWl2SnQ2aWg5WFgtVWxvRXpsTWZOOGhuZmJ1QWswZWhqUEU4WTlRLWpmcnpISXVyMnpTUWgzSmJ6bWswSVBqZTVDaEdrOTdOUC1LQ0R5aXZqVEpjOEFfNWNORDZ5MElqZlc5SC1zU2hWbGlJZ0JBb0VCbElfTGtyQy1md3AybG5DLWd1MkxnM01YaUpSU2RadDNjTjl3OVFSU2lGTlN6dmt6Zno5MVpkS3NYcWtLdkYxbHlES0Y3cDlER2gwR2ZjWlNidVhTU05n?oc=5",
+      "summary": "5 Americans exposed to hantavirus on a cruise ship are leaving quarantine &nbsp;&nbsp; WUSA9",
+      "source": "WUSA9"
+    },
+    {
       "title": "Hantavirus in AZ; 'Baywatch' actor David Chokachi | FOX 10 Talks - FOX 10 Phoenix",
       "published": "Tue, 02 Jun 2026 20:15:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yenhtUlA3dmpYRV8xWkhYNndDX2tfM1ZGUktsamxfQWtJVlEtSnMtZ0dNUlNxNVpzNVVtYU9ha1Nld1I3RHBmUi1uMGRHczM1NEVSQTNVTHlmdmwtZExIZ3VIWEVzZ9IBa0FVX3lxTE9PbjBVWXhpQXpGLW1wODJuTmxIQ0JLS1FEOE50ZzFtYmtZTU5KdUR4OXNsQXJxaXdzZUh4STdLeVRwb0xJNlB4ZTA3aG50QzVMd3hJU2M3U21vN3U2X3lMeUp6eHRvblg1QWs4?oc=5",
@@ -347,18 +342,25 @@
       "source": "FOX 10 Phoenix"
     },
     {
-      "title": "5 Americans exposed to hantavirus return home after weeks in quarantine - USA Today",
-      "published": "Tue, 02 Jun 2026 14:57:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVENqNThZRWxXS3gyNlFUeHo4NWNKdFVsRzBNMmxqMk1tcTlqYnZXWnFFUTNiR24xRUM2YTdoMVpFV21mMy1zQTVsZVN4M2xnaVhxMnJwN1hGMVRwcWZ1YVd5blMxbGp0dzB5QlpfVGVqSlJGa193NFVBc19KeDdIMEwtejJYa2ZacnhpSHdZR01vS1NhbTFkMjNYTE9kdTZscTZzcUVDbjdVcHlIckFaOENESWFjRWZJSUE?oc=5",
-      "summary": "5 Americans exposed to hantavirus return home after weeks in quarantine &nbsp;&nbsp; USA Today",
-      "source": "USA Today"
+      "title": "Hantavirus death reported in Mohave County - KTAR News 92.3 FM",
+      "published": "Tue, 02 Jun 2026 16:18:10 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wYXRBcXNDVFNJRHhVUnJ0bVJsUk1IZHRRT0hSd0tuM0ZfQXg4MzBha2o3SndLbjBZWm9LVjh0bWM1R3JtQ015eXdaUXBKbHRPZGtUSEg3OXhmcC1NUUZIWlVEVHdId0lOSmdIWjhneDhoSDl1TzhQYw?oc=5",
+      "summary": "Hantavirus death reported in Mohave County &nbsp;&nbsp; KTAR News 92.3 FM",
+      "source": "KTAR News 92.3 FM"
     },
     {
-      "title": "Western Arizona resident dies from Hantavirus - KSNV",
-      "published": "Tue, 02 Jun 2026 04:23:38 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSkxTWWVXbjljTWJUTUQzc2l5cGhzMDhlVmxRVVBaaElMdE1IdjJLMnBxOUhKRXAtcmxmS0NBOHNuUDAweEZnTkM3VGtnalpBRm95ZnRGaFd2RV9mczBwbG9jb2pyTnVfRUpSRXRhdElmWExHUS1vNzNueFBOd2dNdE5EQmtyby1YMHhyMUJPYW9NbDJYT1FNeGpFRmNCTkxyeEVaS1Z1b3Eya08wUDFKMlB0NW8wenJXOVE0ZlNUeFp1RkRjWjNXQw?oc=5",
-      "summary": "Western Arizona resident dies from Hantavirus &nbsp;&nbsp; KSNV",
-      "source": "KSNV"
+      "title": "Hantavirus update: five cruise passengers leave Omaha quarantine unit - WOWT",
+      "published": "Tue, 02 Jun 2026 13:50:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1oxTTZLZjBJQ0xyTERxTmlwdlIzOGhob2ZnUDIwemhyTElLYUszSmhZdk5nbDJqQ0pJTHJjM1l1cEtWeDcxZ2hZbVN2ejVFYTJveWd0MUdCVzJNc2h6SGQ5N0FjejAzTzU4b2MyU2VNZFZNMy1jblhvNlktQXpKY2kzTGZ1Q2VlRXBOZi1SQllHV2NjdVE0Vi04cVNWQnpKMzFr?oc=5",
+      "summary": "Hantavirus update: five cruise passengers leave Omaha quarantine unit &nbsp;&nbsp; WOWT",
+      "source": "WOWT"
+    },
+    {
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "Hantavirus \u2018Sin Nombre\u2019 death confirmed in northwest Arizona - KLAS 8 News Now",
@@ -380,6 +382,13 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
       "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
       "source": "Yahoo"
+    },
+    {
+      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "source": "Johns Hopkins Medicine"
     },
     {
       "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
@@ -436,13 +445,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFpJU2c0V2hJTkotXzQ2Y1JmWWtsNW9uYTJ2cE9Gak82a1VEdS1UZzBPNWpuek1Na3RZZDJ3aV9rcHZKUFJXMVNoMjloZ29XR1dpSDR4TERxR21vSDFTMi0tNHV0MFVVTzZkZ2lxUGd1VHBwZnVCTkltdV9OUVFWMktSQy1iRW8zUEdMdGwyT25laG41V3lnMzI2WmRETWNSOFV1Y3hoU1IzOThZQmRjTm96X3RLMUQydkJwQXFZeTIwUlowa0dGVzZZTTNFRElmejA5dHlpdw?oc=5",
       "summary": "Arizona resident dies from hantavirus &nbsp;&nbsp; azcentral.com and The Arizona Republic",
       "source": "azcentral.com and The Arizona Republic"
-    },
-    {
-      "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
-      "published": "Mon, 01 Jun 2026 22:25:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
-      "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
-      "source": "KJZZ"
     }
   ],
   "usHistoric": {
@@ -472,10 +474,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-03T10:04:39.842109Z",
+    "timestamp": "2026-06-03T15:00:48.905643Z",
     "who": 0,
     "promed": 0,
-    "news": 36,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
