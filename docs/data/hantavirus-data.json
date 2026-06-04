@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-04T06:55:05.759153Z",
+  "lastUpdated": "2026-06-04T10:33:18.686533Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 40,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,17 +58,10 @@
           "source": "CIDRAP"
         },
         {
-          "title": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock - MedPage Today",
-          "published": "Wed, 03 Jun 2026 20:43:26 GMT",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUWw3eXF3OTU0VVlEUExrSHFRUW13eGVBSVFlRVRGeWIwem1nSi1WVVA0bnZoWXhNS0ZpeUROOWtOeTFIc2g2N3l4NDUwMmJ4eTNLSnhEdTVJSXNhVUhEeW9EYXVoRkNObGcyTjRkT3pzXzc2?oc=5",
-          "summary": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock &nbsp;&nbsp; MedPage Today",
-          "source": "MedPage Today"
-        },
-        {
           "title": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
           "published": "Wed, 03 Jun 2026 01:44:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5",
-          "summary": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home &nbsp;&nbsp; NBC News",
+          "summary": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch &nbsp;&nbsp; CNN",
           "source": "The Washington Post"
         },
         {
@@ -114,6 +107,13 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
+          "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
+          "published": "Mon, 18 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
+          "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
+          "source": "CBS News"
+        },
+        {
           "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
           "published": "Mon, 18 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "The Washington Post",
-        "MedPage Today",
-        "The Colorado Sun",
-        "ABC News - Breaking News, Latest News and Videos",
-        "AJMC",
-        "KJZZ",
-        "World Health Organization (WHO)",
         "The Guardian",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "BBC",
+        "The Washington Post",
         "CIDRAP",
+        "World Health Organization (WHO)",
+        "BBC",
+        "AJMC",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CBS News",
+        "The Colorado Sun",
+        "KJZZ",
         "CNN"
       ],
       "alertCount": 13
@@ -255,27 +255,6 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Small number of hantavirus cases not uncommon in Arizona, data shows - azcentral.com and The Arizona Republic",
-      "published": "Wed, 03 Jun 2026 23:09:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXdrR0EyTjdUYThnWmh5Q2xEOUtGS1JZSlpZTGVOcGx3NWZqRGI4Y2h6bG9mUDQ4Sy1WOTBVbDBEbk0yS2lSZldCUWh0a0hkQlc0bXJxWjN3T1VxZFZHN0RVWU5YWkVaR2VXUkxZdGJqdU05NER6ak1wcEtqNl94TFc3TnliejlnWGpFNVMycU5UTmNDZDNXa1ZYblJFZENIREl3cVpXWUk5MjlwWmdRVEhvNEVSQQ?oc=5",
-      "summary": "Small number of hantavirus cases not uncommon in Arizona, data shows &nbsp;&nbsp; azcentral.com and The Arizona Republic",
-      "source": "azcentral.com and The Arizona Republic"
-    },
-    {
-      "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - Click2Houston",
-      "published": "Wed, 03 Jun 2026 22:33:10 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWWZvU3dZV3ZzTmtPM0RQelVtZGQxajJHSGRsdUsxTzZpQ2FLZ1Vmc3JpUHFGMjhIR2hXQlJQdjA2d3o2NVI5MlI2U0d3WEhucFVIdGJsX0NwTEVKLTE1bXhTVTVpNHd6NWxfR0h0eWc2TnVRalNsRzlrOW41ZFBRMXB6Q0NYdURKVGhkczBtUE1SdVI0NW5fNHRDS3pPMU00V1Ixb1hpMy0xQlJuaS13SzZJcl9EcmFfaFNETkpuOFpzX29nVS1yTEl5SFNVNzlWRk4tcXM2Q0I2X0p3U0x4em13cmY?oc=5",
-      "summary": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue &nbsp;&nbsp; Click2Houston",
-      "source": "Click2Houston"
-    },
-    {
-      "title": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock - MedPage Today",
-      "published": "Wed, 03 Jun 2026 20:43:26 GMT",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUWw3eXF3OTU0VVlEUExrSHFRUW13eGVBSVFlRVRGeWIwem1nSi1WVVA0bnZoWXhNS0ZpeUROOWtOeTFIc2g2N3l4NDUwMmJ4eTNLSnhEdTVJSXNhVUhEeW9EYXVoRkNObGcyTjRkT3pzXzc2?oc=5",
-      "summary": "Hantavirus Cruise Passengers Being Surveilled at Home Around the Clock &nbsp;&nbsp; MedPage Today",
-      "source": "MedPage Today"
-    },
-    {
       "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - CBS17.com",
       "published": "Wed, 03 Jun 2026 18:30:15 GMT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcThkazVvZ2FtWkxBZzFaR0RFQTI2UElPVUNFR3N1RTRpcVNLcmVCS3Qxdjcwc0pWWFhISUgwOWR2S2tublQ0bnFXbDE2bDIyR1ZhcEtocmp5X2haTlN0cllkYmduUDlRdTVDNjQ1bU5kMUhMN3kwMmxiazhRMWt0bjRYRXhfWEJjWUtXUGxJdkFuY2NKZ0JwUm0wX3dSX3BqWkI3YzVtU25EVzJFV0JhZllZaUVZVHhyd0pVVG5CRTBrSUwzRmEtdHVB0gHKAUFVX3lxTE9xOGRrNW9nYW1aTEFnMVpHREVBMjZQSU9VQ0VHc3VFNGlxU0tyZUJLdDF2NzBzSlZYWEhJSDA5ZHZLa25uVDRucVdsMTZsMjJHVmFwS2hyanlfaFpOU3RyWWRiZ25QOVF1NUM2NDVtTmQxSEw3eTAybGJrOFExa3RuNFhFeF9YQmNZS1dQbEl2QW5jY0pnQnBSbTBfd1JfcGpaQjdjNW1TbkRXMkVXQmFmWVlpRVlUeHJ3SlVUbkJFMGtJTDNGYS10dUE?oc=5",
@@ -300,7 +279,7 @@
       "title": "Five people have left hantavirus quarantine facility in Nebraska - The Washington Post",
       "published": "Wed, 03 Jun 2026 01:44:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTZYWkFwY0tJQmsxUnIyWG5OUW5CTkxoMFlFaTF4YU1IZmhHLUlmdVgzcHlrMGw0Z3RGYXY2dzBwNE0xeDczc2JHNTRQQXJVWExVZURWWTVzb0hReGVkWkZnOENxNk01QnUxRmN6RXJEYW5tLWVsY0JMVjV6djhldXBfcmZGbkhRblp3YkUzdnFZc1VqT1lSZ1Exd1ZOb1A5YzhNN1cyQ0g5YklQbEJlVA?oc=5",
-      "summary": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home &nbsp;&nbsp; NBC News",
+      "summary": "Five people have left hantavirus quarantine facility in Nebraska &nbsp;&nbsp; The Washington Post 5 People Leave Hantavirus Quarantine in Omaha &nbsp;&nbsp; The New York Times Hantavirus-exposed cruise passengers may soon be allowed to return home but must remain under 24/7 watch &nbsp;&nbsp; CNN",
       "source": "The Washington Post"
     },
     {
@@ -325,13 +304,6 @@
       "source": "BBC"
     },
     {
-      "title": "Panic as Arizona hantavirus case known as \u2018Sin Nombre\u2019 kills 1 - New York Post",
-      "published": "Tue, 02 Jun 2026 23:17:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORm5IVWRkUmsxcWJuUGhoenRLWjdBNGExREFYSk9xd3ZmaTZUZDFZLW5EYk5GdjFmbUdwZDdHZ01TYVJ2dzd0LWpBLW5UazhMNFFqVEczS1o1SkwxRFgxdUVWdEZ2dlRvcXlRS09mRFZzSnRRU2FjVk9jSm9ReXNyLTg4MVpQY284SnhXWVBINHhnd1NP?oc=5",
-      "summary": "Panic as Arizona hantavirus case known as \u2018Sin Nombre\u2019 kills 1 &nbsp;&nbsp; New York Post",
-      "source": "New York Post"
-    },
-    {
       "title": "Five US passengers from hantavirus-hit ship return to home states - Reuters",
       "published": "Tue, 02 Jun 2026 14:11:26 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWZhQURrMHJ6eXpCaGNucmdrczN6eHJZWUpFZmlwS0tQQXgxaUI3alR4cE5FUEM5U1VwOHl5bHNUclpHa2hmZHpBUFAwUFhiMXA3OVZuZVBKQzlYbnpONXhGdmJMaWh3RHFUU25keVF3cFJVU19TMkVHYW1vMnVIZWVaa0tWOExNM3FvVWZNUkllRzhlSi1XNkItQWo5dDhn?oc=5",
@@ -353,11 +325,11 @@
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
-      "title": "Hantavirus kills Mohave County resident - FOX 10 Phoenix",
-      "published": "Tue, 02 Jun 2026 01:09:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRnhVZWlkUUg4Slo0RzV1OUE1eUt1YkVhOHNYSGdkeWhPZmJMWmpXVDVuMGRpWk5VSDBSdVkybDJGdXBXNjEzNEJmNVhlRDBKU0VOVWZKUklTYmtQRFZzNHl3S1ptNkc1MlZEbG1sV21wUUtWaS1RNzl4R0ZjNUE1WlQ3aHBXZWNobjYtU1hSeDVrMWtZQks5VDNNV2M4bmvSAaQBQVVfeXFMTlB5d050U2pBd0NKN1BubV9FQWc3Yl9ONGk3ZUt5SGNYc08xdGtFRmp5Q2lfa040dUVVNm16NndJMmFleEpLZFZCNzdmajFreWhORXZjYWFpSGU0ZmxGTVNuSGNad3JtRk9GZ1RhUW1zcVo3ZG9NT2VaTVlXVVc2MU5QaGZqMUJWbFhaSWNyTDlidjJRTVEzS0RHTlBLVzBuN09nOUw?oc=5",
-      "summary": "Hantavirus kills Mohave County resident &nbsp;&nbsp; FOX 10 Phoenix",
-      "source": "FOX 10 Phoenix"
+      "title": "Hantavirus \u2018Sin Nombre\u2019 death confirmed in northwest Arizona - KLAS 8 News Now",
+      "published": "Tue, 02 Jun 2026 01:43:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjJvdWdJak96Wll0U21SbG5EUGpfcHRBaTdiekdUTWtEQ1lhZmhMbjhNZGl3c0hySjNZNzBoQ1VfSFJCNVBsV01VRjg2dDFTSmlJQUowT2RRekM3ZDNxR2lPdklHM1ptUW83VUhDWjFmY2NYejFjekp1QUxrdno2cy1zNGJPMXlCajRJYWx0UnBEQlZ0WVN4QkxtWlNhQXhQUWfSAacBQVVfeXFMTUxQaVhUd013dXJReDM4OFN2ZjRJdjlLWi00SzZtcnhnMlB4ZXdVcVJTYlVwdS11Q1NVM09SSDdHTDJQUFBVU0FFNEVyTkNuWUhTZ0FiV2h2NDBsX0hYTThIYk9YbjN1SlBPaGNUbWdrZ09xcWgybkotemJwM3R2LXRBZFJCSEd5SzB1WU1abWtBZ2hmSE5ScklrMWgzenFPdUg1TE1LZlU?oc=5",
+      "summary": "Hantavirus \u2018Sin Nombre\u2019 death confirmed in northwest Arizona &nbsp;&nbsp; KLAS 8 News Now",
+      "source": "KLAS 8 News Now"
     },
     {
       "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
@@ -416,6 +388,13 @@
       "source": "Live Science"
     },
     {
+      "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
+      "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
+      "source": "CBS News"
+    },
+    {
       "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
@@ -428,6 +407,27 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFpJU2c0V2hJTkotXzQ2Y1JmWWtsNW9uYTJ2cE9Gak82a1VEdS1UZzBPNWpuek1Na3RZZDJ3aV9rcHZKUFJXMVNoMjloZ29XR1dpSDR4TERxR21vSDFTMi0tNHV0MFVVTzZkZ2lxUGd1VHBwZnVCTkltdV9OUVFWMktSQy1iRW8zUEdMdGwyT25laG41V3lnMzI2WmRETWNSOFV1Y3hoU1IzOThZQmRjTm96X3RLMUQydkJwQXFZeTIwUlowa0dGVzZZTTNFRElmejA5dHlpdw?oc=5",
       "summary": "Arizona resident dies from hantavirus &nbsp;&nbsp; azcentral.com and The Arizona Republic",
       "source": "azcentral.com and The Arizona Republic"
+    },
+    {
+      "title": "Arizona: Hantavirus death reported in Mohave County - Outbreak News Today",
+      "published": "Mon, 01 Jun 2026 22:39:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRWxTNmU3VUc4MFZ3ajVrTkxHckJRUGxQX0hNS3JqVTNsblp1WkdkcUMxYnltTkxNTmI0clBiRW5nUHlNc21ScXZhVkt6ODdoTllQVWhYQzZqRE1GOUVwcC1WRzF3S251YTJnbWJvLXVIM1NVLXRQVHVZai1IZkE?oc=5",
+      "summary": "Arizona: Hantavirus death reported in Mohave County &nbsp;&nbsp; Outbreak News Today",
+      "source": "Outbreak News Today"
+    },
+    {
+      "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
+      "published": "Mon, 01 Jun 2026 22:25:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
+      "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
+      "source": "KJZZ"
+    },
+    {
+      "title": "Mohave County health officials report first hantavirus death in Kingman - FOX5 Vegas",
+      "published": "Mon, 01 Jun 2026 20:28:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRURCVnVWa0VIeng2MERFWVJpcHpyUWVFXzNwbEpKWkE1elZnNTFjc1QtY2FyTUdBNzc2eS1EbU9YZGx6TS1ZblNhSUo2Ml9TVzBINTY5cFdtRnMyUzNIUHRxd0tfUDNmc2x1VnIxRXAzUXdyTExQZjVMLWpiLVRCTF9aa2E1YUlkWEREUGg2a2VEYjJtNEJDVWlYVXZTNEtjTWdwNnV1QzdOQdIBvgFBVV95cUxOeDJzVVpTZkhGVHVuNm9aV3QyOWw5QU96bC1mNFpKWl9qbXlxN3JWT0F0aTJ1UWtPVnEySmE5R1h6d3EwenpkRjd2TXEtb0ttZ1gxeUlPNDNVTTlkLV9pWEViZHlCWkR6cmxGMlJESTBpblAxOEF0MVdvTUhpekE4T0p0dTM4LXpBWWFiNTE4UDgzWlc3VmdYRmRVMTlFSllLbm41WjI4SGRYNXo3RjBNVzJnUjJxX0xsLUVvVmVR?oc=5",
+      "summary": "Mohave County health officials report first hantavirus death in Kingman &nbsp;&nbsp; FOX5 Vegas",
+      "source": "FOX5 Vegas"
     }
   ],
   "usHistoric": {
@@ -457,10 +457,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-04T06:55:05.759168Z",
+    "timestamp": "2026-06-04T10:33:18.686547Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
