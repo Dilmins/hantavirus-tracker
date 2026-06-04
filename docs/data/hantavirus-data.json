@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-04T22:43:31.903809Z",
+  "lastUpdated": "2026-06-04T23:50:21.864603Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 37,
+  "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "OregonLive.com",
-        "AP News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "ABC News - Breaking News, Latest News and Videos",
-        "KJZZ",
-        "BBC",
         "CNN",
-        "CIDRAP",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "CBS News",
+        "BBC",
         "World Health Organization (WHO)",
-        "The Guardian",
-        "The Colorado Sun"
+        "CIDRAP",
+        "OregonLive.com",
+        "The Colorado Sun",
+        "AP News",
+        "KJZZ",
+        "The Guardian"
       ],
       "alertCount": 14
     },
@@ -328,11 +328,18 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Bend doctor at center of hantavirus outbreak back home \u2014 but still in quarantine - Rogue Valley Times",
-      "published": "Thu, 04 Jun 2026 18:53:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1RpN1VRNm4zeFduYmFWZTV2eXlna214eTI0cU1DeFNRa3l0dlpDT21WMGNzSFNQT2RGWWhacDBqemMxU2JXMS1rX1dZb2tjWFJmZngxd1Z0aDY0Q2poMVRQc2lyNmtkOTdnTU1kQ3VfNjQ5eUQwUWE0M05aZExLeHdKTW13bmQ5Uk5YTTdLclVpRzZSV1dzNkpScG42NVRTWVpydWFsaWNobU9IdUVWMQ?oc=5",
-      "summary": "Bend doctor at center of hantavirus outbreak back home \u2014 but still in quarantine &nbsp;&nbsp; Rogue Valley Times",
-      "source": "Rogue Valley Times"
+      "title": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home - KTVZ",
+      "published": "Thu, 04 Jun 2026 23:32:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTV6TVhYNG1sN01jbUhRdkNpM0FCaHdYWFdoU0JZN3I5ZDlBNzhKd3FvYlNvY1A2dG1nTnJIbWlWZ3RBc0hJWnZaZmtUSDdWRFczeVFla01IQ1laSEZhREp3MkhGdE5MQlN1TVlnbDZSLWF3WHBzdkJwVElabU1HcFF1NWR3NUZmZjhBbE10VXVqT3JBX1BkY1VIUkt2OGZMUVIyTW1Va2dQMEJjZGJmUjdPZFQ1WWtBc0RmSUVITmNac2I3VE52ZERtWQ?oc=5",
+      "summary": "Bend Doctor Who Took Charge During Deadly Hantavirus Outbreak Finally Returns Home &nbsp;&nbsp; KTVZ",
+      "source": "KTVZ"
+    },
+    {
+      "title": "Bend doctor at center of hantavirus outbreak back home \u2014 but still in quarantine - bendbulletin.com",
+      "published": "Thu, 04 Jun 2026 17:48:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14LTNtWm9IaHdHTXlYbDNwZ0JxMngxOHNrZ0piMW1EME9XNW16Nkpqb0pDRVZsbnUzS1lqM2ZSaEtXZXRJTXVkVWdxcU91RUZlZm1NVTdFYUQxX0Z6S0J6SmRMaDZVeDR0Ri11eGRJY09zZw?oc=5",
+      "summary": "Bend doctor at center of hantavirus outbreak back home \u2014 but still in quarantine &nbsp;&nbsp; bendbulletin.com",
+      "source": "bendbulletin.com"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective - World Health Organization (WHO)",
@@ -403,13 +410,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRWxTNmU3VUc4MFZ3ajVrTkxHckJRUGxQX0hNS3JqVTNsblp1WkdkcUMxYnltTkxNTmI0clBiRW5nUHlNc21ScXZhVkt6ODdoTllQVWhYQzZqRE1GOUVwcC1WRzF3S251YTJnbWJvLXVIM1NVLXRQVHVZai1IZkE?oc=5",
       "summary": "Arizona: Hantavirus death reported in Mohave County &nbsp;&nbsp; Outbreak News Today",
       "source": "Outbreak News Today"
-    },
-    {
-      "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
-      "published": "Mon, 01 Jun 2026 22:25:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
-      "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
-      "source": "KJZZ"
     }
   ],
   "usHistoric": {
@@ -439,10 +439,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-04T22:43:31.903821Z",
+    "timestamp": "2026-06-04T23:50:21.864618Z",
     "who": 0,
     "promed": 0,
-    "news": 37,
+    "news": 38,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
