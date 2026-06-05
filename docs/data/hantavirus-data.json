@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T20:21:16.560083Z",
+  "lastUpdated": "2026-06-05T21:53:25.998960Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "Outside Magazine",
-        "KTVZ",
-        "The Guardian",
-        "KJZZ",
-        "CBS News",
-        "The Colorado Sun",
-        "Colorado Public Radio",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "BBC",
         "CNN",
-        "OregonLive.com",
+        "Outside Magazine",
+        "CIDRAP",
+        "The Guardian",
+        "World Health Organization (WHO)",
+        "BBC",
+        "KTVZ",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Colorado Public Radio",
+        "CBS News",
         "ABC News - Breaking News, Latest News and Videos",
-        "CIDRAP"
+        "OregonLive.com",
+        "The Colorado Sun",
+        "KJZZ"
       ],
       "alertCount": 16
     },
@@ -455,7 +455,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-05T20:21:16.560097Z",
+    "timestamp": "2026-06-05T21:53:25.998970Z",
     "who": 0,
     "promed": 0,
     "news": 41,
