@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-05T13:40:59.828089Z",
+  "lastUpdated": "2026-06-05T16:17:05.709394Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 39,
+  "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,21 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "BBC",
-        "ABC News - Breaking News, Latest News and Videos",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "OregonLive.com",
+        "CIDRAP",
         "The Guardian",
         "CBS News",
-        "KJZZ",
-        "The Colorado Sun",
+        "KTVB",
         "CNN",
         "World Health Organization (WHO)",
-        "Outside Magazine"
+        "Outside Magazine",
+        "BBC",
+        "The Colorado Sun",
+        "ABC News - Breaking News, Latest News and Videos",
+        "OregonLive.com",
+        "KJZZ"
       ],
-      "alertCount": 13
+      "alertCount": 14
     },
     {
       "country": "USA",
@@ -240,11 +241,11 @@
       "source": "USA Today"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
-      "source": "Stanford Medicine"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
+      "source": "med.stanford.edu"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -273,13 +274,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "Hantavirus \u2018Sin Nombre\u2019 death confirmed in northwest Arizona - KLAS 8 News Now",
-      "published": "Tue, 02 Jun 2026 01:43:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRjJvdWdJak96Wll0U21SbG5EUGpfcHRBaTdiekdUTWtEQ1lhZmhMbjhNZGl3c0hySjNZNzBoQ1VfSFJCNVBsV01VRjg2dDFTSmlJQUowT2RRekM3ZDNxR2lPdklHM1ptUW83VUhDWjFmY2NYejFjekp1QUxrdno2cy1zNGJPMXlCajRJYWx0UnBEQlZ0WVN4QkxtWlNhQXhQUWfSAacBQVVfeXFMTUxQaVhUd013dXJReDM4OFN2ZjRJdjlLWi00SzZtcnhnMlB4ZXdVcVJTYlVwdS11Q1NVM09SSDdHTDJQUFBVU0FFNEVyTkNuWUhTZ0FiV2h2NDBsX0hYTThIYk9YbjN1SlBPaGNUbWdrZ09xcWgybkotemJwM3R2LXRBZFJCSEd5SzB1WU1abWtBZ2hmSE5ScklrMWgzenFPdUg1TE1LZlU?oc=5",
-      "summary": "Hantavirus \u2018Sin Nombre\u2019 death confirmed in northwest Arizona &nbsp;&nbsp; KLAS 8 News Now",
-      "source": "KLAS 8 News Now"
     },
     {
       "title": "Hantavirus kills Mohave County resident - FOX 10 Phoenix",
@@ -338,13 +332,6 @@
       "source": "MedPage Today"
     },
     {
-      "title": "Mohave County resident dies of hantavirus, Arizona health officials say - ktnv.com",
-      "published": "Thu, 04 Jun 2026 19:07:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk9MUUVUM3Y4cmxXd1dzbGdTRFAwejd6Y3dJRGxSc2hLaEpJbVhsUFNxOW41bUZieklUa1pBM25tcFZIQVc3OVhDcHJubVhoUDdDdTBoOW55YXhPMHY0QVF3QTVFZ0pZTndBWDlsbjdyYURzZGdmVzlnRE13TDFXU21GdWpaaDZvQ21wRW8yU3hLTVg0bzZONEFVYk0?oc=5",
-      "summary": "Mohave County resident dies of hantavirus, Arizona health officials say &nbsp;&nbsp; ktnv.com",
-      "source": "ktnv.com"
-    },
-    {
       "title": "Bend doctor at center of hantavirus outbreak back home \u2014 but still in quarantine - Rogue Valley Times",
       "published": "Thu, 04 Jun 2026 18:53:03 GMT",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1RpN1VRNm4zeFduYmFWZTV2eXlna214eTI0cU1DeFNRa3l0dlpDT21WMGNzSFNQT2RGWWhacDBqemMxU2JXMS1rX1dZb2tjWFJmZngxd1Z0aDY0Q2poMVRQc2lyNmtkOTdnTU1kQ3VfNjQ5eUQwUWE0M05aZExLeHdKTW13bmQ5Uk5YTTdLclVpRzZSV1dzNkpScG42NVRTWVpydWFsaWNobU9IdUVWMQ?oc=5",
@@ -399,6 +386,20 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aRWxTNmU3VUc4MFZ3ajVrTkxHckJRUGxQX0hNS3JqVTNsblp1WkdkcUMxYnltTkxNTmI0clBiRW5nUHlNc21ScXZhVkt6ODdoTllQVWhYQzZqRE1GOUVwcC1WRzF3S251YTJnbWJvLXVIM1NVLXRQVHVZai1IZkE?oc=5",
       "summary": "Arizona: Hantavirus death reported in Mohave County &nbsp;&nbsp; Outbreak News Today",
       "source": "Outbreak News Today"
+    },
+    {
+      "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
+      "published": "Mon, 01 Jun 2026 22:25:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
+      "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
+      "source": "KJZZ"
+    },
+    {
+      "title": "Mohave County health officials report first hantavirus death in Kingman - FOX5 Vegas",
+      "published": "Mon, 01 Jun 2026 20:28:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRURCVnVWa0VIeng2MERFWVJpcHpyUWVFXzNwbEpKWkE1elZnNTFjc1QtY2FyTUdBNzc2eS1EbU9YZGx6TS1ZblNhSUo2Ml9TVzBINTY5cFdtRnMyUzNIUHRxd0tfUDNmc2x1VnIxRXAzUXdyTExQZjVMLWpiLVRCTF9aa2E1YUlkWEREUGg2a2VEYjJtNEJDVWlYVXZTNEtjTWdwNnV1QzdOQdIBvgFBVV95cUxOeDJzVVpTZkhGVHVuNm9aV3QyOWw5QU96bC1mNFpKWl9qbXlxN3JWT0F0aTJ1UWtPVnEySmE5R1h6d3EwenpkRjd2TXEtb0ttZ1gxeUlPNDNVTTlkLV9pWEViZHlCWkR6cmxGMlJESTBpblAxOEF0MVdvTUhpekE4T0p0dTM4LXpBWWFiNTE4UDgzWlc3VmdYRmRVMTlFSllLbm41WjI4SGRYNXo3RjBNVzJnUjJxX0xsLUVvVmVR?oc=5",
+      "summary": "Mohave County health officials report first hantavirus death in Kingman &nbsp;&nbsp; FOX5 Vegas",
+      "source": "FOX5 Vegas"
     }
   ],
   "usHistoric": {
@@ -428,10 +429,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-05T13:40:59.828104Z",
+    "timestamp": "2026-06-05T16:17:05.709407Z",
     "who": 0,
     "promed": 0,
-    "news": 39,
+    "news": 38,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
