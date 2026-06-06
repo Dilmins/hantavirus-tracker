@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T17:49:34.053715Z",
+  "lastUpdated": "2026-06-06T19:03:34.174127Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "CBS News",
-        "The Colorado Sun",
-        "Colorado Public Radio",
         "World Health Organization (WHO)",
-        "OregonLive.com",
-        "KJZZ",
+        "The Colorado Sun",
         "CNN",
-        "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "BBC",
-        "The Guardian",
+        "Outside Magazine",
+        "OregonLive.com",
         "ABC News - Breaking News, Latest News and Videos",
-        "Outside Magazine"
+        "The Guardian",
+        "CBS News",
+        "KJZZ",
+        "BBC",
+        "Colorado Public Radio",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CIDRAP"
       ],
-      "alertCount": 14
+      "alertCount": 15
     },
     {
       "country": "Argentina",
@@ -144,11 +144,11 @@
       "lng": -63.62,
       "alerts": [
         {
-          "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+          "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW",
           "published": "Sat, 06 Jun 2026 03:56:33 GMT",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-          "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
-          "source": "dw.com"
+          "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW",
+          "source": "DW"
         },
         {
           "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - AP News",
@@ -160,7 +160,7 @@
       ],
       "sources": [
         "AP News",
-        "dw.com"
+        "DW"
       ],
       "alertCount": 2
     },
@@ -382,11 +382,11 @@
       "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW",
       "published": "Sat, 06 Jun 2026 03:56:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
-      "source": "dw.com"
+      "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW",
+      "source": "DW"
     },
     {
       "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
@@ -465,7 +465,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-06T17:49:34.053726Z",
+    "timestamp": "2026-06-06T19:03:34.174145Z",
     "who": 0,
     "promed": 0,
     "news": 38,
