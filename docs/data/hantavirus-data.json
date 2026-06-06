@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T07:29:27.592581Z",
+  "lastUpdated": "2026-06-06T09:33:52.025204Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -93,13 +93,6 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-          "published": "Mon, 25 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
-          "source": "CNN"
-        },
-        {
           "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
           "published": "Mon, 18 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
@@ -119,22 +112,29 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
           "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
           "source": "Colorado Public Radio"
+        },
+        {
+          "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
+          "published": "Mon, 01 Jun 2026 22:25:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
+          "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
+          "source": "KJZZ"
         }
       ],
       "sources": [
-        "CBS News",
-        "The Guardian",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CNN",
         "The Colorado Sun",
         "KJZZ",
-        "World Health Organization (WHO)",
         "ABC News - Breaking News, Latest News and Videos",
         "Colorado Public Radio",
         "BBC",
-        "CNN",
+        "CBS News",
+        "World Health Organization (WHO)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Guardian",
         "CIDRAP"
       ],
-      "alertCount": 12
+      "alertCount": 11
     },
     {
       "country": "USA",
@@ -171,9 +171,9 @@
         }
       ],
       "sources": [
-        "Live Science",
+        "INQUIRER.net USA",
         "USA Today",
-        "INQUIRER.net USA"
+        "Live Science"
       ],
       "alertCount": 4
     },
@@ -183,18 +183,18 @@
       "lng": -63.62,
       "alerts": [
         {
-          "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
-          "published": "Sat, 06 Jun 2026 03:30:52 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE0?oc=5",
-          "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
-          "source": "DW.com"
+          "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+          "published": "Sat, 06 Jun 2026 03:50:12 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
+          "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
+          "source": "dw.com"
         },
         {
-          "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - Toronto Star",
-          "published": "Fri, 05 Jun 2026 23:28:43 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObmd2Z29Ca3ZjS0M0cFNfbWRKVmloTl81TVQ2bFk2S29PREJxQnFaT1BySmFpcGJMWkZvTG9wZVRHOEhkZ1AxV3lHZ204ZS16UWZuQ1g4a3dsZVZSeFNGVHFKTzVHSzJycF9EMkJ1Z1RhRFgzR21kZHRGcnpMUVZCYV9QQlVYcGRTaTdxYUxMcGlvYUYxTEFTN3FBZW1QNXpnVWRtMWV5akxORVVoNm1xRHpkOEgwX1F6aDRwZTVpSzZUMUo1WHBPdjFaSU1LcUE5ejQxQlR0UFpCb1dMS21VOHMtMEV0X3pwd1Rwb2hXcVhuMWREVWFqRlBn?oc=5",
-          "summary": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza &nbsp;&nbsp; Toronto Star",
-          "source": "Toronto Star"
+          "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - DC News Now",
+          "published": "Fri, 05 Jun 2026 23:27:32 GMT",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHh3d0Jnd1RpSVU1VHZ6OF9mdk1oN0JZZkwtUEZhOVVmZVU5QkQyc2RibXBpMEdpdWl3RFdaRUowVVdzb3l3U2Rna1I3bU15eHpQYlBWakl0d2pIbDNLVEtaLWVEYXB5eUVMSGhWLV9UeWdJazVxcGsyS0d2OU1EbDN4Y3ZlWV9nempFNWI3NU9qYWMzcUduNXoxOS0xMzh6c2RsRFlBcnpPcjZoVzlSQlRjVm1tZEJqTFZzY29pVDIxc1FIRFdPUFd4Rk1fUdIB0wFBVV95cUxQTTltUUhSRmlJMlNyNDJNZ2tTSTBMNmJZdVE3cTI2N2lHOFZVMVNCY2VuNDBkeEFxQ3RHUDRTRHhIRFFBR1Awc2lwd0I4bDktODZtT2k1MHZXR0pxNnA2UkxLZW9hMGx3akVPS0xNOGlUbVlaTFhPeEhRd3Y1and6amF6QnA4dlNicl9tMzF2RVpRVHh6Q25HQU1fbnNXTm9kd3I4UTI0akp0QUVWU2FLWVFDSFQwY0NWMUZ1ckdhS0tsb18xbDQ3RGVkVW1ablZjYmZr?oc=5",
+          "summary": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza &nbsp;&nbsp; DC News Now",
+          "source": "DC News Now"
         },
         {
           "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - AP News",
@@ -205,9 +205,9 @@
         }
       ],
       "sources": [
+        "dw.com",
         "AP News",
-        "DW.com",
-        "Toronto Star"
+        "DC News Now"
       ],
       "alertCount": 3
     },
@@ -372,18 +372,18 @@
       "source": "Live Science"
     },
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
-      "published": "Sat, 06 Jun 2026 03:30:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE0?oc=5",
-      "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
-      "source": "DW.com"
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
+      "published": "Sat, 06 Jun 2026 03:50:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
+      "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
+      "source": "dw.com"
     },
     {
-      "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-      "published": "Mon, 25 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-      "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
-      "source": "CNN"
+      "title": "Community Focus: Dr. Jennifer Nuzzo on Ebola outbreak, hantavirus - WPRI.com",
+      "published": "Sat, 06 Jun 2026 00:25:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUVnVklWWjlFUkJlNDhadjQ2WUFxQzdncGt4SUo2OS0tMkVyN1RPcDdPcklFbG1MUHNuS0pVR2Q1UDdRVmtZUXFUcEVINkU2VFZjREp3cElBVnByZ0s0ODd3Z240SlV5SWJ2RUtaZ2dUSnJ3RDZEVE8tTjhaOHpvRDhqZEV5N1d1b0hkNWFGU1Z6SzRZbFJ3UkNYV29WekRZUXVRT1ZrUl9LbEN2enfSAbMBQVVfeXFMUEJzOElCNnNKeVdkd3dtUFAycjJSZkh2UXdDbTVYRy1UWUV3S1ZaaWdRWmJtVjJhZ2w1YS1Mcm5hcWJrZFQySk5GZVg2eTg5eW5XVFZvS0dYcnNSX1VWaTN0WTQtMmhaLTVvRFdBaVk1MnhfWjdzUHp5ZjZRZ3BpWGVUdTdiZTV5V2FHazhJWUlzWWxCR1ZMSV91X0o5UjduUFFKYWhwdzN1M2IzckxZMmh0Zk0?oc=5",
+      "summary": "Community Focus: Dr. Jennifer Nuzzo on Ebola outbreak, hantavirus &nbsp;&nbsp; WPRI.com",
+      "source": "WPRI.com"
     },
     {
       "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
@@ -469,7 +469,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-06T07:29:27.592592Z",
+    "timestamp": "2026-06-06T09:33:52.025219Z",
     "who": 0,
     "promed": 0,
     "news": 38,
