@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-06T11:09:47.407813Z",
+  "lastUpdated": "2026-06-06T12:15:41.286527Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 4,
-  "newsCount": 38,
+  "locationsTracked": 5,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -100,6 +100,13 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
+          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
+          "published": "Mon, 25 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
+          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
+          "source": "CNN"
+        },
+        {
           "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
           "published": "Mon, 18 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
@@ -112,30 +119,23 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
           "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
           "source": "The Colorado Sun"
-        },
-        {
-          "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
-          "published": "Mon, 18 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
-          "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
-          "source": "Colorado Public Radio"
         }
       ],
       "sources": [
         "KJZZ",
-        "Colorado Public Radio",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CNN",
-        "World Health Organization (WHO)",
-        "The Colorado Sun",
         "ABC News - Breaking News, Latest News and Videos",
         "CBS News",
-        "The Guardian",
-        "BBC",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CNN",
         "OregonLive.com",
-        "CIDRAP"
+        "CIDRAP",
+        "Colorado Public Radio",
+        "The Colorado Sun",
+        "World Health Organization (WHO)",
+        "BBC",
+        "The Guardian"
       ],
-      "alertCount": 12
+      "alertCount": 13
     },
     {
       "country": "USA",
@@ -157,13 +157,6 @@
           "source": "USA Today"
         },
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
-          "published": "Sat, 09 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-          "source": "Live Science"
-        },
-        {
           "title": "Should you cancel your cruise as deadly hantavirus emerges? - INQUIRER.net USA",
           "published": "Fri, 05 Jun 2026 14:38:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFMTEdVVFhjcjJjNjBjTFkzSFJDc25jU0tZcERxbUQtMTB6aV80cE42bnUzVkdERkc4b0N4TEtuTVVWNTg2NUNROS1IVjJpWVFRVjBNalZKdHBXWDdNa1pfMDc3UDFhNGJHRnh2d1RXcm0teFBUN1JUd3c5aGpoSzBHbDdRcjAzMGROenlpUlZpZzlf?oc=5",
@@ -172,11 +165,10 @@
         }
       ],
       "sources": [
-        "INQUIRER.net USA",
         "USA Today",
-        "Live Science"
+        "INQUIRER.net USA"
       ],
-      "alertCount": 4
+      "alertCount": 3
     },
     {
       "country": "Argentina",
@@ -184,11 +176,11 @@
       "lng": -63.62,
       "alerts": [
         {
-          "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
-          "published": "Sat, 06 Jun 2026 03:50:12 GMT",
+          "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
+          "published": "Sat, 06 Jun 2026 03:30:59 GMT",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-          "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
-          "source": "dw.com"
+          "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
+          "source": "DW.com"
         },
         {
           "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - AP News",
@@ -199,10 +191,28 @@
         }
       ],
       "sources": [
-        "dw.com",
-        "AP News"
+        "AP News",
+        "DW.com"
       ],
       "alertCount": 2
+    },
+    {
+      "country": "Spain",
+      "lat": 40.46,
+      "lng": -3.75,
+      "alerts": [
+        {
+          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
+          "published": "Thu, 28 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
+          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
+          "source": "Yahoo"
+        }
+      ],
+      "sources": [
+        "Yahoo"
+      ],
+      "alertCount": 1
     },
     {
       "country": "Chile",
@@ -302,6 +312,13 @@
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
+      "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
+      "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
+      "source": "Yahoo"
+    },
+    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -365,18 +382,18 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-      "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-      "source": "Live Science"
+      "title": "Hantavirus: Argentina expands probe to trace outbreak source - DW.com",
+      "published": "Sat, 06 Jun 2026 03:30:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
+      "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; DW.com",
+      "source": "DW.com"
     },
     {
-      "title": "Hantavirus: Argentina expands probe to trace outbreak source - dw.com",
-      "published": "Sat, 06 Jun 2026 03:50:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDBwWmxyRnpKMzB1anREQUtvOWEwR0VJcnR4YWhHVWVNakVxZVNUQ3JMM3FyRG1HRUV3S01DSFZQX3VFSkxTS090THRTMmY2MV9GVzZrU1BGNXBPNkZhU3hjZ1FlVHZoMWdCZnNMQ1RMOGtjb1U0WExFakI1ZFpRbGc1dzc4TERMVWttRnFqZS1BZ1ZqQk11Z1VsNERfZkdRa2NjcDI1SE3SAagBQVVfeXFMTjN3cnRzSlpCbmRzbzQ3SHVtS3R4R1N2b1NFdmlzYjlodzlaVEJLZ0hMVjc5eVdvUElpX3J2UXhFXzJLc3VFUkVsYUFqcW5oUGlxeFZMSHctQjJ5bXlvUGdzU0R6S3AxcXFxaHZORWFQVWlzcVRvaGpVTkZPM2NQZ2JXY1lzeDZCRV93bldlQUVFWnJRWWFmb3MxQV9aQlNjd2NpdE9kVlpw?oc=5",
-      "summary": "Hantavirus: Argentina expands probe to trace outbreak source &nbsp;&nbsp; dw.com",
-      "source": "dw.com"
+      "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
+      "published": "Mon, 25 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
+      "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
+      "source": "CNN"
     },
     {
       "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
@@ -426,13 +443,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRURCVnVWa0VIeng2MERFWVJpcHpyUWVFXzNwbEpKWkE1elZnNTFjc1QtY2FyTUdBNzc2eS1EbU9YZGx6TS1ZblNhSUo2Ml9TVzBINTY5cFdtRnMyUzNIUHRxd0tfUDNmc2x1VnIxRXAzUXdyTExQZjVMLWpiLVRCTF9aa2E1YUlkWEREUGg2a2VEYjJtNEJDVWlYVXZTNEtjTWdwNnV1QzdOQdIBvgFBVV95cUxOeDJzVVpTZkhGVHVuNm9aV3QyOWw5QU96bC1mNFpKWl9qbXlxN3JWT0F0aTJ1UWtPVnEySmE5R1h6d3EwenpkRjd2TXEtb0ttZ1gxeUlPNDNVTTlkLV9pWEViZHlCWkR6cmxGMlJESTBpblAxOEF0MVdvTUhpekE4T0p0dTM4LXpBWWFiNTE4UDgzWlc3VmdYRmRVMTlFSllLbm41WjI4SGRYNXo3RjBNVzJnUjJxX0xsLUVvVmVR?oc=5",
       "summary": "Mohave County health officials report first hantavirus death in Kingman &nbsp;&nbsp; FOX5 Vegas",
       "source": "FOX5 Vegas"
-    },
-    {
-      "title": "Exposed Hantavirus Patients Could Go Home\u2014If They Agree To 24/7 Surveillance (Latest Updates) - Forbes",
-      "published": "Fri, 29 May 2026 13:23:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMUJJQ1V1NHdEeFlydkV2X0o5SHk2QW1EYXNHZXRETm9QeHNtWHNKQnVFT2JOLWpYZzYyWTc3bEMtUTdlNGRVczBtelljcHlfanpBUEtZSlF5TjJBLTljWW5RRWpwOUtFMkkyMmhXT0owM2FUaGdydDRySTZiTWNLNmE5ZVd2YUZVTlQ3bENSdThabEd4YXNCSzI3MUg3Ym9uREt5Nm12OEVpX3F3QXdPSnd0UjJOQ3g0M0Z3aDljMi11d3RneXA0eG1KNTR0ZzkxRzdnNE1oaENweTNGNUlzVDBkWGludXFrVS1VUnJoZHJKZndQMHBjTQ?oc=5",
-      "summary": "Exposed Hantavirus Patients Could Go Home\u2014If They Agree To 24/7 Surveillance (Latest Updates) &nbsp;&nbsp; Forbes",
-      "source": "Forbes"
     }
   ],
   "usHistoric": {
@@ -462,10 +472,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-06T11:09:47.407827Z",
+    "timestamp": "2026-06-06T12:15:41.286538Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
