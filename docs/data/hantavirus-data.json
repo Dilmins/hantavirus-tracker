@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-07T20:05:33.005094Z",
+  "lastUpdated": "2026-06-07T21:34:45.940509Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
+  "locationsTracked": 7,
   "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -93,13 +93,6 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
-          "title": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
-          "published": "Sun, 07 Jun 2026 16:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5",
-          "summary": "NZ cruise passenger tests negative for hantavirus &nbsp;&nbsp; Taipei Times",
-          "source": "Taipei Times"
-        },
-        {
           "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
           "published": "Sun, 07 Jun 2026 02:32:43 GMT",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
@@ -119,26 +112,32 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUgxQURvWjVwTTg5ZWtXVzN5S3hvSTA1UUo4UE92REZ2VGNscmpPQ19HR2l3bjFlRUdpd0Nra2dqMm1qa0NOTVhOVmhwMTRSOXUtVVg0WVdHTUo1b0tLRW5JM1RSellUS05wN2xfbXlaUVFiNkR3aVNfY2FDY3BJbkhfV3VYQ3MwU2FWQUpUZTNpZ2JkMVFOSkU2bV93QzR4WTNUQUZNc0hwdVQ1YVdxcVI1dWdxSmxXZ2dzZVk4MmNOQdIBxwFBVV95cUxONnBuWmI3NmlNMEFtcENoWWhMMUIzZXhfVVEyazlNZmhRS0lIMGJPdGJQS0k3RVJ1ODVkT3lYOUhWX0s3MFVNb21Kd2dOUVBwdDNYRHNFQjdIRnkzSzVSM2RaR0ZtdDNfbTV6d3BtT1RzUHMwUjNhb2VhazR4RUpUeEkzTGtvdDg2a2ZyMTZLNmtINXlfVk85cWNaRGhBdmEtZFNOd2MxNS1YMnFBOHFJTVJCRWpERlNJRjFnd2w1WGlQMFNma0xj?oc=5",
           "summary": "Hantavirus monitoring complete for 2 Texas passengers from cruise ship outbreak, health officials say &nbsp;&nbsp; ABC13 Houston",
           "source": "ABC13 Houston"
+        },
+        {
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - AOL.com",
+          "published": "Sat, 06 Jun 2026 03:28:20 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWo4bFJWcnN4cEprX0p4MkVndmV5NXdJcWJHUVp1RUFVbFFxbmRMR191ZTNvR0oxRmpqTFVQem90MkJXdUNCOFZ5cmE4ZjJON3c5SDlpODBIV3V6bGlZM3QyUVBXNHAyYkdLU0tISW5JQ0tnSWhmWE41d1NSUW9OSmNKSQ?oc=5",
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; AOL.com",
+          "source": "AOL.com"
         }
       ],
       "sources": [
-        "CNN",
-        "Taipei Times",
-        "The Guardian",
-        "FOX 7 Austin",
-        "ABC13 Houston",
         "CBS News",
-        "CIDRAP",
-        "ABC News - Breaking News, Latest News and Videos",
-        "AOL.com",
-        "KJZZ",
-        "Click2Houston",
         "The Colorado Sun",
-        "BBC",
+        "KJZZ",
+        "The Guardian",
+        "ABC13 Houston",
         "World Health Organization (WHO)",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "CIDRAP",
+        "CNN",
+        "FOX 7 Austin",
+        "Click2Houston",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "AOL.com"
       ],
-      "alertCount": 16
+      "alertCount": 15
     },
     {
       "country": "USA",
@@ -216,6 +215,24 @@
       ],
       "sources": [
         "NBC News"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Australia",
+      "lat": -25.27,
+      "lng": 133.78,
+      "alerts": [
+        {
+          "title": "Hantavirus: Of mice, men and cruise ships - The Medical Journal of Australia",
+          "published": "Sun, 07 Jun 2026 19:52:24 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3VVVTJ0X3FqYUxNZTFFbFVGcS1xSzJtRE02aEFLRHFwMEU2alpmTVVKZHFtZHdWOWRNY2taUEdwclFhTFlJUGM1cU1qY2U0dWYxbGFUeWg3enZjZWFZUUxsbUNNeWFYWkFodWRqeFpNTldmYTUyZ09JWURpOXJOOTVTMEs?oc=5",
+          "summary": "Hantavirus: Of mice, men and cruise ships &nbsp;&nbsp; The Medical Journal of Australia",
+          "source": "The Medical Journal of Australia"
+        }
+      ],
+      "sources": [
+        "The Medical Journal of Australia"
       ],
       "alertCount": 1
     },
@@ -366,11 +383,11 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
-      "published": "Sun, 07 Jun 2026 16:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5",
-      "summary": "NZ cruise passenger tests negative for hantavirus &nbsp;&nbsp; Taipei Times",
-      "source": "Taipei Times"
+      "title": "Hantavirus: Of mice, men and cruise ships - The Medical Journal of Australia",
+      "published": "Sun, 07 Jun 2026 19:52:24 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3VVVTJ0X3FqYUxNZTFFbFVGcS1xSzJtRE02aEFLRHFwMEU2alpmTVVKZHFtZHdWOWRNY2taUEdwclFhTFlJUGM1cU1qY2U0dWYxbGFUeWg3enZjZWFZUUxsbUNNeWFYWkFodWRqeFpNTldmYTUyZ09JWURpOXJOOTVTMEs?oc=5",
+      "summary": "Hantavirus: Of mice, men and cruise ships &nbsp;&nbsp; The Medical Journal of Australia",
+      "source": "The Medical Journal of Australia"
     },
     {
       "title": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak - NL Times",
@@ -477,7 +494,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-07T20:05:33.005107Z",
+    "timestamp": "2026-06-07T21:34:45.940521Z",
     "who": 0,
     "promed": 0,
     "news": 38,
