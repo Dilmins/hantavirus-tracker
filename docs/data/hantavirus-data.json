@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T17:39:21.831817Z",
+  "lastUpdated": "2026-06-07T18:53:55.665718Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -93,6 +93,13 @@
           "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
+          "title": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
+          "published": "Sun, 07 Jun 2026 16:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5",
+          "summary": "NZ cruise passenger tests negative for hantavirus &nbsp;&nbsp; Taipei Times",
+          "source": "Taipei Times"
+        },
+        {
           "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
           "published": "Sun, 07 Jun 2026 02:32:43 GMT",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
@@ -112,32 +119,26 @@
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUgxQURvWjVwTTg5ZWtXVzN5S3hvSTA1UUo4UE92REZ2VGNscmpPQ19HR2l3bjFlRUdpd0Nra2dqMm1qa0NOTVhOVmhwMTRSOXUtVVg0WVdHTUo1b0tLRW5JM1RSellUS05wN2xfbXlaUVFiNkR3aVNfY2FDY3BJbkhfV3VYQ3MwU2FWQUpUZTNpZ2JkMVFOSkU2bV93QzR4WTNUQUZNc0hwdVQ1YVdxcVI1dWdxSmxXZ2dzZVk4MmNOQdIBxwFBVV95cUxONnBuWmI3NmlNMEFtcENoWWhMMUIzZXhfVVEyazlNZmhRS0lIMGJPdGJQS0k3RVJ1ODVkT3lYOUhWX0s3MFVNb21Kd2dOUVBwdDNYRHNFQjdIRnkzSzVSM2RaR0ZtdDNfbTV6d3BtT1RzUHMwUjNhb2VhazR4RUpUeEkzTGtvdDg2a2ZyMTZLNmtINXlfVk85cWNaRGhBdmEtZFNOd2MxNS1YMnFBOHFJTVJCRWpERlNJRjFnd2w1WGlQMFNma0xj?oc=5",
           "summary": "Hantavirus monitoring complete for 2 Texas passengers from cruise ship outbreak, health officials say &nbsp;&nbsp; ABC13 Houston",
           "source": "ABC13 Houston"
-        },
-        {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - AOL.com",
-          "published": "Sat, 06 Jun 2026 03:28:20 GMT",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWo4bFJWcnN4cEprX0p4MkVndmV5NXdJcWJHUVp1RUFVbFFxbmRMR191ZTNvR0oxRmpqTFVQem90MkJXdUNCOFZ5cmE4ZjJON3c5SDlpODBIV3V6bGlZM3QyUVBXNHAyYkdLU0tISW5JQ0tnSWhmWE41d1NSUW9OSmNKSQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; AOL.com",
-          "source": "AOL.com"
         }
       ],
       "sources": [
-        "CNN",
-        "KJZZ",
-        "BBC",
         "FOX 7 Austin",
+        "Taipei Times",
+        "CIDRAP",
+        "KJZZ",
+        "AOL.com",
+        "World Health Organization (WHO)",
+        "CBS News",
         "ABC News - Breaking News, Latest News and Videos",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "Click2Houston",
-        "AOL.com",
-        "CIDRAP",
         "The Colorado Sun",
-        "World Health Organization (WHO)",
-        "CBS News",
         "The Guardian",
-        "ABC13 Houston"
+        "ABC13 Houston",
+        "CNN",
+        "BBC"
       ],
-      "alertCount": 15
+      "alertCount": 16
     },
     {
       "country": "USA",
@@ -267,13 +268,6 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Sin Nombre Hantavirus Strain Kills One In Arizona - Forbes",
-      "published": "Wed, 03 Jun 2026 14:05:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPelBEZUwyVk0xMXh2VENZNDF2UlNYMU45RjdNeGo3ZkhWNDhHZFFhOGRKU01CalZ2UmhUbWxUbUpIUWU0ckNiY3VSVElzXzBkSTZTZ3FDeG1CbloyQl91NktLNHVubnE2dHc4d1YwQzdETVdIc3Nscjl5NmhtdGkwNV82dkV6c2V1QlBESFFwRk1jUGlzeWpqUG1HekNVNm1jX1JVS3BrWllYYXFVZ3Bkb3g4bkxGdDJQblpVQmR5bm9zcllJeVhWaWRqRVUzcTg?oc=5",
-      "summary": "Sin Nombre Hantavirus Strain Kills One In Arizona &nbsp;&nbsp; Forbes",
-      "source": "Forbes"
-    },
-    {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
       "published": "Wed, 03 Jun 2026 04:33:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
@@ -372,11 +366,25 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
+      "title": "NZ cruise passenger tests negative for hantavirus - Taipei Times",
+      "published": "Sun, 07 Jun 2026 16:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aVlB1OXl2bjJwOVlhNVgyeWFQZzYzdXYwRkxGWW5vbHJtV3RwelNBbWVkNkNldjdWdXBsUFpIWFM4d25JWU1ZLS13N0R0TUpDZ2V6clNjbWk5QVdJQ3ZXQjJ1YVpFRVRidWt5aVV0RjdZLW5JUThDRk13?oc=5",
+      "summary": "NZ cruise passenger tests negative for hantavirus &nbsp;&nbsp; Taipei Times",
+      "source": "Taipei Times"
+    },
+    {
       "title": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak - NL Times",
       "published": "Sun, 07 Jun 2026 11:55:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMjE2MFRzQWppM2h2NUQ5SXVocUd3SGdrS290eU1rejAxVGhMZHVUZGNzNWdyWU04TF9LMXRSZ3otdDJUaHpLVjJ2UGdvOWY2aDcyTTY2eUNDZ2RkcDhoa2dIallmSmdOcG9uZkEzU3JVd2FCNnpvVWRjT2htNm9lY1pXTUlPNFhQdUJLSEZYV2xMZzdfaEp4aVdxWXA0OUZpY19B?oc=5",
       "summary": "Cruise ship Hondius departs Rotterdam for Norway after deadly hantavirus outbreak &nbsp;&nbsp; NL Times",
       "source": "NL Times"
+    },
+    {
+      "title": "WHO says hantavirus cases remain at 13, no new deaths reported - MSN",
+      "published": "Sun, 07 Jun 2026 06:36:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOeGdCamQ0VUtSS0xxYklEbUsxNTRfR3lpUVB1U29hLUtTQjdsdkxPVVg3ZDQwOEs2Z2hEdm9qeFBKbURQWmVwTktIQjlCeUtlcWZuSGY1Qm90dWFmWGJZOFIwa3o1a2hjNXNRVVAyQjhyRmJUblRPQzVRUTI1VGdUS3l1U2NHVlp2UEdWQkR3TDZHY0stMVNBLWI0RjhtTkVlQVdkTC14aTR2dS1fUExVemREYU96SXlReXZyUU5ZSFNDMTM1MG5SaEJmMngxNUoyd2hHWDJ6ekxTLUFGSEtoZUdNS3RmZS1na2FrNzVjZ1FmRU5ESS1SelhaMjY0b0oyYVRWbHZGRDJOQUZmXzd0eTByTGt1eU1GeUxFRmZnV0t6dHoxZHdlaW9TUGxoZ2dBR2hhS08wZWhKWVg5QmN1ZXpKcERlejUx?oc=5",
+      "summary": "WHO says hantavirus cases remain at 13, no new deaths reported &nbsp;&nbsp; MSN",
+      "source": "MSN"
     },
     {
       "title": "Hantavirus cases steady at 13, no new deaths in month: WHO chief - Yeni Safak English",
@@ -440,13 +448,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
       "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
       "source": "CBS News"
-    },
-    {
-      "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
-      "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
-      "source": "The Colorado Sun"
     }
   ],
   "usHistoric": {
@@ -476,7 +477,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-07T17:39:21.831831Z",
+    "timestamp": "2026-06-07T18:53:55.665732Z",
     "who": 0,
     "promed": 0,
     "news": 38,
