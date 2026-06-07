@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T22:43:26.709388Z",
+  "lastUpdated": "2026-06-07T23:44:08.526178Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
+        "AOL.com",
+        "Click2Houston",
+        "KJZZ",
+        "CBS News",
+        "The Guardian",
+        "BBC",
+        "ABC13 Houston",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "CNN",
         "ABC News - Breaking News, Latest News and Videos",
-        "World Health Organization (WHO)",
-        "KJZZ",
-        "The Colorado Sun",
         "CIDRAP",
-        "CBS News",
-        "BBC",
-        "AOL.com",
         "FOX 7 Austin",
-        "ABC13 Houston",
-        "The Guardian",
-        "Click2Houston",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "World Health Organization (WHO)",
+        "The Colorado Sun"
       ],
       "alertCount": 16
     },
@@ -494,7 +494,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-07T22:43:26.709402Z",
+    "timestamp": "2026-06-07T23:44:08.526188Z",
     "who": 0,
     "promed": 0,
     "news": 39,
