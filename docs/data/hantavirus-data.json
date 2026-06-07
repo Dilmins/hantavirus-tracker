@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T18:53:55.665718Z",
+  "lastUpdated": "2026-06-07T20:05:33.005094Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "FOX 7 Austin",
+        "CNN",
         "Taipei Times",
-        "CIDRAP",
-        "KJZZ",
-        "AOL.com",
-        "World Health Organization (WHO)",
+        "The Guardian",
+        "FOX 7 Austin",
+        "ABC13 Houston",
         "CBS News",
+        "CIDRAP",
         "ABC News - Breaking News, Latest News and Videos",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "AOL.com",
+        "KJZZ",
         "Click2Houston",
         "The Colorado Sun",
-        "The Guardian",
-        "ABC13 Houston",
-        "CNN",
-        "BBC"
+        "BBC",
+        "World Health Organization (WHO)",
+        "Centers for Disease Control and Prevention | CDC (.gov)"
       ],
       "alertCount": 16
     },
@@ -380,13 +380,6 @@
       "source": "NL Times"
     },
     {
-      "title": "WHO says hantavirus cases remain at 13, no new deaths reported - MSN",
-      "published": "Sun, 07 Jun 2026 06:36:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOeGdCamQ0VUtSS0xxYklEbUsxNTRfR3lpUVB1U29hLUtTQjdsdkxPVVg3ZDQwOEs2Z2hEdm9qeFBKbURQWmVwTktIQjlCeUtlcWZuSGY1Qm90dWFmWGJZOFIwa3o1a2hjNXNRVVAyQjhyRmJUblRPQzVRUTI1VGdUS3l1U2NHVlp2UEdWQkR3TDZHY0stMVNBLWI0RjhtTkVlQVdkTC14aTR2dS1fUExVemREYU96SXlReXZyUU5ZSFNDMTM1MG5SaEJmMngxNUoyd2hHWDJ6ekxTLUFGSEtoZUdNS3RmZS1na2FrNzVjZ1FmRU5ESS1SelhaMjY0b0oyYVRWbHZGRDJOQUZmXzd0eTByTGt1eU1GeUxFRmZnV0t6dHoxZHdlaW9TUGxoZ2dBR2hhS08wZWhKWVg5QmN1ZXpKcERlejUx?oc=5",
-      "summary": "WHO says hantavirus cases remain at 13, no new deaths reported &nbsp;&nbsp; MSN",
-      "source": "MSN"
-    },
-    {
       "title": "Hantavirus cases steady at 13, no new deaths in month: WHO chief - Yeni Safak English",
       "published": "Sun, 07 Jun 2026 05:58:16 GMT",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVNiZmlyOS1ud3Z3ZF9oQmdBRWVMR0VVejdpRDREMlYwODZkU2xPZk5SQW9GNTBkakg4N1JjUmE0YW9TeG1TQTE1RTNHNWQ0TThQbHdBaWJGQndVY1ZaMVlSNFFTZDFwLWZ0Ym52SUh0YllVYTFlTWdGdEhKWnRKcnkxZmNaSWh1WllJMWtoc2JDRVctdkFwXzByTV8za1lsbVE?oc=5",
@@ -448,6 +441,13 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
       "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
       "source": "CBS News"
+    },
+    {
+      "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
+      "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
+      "source": "The Colorado Sun"
     }
   ],
   "usHistoric": {
@@ -477,7 +477,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-07T18:53:55.665732Z",
+    "timestamp": "2026-06-07T20:05:33.005107Z",
     "who": 0,
     "promed": 0,
     "news": 38,
