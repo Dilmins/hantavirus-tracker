@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-08T12:07:06.048151Z",
+  "lastUpdated": "2026-06-08T16:16:41.752440Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
-  "newsCount": 35,
+  "locationsTracked": 5,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -50,6 +50,13 @@
       "lat": -10.0,
       "lng": -20.0,
       "alerts": [
+        {
+          "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
+          "published": "Wed, 27 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+          "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
+        },
         {
           "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
@@ -112,31 +119,24 @@
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWo4bFJWcnN4cEprX0p4MkVndmV5NXdJcWJHUVp1RUFVbFFxbmRMR191ZTNvR0oxRmpqTFVQem90MkJXdUNCOFZ5cmE4ZjJON3c5SDlpODBIV3V6bGlZM3QyUVBXNHAyYkdLU0tISW5JQ0tnSWhmWE41d1NSUW9OSmNKSQ?oc=5",
           "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; AOL.com",
           "source": "AOL.com"
-        },
-        {
-          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-          "published": "Mon, 25 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
-          "source": "CNN"
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Click2Houston",
-        "AOL.com",
+        "The Colorado Sun",
         "ABC News - Breaking News, Latest News and Videos",
-        "CNN",
         "KJZZ",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "AOL.com",
         "BBC",
         "The Guardian",
-        "World Health Organization (WHO)",
         "CBS News",
-        "The Colorado Sun",
+        "Click2Houston",
+        "CIDRAP",
+        "CNN",
+        "World Health Organization (WHO)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "OregonLive.com"
       ],
-      "alertCount": 14
+      "alertCount": 15
     },
     {
       "country": "USA",
@@ -156,12 +156,27 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlZSeFN2bDFYRjVqYUpiNXNpNVB1cWVLOGZvRVFrZThiZjhjVC16ZWFQbzlvaU1kcnFZeFIzMWVUWFYwQkxEeUo1YnZsM2YwZHlrRlZsUUxfLV9rYVp6c2VPcnoxWEFDMU5keWFjTWwwOUtxQ09VeWxLVjFuWGlJYUZFeDYyWWtCZTNJQU1HQjlpZTJVUWV5dDJCZDRLbWxFOHhXNDJNYV9ndDJUbEV2TmJualhzaE5qYVJ1c1ppbGV3WThzTzliYy13cw?oc=5",
           "summary": "Hantavirus that killed Gene Hackman\u2019s wife hits cruise ship &nbsp;&nbsp; USA Today",
           "source": "USA Today"
+        },
+        {
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "published": "Sat, 09 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
+          "source": "Live Science"
+        },
+        {
+          "title": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates. - USA Today",
+          "published": "Sat, 09 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUtqUlBHRm10WjlISm1aY1Y5VnY5WWFaNHNYZ25xcTR5dVNVT243cGd4RkxtaWNIUEVMSFJfQUpsTGxRendQdjR0NFNHTm5vTUZMZVFoUGJ5dVVNWUpudFNod0J3MW1xUkpYT1pWS25naXhfNHpuTE02R0ZmQXUtVWpScFViMnBkNjc4T0RMYVd4Mm51cGU5SzBiZi03VVZaOHc?oc=5",
+          "summary": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates. &nbsp;&nbsp; USA Today",
+          "source": "USA Today"
         }
       ],
       "sources": [
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
-      "alertCount": 2
+      "alertCount": 4
     },
     {
       "country": "Argentina",
@@ -200,24 +215,6 @@
       "alertCount": 1
     },
     {
-      "country": "Spain",
-      "lat": 40.46,
-      "lng": -3.75,
-      "alerts": [
-        {
-          "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - NBC News",
-          "published": "Wed, 27 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5",
-          "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; NBC News",
-          "source": "NBC News"
-        }
-      ],
-      "sources": [
-        "NBC News"
-      ],
-      "alertCount": 1
-    },
-    {
       "country": "Chile",
       "lat": -45.57,
       "lng": -72.07,
@@ -245,11 +242,11 @@
       "source": "The New York Times"
     },
     {
-      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - NBC News",
+      "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
       "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5",
-      "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; NBC News",
-      "source": "NBC News"
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+      "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
@@ -259,25 +256,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
-    },
-    {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
       "published": "Wed, 03 Jun 2026 04:33:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
-    },
-    {
-      "title": "More hantavirus cases are expected, WHO chief says - USA Today",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
-      "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
-      "source": "USA Today"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -292,6 +275,13 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
       "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "More hantavirus cases are expected, WHO chief says - USA Today",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
+      "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
+      "source": "USA Today"
     },
     {
       "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
@@ -385,6 +375,20 @@
       "source": "Click2Houston"
     },
     {
+      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
+      "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
+      "source": "Live Science"
+    },
+    {
+      "title": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates. - USA Today",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUtqUlBHRm10WjlISm1aY1Y5VnY5WWFaNHNYZ25xcTR5dVNVT243cGd4RkxtaWNIUEVMSFJfQUpsTGxRendQdjR0NFNHTm5vTUZMZVFoUGJ5dVVNWUpudFNod0J3MW1xUkpYT1pWS25naXhfNHpuTE02R0ZmQXUtVWpScFViMnBkNjc4T0RMYVd4Mm51cGU5SzBiZi03VVZaOHc?oc=5",
+      "summary": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates. &nbsp;&nbsp; USA Today",
+      "source": "USA Today"
+    },
+    {
       "title": "Local Health Officials Warn Of Hantavirus Dangers - myMotherLode.com",
       "published": "Sat, 06 Jun 2026 19:30:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2t5NEc4Y256Z0FoM0ZoMGU1ZXMyWmpYSkFZUjNWWnkxNzB6dzQ5V2t0NExTa0xuMUliSklTUHdwaUQyRXlEVDh2Y3IwdnpKcHZMc1UwMWxBUHRYbXZrU0c5eGdhSzV2LTFsTUZIR0RDSldHVEVCZkhqT1ZPMU9TY0RaXzhYbDNEYWFUN2RDbzVLU0QyM1JUOXpxTVpFaHUt0gGmAUFVX3lxTE5hM0JQS3VHeTRpdTFKNTJkN0kyZnQtZnlSeU9LaVFOOWQ5RnEzbE0wLUNVQWJFODM1ODN6VGFGN216blpLcWNWNFVpVE9ubnlvb25aNzRQek1pQTBLaDhCTTZBNGxqM0FHeENMdmpoQU8xUk55TExtUlNIVWZXY0pfY3RGd2J3YUxfSGpKUXRJa1ZadjhEWVU5RWVoZHIzb3VCdEhvZ0E?oc=5",
@@ -439,13 +443,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
       "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
       "source": "KJZZ"
-    },
-    {
-      "title": "Exposed Hantavirus Patients Could Go Home\u2014If They Agree To 24/7 Surveillance (Latest Updates) - Forbes",
-      "published": "Fri, 29 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMUJJQ1V1NHdEeFlydkV2X0o5SHk2QW1EYXNHZXRETm9QeHNtWHNKQnVFT2JOLWpYZzYyWTc3bEMtUTdlNGRVczBtelljcHlfanpBUEtZSlF5TjJBLTljWW5RRWpwOUtFMkkyMmhXT0owM2FUaGdydDRySTZiTWNLNmE5ZVd2YUZVTlQ3bENSdThabEd4YXNCSzI3MUg3Ym9uREt5Nm12OEVpX3F3QXdPSnd0UjJOQ3g0M0Z3aDljMi11d3RneXA0eG1KNTR0ZzkxRzdnNE1oaENweTNGNUlzVDBkWGludXFrVS1VUnJoZHJKZndQMHBjTQ?oc=5",
-      "summary": "Exposed Hantavirus Patients Could Go Home\u2014If They Agree To 24/7 Surveillance (Latest Updates) &nbsp;&nbsp; Forbes",
-      "source": "Forbes"
     }
   ],
   "usHistoric": {
@@ -475,10 +472,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-08T12:07:06.048163Z",
+    "timestamp": "2026-06-08T16:16:41.752456Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
