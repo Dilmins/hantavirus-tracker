@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-09T02:29:45.153793Z",
+  "lastUpdated": "2026-06-09T06:32:26.625965Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
+  "locationsTracked": 4,
   "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -51,11 +51,25 @@
       "lng": -20.0,
       "alerts": [
         {
+          "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
+          "published": "Wed, 27 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+          "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
+        },
+        {
           "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
           "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
           "source": "CIDRAP"
+        },
+        {
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
+          "published": "Wed, 13 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
+          "source": "KDHE (.gov)"
         },
         {
           "title": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
@@ -93,11 +107,11 @@
           "source": "World Health Organization (WHO)"
         },
         {
-          "title": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
-          "published": "Sun, 07 Jun 2026 18:16:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
-          "summary": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
-          "source": "OregonLive.com"
+          "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
+          "published": "Sun, 17 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
+          "summary": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         },
         {
           "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
@@ -105,41 +119,28 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
           "summary": "Texans clear hantavirus quarantine following cruise outbreak &nbsp;&nbsp; Click2Houston",
           "source": "Click2Houston"
-        },
-        {
-          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-          "published": "Mon, 25 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
-          "source": "CNN"
-        },
-        {
-          "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
-          "published": "Mon, 18 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
-          "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
-          "source": "CBS News"
         }
       ],
       "sources": [
-        "CBC",
+        "The Colorado Sun",
         "KVUE",
-        "Spectrum News",
-        "AOL.com",
+        "CNN",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "BBC",
+        "Click2Houston",
+        "ABC News - Breaking News, Latest News and Videos",
         "CBS News",
         "World Health Organization (WHO)",
         "Colorado Public Radio",
-        "Click2Houston",
-        "CIDRAP",
-        "OregonLive.com",
-        "KJZZ",
-        "CNN",
-        "BBC",
+        "CBC",
+        "AOL.com",
+        "KDHE (.gov)",
         "The Guardian",
-        "The Colorado Sun",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "CIDRAP",
+        "Spectrum News",
+        "KJZZ"
       ],
-      "alertCount": 17
+      "alertCount": 19
     },
     {
       "country": "USA",
@@ -193,42 +194,6 @@
       "alertCount": 1
     },
     {
-      "country": "Spain",
-      "lat": 40.46,
-      "lng": -3.75,
-      "alerts": [
-        {
-          "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - NBC News",
-          "published": "Wed, 27 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5",
-          "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; NBC News",
-          "source": "NBC News"
-        }
-      ],
-      "sources": [
-        "NBC News"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "United Kingdom",
-      "lat": 55.38,
-      "lng": -3.44,
-      "alerts": [
-        {
-          "title": "UKHSA update on the hantavirus cruise ship outbreak - GOV.UK",
-          "published": "Wed, 06 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenluQ21BemRjS3hrOTZKaGJhY0FYdDkwaG1xeDIxaUtsUzIzYWp0RkpqQWFZUHQzcTFINmRRdG5CaFNya2dBNXJnOTF4aDdNb2pLNFpnVlJGOWxLLTR3TjJYWmxtU2M1N09ralVzN3c4RUd0Q1ZOLTRJZzFnSTB5X3lXZWstT2tYWkpGZmNLcw?oc=5",
-          "summary": "UKHSA update on the hantavirus cruise ship outbreak &nbsp;&nbsp; GOV.UK",
-          "source": "GOV.UK"
-        }
-      ],
-      "sources": [
-        "GOV.UK"
-      ],
-      "alertCount": 1
-    },
-    {
       "country": "Chile",
       "lat": -45.57,
       "lng": -72.07,
@@ -256,11 +221,11 @@
       "source": "The New York Times"
     },
     {
-      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - NBC News",
+      "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
       "published": "Wed, 27 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZnp0WXdTZERsZjF6WUdYYVk1bmJZbldyRWppNS16a2ZYUU1IS25yTG5pd1p4dGk3bzJ3OXBWbGZJMmwwSTh2NlJlUEZhWG14N1dMWHRoaUdhb3M2TWJ1MHdhU3UwSG12WEtBb1U5MXU2amlvMUVfZUt5OXpQUXFiTmpfSXRjbTZEZXVZdWlZRHM5Sm5qRUpSYmlTRE5rRmFIT2xlUEVfbnI2aFJV?oc=5",
-      "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; NBC News",
-      "source": "NBC News"
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+      "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
@@ -270,11 +235,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "UKHSA update on the hantavirus cruise ship outbreak - GOV.UK",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenluQ21BemRjS3hrOTZKaGJhY0FYdDkwaG1xeDIxaUtsUzIzYWp0RkpqQWFZUHQzcTFINmRRdG5CaFNya2dBNXJnOTF4aDdNb2pLNFpnVlJGOWxLLTR3TjJYWmxtU2M1N09ralVzN3c4RUd0Q1ZOLTRJZzFnSTB5X3lXZWstT2tYWkpGZmNLcw?oc=5",
-      "summary": "UKHSA update on the hantavirus cruise ship outbreak &nbsp;&nbsp; GOV.UK",
-      "source": "GOV.UK"
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
+      "published": "Wed, 13 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
+      "source": "KDHE (.gov)"
     },
     {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
@@ -298,11 +263,11 @@
       "source": "Stanford Medicine"
     },
     {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
+      "title": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - Toronto Star",
+      "published": "Tue, 09 Jun 2026 04:46:39 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQVl6VmtPUW9JcFFkbEY2eEpUbEVWZ0ZldlIwcHNDQTAwQkFFZjd0bE9vNWVBOXdIeVpfWDA2Y3o4Z20tUXZTMkZac3BOcWd5VmJuX1ZTTWxtNjZzOVRDa1lNT0hkVl9IektTMjZaSk41Nk5MbXhleHJreGRaeGpQQ0xnZmxmbWlmMGcwS0lLMkNTOTNNRTJCdmpHUWl3MVJwVWJBYnU2c1VKdVl0Q0o2RVktUnhFUjEwVGt5RENaUnFhenVzeDg5Y3FqLXBjTVJ1clhpekNKZnlLcVlpTHBMc2pETm1UVS0xUnU2SnBWb0xrQ1BWYXc2UWZORHd2eHJVRHd5eEtMZnJ0NEdBMGkyRVNB?oc=5",
+      "summary": "B.C. health officials say Canadian who tested positive for hantavirus has recovered &nbsp;&nbsp; Toronto Star",
+      "source": "Toronto Star"
     },
     {
       "title": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say - CBC",
@@ -310,13 +275,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbXpuNVc2MGJXU2pqY29Db0VyTVdOMW9ROGRPLUhXLVNnN3Y4anh5RzBMM3RvTTlEWTc5WXBmaktGS0NzRGdLblVZRmYyNnFBQS1UVjV2RVh0bkU5ejNfYk43c09aWjZwUzZST3RkM2h3ZkFMVUJELVVSajdYVU9heFlTM2pqdl9JV01ZdV9tYlpnQ1UtSm9qbjVjMGJMa2N6VV9odHdEVQ?oc=5",
       "summary": "Canadian cruise passenger who tested positive for hantavirus has recovered, health officials say &nbsp;&nbsp; CBC",
       "source": "CBC"
-    },
-    {
-      "title": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure - The New York Times",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHRucC0yb2tBOGlsWTMtcDd5ZTR1Nml3NHA2cFhmUWVpMmZBaGEzZGhkWlZVQWQ2SE1abkpieDVYb1ZIcy1qVDNRYnREa3FqYkNzTHZ2Q002dG9RUVpjbzRGZlctcHZ1MzVjQjBUa3FoaWtIVlRHWTZZUVlrSHdTTFVQbGg1ZTVDWk9F?oc=5",
-      "summary": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -368,11 +326,11 @@
       "source": "USA Today"
     },
     {
-      "title": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship - OregonLive.com",
-      "published": "Sun, 07 Jun 2026 18:16:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
-      "summary": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
-      "source": "OregonLive.com"
+      "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
+      "published": "Sun, 17 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
+      "summary": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
       "title": "Hantavirus cases steady at 13, no new deaths in month: WHO chief - Yeni Safak English",
@@ -457,6 +415,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdkpRaFlPNE93MFBia1ZxYkEtZHhvdWdGMkdlNmtVZGVIRjNnRWVjenVHZWRldXlVajB2aDZUUmRrTW5WVU5iejJwYWEwcDgzQnpvUmJpckt2cG5nUnVwemV1bDFqYm9RRHJweTNFY2pvQk9oaVJaUTFEUHVqS21qZ2tBWldYbVphTGNfck1WNk50SmJLd25tZzdyR0g0bXYzTU9hVzhjQVkyYTM4T01ITnlNeURlcEJPTndmMEJmVU5aNmc?oc=5",
       "summary": "Texans aboard hantavirus cruise ship complete monitoring &nbsp;&nbsp; Spectrum News",
       "source": "Spectrum News"
+    },
+    {
+      "title": "Two Texans clear 42-day quarantine after exposure to Andes hantavirus - Yahoo",
+      "published": "Mon, 08 Jun 2026 17:24:21 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnRKUzBvVTdyLTFwclh3OVZoS2l1UHpvRm90RGt0QVJ6WkppWjktbjNhdFVOUUVhUm9JMFJGd0RGTUFMVFRTcV9QVFNnWEE2N3FiQXBTOFBiWFItREVmdmhkNGk4dXh2VTZFWGlUeDFUNFhMUFR2UVN6c05Ub3JWaDkwS0g1LW93d0E?oc=5",
+      "summary": "Two Texans clear 42-day quarantine after exposure to Andes hantavirus &nbsp;&nbsp; Yahoo",
+      "source": "Yahoo"
     }
   ],
   "usHistoric": {
@@ -486,7 +451,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-09T02:29:45.153809Z",
+    "timestamp": "2026-06-09T06:32:26.625980Z",
     "who": 0,
     "promed": 0,
     "news": 38,
