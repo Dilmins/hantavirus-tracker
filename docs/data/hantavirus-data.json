@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-10T06:13:06.223180Z",
+  "lastUpdated": "2026-06-10T10:31:55.269452Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 38,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -66,7 +66,7 @@
         },
         {
           "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-          "published": "Wed, 10 Jun 2026 04:29:07 GMT",
+          "published": "Wed, 10 Jun 2026 07:30:43 GMT",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
           "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
           "source": "Centers for Disease Control and Prevention | CDC (.gov)"
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "KJZZ",
-        "BBC",
-        "CBS News",
-        "World Health Organization (WHO)",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "OregonLive.com",
-        "CIDRAP",
-        "Global News",
-        "Nebraska Public Media",
-        "WOWT",
         "AOL.com",
-        "The Guardian",
-        "The Colorado Sun",
+        "OregonLive.com",
+        "Nebraska Public Media",
+        "CIDRAP",
+        "KJZZ",
         "CNN",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Guardian",
+        "WOWT",
+        "World Health Organization (WHO)",
+        "BBC",
+        "The Colorado Sun",
+        "Global News",
+        "CBS News",
         "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 16
@@ -151,6 +151,13 @@
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
           "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
           "source": "USA Today"
+        },
+        {
+          "title": "3 Virginia people exposed to hantavirus healthy after incubation period passes - WUSA9",
+          "published": "Tue, 09 Jun 2026 22:14:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5",
+          "summary": "3 Virginia people exposed to hantavirus healthy after incubation period passes &nbsp;&nbsp; WUSA9",
+          "source": "WUSA9"
         },
         {
           "title": "Hantavirus that killed Gene Hackman\u2019s wife hits cruise ship - USA Today",
@@ -176,9 +183,10 @@
       ],
       "sources": [
         "USA Today",
-        "Live Science"
+        "Live Science",
+        "WUSA9"
       ],
-      "alertCount": 4
+      "alertCount": 5
     },
     {
       "country": "United Kingdom",
@@ -265,8 +273,15 @@
       "source": "CIDRAP"
     },
     {
+      "title": "Hantavirus outbreaks rare, but not unheard of in U.S. - Butler Eagle",
+      "published": "Wed, 10 Jun 2026 10:30:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXkySDdMR0xvV2xNYldrb0Z4QVNIampiQUQxU3VlVUxRU3o0dHVRRXdUYmw2czc4OTJhU2pjaHBRbVZ6OEJ2eVVSaDFZTW9CTDVwM2VBSVo5VlhnQm5GMzZiX1lDanFoczVLVnV4Ty1aaUVKelZnRkRTdmctLXJXeDZpOTYyZmd4a241V0xPN1JwQkE?oc=5",
+      "summary": "Hantavirus outbreaks rare, but not unheard of in U.S. &nbsp;&nbsp; Butler Eagle",
+      "source": "Butler Eagle"
+    },
+    {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Wed, 10 Jun 2026 04:29:07 GMT",
+      "published": "Wed, 10 Jun 2026 07:30:43 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
       "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
@@ -298,6 +313,13 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEcxRTRUNUNaX0dHTHp2T3ctUnZPbG1FeXNVNThDTXJma2lHRjZJV2oxYzltcVF6QWVHTDVhRW5FVWdSbHVSOHo4bEtSdTdVc2dta19Idi1UbG9RNlR4eGU0akpTdklFaFpQZWdYUm0tQS1HTnlMWG4zSDhTai1xU25lTkhWRzhWNWRLcTFhUE5CZkd6eVZIVzlod3lpQ0FleGV5TEEtcFRSRTNYZ3Y2amFPOFc?oc=5",
       "summary": "3 more former cruise ship passengers leave UNMC after quarantining following hantavirus outbreak &nbsp;&nbsp; Nebraska Public Media",
       "source": "Nebraska Public Media"
+    },
+    {
+      "title": "3 Virginia people exposed to hantavirus healthy after incubation period passes - WUSA9",
+      "published": "Tue, 09 Jun 2026 22:14:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3ZrODN2aDNsamU0dHpKQl9hbTVwSHpxQzJTQUVScDI0czdtbV9JNTAtaWNDX0FfNU1TMFZwdW9QVEtYQ3lXSnlhR2VtaXl0X1VjMnFGdFVQcllfclM4dWthV29sOXZINEZfa1lyMnlfbnJPVUFyd1l4LXVYOU14Q0VCTDVfQU9IT1VzRVBCc09ldHVKSzEwRXBSYk9iQTFHdFpiTmUwbDNud2o1MVBGT0pKNUlsMjI2cko4N3FCbVB5TUFadlBhZnlNaVJVdTd5cXFaOERaVzVtMXpNb1Q5QjFkY1Jjdw?oc=5",
+      "summary": "3 Virginia people exposed to hantavirus healthy after incubation period passes &nbsp;&nbsp; WUSA9",
+      "source": "WUSA9"
     },
     {
       "title": "Hantavirus update: What to know about Sin Nombre virus strain endemic to California, how to stay safe when camping - ABC7 Los Angeles",
@@ -391,13 +413,6 @@
       "source": "USA Today"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective - World Health Organization (WHO)",
-      "published": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRktvd2xiNHJPU2dCeXhfTVNHLWhfNzlHc2NyTHdxUF83UThDTjlUd2dUTzdJWEJ2S2tJR1N5bUdVUFprQUUxemhCLXZmdDhYMGpyLVZMZTIzbHBwNlFYbWM0TDB5c3BKQl9tWlRyNHFxelV3amctQTIxOGNsakdoOU4wRksxZ3BGQlp2eGRSZGpHcThBcTlYUWRvbXB2Vk1vWXVEU0hfd2F5U3p3T2M5NXZKWWJfb0JZOTdjUjMwdnV2NlliM29zejItcE1kcURkMTBiVWdiTDdQLXp2MFNaTldvR3BhbnVEeDNEc1JFcGdac1VqMjhzNnFyUWZhNXpuZ3J0ejJFaGVob2xROTJJNENxdHVFVUJFdmp5eVoya0dmS1N4?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus III: reflections from the IHR Border Health and Points of Entry perspective &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
-    },
-    {
       "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
@@ -410,13 +425,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd2RzN2MxZ3d3cFpDU284V0VjNW53VVE1OG4ycFN0a1ptVGRvbDRUUlIwekZPWks3Y0RrcDdWNERjQmZqWkhyYVVQRkplVFZ5UUs4clk5Um9pZGg1RXU1TVdZVHVQSkdpdDN0ejdvME1ndjA0d1p1UzBVbjNHOWw5RGNuR19JM3FrLVZpRGwtX0Y3elNqQ084YUZNUGNLa2xUM3RhVDBMYnJNa3FTRzIwcXlTRzRsR0RDVFJudlBITTh2Y2RQejh6T1NsNlZZZ9IB4gFBVV95cUxOMjRxYWdyQl9ONkx2OVVQbm5XUXVWaFNlREhIbEJ5cmdqTXI1cFZLN2Q2UmtDNHBHQUc2Y3M3dmd3ZWFWQWFiVWx3dlFEM2VpcDZkOW15Qk1RcTNSMWVjbnpfM05hTDhma2VGRFJ5ZmhtTDY4QV9QZDVtVXJ3Q09sQ2pOc1htd08tR2luR3lDNlZzZVpOOXM2NHZuRmJZelcxeDhKdTN5eGl5TjFPZHMyeWEyRkM3TjdLRVV5dlJPbWdDQ2g1OVBWN2RmX0QtdWZBZ2g2Q1g1aFRzbWJ1OWdmanhR?oc=5",
       "summary": "Bend doctor returns home to finish quarantine after hantavirus outbreak on cruise ship &nbsp;&nbsp; OregonLive.com",
       "source": "OregonLive.com"
-    },
-    {
-      "title": "Hantavirus cases steady at 13, no new deaths in month: WHO chief - Yeni \u015eafak English",
-      "published": "Sun, 07 Jun 2026 05:58:16 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVNiZmlyOS1ud3Z3ZF9oQmdBRWVMR0VVejdpRDREMlYwODZkU2xPZk5SQW9GNTBkakg4N1JjUmE0YW9TeG1TQTE1RTNHNWQ0TThQbHdBaWJGQndVY1ZaMVlSNFFTZDFwLWZ0Ym52SUh0YllVYTFlTWdGdEhKWnRKcnkxZmNaSWh1WllJMWtoc2JDRVctdkFwXzByTV8za1lsbVE?oc=5",
-      "summary": "Hantavirus cases steady at 13, no new deaths in month: WHO chief &nbsp;&nbsp; Yeni \u015eafak English",
-      "source": "Yeni \u015eafak English"
     },
     {
       "title": "Tools to fight hantavirus show promise despite limited funding. Now researchers hope to continue - KETV",
@@ -440,11 +448,11 @@
       "source": "USA Today"
     },
     {
-      "title": "Local Health Officials Warn Of Hantavirus Dangers - myMotherLode.com",
-      "published": "Sat, 06 Jun 2026 19:30:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2t5NEc4Y256Z0FoM0ZoMGU1ZXMyWmpYSkFZUjNWWnkxNzB6dzQ5V2t0NExTa0xuMUliSklTUHdwaUQyRXlEVDh2Y3IwdnpKcHZMc1UwMWxBUHRYbXZrU0c5eGdhSzV2LTFsTUZIR0RDSldHVEVCZkhqT1ZPMU9TY0RaXzhYbDNEYWFUN2RDbzVLU0QyM1JUOXpxTVpFaHUt0gGmAUFVX3lxTE5hM0JQS3VHeTRpdTFKNTJkN0kyZnQtZnlSeU9LaVFOOWQ5RnEzbE0wLUNVQWJFODM1ODN6VGFGN216blpLcWNWNFVpVE9ubnlvb25aNzRQek1pQTBLaDhCTTZBNGxqM0FHeENMdmpoQU8xUk55TExtUlNIVWZXY0pfY3RGd2J3YUxfSGpKUXRJa1ZadjhEWVU5RWVoZHIzb3VCdEhvZ0E?oc=5",
-      "summary": "Local Health Officials Warn Of Hantavirus Dangers &nbsp;&nbsp; myMotherLode.com",
-      "source": "myMotherLode.com"
+      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
+      "published": "Sat, 06 Jun 2026 14:56:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
+      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "source": "Anadolu Ajans\u0131"
     }
   ],
   "usHistoric": {
@@ -474,10 +482,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-10T06:13:06.223196Z",
+    "timestamp": "2026-06-10T10:31:55.269462Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
