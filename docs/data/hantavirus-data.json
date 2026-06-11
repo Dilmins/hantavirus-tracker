@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-11T22:26:18.518422Z",
+  "lastUpdated": "2026-06-11T23:58:35.735587Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 37,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -72,8 +72,15 @@
           "source": "BBC"
         },
         {
+          "title": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Pittsburgh Post-Gazette",
+          "published": "Thu, 11 Jun 2026 23:47:48 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczJVZU1BNnFQWEM5R2pXOHNoU3N4bi1JVFVndW42TkRfbnUxdzNDVGs3Sko4U3laZ1ppZ2tXWXVhdE9iaDNEZ1Q5Nll4MmQ2dHF1b3FFZnNYREpkdHV0OHA1X3VzSU9xZ21Vd1lDSnRUWWFoS2ZVTFh0a19oZ2tZS1VrOUFLVnkyTXBCLVU5STJheUl1aEVOYTF5X2dyUEZuVUdId3JXam8zSjR0VmltU2tHU1RmajlkQW9ndEJSMVB2NUtmckVXclpadWZBLWxFbzZB?oc=5",
+          "summary": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Pittsburgh Post-Gazette",
+          "source": "Pittsburgh Post-Gazette"
+        },
+        {
           "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-          "published": "Thu, 11 Jun 2026 19:55:02 GMT",
+          "published": "Thu, 11 Jun 2026 22:55:33 GMT",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
           "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
           "source": "Centers for Disease Control and Prevention | CDC (.gov)"
@@ -91,13 +98,6 @@
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
           "summary": "Hantavirus Cruise Passenger Says She\u2019s Being Held \u2018Hostage\u2019 In Nebraska Quarantine (Latest Updates) &nbsp;&nbsp; Forbes",
           "source": "Forbes"
-        },
-        {
-          "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-          "published": "Thu, 11 Jun 2026 18:16:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
-          "summary": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-          "source": "AP News"
         },
         {
           "title": "Hantavirus Cruise Passenger Says She\u2019s \u2018Being Held Hostage\u2019 Due to Public Health Dispute Between CDC, Florida - TODAY.com",
@@ -122,24 +122,23 @@
         }
       ],
       "sources": [
-        "Click2Houston",
-        "CNN",
-        "AP News",
-        "The Guardian",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "TODAY.com",
+        "BBC",
         "ABC News - Breaking News, Latest News and Videos",
-        "Colorado Public Radio",
-        "The Colorado Sun",
         "Forbes",
         "CIDRAP",
-        "TODAY.com",
-        "World Health Organization (WHO)",
+        "Pittsburgh Post-Gazette",
         "KJZZ",
-        "NBC News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Guardian",
         "CBS News",
-        "BBC"
+        "The Colorado Sun",
+        "CNN",
+        "World Health Organization (WHO)",
+        "Colorado Public Radio",
+        "NBC News"
       ],
-      "alertCount": 17
+      "alertCount": 18
     },
     {
       "country": "USA",
@@ -230,13 +229,6 @@
       "source": "USA Today"
     },
     {
-      "title": "Hantavirus Outbreak Highlights the Importance of One Health - Medscape",
-      "published": "Tue, 09 Jun 2026 12:56:12 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnpFX3k2SG00SGktek1Gbnk5QUpOZE9WNFhranhkYS1xUGpfRkE5Y0JXRlpLaWl2dHZtOGt1TjhMZWpnYnJGRTlIYjlTdzlhRHphVjJDRHUxOVVEYXNYdl9mcTUwVFlMeGhaWnJqd0l6NzRXWS14OWRJUkZvcHBMOTNNakpoM0J3bFVCZUpFS1U3S1M0NHM2aUUzS1FXbWoxTlg2Rw?oc=5",
-      "summary": "Hantavirus Outbreak Highlights the Importance of One Health &nbsp;&nbsp; Medscape",
-      "source": "Medscape"
-    },
-    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -251,11 +243,39 @@
       "source": "AZ Family"
     },
     {
+      "title": "Hantavirus outbreak stable at 13 cases: WHO - NewsNation",
+      "published": "Thu, 28 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sc1JhX3g0R2VhNWFWRVVqQnhEQVRTX2N1UlR6Vk1MOEFNSmtUdVpyZEU0cHBIeGlQRXNJUDFnTDlrTGhncDl5b3daTlRkU2dlOGtHbm5yM1daZ1EycVdWcTF0NnZLNGVTaXgxTTlSM2tYeEljeWQzNW5zR3VYd9IBgwFBVV95cUxNRXYxc2RBN0pHSTQ5aUxBUUh1S0dRVGExY0RSV09kQnAtUmVfY094REsyVGNBUEFSSEM3alVTemN0QUlZXzNOZ3RIVFg0QTJnaklrUlp2OFpaTWxyRWVfbWVDOGE1YlVpaVQtZkVxQl9DOV9ZdzVaakNqNFJVUmVlUjExTQ?oc=5",
+      "summary": "Hantavirus outbreak stable at 13 cases: WHO &nbsp;&nbsp; NewsNation",
+      "source": "NewsNation"
+    },
+    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
       "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
       "source": "Johns Hopkins Medicine"
+    },
+    {
+      "title": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - Pittsburgh Post-Gazette",
+      "published": "Thu, 11 Jun 2026 23:47:48 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczJVZU1BNnFQWEM5R2pXOHNoU3N4bi1JVFVndW42TkRfbnUxdzNDVGs3Sko4U3laZ1ppZ2tXWXVhdE9iaDNEZ1Q5Nll4MmQ2dHF1b3FFZnNYREpkdHV0OHA1X3VzSU9xZ21Vd1lDSnRUWWFoS2ZVTFh0a19oZ2tZS1VrOUFLVnkyTXBCLVU5STJheUl1aEVOYTF5X2dyUEZuVUdId3JXam8zSjR0VmltU2tHU1RmajlkQW9ndEJSMVB2NUtmckVXclpadWZBLWxFbzZB?oc=5",
+      "summary": "U.S. puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; Pittsburgh Post-Gazette",
+      "source": "Pittsburgh Post-Gazette"
+    },
+    {
+      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Thu, 11 Jun 2026 22:55:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+      "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "title": "San Quentin prison reports possible hantavirus case - Marin Independent Journal",
+      "published": "Thu, 11 Jun 2026 21:47:09 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZGRjT2E5R1QwQ2plamg5NUpBM3A3TDdvZ1dxenFzeWFTWkpSZVdwOC1xZ05VY05XS005OXJwdzc5d3A4dVR1OXFCYTVSUUpkenczbWZ4VGJ0eG9aRTloMS1hQllFSTNGbzA1WXhOVDV4b29zSnlFNjJWZmJqeWVyZFpZR05BTXczYVdkV1lwUDPSAZYBQVVfeXFMUEgwUFVsUFkxUHJYS21XSktBaDY5Sm9lUUxSVDhuRk1jdlRJQ0xBR3N3UThFdHJsdThBSmRrUVUySTBZTmx0MVQ1TDRxN3pBUEJoMnA0MjZWMkplZEFxeXRfVHg0NjlULXBKVEdTamRLdUoyX0hEN29wQXprSmt1dDhwMmM3RFdNdjJHam5fM3U1VXBYVzFn?oc=5",
+      "summary": "San Quentin prison reports possible hantavirus case &nbsp;&nbsp; Marin Independent Journal",
+      "source": "Marin Independent Journal"
     },
     {
       "title": "Potential case of rare and deadly hantavirus investigated at Bay Area prison - SFGATE",
@@ -277,13 +297,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0phdjI3aElVN1ZoWXRENGpCd0JNM2wweGNvXzBUR19TOGVQVTQyeXhDdjFneHY1c01yMENsQXJrY0ZzQS11Ukdlc1Zkbk8xb0d2MjEzTGFUSkh5M3dqTnVmZWM3c2V5bGdtRWMzOXM3SGJKcl9ZcTJYTi02SExDNUlKNVpNUHdhTHhoeHQ1UC1nZjFSeXE3QlFLNWN4QXhGZmlBMjRiX0JMeVk?oc=5",
       "summary": "Kylie Kelce Bleaches House After Hantavirus Fears &nbsp;&nbsp; Yahoo",
       "source": "Yahoo"
-    },
-    {
-      "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Thu, 11 Jun 2026 19:55:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
-      "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
@@ -314,13 +327,6 @@
       "source": "NBC Bay Area"
     },
     {
-      "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-      "published": "Thu, 11 Jun 2026 18:16:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
-      "summary": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-      "source": "AP News"
-    },
-    {
       "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
       "published": "Thu, 11 Jun 2026 17:42:12 GMT",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
@@ -335,11 +341,11 @@
       "source": "TODAY.com"
     },
     {
-      "title": "Possible hantavirus case at San Quentin prompts testing, decontamination - San Francisco Chronicle",
-      "published": "Thu, 11 Jun 2026 04:48:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHRkYUNVR2hQNXhZU3hYMlNOYUxoX05OSXpxdTZlRUtCRG8tYU5pejNReFp1M1JMNXNXa0tMb0otcms3UGtWN1pweE5yVVhhZExLN3FoMk1KRF9YcFdOc2ZJR2pEbjFGM2d3ZTB4N3c0T1VaSjRwXzhobGRQekwxRkxWMHl3UjhiNWhIUjVWYw?oc=5",
-      "summary": "Possible hantavirus case at San Quentin prompts testing, decontamination &nbsp;&nbsp; San Francisco Chronicle",
-      "source": "San Francisco Chronicle"
+      "title": "WHO says no new hantavirus-related deaths reported since May 2 - \u0130lke Haber Ajans\u0131",
+      "published": "Thu, 11 Jun 2026 16:18:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXp3WkhnSm9NRmJ2eTlWQWFSUkdfYjIxZ0FhQmpXNkUwX21LSnRxYVRPZVpIM3RxdHZBOHc3MHB5Qkw1QU9iTi1PS3RnSG1ONDhyek1lVXFTS3YzeDhLZ0tTekN4YnJCelhnanJBSG1zNWtLWWRBdEwyQUtXeHlISjJzWXBhYTJlWlc4VkxZbXJtWGNHbkJLQ3pHQTJwUEhudHk0?oc=5",
+      "summary": "WHO says no new hantavirus-related deaths reported since May 2 &nbsp;&nbsp; \u0130lke Haber Ajans\u0131",
+      "source": "\u0130lke Haber Ajans\u0131"
     },
     {
       "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
@@ -384,11 +390,11 @@
       "source": "Yeni \u015eafak English"
     },
     {
-      "title": "Texans clear hantavirus quarantine following cruise outbreak - Click2Houston",
-      "published": "Sun, 07 Jun 2026 02:32:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOei1kMi00VkhEeWdaZGlncGpKLXF5T1d5RE1YOXBWaUVydnF6aXhzejZXdk5rTmVrZFJaV1ZnOWNzWFRXRzlTS0o1cmxKOEpJcUh0WXhLUkhwYkZrUHJuYTdpUDhXc3J1cExMSDRxaUpvV2VvM1pYWW1UVWUxSUVsbzNzSzlHXzIyOU5DTl82RUZrUVN3UXcxNTgxcDhFUW42VGtMQjJFTUxUcFNvTEJ3Z01FUQ?oc=5",
-      "summary": "Texans clear hantavirus quarantine following cruise outbreak &nbsp;&nbsp; Click2Houston",
-      "source": "Click2Houston"
+      "title": "More than 100 people stranded on cruise ship after deadly hantavirus outbreak. Here\u2019s what we know - CNN",
+      "published": "Sun, 03 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlRlaFRJTG5JaTVTS0g4b3IzazNySDVIM2ttTDZEa3hnMEZfUmVJdlMwUWRLdnNMV0w1em9Femc4aHJwSlFmUHBUWXJXaktXdmJPbkdLVG5KVlc0QWp6Qm5PTjliakl4VGhQbHRTU2xCejlETGgxc3lPTmRWS1BRd2NKb1pRMkZvY1pBcVJB?oc=5",
+      "summary": "More than 100 people stranded on cruise ship after deadly hantavirus outbreak. Here\u2019s what we know &nbsp;&nbsp; CNN",
+      "source": "CNN"
     },
     {
       "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
@@ -396,13 +402,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
       "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
       "source": "Live Science"
-    },
-    {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 14:56:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
     }
   ],
   "usHistoric": {
@@ -432,10 +431,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-11T22:26:18.518436Z",
+    "timestamp": "2026-06-11T23:58:35.735601Z",
     "who": 0,
     "promed": 0,
-    "news": 37,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
