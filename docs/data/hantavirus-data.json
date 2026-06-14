@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-14T14:37:04.182672Z",
+  "lastUpdated": "2026-06-14T16:10:01.994924Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 35,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,23 +122,24 @@
         }
       ],
       "sources": [
-        "The Guardian",
-        "NBC News",
-        "CBS News",
-        "Cruise.Blog",
-        "KJZZ",
-        "World Health Organization (WHO)",
-        "Forbes",
-        "The Colorado Sun",
-        "CNN",
         "ABC News - Breaking News, Latest News and Videos",
-        "TODAY.com",
+        "CBS News",
+        "NBC News",
+        "World Health Organization (WHO)",
+        "Cruise.Blog",
+        "People.com",
+        "CNN",
         "AP News",
-        "BBC",
+        "KJZZ",
         "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "BBC",
+        "TODAY.com",
+        "The Colorado Sun",
+        "Forbes",
+        "The Guardian"
       ],
-      "alertCount": 16
+      "alertCount": 17
     },
     {
       "country": "USA",
@@ -168,8 +169,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 3
     },
@@ -334,11 +335,11 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - thereader.com",
-      "published": "Sun, 14 Jun 2026 11:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekkybE52RnR4TzhCbHdnTEVxRmFULUhpQ1hSMm9VVE1reEtBVENJbWNfdWxLblZfV2gtbnhoQjlxU2w0V3pRLVpBOTg0UGYxclZEV1pVRWdTRjdxS1BIMWRSb0VLN21WTm5YSmRmWnNzVVpHQXk4bHRMeEQyR3R1ODhLSW5CVDkxRG9YckpERFVlLWZ5Z1NuZFQ4VlktUm9pQlJ2VnYwNjd1T290c01uMnp2ZFJhSW90?oc=5",
-      "summary": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine &nbsp;&nbsp; thereader.com",
-      "source": "thereader.com"
+      "title": "Reductions in Funding, Personnel Will Leave US Less Prepared for Future Infectious Disease Outbreaks - Contagion Live",
+      "published": "Sun, 14 Jun 2026 15:08:26 GMT",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVElFMEtCS3duX2kwWGFGb3ozVk9IM0xMVURzWGVLeDM3bnFIZGZGU0I2OHdZaUtmNFY2cVVKMUJIUl9WRzIxU1BySzRoWDdnM09CSlZVNm9XUUlaOTNva2diOF9lOHFRdmpqVndDQnNRM1g0b0Rrc05EZ0Y5dkJoaXFGeGk2TjNPZnl3NFFMckM0WDVISy02TUhoQ2d5Z3RQbFNERjc0VjNhZXhFVnpJRjYxUmpqZjJCSGhtSUdwWUg1Q1VJa1ZsZXdFbWk3TWM?oc=5",
+      "summary": "Reductions in Funding, Personnel Will Leave US Less Prepared for Future Infectious Disease Outbreaks &nbsp;&nbsp; Contagion Live",
+      "source": "Contagion Live"
     },
     {
       "title": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island - Cruise.Blog",
@@ -346,6 +347,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSElWbGctUnBTODV0eE5HYVRqT2I2ZkJpakZLcEE1cWJVT3p4Z0pHQzRjN0ZVb25LVXd2bm54ekxCcHZKZ25ZY3VrRGhFckxHbEdnRWJXaFE2UHZnRDd0QXNwV2g3OXVFQmF2UVV2bjZaUUtfSnE0dUNMLTVLdXNXNHY5UnI3TElZa2duR00yQUxwOHZYRUpHdEtMY2xhTncxaTgzeG9Cc1U2SUpJcTlhSXVB?oc=5",
       "summary": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island &nbsp;&nbsp; Cruise.Blog",
       "source": "Cruise.Blog"
+    },
+    {
+      "title": "U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report - People.com",
+      "published": "Sat, 13 Jun 2026 03:39:43 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS21PRlZtVV9OS2ItOVZvZlQxZE5HSnFrMHdqa0I0enktQ21TV2h6aWZRa1o3UmFOdTRCcmVDY0J4M3hRUGlQR3VpUGJmd2NiTUtRcmppV2FqQjdnOElRNXRza1E3akpBdmgySThjYUZMVGxjQVVMekFjWVdzRWh6WVFkendvMnYtMEdNeVNuMzNwTDRfb2hydDJySkcxTWxCdUxydk8tYmRJUUdHSDBzTTJMZzdlWTN0MDZPT0dnUkU2LTNFZmdJ?oc=5",
+      "summary": "U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report &nbsp;&nbsp; People.com",
+      "source": "People.com"
     },
     {
       "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
@@ -395,13 +403,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
       "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
       "source": "KJZZ"
-    },
-    {
-      "title": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning - Time Magazine",
-      "published": "Fri, 22 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJEeHE3UFlJWTd2eUtVdnNucG8zN09LNkdHQkM4OWhDbGc1VFIweVdyeWpZaEpHcEE3RXQxR1EwUmR5ajBkN2Nub1JsZTdiUDd6dWxEMWdYbVVDNW5EUEgtbkc3TXlmVWpFMjFVVjRLX0F4RGFMRnN5ZU9RQldFM2xoU2pZdUVZdmFUR2dlX0VFZG8zMVBnY3EtOTg?oc=5",
-      "summary": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning &nbsp;&nbsp; Time Magazine",
-      "source": "Time Magazine"
     }
   ],
   "usHistoric": {
@@ -431,10 +432,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-14T14:37:04.182689Z",
+    "timestamp": "2026-06-14T16:10:01.994939Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
