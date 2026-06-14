@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-14T16:10:01.994924Z",
+  "lastUpdated": "2026-06-14T17:44:40.037243Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 36,
+  "newsCount": 35,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,24 +122,23 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "CBS News",
-        "NBC News",
-        "World Health Organization (WHO)",
-        "Cruise.Blog",
-        "People.com",
-        "CNN",
-        "AP News",
-        "KJZZ",
-        "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "BBC",
         "TODAY.com",
-        "The Colorado Sun",
+        "CIDRAP",
+        "Cruise.Blog",
+        "AP News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "Forbes",
-        "The Guardian"
+        "The Colorado Sun",
+        "BBC",
+        "NBC News",
+        "KJZZ",
+        "The Guardian",
+        "ABC News - Breaking News, Latest News and Videos",
+        "World Health Organization (WHO)",
+        "CNN",
+        "CBS News"
       ],
-      "alertCount": 17
+      "alertCount": 16
     },
     {
       "country": "USA",
@@ -349,13 +348,6 @@
       "source": "Cruise.Blog"
     },
     {
-      "title": "U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report - People.com",
-      "published": "Sat, 13 Jun 2026 03:39:43 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS21PRlZtVV9OS2ItOVZvZlQxZE5HSnFrMHdqa0I0enktQ21TV2h6aWZRa1o3UmFOdTRCcmVDY0J4M3hRUGlQR3VpUGJmd2NiTUtRcmppV2FqQjdnOElRNXRza1E3akpBdmgySThjYUZMVGxjQVVMekFjWVdzRWh6WVFkendvMnYtMEdNeVNuMzNwTDRfb2hydDJySkcxTWxCdUxydk8tYmRJUUdHSDBzTTJMZzdlWTN0MDZPT0dnUkU2LTNFZmdJ?oc=5",
-      "summary": "U.S. Pays $750K to Evacuate American From Remote Island After She Was Aboard Hantavirus Cruise Ship: Report &nbsp;&nbsp; People.com",
-      "source": "People.com"
-    },
-    {
       "title": "San Quentin Rehabilitation Center suspected hantavirus case in 38-year-old male inmate ruled a false positive, officials say - ABC7 Bay Area",
       "published": "Sat, 13 Jun 2026 01:06:25 GMT",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZTZvLVVETF9PX01sb0FJcXVYOGUxOVFXVDFjYTN0eDlOUVY5ejFVcG4wMjJyWlZDRXJ3bWN3cTUzTXZ5X3liQ3Q4V3FxbEthRHNPLWp3d2JQb0gxendqZjdrSHE3SDhZT3pudGZ3VFB5SFhZcUI2dmg1ZXc3UUFZVy1UTk03c3JMa1FNaUxycml6ZjBOV3B5Y2lyRTNBNWdBVWdPbk9rWnQ5N2NiblNVMEpldDI3dDZOajhZX0dLUlppbEtOX1lwV2tUdWJWWktYNExCWnhTR0VPMGgxZ2lWcG85VU0xWEtyY3fSAe8BQVVfeXFMTk1uN21HRGtCYUlUdlE5eWtDQ0RCUnJRR2tJX1c4M1NoVEJKRkY0QXplZ1pQd3VKWHZUV3NTb1JoZWE0blM4amZxUnpTTmpMUE1oUXhFNFd3QWoycWt6aE9SLW1JOGxIeTFSNVota2RQOXIza0ZkS2JjcFl4am96SFU5bDBDOHpYcVJjOEszREZyYTBYNURMT2lnZXZPWHRwR2R1bW85WVdsWnVLRTJXb0g2MVFIcU1JZ1J5Nzg3bnN1bERBTFFxdmdteGRvU2RBSHVOdWVSajU3cXhtdUttbW4tTDZaWkpXNFlMUGs0S00?oc=5",
@@ -403,6 +395,13 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
       "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
       "source": "KJZZ"
+    },
+    {
+      "title": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning - Time Magazine",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJEeHE3UFlJWTd2eUtVdnNucG8zN09LNkdHQkM4OWhDbGc1VFIweVdyeWpZaEpHcEE3RXQxR1EwUmR5ajBkN2Nub1JsZTdiUDd6dWxEMWdYbVVDNW5EUEgtbkc3TXlmVWpFMjFVVjRLX0F4RGFMRnN5ZU9RQldFM2xoU2pZdUVZdmFUR2dlX0VFZG8zMVBnY3EtOTg?oc=5",
+      "summary": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning &nbsp;&nbsp; Time Magazine",
+      "source": "Time Magazine"
     }
   ],
   "usHistoric": {
@@ -432,10 +431,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-14T16:10:01.994939Z",
+    "timestamp": "2026-06-14T17:44:40.037257Z",
     "who": 0,
     "promed": 0,
-    "news": 36,
+    "news": 35,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
