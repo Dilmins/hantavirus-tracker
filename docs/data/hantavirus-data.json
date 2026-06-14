@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T12:19:50.915449Z",
+  "lastUpdated": "2026-06-14T14:37:04.182672Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "KJZZ",
-        "Forbes",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Guardian",
         "NBC News",
+        "CBS News",
+        "Cruise.Blog",
+        "KJZZ",
+        "World Health Organization (WHO)",
+        "Forbes",
+        "The Colorado Sun",
+        "CNN",
+        "ABC News - Breaking News, Latest News and Videos",
+        "TODAY.com",
         "AP News",
         "BBC",
-        "CBS News",
-        "ABC News - Breaking News, Latest News and Videos",
         "CIDRAP",
-        "The Guardian",
-        "CNN",
-        "TODAY.com",
-        "World Health Organization (WHO)",
-        "The Colorado Sun",
-        "Cruise.Blog"
+        "Centers for Disease Control and Prevention | CDC (.gov)"
       ],
       "alertCount": 16
     },
@@ -168,8 +168,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 3
     },
@@ -285,13 +285,6 @@
       "source": "People.com"
     },
     {
-      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - Flatwater Free Press",
-      "published": "Thu, 11 Jun 2026 10:00:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOC1BZkxob2tTTkZnQ09FVWEwNnFwamxqYnBnbU1oaExfVFNOdDMxaHNDSlBxZ1ZmNFVSZnI1MmNUWWxkaERLSkRINEFWa252NU9Bd0JURnEtemhzY20teFhuUW9wTkFOZ2NJVmJBQW80UF9JMkhCSXhicXJoWFREOHQwSmgtYjVBem9hdm5DZVUtYllvc3JGdGdMcE5QZVgxYk1DZUkxWWFyOUdNNGt0b2wxcjlBQQ?oc=5",
-      "summary": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine &nbsp;&nbsp; Flatwater Free Press",
-      "source": "Flatwater Free Press"
-    },
-    {
       "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
@@ -339,6 +332,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
       "summary": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine - thereader.com",
+      "published": "Sun, 14 Jun 2026 11:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekkybE52RnR4TzhCbHdnTEVxRmFULUhpQ1hSMm9VVE1reEtBVENJbWNfdWxLblZfV2gtbnhoQjlxU2w0V3pRLVpBOTg0UGYxclZEV1pVRWdTRjdxS1BIMWRSb0VLN21WTm5YSmRmWnNzVVpHQXk4bHRMeEQyR3R1ODhLSW5CVDkxRG9YckpERFVlLWZ5Z1NuZFQ4VlktUm9pQlJ2VnYwNjd1T290c01uMnp2ZFJhSW90?oc=5",
+      "summary": "Table for one: Exposed to deadly hantavirus, man is eating his way through quarantine &nbsp;&nbsp; thereader.com",
+      "source": "thereader.com"
     },
     {
       "title": "US spends $750K to evacuate American woman who was on hantavirus-hit cruise from remote island - Cruise.Blog",
@@ -431,7 +431,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-14T12:19:50.915459Z",
+    "timestamp": "2026-06-14T14:37:04.182689Z",
     "who": 0,
     "promed": 0,
     "news": 35,
