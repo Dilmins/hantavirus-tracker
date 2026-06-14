@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-14T20:15:42.878669Z",
+  "lastUpdated": "2026-06-14T21:40:56.154690Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 37,
+  "newsCount": 34,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,23 +122,22 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "The Guardian",
+        "The Colorado Sun",
+        "BBC",
+        "Forbes",
+        "CNN",
+        "AP News",
         "CIDRAP",
         "KJZZ",
         "CBS News",
-        "NBC News",
-        "Forbes",
-        "CNN",
-        "BBC",
-        "The Colorado Sun",
-        "Colorado Public Radio",
-        "AP News",
-        "TODAY.com",
+        "ABC News - Breaking News, Latest News and Videos",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "TODAY.com",
+        "The Guardian",
+        "NBC News",
         "World Health Organization (WHO)"
       ],
-      "alertCount": 17
+      "alertCount": 15
     },
     {
       "country": "USA",
@@ -168,8 +167,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 3
     },
@@ -234,13 +233,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
-    },
-    {
-      "title": "Hantavirus outbreak stable at 13 cases: WHO - NewsNation",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sc1JhX3g0R2VhNWFWRVVqQnhEQVRTX2N1UlR6Vk1MOEFNSmtUdVpyZEU0cHBIeGlQRXNJUDFnTDlrTGhncDl5b3daTlRkU2dlOGtHbm5yM1daZ1EycVdWcTF0NnZLNGVTaXgxTTlSM2tYeEljeWQzNW5zR3VYd9IBgwFBVV95cUxNRXYxc2RBN0pHSTQ5aUxBUUh1S0dRVGExY0RSV09kQnAtUmVfY094REsyVGNBUEFSSEM3alVTemN0QUlZXzNOZ3RIVFg0QTJnaklrUlp2OFpaTWxyRWVfbWVDOGE1YlVpaVQtZkVxQl9DOV9ZdzVaakNqNFJVUmVlUjExTQ?oc=5",
-      "summary": "Hantavirus outbreak stable at 13 cases: WHO &nbsp;&nbsp; NewsNation",
-      "source": "NewsNation"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -341,6 +333,13 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
+      "title": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe - The Conversation",
+      "published": "Sun, 14 Jun 2026 20:14:01 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkJsc0toakpVZVhxd1o4bTdwRUU2VUtmaWhWXzNHX1F0b09Hc2N5S1pYb0VRSm1wd25POHh6ZVE4MGdmdzkxOTlQTmVqVEQ1d20xU1NzTzk1d0RVMTJoZHY3UkV1c3lmTkcwb19sNFNYcEVRUE80ay1hbUJDZDRxQ2ptNDhGbkdpYWo1UFZlMmJNTlZCakJUekhVcm80cEZUR3RNLWtsamVEbjJzNnhnVVNQRWkyZmlZTXNpTG5RbGV3eXpfbXA5VWpxczRFdk9ESWo0ag?oc=5",
+      "summary": "Ebola, hantavirus, diphtheria: how distrust in health care is fuelling multiple outbreaks across the globe &nbsp;&nbsp; The Conversation",
+      "source": "The Conversation"
+    },
+    {
       "title": "Reductions in Funding, Personnel Will Leave US Less Prepared for Future Infectious Disease Outbreaks - Contagion Live",
       "published": "Sun, 14 Jun 2026 15:08:26 GMT",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVElFMEtCS3duX2kwWGFGb3ozVk9IM0xMVURzWGVLeDM3bnFIZGZGU0I2OHdZaUtmNFY2cVVKMUJIUl9WRzIxU1BySzRoWDdnM09CSlZVNm9XUUlaOTNva2diOF9lOHFRdmpqVndDQnNRM1g0b0Rrc05EZ0Y5dkJoaXFGeGk2TjNPZnl3NFFMckM0WDVISy02TUhoQ2d5Z3RQbFNERjc0VjNhZXhFVnpJRjYxUmpqZjJCSGhtSUdwWUg1Q1VJa1ZsZXdFbWk3TWM?oc=5",
@@ -390,18 +389,18 @@
       "source": "CBS News"
     },
     {
-      "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
-      "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
-      "source": "Colorado Public Radio"
-    },
-    {
       "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
       "published": "Mon, 01 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzU2UEh5Ny1aQ0p6TzNPS3ZSVWVLaUUzQUhVMEIzbzVnTHoyU0ZNbU9OSDNCOG1aeTFZNXQ3OXRVLUQ2c1h2ZDhRc3JYdTdkQm1nTWQ2ZGtVbTNQQVFmUmEwckY3X1RsSHhac3hfbkszaGp3U2FPQzRvWTFlUFVGNXFLa3lPYXhMWHZySmwtOEl0SmhYM2xHemVobzJuZm1CZDlQeHp4RzhoXzJuUHVNTVhPS3BvMTQ?oc=5",
       "summary": "Mohave County reports hantavirus death unrelated to recent cruise ship cases &nbsp;&nbsp; KJZZ",
       "source": "KJZZ"
+    },
+    {
+      "title": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning - Time Magazine",
+      "published": "Fri, 22 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJEeHE3UFlJWTd2eUtVdnNucG8zN09LNkdHQkM4OWhDbGc1VFIweVdyeWpZaEpHcEE3RXQxR1EwUmR5ajBkN2Nub1JsZTdiUDd6dWxEMWdYbVVDNW5EUEgtbkc3TXlmVWpFMjFVVjRLX0F4RGFMRnN5ZU9RQldFM2xoU2pZdUVZdmFUR2dlX0VFZG8zMVBnY3EtOTg?oc=5",
+      "summary": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning &nbsp;&nbsp; Time Magazine",
+      "source": "Time Magazine"
     }
   ],
   "usHistoric": {
@@ -431,10 +430,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-14T20:15:42.878684Z",
+    "timestamp": "2026-06-14T21:40:56.154706Z",
     "who": 0,
     "promed": 0,
-    "news": 37,
+    "news": 34,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
