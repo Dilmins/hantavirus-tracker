@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-15T10:43:17.473806Z",
+  "lastUpdated": "2026-06-15T16:09:19.503006Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 34,
+  "newsCount": 35,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,19 @@
         }
       ],
       "sources": [
-        "KJZZ",
-        "BBC",
-        "NBC News",
-        "CBS News",
         "CIDRAP",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "Forbes",
-        "ABC News - Breaking News, Latest News and Videos",
         "The Colorado Sun",
-        "World Health Organization (WHO)",
         "CNN",
+        "ABC News - Breaking News, Latest News and Videos",
+        "World Health Organization (WHO)",
+        "CBS News",
+        "KJZZ",
         "The Guardian",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "BBC"
       ],
-      "alertCount": 14
+      "alertCount": 13
     },
     {
       "country": "USA",
@@ -165,8 +164,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 3
     },
@@ -380,11 +379,11 @@
       "source": "CBS News"
     },
     {
-      "title": "State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home - NBC News",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFo3LThLeHdIWHlacXUzd2dkRkF3M2RKMTlpeC1uTXNUVWpFQUU5U3ZzLXF1Z2dFVjlTMjdQQ1FUZjA3Q3B0NHAyNEcwNlRMSklDcGwzYzNaWllOYUw2Uk5McktuTUVJQnBVelg1R1E4MmtjWHJNQU9ZOHpDS3hlWWhvY3BxVjNiQ0l3OUJmakJjX3dFaW43bDNiR1Y5SjBWVG83SUJQUkplWV9od3BQVldCNUxjMFY3bVlZWF9ITQ?oc=5",
-      "summary": "State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home &nbsp;&nbsp; NBC News",
-      "source": "NBC News"
+      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
+      "published": "Mon, 15 Jun 2026 14:09:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
+      "summary": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
     },
     {
       "title": "Mohave County reports hantavirus death unrelated to recent cruise ship cases - KJZZ",
@@ -428,10 +427,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-15T10:43:17.473820Z",
+    "timestamp": "2026-06-15T16:09:19.503018Z",
     "who": 0,
     "promed": 0,
-    "news": 34,
+    "news": 35,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
