@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-15T16:09:19.503006Z",
+  "lastUpdated": "2026-06-15T19:55:34.400942Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 35,
+  "newsCount": 34,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Forbes",
-        "The Colorado Sun",
         "CNN",
         "ABC News - Breaking News, Latest News and Videos",
-        "World Health Organization (WHO)",
-        "CBS News",
-        "KJZZ",
         "The Guardian",
-        "BBC"
+        "BBC",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Colorado Sun",
+        "World Health Organization (WHO)",
+        "Forbes",
+        "CBS News",
+        "CIDRAP",
+        "KJZZ"
       ],
       "alertCount": 13
     },
@@ -209,13 +209,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
       "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
-    },
-    {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -398,6 +391,13 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVJEeHE3UFlJWTd2eUtVdnNucG8zN09LNkdHQkM4OWhDbGc1VFIweVdyeWpZaEpHcEE3RXQxR1EwUmR5ajBkN2Nub1JsZTdiUDd6dWxEMWdYbVVDNW5EUEgtbkc3TXlmVWpFMjFVVjRLX0F4RGFMRnN5ZU9RQldFM2xoU2pZdUVZdmFUR2dlX0VFZG8zMVBnY3EtOTg?oc=5",
       "summary": "The Ebola and Hantavirus Outbreaks Offer an Ominous Warning &nbsp;&nbsp; Time Magazine",
       "source": "Time Magazine"
+    },
+    {
+      "title": "Forget hantavirus \u2014 another rat disease killed a California resident after 200 rodents found in home - New York Post",
+      "published": "Fri, 12 Jun 2026 17:09:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSElCbkJLQlhadWxyM2dIS1lkTVU2dndDaHNDTnlfcUw4Ti1OVjRJeTFobUJteGVLeE1uY01GaUtteW12VHlpMXFYOTE1MnNOaU5mdTQ4OFFsNzl5U1pITUp3V1JsM0hHRzNGYnplZjdPVzJaX05jcnR2ODA1c29DUHQ5VjU5WXBNTk1jeFd4aEdTRjhOTEN1SFNBSE81X2FCT2dCaFFjYzJKTGM?oc=5",
+      "summary": "Forget hantavirus \u2014 another rat disease killed a California resident after 200 rodents found in home &nbsp;&nbsp; New York Post",
+      "source": "New York Post"
     }
   ],
   "usHistoric": {
@@ -427,10 +427,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-15T16:09:19.503018Z",
+    "timestamp": "2026-06-15T19:55:34.400956Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 34,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
