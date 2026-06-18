@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-18T21:56:06.947482Z",
+  "lastUpdated": "2026-06-18T23:28:31.162263Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 4,
-  "newsCount": 36,
+  "locationsTracked": 5,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,13 +58,6 @@
           "source": "CIDRAP"
         },
         {
-          "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-          "published": "Wed, 20 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-          "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
-          "source": "CIDRAP"
-        },
-        {
           "title": "Hantavirus cruise passenger says she\u2019s being forced to quarantine in Nebraska - The Washington Post",
           "published": "Wed, 17 Jun 2026 03:43:02 GMT",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdhOG91MXdneHhIUnR4U1VlVWxRVjlfWko5YU1zQWNvcm1JRzE3ZVpXbW84VDVrRkRXVWpnRzE1bnRpTEFadnh0MjJ3b2JBNzlicG5CWi1OY0NRc3c2a0FpWnM2d3JxUUhyLWYtbVVzSTNGRVdvczVzODVXOU1pTW5DYkl2UEd4V2kyUGVtZ3daWE5wZmw3TU9nbjZDY2hfc0N2a3dQc3hFdjYwUXdnWno2ZTFSM19BZFFTRQ?oc=5",
@@ -79,10 +72,17 @@
           "source": "AP News"
         },
         {
+          "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - AP News",
+          "published": "Tue, 16 Jun 2026 22:59:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2dLRTQ5Y0Nja3V6QXkyMHlXaUxmUjQtN3lIRG1mRkt0SnlQOEFtOGdqZEo5VmlMVVp6WXhfVVVEaUxqX2NqN2tRemlZbUg3RmdyVW9LRzRLYWpMTXlLSEt6Qnp3V1h5UldLbEs5NW5RakZadW5LMUhPMlN2ZzJzdURZOHVIWVlnbjVFOXBTdEVmcE93SkVpMEZzdkFwX2o4eERJbFFuamJQU28?oc=5",
+          "summary": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; AP News",
+          "source": "AP News"
+        },
+        {
           "title": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation - CNN",
           "published": "Tue, 16 Jun 2026 20:52:05 GMT",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5",
-          "summary": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation &nbsp;&nbsp; CNN Hantavirus cruise passenger says she\u2019s being forced to quarantine in Nebraska &nbsp;&nbsp; The Washington Post RFK Jr. overrules experts to keep hantavirus cruise",
+          "summary": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation &nbsp;&nbsp; CNN",
           "source": "CNN"
         },
         {
@@ -122,20 +122,21 @@
         }
       ],
       "sources": [
-        "AP News",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The Washington Post",
+        "Omaha World-Herald",
+        "World Health Organization (WHO)",
+        "CIDRAP",
+        "Nebraska Examiner",
         "KJZZ",
         "BBC",
-        "The Washington Post",
-        "CIDRAP",
-        "CNN",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Nebraska Examiner",
-        "World Health Organization (WHO)",
+        "NBC News",
+        "AP News",
+        "The Colorado Sun",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Omaha World-Herald",
-        "The Colorado Sun"
+        "CNN"
       ],
-      "alertCount": 16
+      "alertCount": 17
     },
     {
       "country": "USA",
@@ -165,10 +166,28 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 3
+    },
+    {
+      "country": "France",
+      "lat": 46.23,
+      "lng": 2.21,
+      "alerts": [
+        {
+          "title": "Quarantine over for almost all hantavirus ship passengers, crew - France 24",
+          "published": "Thu, 18 Jun 2026 20:49:08 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWtwVEFsdHBvZm9ZZEVncl9iaWxqbk9ZZFJyTTlNeVR1QnExVjV1cU5oVXVJWUtFT3U1eExWTkQ4eVlGVkNlZ0VhWHEzRWZValJJdEllWDgySU9LbVJDTnBtSzhQQnRXbmdrVWNGV0FqRE9yR1NTakdWNnlScTZmWEI4RkhpdEctaDJ6eE5tWUxoY3RBZThxVFVUc1hUUU95dXpwaV9TcExEdGVlSVE?oc=5",
+          "summary": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; France 24",
+          "source": "France 24"
+        }
+      ],
+      "sources": [
+        "France 24"
+      ],
+      "alertCount": 1
     },
     {
       "country": "Spain",
@@ -216,18 +235,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 - CIDRAP",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
-      "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
-      "title": "Hantavirus Origin Story Questioned; 'Weird' Political Jobs List; RFK Jr. Plays Nice - MedPage Today",
-      "published": "Wed, 17 Jun 2026 17:28:22 GMT",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzelhqMW9rNUdlNHQwdVdsSGlKWGpqNmYwc0M5VnNvemZEbkZsaGJJS1d5bFIzMGNoelhhakwzQzhWcTZ3SmJETmNRM1FTYVBQeWtGS3l5ZEpZbVBkajR6YXVKNUdXVlNRdFhDdQ?oc=5",
-      "summary": "Hantavirus Origin Story Questioned; 'Weird' Political Jobs List; RFK Jr. Plays Nice &nbsp;&nbsp; MedPage Today",
-      "source": "MedPage Today"
+      "title": "Could a hantavirus vaccine be on the horizon? - Gavi, the Vaccine Alliance",
+      "published": "Wed, 17 Jun 2026 13:56:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pODN6WXNJWS1hcHN4ZU9CVUZmeTNOTzV5ZkY3X3ZxQlBqNFVVUUQ4QnR2R2E1Nk53cTFwMWMzOEkzZ3dJTEdweTlHYjF3MEUyYmlaZm43VE9VNjI0UWcyQ3lZdEtIZEVYUDZuWjlXcGdaal9hNldCbw?oc=5",
+      "summary": "Could a hantavirus vaccine be on the horizon? &nbsp;&nbsp; Gavi, the Vaccine Alliance",
+      "source": "Gavi, the Vaccine Alliance"
     },
     {
       "title": "Hantavirus cruise passenger says she\u2019s being forced to quarantine in Nebraska - The Washington Post",
@@ -251,18 +263,18 @@
       "source": "Forbes"
     },
     {
+      "title": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine - AP News",
+      "published": "Tue, 16 Jun 2026 22:59:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2dLRTQ5Y0Nja3V6QXkyMHlXaUxmUjQtN3lIRG1mRkt0SnlQOEFtOGdqZEo5VmlMVVp6WXhfVVVEaUxqX2NqN2tRemlZbUg3RmdyVW9LRzRLYWpMTXlLSEt6Qnp3V1h5UldLbEs5NW5RakZadW5LMUhPMlN2ZzJzdURZOHVIWVlnbjVFOXBTdEVmcE93SkVpMEZzdkFwX2o4eERJbFFuamJQU28?oc=5",
+      "summary": "RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine &nbsp;&nbsp; AP News",
+      "source": "AP News"
+    },
+    {
       "title": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation - CNN",
       "published": "Tue, 16 Jun 2026 20:52:05 GMT",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5",
-      "summary": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation &nbsp;&nbsp; CNN Hantavirus cruise passenger says she\u2019s being forced to quarantine in Nebraska &nbsp;&nbsp; The Washington Post RFK Jr. overrules experts to keep hantavirus cruise",
+      "summary": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation &nbsp;&nbsp; CNN",
       "source": "CNN"
-    },
-    {
-      "title": "A federal medical reviewer said she could go home. RFK Jr. said no. - Healthbeat",
-      "published": "Tue, 16 Jun 2026 02:04:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHZtMnAzdVpWc0x3MnV0aWJ1a0VuQWxYTVQyd0JndWpManJxMFlEcnk2Zi1sTFRybEs1cUpyNVpKeEt4ejYwc0VhWGFicUlVQmRYYlFCa3M4WGNDaEE1WGJ1cWhRZ2dLNzZKWVpYZFFDeXNCR1VrTGRjVkZvam9SR0RHbzRuVE8ybjNtUEZjdkxObWJuQUVsbGhhVXJHb0U2WTEzZi1kV3F5Zw?oc=5",
-      "summary": "A federal medical reviewer said she could go home. RFK Jr. said no. &nbsp;&nbsp; Healthbeat",
-      "source": "Healthbeat"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -307,11 +319,11 @@
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
-      "title": "Quarantine over for almost all hantavirus ship passengers, crew - Yahoo",
-      "published": "Thu, 18 Jun 2026 20:48:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVnhHLWhoNFlfT2tNVGFsTS0ybnd5bEdWeURfamZtRTR5aGZvd3k2bzdOTFdLbW1aT1lDWlZlZ0pkRVhRQmVROEpBbnl5b3JGRVppQ0J2bUNMeXluLW1wcVNjNDFZUnlXdEFaYkpUdzVmYnpfdHlqRUVlV2dDVXk5bHhTcXA4bUxyR0V3Y3lVZXhVQTRKTWhXa1BqZ21iQQ?oc=5",
-      "summary": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; Yahoo",
-      "source": "Yahoo"
+      "title": "Quarantine over for almost all hantavirus ship passengers, crew - France 24",
+      "published": "Thu, 18 Jun 2026 20:49:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWtwVEFsdHBvZm9ZZEVncl9iaWxqbk9ZZFJyTTlNeVR1QnExVjV1cU5oVXVJWUtFT3U1eExWTkQ4eVlGVkNlZ0VhWHEzRWZValJJdEllWDgySU9LbVJDTnBtSzhQQnRXbmdrVWNGV0FqRE9yR1NTakdWNnlScTZmWEI4RkhpdEctaDJ6eE5tWUxoY3RBZThxVFVUc1hUUU95dXpwaV9TcExEdGVlSVE?oc=5",
+      "summary": "Quarantine over for almost all hantavirus ship passengers, crew &nbsp;&nbsp; France 24",
+      "source": "France 24"
     },
     {
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
@@ -333,6 +345,13 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
       "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
       "source": "Johns Hopkins Medicine"
+    },
+    {
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
+      "published": "Thu, 11 Jun 2026 17:42:12 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
+      "summary": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
+      "source": "NPR"
     },
     {
       "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
@@ -446,10 +465,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-18T21:56:06.947491Z",
+    "timestamp": "2026-06-18T23:28:31.162274Z",
     "who": 0,
     "promed": 0,
-    "news": 36,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
