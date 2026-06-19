@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-19T21:49:55.518803Z",
+  "lastUpdated": "2026-06-19T22:42:48.090792Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 39,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "The Washington Post",
-        "NBC News",
-        "KDHE (.gov)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "thereader.com",
         "CIDRAP",
-        "AP News",
+        "The Colorado Sun",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
-        "BBC",
-        "Nebraska Examiner",
-        "CNN",
+        "KDHE (.gov)",
         "KJZZ",
-        "The Colorado Sun"
+        "BBC",
+        "AP News",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "The Washington Post",
+        "World Health Organization (WHO)",
+        "thereader.com",
+        "Nebraska Examiner",
+        "NBC News"
       ],
       "alertCount": 16
     },
@@ -172,32 +172,6 @@
       "alertCount": 3
     },
     {
-      "country": "Netherlands",
-      "lat": 52.13,
-      "lng": 5.29,
-      "alerts": [
-        {
-          "title": "Almost all the passengers and crew of the cruise ship hit by a deadly hantavirus outbreak who had to quarantine in the Netherlands are now allowed to return home, the WHO chief said. I via ANC 24/7 Link of full story in the comment section. - facebook.com",
-          "published": "Fri, 19 Jun 2026 17:00:05 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzVKZnc1RVFZWWJnMTc0OFpUSEZSZHpjRG9YckY3ZHNQV2tvSTIzODJadDlrT1hqTXpJXzZLN3p4aXdDXzQ2NG1uaWhISVp5d0stVjZURlJQMzhxb0VRcGlaRlZTSUlyelpuc2tKcHItbkZURFBzc0J3NjNFRzNOcDNxMkRaeVRQY2JoUnhiYzVtZ2xJUklUNm1yUWJHNjJPTkd6Z1lyV0FhS0d0ekx0Q2FlUTVhbmFCekJBTlhuV2lsbjVrWmwwb29xMWtXT1VVRi1hVTZ6UQ?oc=5",
-          "summary": "Almost all the passengers and crew of the cruise ship hit by a deadly hantavirus outbreak who had to quarantine in the Netherlands are now allowed to return home, the WHO chief said. I via ANC 24/7 Link of full story in the comment section. &nbsp;&nbsp; facebook.com",
-          "source": "facebook.com"
-        },
-        {
-          "title": "Hantavirus cruise ship quarantine ends in Netherlands - The Straits Times",
-          "published": "Fri, 19 Jun 2026 04:10:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVAydmlyTnU5V0NQU0tPLVNlbjQ1MDMyOFhqTjBPTjhlMG96ejJ6cVdYSXpGd2EzR2ZFak9rS2JqaXFDREJEeDNRbWh5YjloNjBQeHZ2a2cyUk1fZWdEcWEtX0lkNW1NT3dyenN1SGpua1luUGlTWWl5UEZqMDFtRWtkZG5PQXhxcEpVVjltRnNFZUQ1RTNubUoxSl9hdWwteEZ3c3JEeUxxcTh0TkJzek1hWkE1ZmpvNW9HWW1ucDhHNEdWRFE?oc=5",
-          "summary": "Hantavirus cruise ship quarantine ends in Netherlands &nbsp;&nbsp; The Straits Times",
-          "source": "The Straits Times"
-        }
-      ],
-      "sources": [
-        "facebook.com",
-        "The Straits Times"
-      ],
-      "alertCount": 2
-    },
-    {
       "country": "Spain",
       "lat": 40.46,
       "lng": -3.75,
@@ -212,6 +186,24 @@
       ],
       "sources": [
         "Yahoo"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "lat": 52.13,
+      "lng": 5.29,
+      "alerts": [
+        {
+          "title": "Hantavirus cruise ship quarantine ends in Netherlands - The Straits Times",
+          "published": "Fri, 19 Jun 2026 04:10:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVAydmlyTnU5V0NQU0tPLVNlbjQ1MDMyOFhqTjBPTjhlMG96ejJ6cVdYSXpGd2EzR2ZFak9rS2JqaXFDREJEeDNRbWh5YjloNjBQeHZ2a2cyUk1fZWdEcWEtX0lkNW1NT3dyenN1SGpua1luUGlTWWl5UEZqMDFtRWtkZG5PQXhxcEpVVjltRnNFZUQ1RTNubUoxSl9hdWwteEZ3c3JEeUxxcTh0TkJzek1hWkE1ZmpvNW9HWW1ucDhHNEdWRFE?oc=5",
+          "summary": "Hantavirus cruise ship quarantine ends in Netherlands &nbsp;&nbsp; The Straits Times",
+          "source": "The Straits Times"
+        }
+      ],
+      "sources": [
+        "The Straits Times"
       ],
       "alertCount": 1
     },
@@ -248,6 +240,13 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
       "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
       "title": "Could a hantavirus vaccine be on the horizon? - Gavi, the Vaccine Alliance",
@@ -304,6 +303,13 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
       "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
       "source": "Stanford Medicine"
+    },
+    {
+      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
+      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
+      "source": "KFF"
     },
     {
       "title": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure - The New York Times",
@@ -430,20 +436,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
       "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
       "source": "Yahoo"
-    },
-    {
-      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
-      "published": "Mon, 15 Jun 2026 14:09:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
-      "summary": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
-    },
-    {
-      "title": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days - ABC News - Breaking News, Latest News and Videos",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlB5M0NuMVRROTM2cmVCenV4TW54UXM5ajBlSWVRRVd3bV9YMm01TkhrcTZrOWlqS204dkpfWmE3Sk9XRkVlclFOelVsNDAzeTVjMXNHV0t6d0NvWFl5T2pQVDV5V28wdlJ6c1NLZ0Fxa3h3dHNzMUVtT3hpRUZZR3FzaFdjbDEweUoxanBFZE9NdWZnMGJRVUMtbWJfUzdUSGVNRTZCeUZCYkVFUDJJ0gG0AUFVX3lxTE1TcTA4Y0hNUjA3MmkwUlYtY00wRzdSOW1ZMW5EQ25iUnBCTlc2TllEWjRJRnMtM0p2UFlJcVhVOWltcWVCSVZuYktIREFzNFNXSEd0WmdjM2dvMm9MWXM3R1J2alRNQ0E2SndoSFJ6SVZvNktYeXI1cGo0ZVNiUGtMYlRJc3V4czk5VTRmdjU1R3BmYlVobGhBaDRzbDBqVURVc0ZmalJFczJtbTBUSnZQQmVtTA?oc=5",
-      "summary": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos"
     }
   ],
   "usHistoric": {
@@ -473,10 +465,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-19T21:49:55.518815Z",
+    "timestamp": "2026-06-19T22:42:48.090802Z",
     "who": 0,
     "promed": 0,
-    "news": 39,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
