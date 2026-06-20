@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-19T23:47:19.917230Z",
+  "lastUpdated": "2026-06-20T02:11:06.553853Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 40,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "BBC",
         "The Colorado Sun",
-        "CIDRAP",
-        "KDHE (.gov)",
         "AP News",
-        "Nebraska Examiner",
+        "The Washington Post",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CIDRAP",
         "CBS News",
-        "NBC News",
-        "World Health Organization (WHO)",
-        "KJZZ",
         "CNN",
+        "NBC News",
         "ABC News - Breaking News, Latest News and Videos",
         "thereader.com",
-        "The Washington Post"
+        "KJZZ",
+        "BBC",
+        "KDHE (.gov)",
+        "World Health Organization (WHO)",
+        "Nebraska Examiner"
       ],
       "alertCount": 17
     },
@@ -173,32 +173,6 @@
       "alertCount": 3
     },
     {
-      "country": "Netherlands",
-      "lat": 52.13,
-      "lng": 5.29,
-      "alerts": [
-        {
-          "title": "Almost all the passengers and crew of the cruise ship hit by a deadly hantavirus outbreak who had to quarantine in the Netherlands are now allowed to return home, the WHO chief said. I via ANC 24/7 Link of full story in the comment section. - facebook.com",
-          "published": "Fri, 19 Jun 2026 22:54:42 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzVKZnc1RVFZWWJnMTc0OFpUSEZSZHpjRG9YckY3ZHNQV2tvSTIzODJadDlrT1hqTXpJXzZLN3p4aXdDXzQ2NG1uaWhISVp5d0stVjZURlJQMzhxb0VRcGlaRlZTSUlyelpuc2tKcHItbkZURFBzc0J3NjNFRzNOcDNxMkRaeVRQY2JoUnhiYzVtZ2xJUklUNm1yUWJHNjJPTkd6Z1lyV0FhS0d0ekx0Q2FlUTVhbmFCekJBTlhuV2lsbjVrWmwwb29xMWtXT1VVRi1hVTZ6UQ?oc=5",
-          "summary": "Almost all the passengers and crew of the cruise ship hit by a deadly hantavirus outbreak who had to quarantine in the Netherlands are now allowed to return home, the WHO chief said. I via ANC 24/7 Link of full story in the comment section. &nbsp;&nbsp; facebook.com",
-          "source": "facebook.com"
-        },
-        {
-          "title": "Hantavirus cruise ship quarantine ends in Netherlands - The Straits Times",
-          "published": "Fri, 19 Jun 2026 04:10:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVAydmlyTnU5V0NQU0tPLVNlbjQ1MDMyOFhqTjBPTjhlMG96ejJ6cVdYSXpGd2EzR2ZFak9rS2JqaXFDREJEeDNRbWh5YjloNjBQeHZ2a2cyUk1fZWdEcWEtX0lkNW1NT3dyenN1SGpua1luUGlTWWl5UEZqMDFtRWtkZG5PQXhxcEpVVjltRnNFZUQ1RTNubUoxSl9hdWwteEZ3c3JEeUxxcTh0TkJzek1hWkE1ZmpvNW9HWW1ucDhHNEdWRFE?oc=5",
-          "summary": "Hantavirus cruise ship quarantine ends in Netherlands &nbsp;&nbsp; The Straits Times",
-          "source": "The Straits Times"
-        }
-      ],
-      "sources": [
-        "facebook.com",
-        "The Straits Times"
-      ],
-      "alertCount": 2
-    },
-    {
       "country": "Spain",
       "lat": 40.46,
       "lng": -3.75,
@@ -213,6 +187,24 @@
       ],
       "sources": [
         "Yahoo"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Netherlands",
+      "lat": 52.13,
+      "lng": 5.29,
+      "alerts": [
+        {
+          "title": "Almost all the passengers and crew of the cruise ship hit by a deadly hantavirus outbreak who had to quarantine in the Netherlands are now allowed to return home, the WHO chief said. I via ANC 24/7 Link of full story in the comment section. - facebook.com",
+          "published": "Fri, 19 Jun 2026 22:54:42 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYzVKZnc1RVFZWWJnMTc0OFpUSEZSZHpjRG9YckY3ZHNQV2tvSTIzODJadDlrT1hqTXpJXzZLN3p4aXdDXzQ2NG1uaWhISVp5d0stVjZURlJQMzhxb0VRcGlaRlZTSUlyelpuc2tKcHItbkZURFBzc0J3NjNFRzNOcDNxMkRaeVRQY2JoUnhiYzVtZ2xJUklUNm1yUWJHNjJPTkd6Z1lyV0FhS0d0ekx0Q2FlUTVhbmFCekJBTlhuV2lsbjVrWmwwb29xMWtXT1VVRi1hVTZ6UQ?oc=5",
+          "summary": "Almost all the passengers and crew of the cruise ship hit by a deadly hantavirus outbreak who had to quarantine in the Netherlands are now allowed to return home, the WHO chief said. I via ANC 24/7 Link of full story in the comment section. &nbsp;&nbsp; facebook.com",
+          "source": "facebook.com"
+        }
+      ],
+      "sources": [
+        "facebook.com"
       ],
       "alertCount": 1
     },
@@ -474,10 +466,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-19T23:47:19.917247Z",
+    "timestamp": "2026-06-20T02:11:06.553861Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
