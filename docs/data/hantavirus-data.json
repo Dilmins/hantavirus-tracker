@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T21:03:08.455196Z",
+  "lastUpdated": "2026-06-20T22:21:25.004367Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
         "NBC News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
-        "thereader.com",
-        "Yahoo",
-        "Nebraska Examiner",
+        "BBC",
+        "CNN",
         "CIDRAP",
+        "Yahoo",
+        "ABC News - Breaking News, Latest News and Videos",
+        "KJZZ",
         "The Colorado Sun",
+        "Nebraska Examiner",
         "AP News",
         "CBS News",
-        "BBC",
-        "KJZZ",
-        "CNN"
+        "World Health Organization (WHO)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "thereader.com"
       ],
       "alertCount": 17
     },
@@ -447,7 +447,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-20T21:03:08.455210Z",
+    "timestamp": "2026-06-20T22:21:25.004378Z",
     "who": 0,
     "promed": 0,
     "news": 37,
