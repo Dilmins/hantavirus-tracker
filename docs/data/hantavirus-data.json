@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-21T10:44:12.063244Z",
+  "lastUpdated": "2026-06-21T12:30:04.123611Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 5,
-  "newsCount": 38,
+  "locationsTracked": 4,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -107,36 +107,36 @@
           "source": "World Health Organization (WHO)"
         },
         {
+          "title": "The hantavirus quarantine is over. Here\u2019s what cruise passengers and scientists learned. - NBC News",
+          "published": "Sun, 21 Jun 2026 11:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
+          "summary": "The hantavirus quarantine is over. Here\u2019s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
+          "source": "NBC News"
+        },
+        {
           "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
           "published": "Sun, 17 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVo2aXdMeVdMTWVwbzhReUpwX2dFYUNoQnpLWmxMNEdkcGU4V3hrQ04xelk2WjJiWVgtWkNvNWE3X25Xc1F6SWVDYmYyY2huRHA0ZWZFYmhPaUdHdVZwZl92WFJFWG9YWk96QmVwQzRxY3ExMlhJU3gwMmZ6M2ZWdUt3cTBIejN0VWN5Y3hOQS1MNGlweXkzbWZZT3VrbXZrVEpVOTJmcnlveUFfRFpn0gG0AUFVX3lxTE45UXZGY3Z5UnNGRVh2ZERCMWZmSWs3cU1DNjJXT0hoYWtWdks2TjJHcXFObUlyRUNwVU43RXZYeENOcjZrWUtiRzFxSEFkUGozMklrQU5lT2k4SWQ3aDEzajdEdnNOMENqVzRlV1BwR1NJdFRJNEZPY0hCVzc1RzNpUWt3X1JLNHlTekNoRlE2dVd3enlfZTRIdDFfVVFvcXcyMF8xWG43d1ZYT3J4ZUp5dlFmYw?oc=5",
           "summary": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-          "published": "Mon, 25 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-          "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
-          "source": "CNN"
         }
       ],
       "sources": [
+        "CNN",
+        "NBC News",
+        "BBC",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CIDRAP",
+        "World Health Organization (WHO)",
+        "The Colorado Sun",
+        "KJZZ",
+        "AP News",
+        "CBS News",
+        "Yahoo",
         "Nebraska Examiner",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Yahoo",
-        "Forbes",
-        "CIDRAP",
-        "KJZZ",
-        "NBC News",
-        "World Health Organization (WHO)",
-        "CBS News",
-        "BBC",
-        "The Colorado Sun",
-        "CNN",
-        "AP News",
         "thereader.com",
-        "ABC News - Breaking News, Latest News and Videos"
+        "Forbes"
       ],
       "alertCount": 18
     },
@@ -180,24 +180,6 @@
       ],
       "sources": [
         "Yahoo"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Netherlands",
-      "lat": 52.13,
-      "lng": 5.29,
-      "alerts": [
-        {
-          "title": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 - facebook.com",
-          "published": "Sun, 21 Jun 2026 03:20:23 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3pDZV80OUtIUmUtZ2ViUHNraWVFRXBnTHBDYTl4NWplTFFQSVR5NVVuR2JfcF9sXzFUbDdfaEc3dGIzSDJoMEpCa0d3VTQ5MS1hTzVGLWlsMVFxbGk4VDhQRlpwVjRVT2FnMl9aQVpuZ2kyLXUzdkhsVDRYWG02R09NbzV1T25ldUw5TkVYU0pua1NCX2doRzcyRmNYeXpvZXZUdERGV1pKczlhUm9RbGZUckNsaDBDNDNySENRVFlpT0hueHg2WmV5VUc5LWZ1Y0tUNTJHcG55Znow?oc=5",
-          "summary": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 &nbsp;&nbsp; facebook.com",
-          "source": "facebook.com"
-        }
-      ],
-      "sources": [
-        "facebook.com"
       ],
       "alertCount": 1
     },
@@ -271,6 +253,13 @@
       "source": "KFF"
     },
     {
+      "title": "Hantavirus Outbreak Highlights the Importance of One Health - Medscape",
+      "published": "Tue, 09 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnpFX3k2SG00SGktek1Gbnk5QUpOZE9WNFhranhkYS1xUGpfRkE5Y0JXRlpLaWl2dHZtOGt1TjhMZWpnYnJGRTlIYjlTdzlhRHphVjJDRHUxOVVEYXNYdl9mcTUwVFlMeGhaWnJqd0l6NzRXWS14OWRJUkZvcHBMOTNNakpoM0J3bFVCZUpFS1U3S1M0NHM2aUUzS1FXbWoxTlg2Rw?oc=5",
+      "summary": "Hantavirus Outbreak Highlights the Importance of One Health &nbsp;&nbsp; Medscape",
+      "source": "Medscape"
+    },
+    {
       "title": "Hantavirus Outbreaks Are Rare, but They Aren\u2019t Going Away and There\u2019s No Cure - The New York Times",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbHRucC0yb2tBOGlsWTMtcDd5ZTR1Nml3NHA2cFhmUWVpMmZBaGEzZGhkWlZVQWQ2SE1abkpieDVYb1ZIcy1qVDNRYnREa3FqYkNzTHZ2Q002dG9RUVpjbzRGZlctcHZ1MzVjQjBUa3FoaWtIVlRHWTZZUVlrSHdTTFVQbGg1ZTVDWk9F?oc=5",
@@ -290,13 +279,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
-    },
-    {
-      "title": "Hantavirus outbreak stable at 13 cases: WHO - NewsNation",
-      "published": "Thu, 28 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sc1JhX3g0R2VhNWFWRVVqQnhEQVRTX2N1UlR6Vk1MOEFNSmtUdVpyZEU0cHBIeGlQRXNJUDFnTDlrTGhncDl5b3daTlRkU2dlOGtHbm5yM1daZ1EycVdWcTF0NnZLNGVTaXgxTTlSM2tYeEljeWQzNW5zR3VYd9IBgwFBVV95cUxNRXYxc2RBN0pHSTQ5aUxBUUh1S0dRVGExY0RSV09kQnAtUmVfY094REsyVGNBUEFSSEM3alVTemN0QUlZXzNOZ3RIVFg0QTJnaklrUlp2OFpaTWxyRWVfbWVDOGE1YlVpaVQtZkVxQl9DOV9ZdzVaakNqNFJVUmVlUjExTQ?oc=5",
-      "summary": "Hantavirus outbreak stable at 13 cases: WHO &nbsp;&nbsp; NewsNation",
-      "source": "NewsNation"
     },
     {
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
@@ -348,11 +330,11 @@
       "source": "USA Today"
     },
     {
-      "title": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 - facebook.com",
-      "published": "Sun, 21 Jun 2026 03:20:23 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3pDZV80OUtIUmUtZ2ViUHNraWVFRXBnTHBDYTl4NWplTFFQSVR5NVVuR2JfcF9sXzFUbDdfaEc3dGIzSDJoMEpCa0d3VTQ5MS1hTzVGLWlsMVFxbGk4VDhQRlpwVjRVT2FnMl9aQVpuZ2kyLXUzdkhsVDRYWG02R09NbzV1T25ldUw5TkVYU0pua1NCX2doRzcyRmNYeXpvZXZUdERGV1pKczlhUm9RbGZUckNsaDBDNDNySENRVFlpT0hueHg2WmV5VUc5LWZ1Y0tUNTJHcG55Znow?oc=5",
-      "summary": "Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the country on Friday after completing a 42-day quarantine in the Netherlands. http://tiny.cc/8se5101 &nbsp;&nbsp; facebook.com",
-      "source": "facebook.com"
+      "title": "The hantavirus quarantine is over. Here\u2019s what cruise passengers and scientists learned. - NBC News",
+      "published": "Sun, 21 Jun 2026 11:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZwUHVfQmFkOHZQc3J2c1czelU5Qm9nRUh1RTdiX3pmR1d0UFdwNk9WUnNRQ1E1U0dPa2dSSFVLT0NmNTV0Qm9VV0Exc1pCVC15dTRfUmltQkdnbXNqc0VCbGNkS0dqczZ5OWhnQjR1RnowWnhKODc5djYwejhRTFpTNmlvUnljVWttREtKQ0FZSXVOMEdXMUpFNHJGVXdNY056aEVUOEV6TkY3RHRUS20wRTFhaGJU?oc=5",
+      "summary": "The hantavirus quarantine is over. Here\u2019s what cruise passengers and scientists learned. &nbsp;&nbsp; NBC News",
+      "source": "NBC News"
     },
     {
       "title": "Hantavirus updates: Canadian cruise ship passenger tests positive for hantavirus - ABC News - Breaking News, Latest News and Videos",
@@ -374,6 +356,13 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
       "summary": "\u2018It\u2019s not science, it\u2019s coercion\u2019: health experts decry RFK Jr order on hantavirus quarantine &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
+    },
+    {
+      "title": "Statement on confirmed hantavirus death in Douglas County - Douglas County (.gov)",
+      "published": "Sat, 16 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTm9IQkhwSUpPSnk1TjRadDZHSXFScW4tTmI2SG1BZG5yRFNPSm9WQlM3QTJ4MnkzTFcxNUFKLUZfaE5ELVpWTXF5aWwyTTBRcHFGRnBoNUxFYUxRV2VhV3NOVVoxUWtrUUFnUGZ0UXk3MGVnOEF5bkRSWVpDQXZTM3BRS1VBWU1LNG9vbg?oc=5",
+      "summary": "Statement on confirmed hantavirus death in Douglas County &nbsp;&nbsp; Douglas County (.gov)",
+      "source": "Douglas County (.gov)"
     },
     {
       "title": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates. - USA Today",
@@ -423,13 +412,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
       "summary": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
-    },
-    {
-      "title": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days - ABC News - Breaking News, Latest News and Videos",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlB5M0NuMVRROTM2cmVCenV4TW54UXM5ajBlSWVRRVd3bV9YMm01TkhrcTZrOWlqS204dkpfWmE3Sk9XRkVlclFOelVsNDAzeTVjMXNHV0t6d0NvWFl5T2pQVDV5V28wdlJ6c1NLZ0Fxa3h3dHNzMUVtT3hpRUZZR3FzaFdjbDEweUoxanBFZE9NdWZnMGJRVUMtbWJfUzdUSGVNRTZCeUZCYkVFUDJJ0gG0AUFVX3lxTE1TcTA4Y0hNUjA3MmkwUlYtY00wRzdSOW1ZMW5EQ25iUnBCTlc2TllEWjRJRnMtM0p2UFlJcVhVOWltcWVCSVZuYktIREFzNFNXSEd0WmdjM2dvMm9MWXM3R1J2alRNQ0E2SndoSFJ6SVZvNktYeXI1cGo0ZVNiUGtMYlRJc3V4czk5VTRmdjU1R3BmYlVobGhBaDRzbDBqVURVc0ZmalJFczJtbTBUSnZQQmVtTA?oc=5",
-      "summary": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos"
     }
   ],
   "usHistoric": {
@@ -459,10 +441,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-21T10:44:12.063256Z",
+    "timestamp": "2026-06-21T12:30:04.123623Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
