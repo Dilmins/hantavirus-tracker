@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-20T23:40:54.076372Z",
+  "lastUpdated": "2026-06-21T02:04:06.801901Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 38,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "thereader.com",
-        "The Colorado Sun",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "NBC News",
-        "AP News",
-        "World Health Organization (WHO)",
-        "KJZZ",
-        "ABC News - Breaking News, Latest News and Videos",
         "CBS News",
+        "KJZZ",
+        "CIDRAP",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The Colorado Sun",
+        "Nebraska Examiner",
+        "NBC News",
         "BBC",
+        "World Health Organization (WHO)",
         "Yahoo",
+        "thereader.com",
         "CNN",
-        "Nebraska Examiner"
+        "AP News",
+        "Centers for Disease Control and Prevention | CDC (.gov)"
       ],
       "alertCount": 17
     },
@@ -144,13 +144,6 @@
       "lat": 37.09,
       "lng": -95.71,
       "alerts": [
-        {
-          "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will - USA Today",
-          "published": "Wed, 17 Jun 2026 13:25:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVhqUmxCUy01VGRRRTVRZjRXMEFZMHpFbGZiUzkwamxiNUVTOVhLVGtVenpIWlpMMWtPVHczMjRldWx1R1lMR2tSRkZQWFRIeDkzcEZPLWpSZ3FmYmZNQ1d5cC1MUXZsTWEtMHR5Yk1PbV9kQmo5ajg1aUx5WmdxeTkxNHpybk1KODVOREJBcEFidVA1MDVoY2tsZFNEdS1sR09CV25IWFdPaS1WUnV1OUI5NEJ4NERqNFEw?oc=5",
-          "summary": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will &nbsp;&nbsp; USA Today",
-          "source": "USA Today"
-        },
         {
           "title": "Hantavirus that killed Gene Hackman\u2019s wife hits cruise ship - USA Today",
           "published": "Thu, 07 May 2026 07:00:00 GMT",
@@ -169,7 +162,7 @@
       "sources": [
         "USA Today"
       ],
-      "alertCount": 3
+      "alertCount": 2
     },
     {
       "country": "Spain",
@@ -229,13 +222,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1NEU2laM25sdWRRZFp1QVU5dG9RTXI0ZUUwMURaZlZUOC1WaGRIVERpQ2dwNFJYVDZBeTFxaU82dG4yOEphWWRfVFRHbmN5STF6RWlocUJ1N2tIckFWRWtVbmh4ZFVNejdxeE5hU21EcDdGdzFpMkFCajBVMGZSWlQ4dWJuVDRIRDhwQll6eENhTFRCTS1xX2YzWUxmeEw5Wmk2dw?oc=5",
       "summary": "Public Health Alerts: Andes hantavirus on a cruise ship, 2026 &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
-    },
-    {
-      "title": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will - USA Today",
-      "published": "Wed, 17 Jun 2026 13:25:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVVhqUmxCUy01VGRRRTVRZjRXMEFZMHpFbGZiUzkwamxiNUVTOVhLVGtVenpIWlpMMWtPVHczMjRldWx1R1lMR2tSRkZQWFRIeDkzcEZPLWpSZ3FmYmZNQ1d5cC1MUXZsTWEtMHR5Yk1PbV9kQmo5ajg1aUx5WmdxeTkxNHpybk1KODVOREJBcEFidVA1MDVoY2tsZFNEdS1sR09CV25IWFdPaS1WUnV1OUI5NEJ4NERqNFEw?oc=5",
-      "summary": "RFK Jr. orders American exposed to hantavirus to stay quarantined against her will &nbsp;&nbsp; USA Today",
-      "source": "USA Today"
     },
     {
       "title": "Cruise ship hantavirus patients arrive in Europe for treatment - AP News",
@@ -418,6 +404,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlB5M0NuMVRROTM2cmVCenV4TW54UXM5ajBlSWVRRVd3bV9YMm01TkhrcTZrOWlqS204dkpfWmE3Sk9XRkVlclFOelVsNDAzeTVjMXNHV0t6d0NvWFl5T2pQVDV5V28wdlJ6c1NLZ0Fxa3h3dHNzMUVtT3hpRUZZR3FzaFdjbDEweUoxanBFZE9NdWZnMGJRVUMtbWJfUzdUSGVNRTZCeUZCYkVFUDJJ0gG0AUFVX3lxTE1TcTA4Y0hNUjA3MmkwUlYtY00wRzdSOW1ZMW5EQ25iUnBCTlc2TllEWjRJRnMtM0p2UFlJcVhVOWltcWVCSVZuYktIREFzNFNXSEd0WmdjM2dvMm9MWXM3R1J2alRNQ0E2SndoSFJ6SVZvNktYeXI1cGo0ZVNiUGtMYlRJc3V4czk5VTRmdjU1R3BmYlVobGhBaDRzbDBqVURVc0ZmalJFczJtbTBUSnZQQmVtTA?oc=5",
       "summary": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home - NBC News",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTFo3LThLeHdIWHlacXUzd2dkRkF3M2RKMTlpeC1uTXNUVWpFQUU5U3ZzLXF1Z2dFVjlTMjdQQ1FUZjA3Q3B0NHAyNEcwNlRMSklDcGwzYzNaWllOYUw2Uk5McktuTUVJQnBVelg1R1E4MmtjWHJNQU9ZOHpDS3hlWWhvY3BxVjNiQ0l3OUJmakJjX3dFaW43bDNiR1Y5SjBWVG83SUJQUkplWV9od3BQVldCNUxjMFY3bVlZWF9ITQ?oc=5",
+      "summary": "State trooper guards and daily fever checks: Some hantavirus cruise ship passengers go home &nbsp;&nbsp; NBC News",
+      "source": "NBC News"
     }
   ],
   "usHistoric": {
@@ -447,10 +440,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-20T23:40:54.076396Z",
+    "timestamp": "2026-06-21T02:04:06.801916Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
