@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-25T21:09:48.694740Z",
+  "lastUpdated": "2026-06-25T22:44:05.161343Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
-  "newsCount": 42,
+  "locationsTracked": 4,
+  "newsCount": 41,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -114,30 +114,29 @@
           "source": "CNN"
         },
         {
-          "title": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak - ABC7 Bay Area",
-          "published": "Mon, 22 Jun 2026 21:36:09 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnFhcmI4aUJVTmVMa3kteEhQSzM2X1pxUFpJa1hfeDBXTGhaSl96NFhLQmtRUHl3S3plTGpkczd3VmpYRzFleEVUbm5xa21xRzZ6dTZ3VXc0b1hnNnIxUmc2N05PMVZPc2J5YzFUeUJZRUpXTzlYY05kZl96eTlTWFJRTjJ5THZUT2ZYODFiMFFXOTRCSHZ0TUt6SDZaSGFqSS1ZbXlRYUlKTUtRRVllazYwcUx3VGZYakRVYVktWFdfZ9IBwgFBVV95cUxQWnFhcmI4aUJVTmVMa3kteEhQSzM2X1pxUFpJa1hfeDBXTGhaSl96NFhLQmtRUHl3S3plTGpkczd3VmpYRzFleEVUbm5xa21xRzZ6dTZ3VXc0b1hnNnIxUmc2N05PMVZPc2J5YzFUeUJZRUpXTzlYY05kZl96eTlTWFJRTjJ5THZUT2ZYODFiMFFXOTRCSHZ0TUt6SDZaSGFqSS1ZbXlRYUlKTUtRRVllazYwcUx3VGZYakRVYVktWFdfZw?oc=5",
-          "summary": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak &nbsp;&nbsp; ABC7 Bay Area",
-          "source": "ABC7 Bay Area"
+          "title": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus - Centers for Disease Control and Prevention | CDC (.gov)",
+          "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RUThMc0pIYUVmdmh0VDhLd1J6Njk3T0Mzenppak14OWE4eWhrYjA5MEZGdDN6dnN3UzQ3aFVlNWNyeTJmQ18wU05XN2tQZjlQT09wdFRZc3VDTG4xamx2YWgyODVQaWVTUmw4?oc=5",
+          "summary": "Andes Virus Outbreak on a Cruise Ship: Current Situation | Hantavirus &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
         }
       ],
       "sources": [
-        "The Guardian",
-        "KDHE (.gov)",
+        "The Colorado Sun",
+        "ABC News - Breaking News, Latest News and Videos",
         "Central Oregon Daily",
         "TODAY.com",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CNN",
+        "KDHE (.gov)",
         "Al Jazeera",
-        "CIDRAP",
-        "KJZZ",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "ABC7 Bay Area",
-        "Nebraska Public Media",
+        "The Guardian",
         "World Health Organization (WHO)",
-        "The Colorado Sun"
+        "CIDRAP",
+        "Nebraska Public Media",
+        "CNN",
+        "KJZZ",
+        "Centers for Disease Control and Prevention | CDC (.gov)"
       ],
-      "alertCount": 14
+      "alertCount": 13
     },
     {
       "country": "USA",
@@ -154,6 +153,24 @@
       ],
       "sources": [
         "USA Today"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Spain",
+      "lat": 40.46,
+      "lng": -3.75,
+      "alerts": [
+        {
+          "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - Reuters",
+          "published": "Wed, 27 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQamxkN3RlZzFPWTVabWpreHNDaGp2SnVOckZ3STNTWTBGdXZGUHFUaU9fNTNjeFFoWWFYM2k0NE85SXE1OF9wWms5QnZNVkZlX05WbkdheFJ5cDBJUTVqYldQbXdfVm1lTjZZTldUZjRzOWUtRjEzdzYwaVYxMVIyZEpxd0ZmU2NSS19CeTV1cVh5dmNWeUVBNG9KejhYYU5yS3ZDU20xQ191MXowRUpRU2N1OFhlRUt1MU5Taks0V1dOQkN3bTljYW1WZGw2SkFoRmVneUNvV2QyV1MwcE1v?oc=5",
+          "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; Reuters",
+          "source": "Reuters"
+        }
+      ],
+      "sources": [
+        "Reuters"
       ],
       "alertCount": 1
     },
@@ -185,6 +202,13 @@
       "source": "The New York Times"
     },
     {
+      "title": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says - Reuters",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQamxkN3RlZzFPWTVabWpreHNDaGp2SnVOckZ3STNTWTBGdXZGUHFUaU9fNTNjeFFoWWFYM2k0NE85SXE1OF9wWms5QnZNVkZlX05WbkdheFJ5cDBJUTVqYldQbXdfVm1lTjZZTldUZjRzOWUtRjEzdzYwaVYxMVIyZEpxd0ZmU2NSS19CeTV1cVh5dmNWeUVBNG9KejhYYU5yS3ZDU20xQ191MXowRUpRU2N1OFhlRUt1MU5Taks0V1dOQkN3bTljYW1WZGw2SkFoRmVneUNvV2QyV1MwcE1v?oc=5",
+      "summary": "Hantavirus cases from cruise outbreak rise to 13 following new case in Spain, WHO says &nbsp;&nbsp; Reuters",
+      "source": "Reuters"
+    },
+    {
       "title": "CDC concludes hantavirus response as outbreak eases - KSL.com",
       "published": "Wed, 24 Jun 2026 23:40:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVS0xOVY0UFJCUHI5TXFjTnFvQ3NDWnFDd1pjSW5JcGIteVlvLWxBR2RVQjRnQnV1UXVTSzVWenJ5d0xHUHgyYlFCYnFSd0djUEpBWUlWNk5aODY2TmVKaWp5SHBmS0Z1V0w4RTNnaDM0Tk16ZGExWGM0bVZqc0ZYWUl0aEFDcTU5VllQTWFXbFlzUQ?oc=5",
@@ -197,13 +221,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5",
       "summary": "US ends hantavirus outbreak response with no answers on draconian quarantines &nbsp;&nbsp; Ars Technica",
       "source": "Ars Technica"
-    },
-    {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
-      "published": "Wed, 24 Jun 2026 21:07:47 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
-      "source": "Euronews.com"
     },
     {
       "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
@@ -262,18 +279,18 @@
       "source": "The Guardian"
     },
     {
-      "title": "Hantavirus ship passenger returns home after 42 day quarantine - CNN",
-      "published": "Tue, 23 Jun 2026 23:21:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZF96aFJMQ2xya3o0d0VzTjlaOGdSVElMR3JNRVV2eWhZZ0EyVVZyNmtOYzlBcElyNG16aUR0OWZyZ3QybkkzV0ZCdGx2bUhvR0dORVIzbWIzRkZBQ0N4WngtRDF3NExvVzIwRXFKd25mQzFPZlZKYnktSjdGT3UxazRUSjZDencyU29IMnFRbHFOeDNjYndIamR4b1ZTME42a1dIT2s4cjkyNTdHZnNLcTN3a1I?oc=5",
-      "summary": "Hantavirus ship passenger returns home after 42 day quarantine &nbsp;&nbsp; CNN",
-      "source": "CNN"
-    },
-    {
       "title": "\u2018No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
       "published": "Tue, 23 Jun 2026 17:54:31 GMT",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
       "summary": "\u2018No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers &nbsp;&nbsp; Nebraska Public Media",
       "source": "Nebraska Public Media"
+    },
+    {
+      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - WWNY",
+      "published": "Tue, 23 Jun 2026 15:18:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX29SUUJDMnRtcVJuZFl4WHlIMW9RNnI0aUV4V3E5U3FuSkxXVUVldHhIVHB3T2VwblgzcmRWbFFnNEZBdklwYkIyQmdmeXlmR2h5VUNuTHdUVVVRSTdCQUpPdDFKazVPSHJQZEhRbzUzZWZxYjI0eXVzdDZ1RDY0aG1CM0RyRGdaVzF1VjNNU3RzbERVcmw4Y1RsWU5PSXZRdVJRbjRHd3liUG1sUl9LSzdlTWHSAbQBQVVfeXFMT19vUlFCQzJ0bXFSbmRZeFh5SDFvUTZyNGlFeFdxOVNxbkpMV1VFZXR4SFRwd09lcG5YM3JkVmxRZzRGQXZJcGJCMkJnZnl5ZkdoeVVDbkx3VFVVUUk3QkFKT3QxSms1T0hyUGRIUW81M2VmcWIyNHl1c3Q2dUQ2NGhtQjNEckRnWlcxdVYzTVN0c2xEVXJsOGNUbFlOT0l2UXVSUW40R3d5YlBtbFJfS0s3ZU1h?oc=5",
+      "summary": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; WWNY",
+      "source": "WWNY"
     },
     {
       "title": "Americans on hantavirus-infected ship end quarantine - NBC News",
@@ -415,10 +432,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-25T21:09:48.694775Z",
+    "timestamp": "2026-06-25T22:44:05.161354Z",
     "who": 0,
     "promed": 0,
-    "news": 42,
+    "news": 41,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
