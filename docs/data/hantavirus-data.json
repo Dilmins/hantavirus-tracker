@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-26T07:06:29.338891Z",
+  "lastUpdated": "2026-06-26T10:27:43.568312Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 41,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,21 +122,23 @@
         }
       ],
       "sources": [
-        "CNN",
-        "PBS",
-        "World Health Organization (WHO)",
-        "The Colorado Sun",
-        "respiratory-therapy.com",
-        "CIDRAP",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "ABC7 Bay Area",
         "KJZZ",
-        "KDHE (.gov)",
+        "respiratory-therapy.com",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CIDRAP",
         "Nebraska Public Media",
+        "CNN",
+        "NBC News",
+        "KDHE (.gov)",
+        "PBS",
+        "The Colorado Sun",
         "Al Jazeera",
-        "AP News"
+        "AP News",
+        "World Health Organization (WHO)"
       ],
-      "alertCount": 14
+      "alertCount": 16
     },
     {
       "country": "USA",
@@ -191,18 +193,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "CDC concludes hantavirus response as outbreak eases - KSL.com",
+      "title": "CDC concludes hantavirus response as outbreak eases - KSL News",
       "published": "Wed, 24 Jun 2026 23:40:10 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVS0xOVY0UFJCUHI5TXFjTnFvQ3NDWnFDd1pjSW5JcGIteVlvLWxBR2RVQjRnQnV1UXVTSzVWenJ5d0xHUHgyYlFCYnFSd0djUEpBWUlWNk5aODY2TmVKaWp5SHBmS0Z1V0w4RTNnaDM0Tk16ZGExWGM0bVZqc0ZYWUl0aEFDcTU5VllQTWFXbFlzUQ?oc=5",
-      "summary": "CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; KSL.com",
-      "source": "KSL.com"
-    },
-    {
-      "title": "US ends hantavirus outbreak response with no answers on draconian quarantines - Ars Technica",
-      "published": "Wed, 24 Jun 2026 21:28:39 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUpWcE1Kd0lSN0s2R2NjTHpvNU5kLS1DYmZmUUJGTUxNZy1MRnRiTXl1LVVnNnNsb0swNVJJVUZ2MjZEZlBOb19jMldwVi1oUXRRbmdqaU1Xd0ZvR1ZwZThGUnk1aG5JS0EtRFI3NElZTEVidEQ1YVU2VkJ6TEsxUE1oejRyMUZLRkhHZkxLbGdwRXZoaVJCUG1yM0swa3FSSHliR1BJb0xnTVZMVzlfOFhXVjUxNlps?oc=5",
-      "summary": "US ends hantavirus outbreak response with no answers on draconian quarantines &nbsp;&nbsp; Ars Technica",
-      "source": "Ars Technica"
+      "summary": "CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; KSL News",
+      "source": "KSL News"
     },
     {
       "title": "US public health agency concludes hantavirus response as outbreak eases - Al Jazeera",
@@ -289,20 +284,6 @@
       "source": "Nebraska Public Media"
     },
     {
-      "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - WWNY",
-      "published": "Tue, 23 Jun 2026 15:18:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX29SUUJDMnRtcVJuZFl4WHlIMW9RNnI0aUV4V3E5U3FuSkxXVUVldHhIVHB3T2VwblgzcmRWbFFnNEZBdklwYkIyQmdmeXlmR2h5VUNuTHdUVVVRSTdCQUpPdDFKazVPSHJQZEhRbzUzZWZxYjI0eXVzdDZ1RDY0aG1CM0RyRGdaVzF1VjNNU3RzbERVcmw4Y1RsWU5PSXZRdVJRbjRHd3liUG1sUl9LSzdlTWHSAbQBQVVfeXFMT19vUlFCQzJ0bXFSbmRZeFh5SDFvUTZyNGlFeFdxOVNxbkpMV1VFZXR4SFRwd09lcG5YM3JkVmxRZzRGQXZJcGJCMkJnZnl5ZkdoeVVDbkx3VFVVUUk3QkFKT3QxSms1T0hyUGRIUW81M2VmcWIyNHl1c3Q2dUQ2NGhtQjNEckRnWlcxdVYzTVN0c2xEVXJsOGNUbFlOT0l2UXVSUW40R3d5YlBtbFJfS0s3ZU1h?oc=5",
-      "summary": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska &nbsp;&nbsp; WWNY",
-      "source": "WWNY"
-    },
-    {
-      "title": "Americans on hantavirus-infected ship end quarantine - NBC News",
-      "published": "Tue, 23 Jun 2026 04:20:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcFB2RmRuZzBHWHp5Tzdrc1ZSbHVEM0YxbDNJazZuTjByS3djV05kcDBndUUyV200VVVxMjZOUWJlLVZjRUdyZm9DRHl5TTNuVU9VbkFwZVhxVHgxU015aG9wMmY4UE1zeXd4MkFqVHZ5bUM5V2UwS0FJSlR0WUdqNzV6Ym9NRzI2cXFNczhDWDFYcEpBWUFtRGpXUVF0S2ZjYThwTg?oc=5",
-      "summary": "Americans on hantavirus-infected ship end quarantine &nbsp;&nbsp; NBC News",
-      "source": "NBC News"
-    },
-    {
       "title": "More hantavirus cases are expected, WHO chief says - USA Today",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
@@ -345,6 +326,13 @@
       "source": "Independent Institute"
     },
     {
+      "title": "Watch: Health Talk Special \u2013 Ebola, hantavirus and global epidemic prevention - news.cgtn.com",
+      "published": "Thu, 25 Jun 2026 13:56:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbmJOenR0ZEt0MWkyeVF5QzcybXZrYWVFMnM5NGFQajhRcGtrMDVUS3ZmZEhvYXYyR3FpOExrdDRlOTM5LWZ5VmgxQ0RQRk5rbnZGZVdQUEJoeXBsclhwTldSdVZWclhfRF9xQmVlcHRUSHN2OUxTV2JKeTZab3JfTmxpVEJmc2V4NHJpUEN4R3Q1Q3Q0ZzVORGNtdFhOUVNIU2NQeFBfNWg2ZVlMUjlXeHV1TzVfc3lWSndsTWR5cC1VQQ?oc=5",
+      "summary": "Watch: Health Talk Special \u2013 Ebola, hantavirus and global epidemic prevention &nbsp;&nbsp; news.cgtn.com",
+      "source": "news.cgtn.com"
+    },
+    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -385,6 +373,20 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREJjNVZ5dlE0VlU2b2lOaGxWQk9qeFNqWm1ienNmYi1Da0tGYnhGaTk0dVFKc05FYndReVVzaGliQXJSRnNOOXJzdXJiZWUxbFFBN1FJNkc0WDIxSVJyVW1YYzNlRktlNVA4eWdwQjE4X2diZjBfWjJ0d3FRNU9rTlJ6TkVpN2I5aW41Vkk5ZnNJQWE0WWhHY052SzBOQ3dn0gGmAUFVX3lxTE9PdXNnNEhYNTdkcGZsNEJPeGg4blE3c245X0tCVU91ejhHUEpEVDIwMUcwZ1pCeEZQT180VEZmQUJsV3dTdzBEemdnSGJjY0NvSUxzbkgzWm83aGF6YWhOVXBzTl9GcllVZTBod0ZTWmRGdTBwMVFXdEdNTmtJUmMwal9XUWtsRWNtMWhKQjV3OS01TExQSTZUME91TUFSRWU3cnhyRXc?oc=5",
       "summary": "WHO confirms five cases of hantavirus linked to cruise ship &nbsp;&nbsp; Al Jazeera",
       "source": "Al Jazeera"
+    },
+    {
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
+      "published": "Thu, 04 Jun 2026 02:49:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
+      "source": "KDHE (.gov)"
+    },
+    {
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -414,10 +416,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-26T07:06:29.338905Z",
+    "timestamp": "2026-06-26T10:27:43.568328Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
