@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T10:21:09.536664Z",
+  "lastUpdated": "2026-06-27T11:50:39.504906Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "KDHE.ks.gov",
         "CIDRAP",
-        "PBS",
-        "Nebraska Public Media",
-        "World Health Organization (WHO)",
-        "KJZZ",
-        "The Colorado Sun",
         "CNN",
+        "KDHE.ks.gov",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "KJZZ",
+        "World Health Organization (WHO)",
+        "The Colorado Sun",
         "Al Jazeera",
         "ABC News - Breaking News, Latest News and Videos",
+        "Nebraska Public Media",
         "AP News"
       ],
       "alertCount": 13
@@ -267,13 +267,6 @@
       "source": "AP News"
     },
     {
-      "title": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls - Nebraska Examiner",
-      "published": "Tue, 23 Jun 2026 21:07:15 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXVjVUJ2Y2E4M1NkT3VBa0xHeTJiUlpVM0lwNDUxeGd6UnpTSEdPS21IVnY5MDgwOF9lbUNRc0RVRnZqSEI2UVhwaTFQVlNwVXd6dldkZnJubXcwOVVyZWlCMWxoQzBsampqNjlGV2FIYThxZ1FSX2h5VkFaVnJDOGhMNktHUnpTQTEzZnRxM3BFWnhaekNqWUM5c3pOOUpzMzJFSXhzN1RoWk1wUkhN?oc=5",
-      "summary": "UNMC hantavirus operation wraps up, team ready if Ebola outbreak calls &nbsp;&nbsp; Nebraska Examiner",
-      "source": "Nebraska Examiner"
-    },
-    {
       "title": "\u2018No room for error': UNMC reflects as quarantine ends for hantavirus cruise ship passengers - Nebraska Public Media",
       "published": "Tue, 23 Jun 2026 17:54:31 GMT",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWsxMk0xYmlJOXdjWGZCUDFicmdCeE5MTml3MWtTZ2hnT0Vha2duUUdiSnQ4NXlWOUowMWNra3h1ZXhxWTVQRnFkV1E1VUd3bENRV1hJbGNIWW01TC16cUo1LTYtVVJwRnNScW5NZkliV2ViMXJCXzFJVXEyUHdJTzJjZUxuZDhjN2NXRFJvVDNTME9UY3RWdXE0SzFtOURoSnYyVTg4Z0FPQ3FVSk5IM2JQQi16OUVidVNhajFyNVNibURFU2E1U2k3VXpZM1ZMalNMbkxSMlhtdjg?oc=5",
@@ -293,6 +286,13 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
       "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
       "source": "Stanford Medicine"
+    },
+    {
+      "title": "US says 18 passengers flown back after hantavirus outbreak on ship - Reuters",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcl9yLWdrYmE5Q0FITXdDRVc4ZU9sSUl4WXF4ZFJHdEt2RDdtRmE1Z2F2Q3BkYnlUa1pBQUdwTXExQ2hCLXpWNVFlbVp4ZHFkR2F1V24wOTAzWXNrRHVtVm9oSDZ1UkFHSFpXTzBlMGJvVlY1dy12aFFKSldRa1c2TmdIZ0d3NDJCQTJyMTdBYzZSRllkQU5CV2xLWmVJRVFlTVNWNDgxb2hSc0dTUjd5UlEtZXBRY055S3ctSk1BRDhMQmdjVkZZU0kwNF9yWFQx?oc=5",
+      "summary": "US says 18 passengers flown back after hantavirus outbreak on ship &nbsp;&nbsp; Reuters",
+      "source": "Reuters"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -413,7 +413,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-27T10:21:09.536678Z",
+    "timestamp": "2026-06-27T11:50:39.504916Z",
     "who": 0,
     "promed": 0,
     "news": 40,
