@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T17:33:30.454650Z",
+  "lastUpdated": "2026-06-29T19:24:45.323060Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -79,11 +79,11 @@
           "source": "AP News"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+          "title": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths - respiratory-therapy.com",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9WM1BzOFlNUDlTdEV1MGlvNGhheGNaZlNJYTJpOVJVcm8wbUMySHdURGNhLXRRN19ReGRFUktxUUpTNlZzNzdfUGZ6NExteS02enJvRm80TmtGYkJUZFJTU2t0N3l5dExyVzQwbU16c0JETkduUEZuU2xZYXVEeGlOWGdvX2Z3bjlwajROdWR1QmNRR0NkVEtqX1BQdFExNnN3elprNFNUcmUtVmNYYy10UG15QzZjdHFoN3pDSmhtTHQ2d2lkbkRXMHdUWTI1YTFJdXo5MnEyMkFwYmc?oc=5",
+          "summary": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths &nbsp;&nbsp; respiratory-therapy.com",
+          "source": "respiratory-therapy.com"
         },
         {
           "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "AP News",
         "The Times",
-        "politico.eu",
-        "The Colorado Sun",
         "CIDRAP",
-        "KDHE.ks.gov",
-        "Al Jazeera",
-        "BBC",
-        "ABC News - Breaking News, Latest News and Videos",
-        "PBS",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "KJZZ",
+        "politico.eu",
+        "NBC News",
         "World Health Organization (WHO)",
+        "respiratory-therapy.com",
+        "KJZZ",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "Al Jazeera",
         "CNN",
-        "NBC News"
+        "AP News",
+        "KDHE.ks.gov",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The Colorado Sun"
       ],
       "alertCount": 16
     },
@@ -270,11 +270,11 @@
       "source": "KFF"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+      "title": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths - respiratory-therapy.com",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9WM1BzOFlNUDlTdEV1MGlvNGhheGNaZlNJYTJpOVJVcm8wbUMySHdURGNhLXRRN19ReGRFUktxUUpTNlZzNzdfUGZ6NExteS02enJvRm80TmtGYkJUZFJTU2t0N3l5dExyVzQwbU16c0JETkduUEZuU2xZYXVEeGlOWGdvX2Z3bjlwajROdWR1QmNRR0NkVEtqX1BQdFExNnN3elprNFNUcmUtVmNYYy10UG15QzZjdHFoN3pDSmhtTHQ2d2lkbkRXMHdUWTI1YTFJdXo5MnEyMkFwYmc?oc=5",
+      "summary": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths &nbsp;&nbsp; respiratory-therapy.com",
+      "source": "respiratory-therapy.com"
     },
     {
       "title": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
@@ -416,7 +416,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-29T17:33:30.454659Z",
+    "timestamp": "2026-06-29T19:24:45.323074Z",
     "who": 0,
     "promed": 0,
     "news": 40,
