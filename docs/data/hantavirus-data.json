@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-29T11:30:19.246745Z",
+  "lastUpdated": "2026-06-29T14:58:25.271009Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 3,
-  "newsCount": 41,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "Al Jazeera",
         "World Health Organization (WHO)",
-        "CIDRAP",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "BBC",
+        "politico.eu",
+        "Al Jazeera",
+        "AP News",
         "KDHE.ks.gov",
-        "PBS",
-        "KJZZ",
+        "NBC News",
         "CNN",
         "The Colorado Sun",
-        "BBC",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "The Times",
-        "NBC News",
-        "politico.eu",
+        "PBS",
+        "KJZZ",
         "ABC News - Breaking News, Latest News and Videos",
-        "AP News"
+        "The Times",
+        "CIDRAP"
       ],
       "alertCount": 16
     },
@@ -326,13 +326,6 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "Hantavirus and Ebola virus disease: 10 things to know - Hospital News",
-      "published": "Sun, 28 Jun 2026 20:23:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNazVZTlNvSVVCVEp6V0tEQ1c1V2VFTFhYMU1vNTdrazNhcVJMNExqTEZtR0d2cTVrQW5TLWd1VElVb1R3dFVTY19uNG1HUlVLaDJqUHpkZEZOTGdpZVBHaDl0bXZSVnFPU3EyMzBpTkJNWmhsTDh2RkJHd18yZlJmcTlhVWFXQ3N4R0E?oc=5",
-      "summary": "Hantavirus and Ebola virus disease: 10 things to know &nbsp;&nbsp; Hospital News",
-      "source": "Hospital News"
-    },
-    {
       "title": "Bend doctor on hantavirus ship released from quarantine - bendbulletin.com",
       "published": "Sun, 28 Jun 2026 00:46:22 GMT",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHRHemFmenUtR3RjTWE5RmZJaWxPR2RpOTA1SzdQdUY0Y2RZTXd6TzdJSm9sMEIxS194QnhzVkdSbUR1Y1IwS1JxNTVrSXpyUndwT1NidlBsRHJBMlRoNXZOaGV1M2RQNjVQNEhpWlBZdkJ1aUY3NmxVc05ST3NZanEwMUxzamZQRWRCMjFXWmc4UWJDQjJB?oc=5",
@@ -361,11 +354,11 @@
       "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "Pennsylvania doctors share why you should take hantavirus seriously - AOL.com",
-      "published": "Mon, 29 Jun 2026 08:19:54 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTzhlNzFxWmF6RUNXUDN2WDFsaVAxbkFRUDMzY3RjbUp5UHV5TURQaWtabWhvN0Z0bTdCLWdTbzhPRmpWdnRYRWhTMFlFaHdGUzc5UXRfTFk0bjRTT3Y1NVo4cjZhWU5lb21sQ3kyZ0lwOE41LVBYVExjTjNJNDE3bVJyeTZHNFZMVEx1SERn?oc=5",
-      "summary": "Pennsylvania doctors share why you should take hantavirus seriously &nbsp;&nbsp; AOL.com",
-      "source": "AOL.com"
+      "title": "Pennsylvania doctors share why you should take hantavirus seriously - Chambersburg Public Opinion",
+      "published": "Mon, 29 Jun 2026 08:01:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcDFQY04wcFVYTHUyTXJNaXlZakw1YUk3MmdNVWx5dFdHdlhoNVRDS1dkQXhCa194V2lSRzFLNVFnR2JfZkRjSDFTTFVlVEZLSl9TNzRLUkxYSEh2a3hET2lDbElmYkJ3TFhyX1FydUJaWWtONkFUTDItTTdnRVJTM2NEdXFmVTFVYTBTSlhIRjgwMzg5MGlMb3l1Y2xUa3NkSjV4ZG9uRlB3MHQyemEtNkFIaWduZWFNbTZsVVppTkMxUDh5Y1Q0ODUxdDFDcFQwcUxKamJR?oc=5",
+      "summary": "Pennsylvania doctors share why you should take hantavirus seriously &nbsp;&nbsp; Chambersburg Public Opinion",
+      "source": "Chambersburg Public Opinion"
     },
     {
       "title": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO - T\u00fcrkiye Today",
@@ -387,6 +380,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzBoNFladVdRdWxQbEM1ZlpMUl8zSkR6eTl3SFhFaTRJZEwtOE9STEFnNEtvd2Jibmw0MEhsNWRiUnFVaUtrRzZmYnA3aHJPd1VPVDM1UU9IUm9JWldKUmo5V0EzVTNxZk9BOGRsRWphSXZERWd2XzRLNzJkMER6dlEyLWR2NHdBQWdEUlVGOTVRYXh5bGlMSHZSRlFORDIyNFprb1NCT2ZNMVl4ajVCTmhSNm0xNHNTdjN0RjNlZHlZbHM?oc=5",
       "summary": "Scientists discover 70 existing drugs that block deadly hantavirus infections &nbsp;&nbsp; News-Medical",
       "source": "News-Medical"
+    },
+    {
+      "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
+      "published": "Mon, 25 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
+      "summary": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive &nbsp;&nbsp; CNN",
+      "source": "CNN"
     }
   ],
   "usHistoric": {
@@ -416,10 +416,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-29T11:30:19.246758Z",
+    "timestamp": "2026-06-29T14:58:25.271023Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
