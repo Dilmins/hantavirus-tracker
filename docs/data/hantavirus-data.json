@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-29T23:31:47.622178Z",
+  "lastUpdated": "2026-06-30T01:35:39.664896Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 4,
-  "newsCount": 40,
+  "locationsTracked": 3,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -50,6 +50,13 @@
       "lat": -10.0,
       "lng": -20.0,
       "alerts": [
+        {
+          "title": "Hantavirus cases linked to cruise ship outbreak rise to 13 - politico.eu",
+          "published": "Wed, 27 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5MYzdnT09EdDZLWUdhTGVFZGxhcGpUM2QxVVpOM3ljaWxEWHRPaXFIZWkzd2FWTUFfVmxJNDN2TXBNLXdoVFIzcFRIc1JEbGdzQWhfN2c2bTluNW1qOEtWeU5oS0dRaEZVQjNUSEo4NHZRcjFsV1o1YzNKM2t4eGJCd3ZxY0dhbnk3WWs5cWlWbHdaYVE?oc=5",
+          "summary": "Hantavirus cases linked to cruise ship outbreak rise to 13 &nbsp;&nbsp; politico.eu",
+          "source": "politico.eu"
+        },
         {
           "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
           "published": "Wed, 27 May 2026 07:00:00 GMT",
@@ -112,32 +119,27 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
           "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
           "source": "KDHE.ks.gov"
-        },
-        {
-          "title": "CDC Ends Hantavirus Response as All 18 Americans from the Cruise Ship Return Home Safely - Medical Daily",
-          "published": "Mon, 29 Jun 2026 22:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQlR1dVVHRUNCOHpURFAwRVFNU0F6S1cxai1iX2xRTU9xSjFqQTNhVkxUNnF4U09TaTVPTk9FSjFmSHNEQkpSWXVScUpBcDRwT2FuSGVPWWVDbEM1VzRMVVVJT0R4VGk1TTVVV1JRQjNtS015bllaN28xSUtKbUdKYTM5Wk1wc2xBWFZyZTFOeldNQ2hxTEoxbFFRbEhUdHlvZG05RXZTWW40cEoy?oc=5",
-          "summary": "CDC Ends Hantavirus Response as All 18 Americans from the Cruise Ship Return Home Safely &nbsp;&nbsp; Medical Daily",
-          "source": "Medical Daily"
         }
       ],
       "sources": [
-        "BBC",
-        "CNN",
-        "NBC News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "KDHE.ks.gov",
-        "AP News",
-        "Al Jazeera",
-        "Forbes",
-        "Medical Daily",
-        "KJZZ",
-        "The Colorado Sun",
         "CIDRAP",
-        "World Health Organization (WHO)"
+        "KJZZ",
+        "Forbes",
+        "Al Jazeera",
+        "CBC",
+        "CNN",
+        "politico.eu",
+        "KDHE.ks.gov",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "NBC News",
+        "World Health Organization (WHO)",
+        "The Colorado Sun",
+        "BBC",
+        "Medical Daily",
+        "AP News",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
-      "alertCount": 16
+      "alertCount": 18
     },
     {
       "country": "USA",
@@ -154,24 +156,6 @@
       ],
       "sources": [
         "USA Today"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Spain",
-      "lat": 40.46,
-      "lng": -3.75,
-      "alerts": [
-        {
-          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-          "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
-        }
-      ],
-      "sources": [
-        "Yahoo"
       ],
       "alertCount": 1
     },
@@ -203,11 +187,25 @@
       "source": "The New York Times"
     },
     {
+      "title": "Hantavirus cases linked to cruise ship outbreak rise to 13 - politico.eu",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG5MYzdnT09EdDZLWUdhTGVFZGxhcGpUM2QxVVpOM3ljaWxEWHRPaXFIZWkzd2FWTUFfVmxJNDN2TXBNLXdoVFIzcFRIc1JEbGdzQWhfN2c2bTluNW1qOEtWeU5oS0dRaEZVQjNUSEo4NHZRcjFsV1o1YzNKM2t4eGJCd3ZxY0dhbnk3WWs5cWlWbHdaYVE?oc=5",
+      "summary": "Hantavirus cases linked to cruise ship outbreak rise to 13 &nbsp;&nbsp; politico.eu",
+      "source": "politico.eu"
+    },
+    {
       "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
       "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "US CDC concludes hantavirus response as outbreak eases - Reuters",
+      "published": "Wed, 24 Jun 2026 18:09:56 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5",
+      "summary": "US CDC concludes hantavirus response as outbreak eases &nbsp;&nbsp; Reuters",
+      "source": "Reuters"
     },
     {
       "title": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge - Anadolu Ajans\u0131",
@@ -280,13 +278,6 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus Shows How Little Has Changed: News Article - Independent Institute",
-      "published": "Thu, 25 Jun 2026 18:10:35 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaExJTDdLSTN4ZEh5QVIwVmU0TURDUHpGejc3Vkt2NkR3Ml83M3dNWF93bmhQdUJJWWtfZDdoM1hST29vdzA3ZHplYkYya1V4OHlQYmJ5UjZ1cEFfbzllUUFuVTBJNUdKbjlsUlMxbkp3SjgwZFdYamx3bUh3T2dIM2I3WlNnZFBZYURTbDVqWWs?oc=5",
-      "summary": "Hantavirus Shows How Little Has Changed: News Article &nbsp;&nbsp; Independent Institute",
-      "source": "Independent Institute"
-    },
-    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -350,18 +341,18 @@
       "source": "bendbulletin.com"
     },
     {
-      "title": "Dispute grows over home monitoring of hantavirus passengers - The Washington Post",
-      "published": "Sat, 30 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYk44Q1F4QVg5a3FuTXdIRjR1X2pPd0ZhZ1ZWMkNqUEpZa0NmUGFSQ1BIdEdHa2pWem1KVGUzdkY0Z1hSazdnQ3RCbmVqb0NZb09mVnlPQ0ZZcGxERGQxM0M3Q0E4bktfd2xac1FkeF9GRV9lRFJZYjFJYWI5UlZaYzVVUXExWjllX29VeXNUMkg2WDV0djhwcWIzUnkzVlpiTnZPdTVhMDNPNmliTnBibDZJTFBDTUZ6cnNfcm5raUFwY3ZTcFdR?oc=5",
-      "summary": "Dispute grows over home monitoring of hantavirus passengers &nbsp;&nbsp; The Washington Post",
-      "source": "The Washington Post"
-    },
-    {
       "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
       "published": "Sat, 06 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
       "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
       "source": "Anadolu Ajans\u0131"
+    },
+    {
+      "title": "Canadians exposed to hantavirus on cruise ship complete isolation period - CBC",
+      "published": "Mon, 29 Jun 2026 23:33:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVhvU0xvbUVHS1NWSkQzX2pvbW9kYmhpTUU1OHRlZUk3bFdPYzQ1YnU3S3l4NEF5bm9KXy02WVJiUERDeTJqZUdEYkJoemR6cE9WcEU1NDdpdFVPR1lWXzAwSDZYRGpvU01RZnlCRHE3bVdLVVhmNkpSemtPV0UwNWpFSmZIbmM?oc=5",
+      "summary": "Canadians exposed to hantavirus on cruise ship complete isolation period &nbsp;&nbsp; CBC",
+      "source": "CBC"
     },
     {
       "title": "CDC Ends Hantavirus Response as All 18 Americans from the Cruise Ship Return Home Safely - Medical Daily",
@@ -376,13 +367,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcDFQY04wcFVYTHUyTXJNaXlZakw1YUk3MmdNVWx5dFdHdlhoNVRDS1dkQXhCa194V2lSRzFLNVFnR2JfZkRjSDFTTFVlVEZLSl9TNzRLUkxYSEh2a3hET2lDbElmYkJ3TFhyX1FydUJaWWtONkFUTDItTTdnRVJTM2NEdXFmVTFVYTBTSlhIRjgwMzg5MGlMb3l1Y2xUa3NkSjV4ZG9uRlB3MHQyemEtNkFIaWduZWFNbTZsVVppTkMxUDh5Y1Q0ODUxdDFDcFQwcUxKamJR?oc=5",
       "summary": "Pennsylvania doctors share why you should take hantavirus seriously &nbsp;&nbsp; Chambersburg Public Opinion",
       "source": "Chambersburg Public Opinion"
-    },
-    {
-      "title": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO - T\u00fcrkiye Today",
-      "published": "Mon, 29 Jun 2026 07:59:11 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzFVR0tYOVA1SFlnQ1RLRGF5MVhBYXZOZWpmeE1MNU5xV1pRVDVpcjNNbER6Qy1JM2lBMFFvdTJmUU91d043XzY2VVBzUmJxX0FBNVBLSzVvZkMxU1pNX1ozR3pSZE5UNHVmQjdWTTFYTm5DYThpQWhjeVVFV1VzM3R3dHdBOEM1aE5wNTVSRjdpX0w0LUJ2VEJTd1BLR04xNGFnQWNHcTdMbm9h?oc=5",
-      "summary": "Hantavirus outbreak 'nearing end' as total cases hold at 13: WHO &nbsp;&nbsp; T\u00fcrkiye Today",
-      "source": "T\u00fcrkiye Today"
     },
     {
       "title": "Hantavirus Outbreak Nearing Its End, WHO Chief Says - Bernama",
@@ -433,10 +417,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-06-29T23:31:47.622188Z",
+    "timestamp": "2026-06-30T01:35:39.664911Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
