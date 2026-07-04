@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T04:51:27.537898Z",
+  "lastUpdated": "2026-07-04T07:36:04.260776Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,23 +122,23 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
-        "CBC",
-        "The Colorado Sun",
-        "Al Jazeera",
-        "The Independent",
-        "The Guardian",
-        "Reuters",
-        "facebook.com",
         "Forbes",
-        "World Health Organization (WHO)",
-        "The New York Times",
-        "cbs19.tv",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CIDRAP",
         "TODAY.com",
+        "Al Jazeera",
+        "ABC News - Breaking News, Latest News and Videos",
         "Colorado Public Radio",
-        "CIDRAP"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CBC",
+        "The New York Times",
+        "facebook.com",
+        "The Colorado Sun",
+        "Reuters",
+        "The Independent",
+        "cbs19.tv",
+        "The Guardian",
+        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
+        "World Health Organization (WHO)"
       ],
       "alertCount": 19
     },
@@ -454,7 +454,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-04T04:51:27.537911Z",
+    "timestamp": "2026-07-04T07:36:04.260789Z",
     "who": 0,
     "promed": 0,
     "news": 36,
