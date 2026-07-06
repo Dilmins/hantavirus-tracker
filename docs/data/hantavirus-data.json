@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-06T17:26:35.665356Z",
+  "lastUpdated": "2026-07-06T19:12:55.104959Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
-  "newsCount": 35,
+  "locationsTracked": 4,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,26 +122,26 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "politico.eu",
-        "Forbes",
         "BBC",
-        "KDHE.ks.gov",
-        "ABC News - Breaking News, Latest News and Videos",
-        "The New York Times",
-        "CBC",
         "CIDRAP",
-        "cbs19.tv",
-        "Colorado Public Radio",
-        "CBS News",
-        "CNN",
-        "Al Jazeera",
+        "The New York Times",
+        "Forbes",
+        "The Colorado Sun",
+        "CBC",
+        "KDHE.ks.gov",
+        "NL Times",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "Yahoo",
-        "NL Times",
+        "cbs19.tv",
+        "Reuters",
+        "Al Jazeera",
+        "politico.eu",
         "World Health Organization (WHO)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
         "The Guardian",
-        "Reuters"
+        "CBS News",
+        "Colorado Public Radio"
       ],
       "alertCount": 22
     },
@@ -160,6 +160,24 @@
       ],
       "sources": [
         "USA Today"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "South Korea",
+      "lat": 35.91,
+      "lng": 127.77,
+      "alerts": [
+        {
+          "title": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project - News-Medical",
+          "published": "Mon, 06 Jul 2026 19:06:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR292MmhCajYtSUdFaU45SmpjWENuUnhtMlpydzVkcm1Rd2lUa2owalhIN0FUVUo1ZWM1LUs2aHl3TjRZd3ZJZ1pKQmRTaVdmelVKbTZkbEJaVml5RG5EWmFYTWVCU190MUE3SmxBX0Q3VlNUcW91YldyMDBVVUZZT042cWZLNnpoVjBaa3BqLWJPbmZWYWY4bkFhM3FPYkRyWE5RSWs0YjFXY2l5VldJanNrX25wcnlwLVlmZ3ZVTjJYV203S0hHRmxzd0s0TjdQLXVBVVBPdVMtQXphVjNHd1cxNm1SYU5rMzJlWVh0clNMQQ?oc=5",
+          "summary": "Korea University College of Medicine selected as the lead institution for hantavirus vaccine development project &nbsp;&nbsp; News-Medical",
+          "source": "News-Medical"
+        }
+      ],
+      "sources": [
+        "News-Medical"
       ],
       "alertCount": 1
     },
@@ -352,13 +370,6 @@
       "source": "Reuters"
     },
     {
-      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
-      "published": "Thu, 02 Jul 2026 05:04:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
-      "summary": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
-      "source": "News-Medical"
-    },
-    {
       "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over - NL Times",
       "published": "Sun, 05 Jul 2026 12:45:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt?oc=5",
@@ -392,6 +403,13 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
       "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
       "source": "CBS News"
+    },
+    {
+      "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
+      "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
+      "source": "Colorado Public Radio"
     }
   ],
   "usHistoric": {
@@ -421,10 +439,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-06T17:26:35.665371Z",
+    "timestamp": "2026-07-06T19:12:55.104977Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
