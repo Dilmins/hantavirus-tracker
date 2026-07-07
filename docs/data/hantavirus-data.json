@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-07T11:29:48.920898Z",
+  "lastUpdated": "2026-07-07T13:34:11.377637Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 5,
+  "locationsTracked": 6,
   "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -122,26 +122,25 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "politico.eu",
-        "Al Jazeera",
-        "cbs19.tv",
-        "The Guardian",
-        "CBS News",
-        "NL Times",
-        "Forbes",
-        "CBC",
-        "KDHE.ks.gov",
-        "Reuters",
-        "Colorado Public Radio",
-        "The Colorado Sun",
+        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
         "Cruise News",
+        "KDHE.ks.gov",
+        "ABC News - Breaking News, Latest News and Videos",
         "NBC News",
+        "Reuters",
+        "cbs19.tv",
+        "Al Jazeera",
+        "World Health Organization (WHO)",
+        "CBC",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Forbes",
+        "The Colorado Sun",
+        "politico.eu",
+        "NL Times",
         "The New York Times",
-        "World Health Organization (WHO)"
+        "The Guardian"
       ],
-      "alertCount": 19
+      "alertCount": 18
     },
     {
       "country": "South Korea",
@@ -202,6 +201,24 @@
       ],
       "sources": [
         "The New England Journal of Medicine"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "France",
+      "lat": 46.23,
+      "lng": 2.21,
+      "alerts": [
+        {
+          "title": "What did we learn from the hantavirus cruise ship scare? - France 24",
+          "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2RvbGVNOTJCQTE1ZGJyVVFkZ09ueG9ZWE84X2otekRlS0tSVFZmamhBejRQazEtMnc2OFByTEtzSHF0NlZBYThZYmpvQk9XZGZZeTk0S0JpVmphVEJnYjFRSWhVTXdMc0FPTW41U2dnRmItWldkVUJwZWZXZnJMT0xTbFVTeGh2V2dSdlprZHh5ZnRLWjM0Y29lY19sRmpjdkNObA?oc=5",
+          "summary": "What did we learn from the hantavirus cruise ship scare? &nbsp;&nbsp; France 24",
+          "source": "France 24"
+        }
+      ],
+      "sources": [
+        "France 24"
       ],
       "alertCount": 1
     },
@@ -429,11 +446,11 @@
       "source": "The Colorado Sun"
     },
     {
-      "title": "What we know about hantavirus cases tied to deadly cruise ship outbreak - CBS News",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
-      "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
-      "source": "CBS News"
+      "title": "HHS Suspends Hantavirus Monitoring | RT - respiratory-therapy.com",
+      "published": "Mon, 06 Jul 2026 20:38:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc3lOMnpXUFkyU0ZYc2dfT3pKNS1naVRpUWgxZ2xROTB0bEJjRXdUMGttTldyWWRDT3lrdkVHTDBCbXVMX0VyRW11Y1c2Z1Q1WjkwdTBIS3JsSEJLZXJsOWRSeGl6VVcxZ3FOM2xib1VzczVQMGRyeGQ0UWR4cVBrRk9uZmZnbEc3U1JvNW8tUXQtSVR2Sl8yMUF2SUtQbTJVWGFEelhyT09LUS16cU83YmJmQzdsazRDbDEtZ3ZSNXQ?oc=5",
+      "summary": "HHS Suspends Hantavirus Monitoring | RT &nbsp;&nbsp; respiratory-therapy.com",
+      "source": "respiratory-therapy.com"
     }
   ],
   "usHistoric": {
@@ -463,7 +480,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-07T11:29:48.920913Z",
+    "timestamp": "2026-07-07T13:34:11.377652Z",
     "who": 0,
     "promed": 0,
     "news": 37,
