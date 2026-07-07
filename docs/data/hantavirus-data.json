@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T08:41:58.051177Z",
+  "lastUpdated": "2026-07-07T11:29:48.920898Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,24 +122,24 @@
         }
       ],
       "sources": [
-        "politico.eu",
         "ABC News - Breaking News, Latest News and Videos",
-        "World Health Organization (WHO)",
+        "politico.eu",
+        "Al Jazeera",
+        "cbs19.tv",
+        "The Guardian",
         "CBS News",
+        "NL Times",
+        "Forbes",
         "CBC",
         "KDHE.ks.gov",
-        "Al Jazeera",
-        "The New York Times",
-        "NBC News",
-        "Colorado Public Radio",
-        "The Guardian",
-        "cbs19.tv",
-        "The Colorado Sun",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "Reuters",
-        "Forbes",
+        "Colorado Public Radio",
+        "The Colorado Sun",
         "Cruise News",
-        "NL Times"
+        "NBC News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The New York Times",
+        "World Health Organization (WHO)"
       ],
       "alertCount": 19
     },
@@ -164,8 +164,8 @@
         }
       ],
       "sources": [
-        "Genetic Engineering and Biotechnology News",
-        "News-Medical"
+        "News-Medical",
+        "Genetic Engineering and Biotechnology News"
       ],
       "alertCount": 2
     },
@@ -463,7 +463,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-07T08:41:58.051194Z",
+    "timestamp": "2026-07-07T11:29:48.920913Z",
     "who": 0,
     "promed": 0,
     "news": 37,
