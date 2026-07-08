@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T07:04:51.250439Z",
+  "lastUpdated": "2026-07-08T09:34:18.058818Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,26 +122,25 @@
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "KDHE (.gov)",
-        "cbs19.tv",
-        "NL Times",
-        "Cureus",
-        "Al Jazeera",
-        "CBC",
-        "CNN",
         "The New York Times",
-        "Cruise News",
-        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
         "The Colorado Sun",
-        "Forbes",
-        "Reuters",
+        "ABC News - Breaking News, Latest News and Videos",
         "World Health Organization (WHO)",
+        "CBC",
+        "KDHE (.gov)",
+        "Cureus",
+        "Forbes",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CNN",
+        "cbs19.tv",
+        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
         "CIDRAP",
-        "The Guardian"
+        "NL Times",
+        "The Guardian",
+        "Cruise News",
+        "Al Jazeera"
       ],
-      "alertCount": 19
+      "alertCount": 18
     },
     {
       "country": "USA",
@@ -274,6 +273,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
       "summary": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge - Anadolu Ajans\u0131",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUFTTU94LTFUem5IY0FUbGhuNmZqcFA4WElHcHBsM25abkxSTE9DNVFsY3ZVTHd1N2RqbV93VEE1ZU1hWm9lTXJfUVRCMjFyYzBUNVlBR0pNVHc4Y09WMWllYnloRHBwcmtCR0R0d0tMM2dQX1o4QUN4THF4MzZ5TDBvTHc5am5DZVZack9YTXBjLXN6RlM1RENOX3JxYWp1dlMtekpkbzJoOGx4UTlWa1gzbjFCNDlwbUJzUm13?oc=5",
+      "summary": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "source": "Anadolu Ajans\u0131"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -416,13 +422,6 @@
       "source": "The Guardian"
     },
     {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
-      "published": "Thu, 02 Jul 2026 13:27:44 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
-      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; Reuters",
-      "source": "Reuters"
-    },
-    {
       "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over - NL Times",
       "published": "Sun, 05 Jul 2026 12:45:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt?oc=5",
@@ -499,7 +498,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-08T07:04:51.250451Z",
+    "timestamp": "2026-07-08T09:34:18.058832Z",
     "who": 0,
     "promed": 0,
     "news": 38,
