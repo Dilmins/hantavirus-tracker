@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-08T09:34:18.058818Z",
+  "lastUpdated": "2026-07-08T11:28:39.003014Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 7,
-  "newsCount": 38,
+  "locationsTracked": 6,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -60,7 +60,7 @@
         {
           "title": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern - Cureus",
           "published": "Wed, 08 Jul 2026 06:50:59 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON2pOQndkQlJRYWdRTlk3eXhWVzZtWXNuOVJtY0xhS0ZDZXg0dmVIZ08zc3hYQk5obU9DZnRMMFg3VnZ2Z0s5RldHTjFOeElhTkNZMFNSU285aUdubWZnSW5kWUNNRHJhOE5KNTZLQ1gxbmpmNWl0LTNwZ0JLWUZUaEdyZ3hsT3BiQUJWSC01SndnY2xmSGFwUnNnX2hNREpEbWV2Tlg2WjFCWEtQN3JrY1Vtd2p5TTVGNnpDTDVvdjRKM2x1enM5TXJCTFRfalV1WVFMNV84b2NUMEFyTC1KWmZ4ZnpmR0RpUWhUaWZMU003UlItZzgtNGwzVWk0d2M?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWtNS2N6VUVhZXNnVTBrTXFHemx6ZjNhUTZvZGhuZHJ2VE8yWFJYTmsxSnEybjdEd0ZFeHZKcU9pbDBDWlItMWxWajBsWEtKaF9WazY4a0ZzMEFQOF8yZkVTOW41VVctV0JvOE13VXJBeDYyZlpVRG5rX3ZiNkgxeXpNcWsxSFVFRFQ3N2hvQ0tNSnRERm5hNkVOeU5fTkdaZTdQNlRJRTU3T0JmOTRoNTJmVUtsc29mUXJaVXg3MjFiajA4VkM0bEV2WGJxTGo4SjZpMFF4ejhXVTFHY0NyWHE3ZFFYQQ?oc=5",
           "summary": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern &nbsp;&nbsp; Cureus",
           "source": "Cureus"
         },
@@ -122,23 +122,23 @@
         }
       ],
       "sources": [
-        "The New York Times",
-        "The Colorado Sun",
-        "ABC News - Breaking News, Latest News and Videos",
-        "World Health Organization (WHO)",
-        "CBC",
+        "Cruise News",
         "KDHE (.gov)",
-        "Cureus",
-        "Forbes",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CNN",
-        "cbs19.tv",
-        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
-        "CIDRAP",
         "NL Times",
         "The Guardian",
-        "Cruise News",
-        "Al Jazeera"
+        "Cureus",
+        "ABC News - Breaking News, Latest News and Videos",
+        "The New York Times",
+        "CNN",
+        "Forbes",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "\ub3d9\uc544\uc0ac\uc774\uc5b8\uc2a4",
+        "CBC",
+        "CIDRAP",
+        "cbs19.tv",
+        "Al Jazeera",
+        "World Health Organization (WHO)",
+        "The Colorado Sun"
       ],
       "alertCount": 18
     },
@@ -223,24 +223,6 @@
       "alertCount": 1
     },
     {
-      "country": "South Korea",
-      "lat": 35.91,
-      "lng": 127.77,
-      "alerts": [
-        {
-          "title": "New sa\u2011mRNA and LNP Platform to Support Korea\u2019s Hantavirus Vaccine Initiative - Genetic Engineering and Biotechnology News",
-          "published": "Tue, 07 Jul 2026 01:35:33 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenoyUHlBNE1vV1ByVnk1YjhGeDJmcjA2Ui1PWWRSWmxQVEpxOXcySUlmOFdtMXpDTzRYalNMeVJLM3V5WkdzR19sOFlwZWcxczcxMjBpcW5VTmhJQXRFaFUzc3hsUHBEUXAyTFhmaFdTYXpzRF9ER21WQUN0Zy1GRzBqQnBFUGM5YWg3bjBMeFBrbl9JNEhNT3BjaHV5b2hCMFRCbTNvSC1yTFEzVjhWbGZXSS1vZEZSbmk4M1dlYkZqWDF4THhaN2xRTQ?oc=5",
-          "summary": "New sa\u2011mRNA and LNP Platform to Support Korea\u2019s Hantavirus Vaccine Initiative &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
-          "source": "Genetic Engineering and Biotechnology News"
-        }
-      ],
-      "sources": [
-        "Genetic Engineering and Biotechnology News"
-      ],
-      "alertCount": 1
-    },
-    {
       "country": "Chile",
       "lat": -45.57,
       "lng": -72.07,
@@ -275,13 +257,6 @@
       "source": "CIDRAP"
     },
     {
-      "title": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge - Anadolu Ajans\u0131",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUFTTU94LTFUem5IY0FUbGhuNmZqcFA4WElHcHBsM25abkxSTE9DNVFsY3ZVTHd1N2RqbV93VEE1ZU1hWm9lTXJfUVRCMjFyYzBUNVlBR0pNVHc4Y09WMWllYnloRHBwcmtCR0R0d0tMM2dQX1o4QUN4THF4MzZ5TDBvTHc5am5DZVZack9YTXBjLXN6RlM1RENOX3JxYWp1dlMtekpkbzJoOGx4UTlWa1gzbjFCNDlwbUJzUm13?oc=5",
-      "summary": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
-    },
-    {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
@@ -289,9 +264,16 @@
       "source": "The New England Journal of Medicine"
     },
     {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
+    },
+    {
       "title": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern - Cureus",
       "published": "Wed, 08 Jul 2026 06:50:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON2pOQndkQlJRYWdRTlk3eXhWVzZtWXNuOVJtY0xhS0ZDZXg0dmVIZ08zc3hYQk5obU9DZnRMMFg3VnZ2Z0s5RldHTjFOeElhTkNZMFNSU285aUdubWZnSW5kWUNNRHJhOE5KNTZLQ1gxbmpmNWl0LTNwZ0JLWUZUaEdyZ3hsT3BiQUJWSC01SndnY2xmSGFwUnNnX2hNREpEbWV2Tlg2WjFCWEtQN3JrY1Vtd2p5TTVGNnpDTDVvdjRKM2x1enM5TXJCTFRfalV1WVFMNV84b2NUMEFyTC1KWmZ4ZnpmR0RpUWhUaWZMU003UlItZzgtNGwzVWk0d2M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWtNS2N6VUVhZXNnVTBrTXFHemx6ZjNhUTZvZGhuZHJ2VE8yWFJYTmsxSnEybjdEd0ZFeHZKcU9pbDBDWlItMWxWajBsWEtKaF9WazY4a0ZzMEFQOF8yZkVTOW41VVctV0JvOE13VXJBeDYyZlpVRG5rX3ZiNkgxeXpNcWsxSFVFRFQ3N2hvQ0tNSnRERm5hNkVOeU5fTkdaZTdQNlRJRTU3T0JmOTRoNTJmVUtsc29mUXJaVXg3MjFiajA4VkM0bEV2WGJxTGo4SjZpMFF4ejhXVTFHY0NyWHE3ZFFYQQ?oc=5",
       "summary": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern &nbsp;&nbsp; Cureus",
       "source": "Cureus"
     },
@@ -315,13 +297,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
       "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
       "source": "KFF"
-    },
-    {
-      "title": "New sa\u2011mRNA and LNP Platform to Support Korea\u2019s Hantavirus Vaccine Initiative - Genetic Engineering and Biotechnology News",
-      "published": "Tue, 07 Jul 2026 01:35:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOenoyUHlBNE1vV1ByVnk1YjhGeDJmcjA2Ui1PWWRSWmxQVEpxOXcySUlmOFdtMXpDTzRYalNMeVJLM3V5WkdzR19sOFlwZWcxczcxMjBpcW5VTmhJQXRFaFUzc3hsUHBEUXAyTFhmaFdTYXpzRF9ER21WQUN0Zy1GRzBqQnBFUGM5YWg3bjBMeFBrbl9JNEhNT3BjaHV5b2hCMFRCbTNvSC1yTFEzVjhWbGZXSS1vZEZSbmk4M1dlYkZqWDF4THhaN2xRTQ?oc=5",
-      "summary": "New sa\u2011mRNA and LNP Platform to Support Korea\u2019s Hantavirus Vaccine Initiative &nbsp;&nbsp; Genetic Engineering and Biotechnology News",
-      "source": "Genetic Engineering and Biotechnology News"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -371,13 +346,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
       "summary": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "The hantavirus outbreak is over, WHO declares - Live Science",
-      "published": "Thu, 02 Jul 2026 18:15:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
-      "summary": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
-      "source": "Live Science"
     },
     {
       "title": "Hantavirus outbreak linked to cruise ship over, says WHO - CBC",
@@ -469,6 +437,20 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkw0Z3hMY2lBdVlnQnRFaXNzNi1tZDVLU2RMZDVUNjRwY1BBaG90TVBMbWhPb0FmWDJ2eUNpZGlrenBDVUViWGJ3R2cxeDZrZDFaZ3ZiOW5MYkpZcWlUMHRCZG1QeGFhUV80RjZ1cjVNeXlHVklwU2JXc0lfTUNjcGxCSms0VUxFcDJuT0pHczNwUFVsYkRsZjN2SDdndENnVlIyTnU4aDNVejVueE1veXhXdG9EeVVpUjRadi0xSng3Qjg?oc=5",
       "summary": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak &nbsp;&nbsp; USA Today",
       "source": "USA Today"
+    },
+    {
+      "title": "Oceanwide CEO Issues Statement Following Hantavirus Outbreak - Cruise News",
+      "published": "Mon, 06 Jul 2026 20:27:25 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjV5VEtUUGE4TVVBeWhFOFRrSEllMnFsLV8wNDcxZC0xbnY2WGtTaUNWaXhabkZrQ0VkbFN6NXJLc1hORlQ1TWRSbHdmR2kxYTJyeGR2bExrek5oUFNMX1Bxd3M0X3dMUkxrUkxOcWU4N0s0NVYwVGdWWWhyWHJ6MmxtWWwtNEtyNE9oUHdscFpUMUlfLXZRSU52UFhqYW9yOWF5MmVYLXVkQzhCMVN2UUNn?oc=5",
+      "summary": "Oceanwide CEO Issues Statement Following Hantavirus Outbreak &nbsp;&nbsp; Cruise News",
+      "source": "Cruise News"
+    },
+    {
+      "title": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days - ABC News - Breaking News, Latest News and Videos",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlB5M0NuMVRROTM2cmVCenV4TW54UXM5ajBlSWVRRVd3bV9YMm01TkhrcTZrOWlqS204dkpfWmE3Sk9XRkVlclFOelVsNDAzeTVjMXNHV0t6d0NvWFl5T2pQVDV5V28wdlJ6c1NLZ0Fxa3h3dHNzMUVtT3hpRUZZR3FzaFdjbDEweUoxanBFZE9NdWZnMGJRVUMtbWJfUzdUSGVNRTZCeUZCYkVFUDJJ0gG0AUFVX3lxTE1TcTA4Y0hNUjA3MmkwUlYtY00wRzdSOW1ZMW5EQ25iUnBCTlc2TllEWjRJRnMtM0p2UFlJcVhVOWltcWVCSVZuYktIREFzNFNXSEd0WmdjM2dvMm9MWXM3R1J2alRNQ0E2SndoSFJ6SVZvNktYeXI1cGo0ZVNiUGtMYlRJc3V4czk5VTRmdjU1R3BmYlVobGhBaDRzbDBqVURVc0ZmalJFczJtbTBUSnZQQmVtTA?oc=5",
+      "summary": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos"
     }
   ],
   "usHistoric": {
@@ -498,10 +480,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-08T09:34:18.058832Z",
+    "timestamp": "2026-07-08T11:28:39.003026Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
