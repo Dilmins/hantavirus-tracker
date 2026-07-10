@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-10T22:30:01.094668Z",
+  "lastUpdated": "2026-07-10T23:29:08.793646Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 40,
+  "newsCount": 41,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,22 +122,23 @@
         }
       ],
       "sources": [
-        "cbs19.tv",
         "The Santa Barbara Independent",
-        "The Colorado Sun",
-        "American Hospital Association",
+        "NBC News",
+        "cbs19.tv",
         "Think Global Health",
-        "ABC7 Los Angeles",
-        "Al Jazeera",
-        "CNN",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CIDRAP",
-        "CBC",
-        "Forbes",
+        "American Hospital Association",
         "World Health Organization (WHO)",
-        "Cureus"
+        "Cureus",
+        "The Colorado Sun",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CBC",
+        "Al Jazeera",
+        "CIDRAP",
+        "ABC7 Los Angeles",
+        "CNN",
+        "Forbes"
       ],
-      "alertCount": 15
+      "alertCount": 16
     },
     {
       "country": "USA",
@@ -441,10 +442,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-10T22:30:01.094680Z",
+    "timestamp": "2026-07-10T23:29:08.793660Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 41,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
