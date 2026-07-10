@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T21:18:43.628235Z",
+  "lastUpdated": "2026-07-10T22:30:01.094668Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "ABC News - Breaking News, Latest News and Videos",
-        "American Hospital Association",
-        "CBC",
-        "Cureus",
-        "World Health Organization (WHO)",
-        "Think Global Health",
         "cbs19.tv",
-        "The Colorado Sun",
         "The Santa Barbara Independent",
-        "CNN",
+        "The Colorado Sun",
+        "American Hospital Association",
+        "Think Global Health",
         "ABC7 Los Angeles",
+        "Al Jazeera",
+        "CNN",
+        "ABC News - Breaking News, Latest News and Videos",
         "CIDRAP",
-        "Al Jazeera"
+        "CBC",
+        "Forbes",
+        "World Health Organization (WHO)",
+        "Cureus"
       ],
       "alertCount": 15
     },
@@ -441,7 +441,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-10T21:18:43.628249Z",
+    "timestamp": "2026-07-10T22:30:01.094680Z",
     "who": 0,
     "promed": 0,
     "news": 40,
