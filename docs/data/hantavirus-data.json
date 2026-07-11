@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T09:48:47.647101Z",
+  "lastUpdated": "2026-07-11T10:53:26.650946Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "CBC",
-        "World Health Organization (WHO)",
-        "ABC7 Los Angeles",
-        "politico.eu",
-        "NBC News",
-        "The Colorado Sun",
-        "CNN",
-        "Think Global Health",
-        "ABC News - Breaking News, Latest News and Videos",
-        "cbs19.tv",
         "Forbes",
-        "The New York Times",
         "CIDRAP",
+        "The Colorado Sun",
+        "ABC7 Los Angeles",
+        "The New York Times",
+        "Think Global Health",
+        "NBC News",
+        "ABC News - Breaking News, Latest News and Videos",
+        "World Health Organization (WHO)",
+        "politico.eu",
+        "CNN",
+        "cbs19.tv",
+        "CBC",
         "Cureus"
       ],
       "alertCount": 14
@@ -160,8 +160,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -477,7 +477,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-11T09:48:47.647118Z",
+    "timestamp": "2026-07-11T10:53:26.650957Z",
     "who": 0,
     "promed": 0,
     "news": 38,
