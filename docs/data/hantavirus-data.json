@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-11T08:14:54.906441Z",
+  "lastUpdated": "2026-07-11T09:48:47.647101Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 6,
-  "newsCount": 39,
+  "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "Forbes",
-        "World Health Organization (WHO)",
         "CBC",
-        "CNN",
-        "CIDRAP",
-        "cbs19.tv",
-        "ABC News - Breaking News, Latest News and Videos",
-        "The New York Times",
+        "World Health Organization (WHO)",
         "ABC7 Los Angeles",
+        "politico.eu",
         "NBC News",
-        "Cureus",
+        "The Colorado Sun",
+        "CNN",
         "Think Global Health",
-        "politico.eu"
+        "ABC News - Breaking News, Latest News and Videos",
+        "cbs19.tv",
+        "Forbes",
+        "The New York Times",
+        "CIDRAP",
+        "Cureus"
       ],
       "alertCount": 14
     },
@@ -145,10 +145,10 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "More hantavirus cases are expected, WHO chief says - USA Today",
-          "published": "Tue, 12 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
-          "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
+          "title": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak - USA Today",
+          "published": "Mon, 11 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkw0Z3hMY2lBdVlnQnRFaXNzNi1tZDVLU2RMZDVUNjRwY1BBaG90TVBMbWhPb0FmWDJ2eUNpZGlrenBDVUViWGJ3R2cxeDZrZDFaZ3ZiOW5MYkpZcWlUMHRCZG1QeGFhUV80RjZ1cjVNeXlHVklwU2JXc0lfTUNjcGxCSms0VUxFcDJuT0pHczNwUFVsYkRsZjN2SDdndENnVlIyTnU4aDNVejVueE1veXhXdG9EeVVpUjRadi0xSng3Qjg?oc=5",
+          "summary": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak &nbsp;&nbsp; USA Today",
           "source": "USA Today"
         },
         {
@@ -160,8 +160,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -289,13 +289,6 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "These Two Deadly Viruses Can Look Like the Flu at First - SciTechDaily",
-      "published": "Wed, 08 Jul 2026 16:20:21 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3BIR3Z1T1EtTGN2T2xIRlZfZGxuN0tJSzluZHhGTHV1OW9aRlJMNzZfOFpXNFdBaTZjWTYyQUJrNHdHTUJ0TWFIRlhmeElkWExTdXdJX21LaGlJeWQtb0xSR3VzN2dfcm5UQjdhU1phSFV3b0x2R3JYUVlvRnRCdFJnSDhxSXZj?oc=5",
-      "summary": "These Two Deadly Viruses Can Look Like the Flu at First &nbsp;&nbsp; SciTechDaily",
-      "source": "SciTechDaily"
-    },
-    {
       "title": "Hantavirus Cluster Linked to Cruise Ship Travel: A Comprehensive Review of a Looming Global Public Health Concern - Cureus",
       "published": "Wed, 08 Jul 2026 06:50:59 GMT",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdWtNS2N6VUVhZXNnVTBrTXFHemx6ZjNhUTZvZGhuZHJ2VE8yWFJYTmsxSnEybjdEd0ZFeHZKcU9pbDBDWlItMWxWajBsWEtKaF9WazY4a0ZzMEFQOF8yZkVTOW41VVctV0JvOE13VXJBeDYyZlpVRG5rX3ZiNkgxeXpNcWsxSFVFRFQ3N2hvQ0tNSnRERm5hNkVOeU5fTkdaZTdQNlRJRTU3T0JmOTRoNTJmVUtsc29mUXJaVXg3MjFiajA4VkM0bEV2WGJxTGo4SjZpMFF4ejhXVTFHY0NyWHE3ZFFYQQ?oc=5",
@@ -315,13 +308,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbjFFNVBGaUVvRXZNWGZ5aXE2bUQ5NUlLeG1DelZsTmUydDM3ZkRnYjFQNFN6STZ2NExuLVRscUI2bHZjUWQtclk5QmFyaDNaTTdKZUtGaUN0Qlk2SlNnZ0l3cE4tS19EZUJkRmZTY1NXR01vSXVRZUV6QTIzeDE2ckpMQW41OGFrZDdvaDM5N1E2T1VSOHF3dWltcUdrNC0wUVF2QVB3bG95Q1RlS0lXSGVUQm5mMjdIWE52aTdvRWlodEFfQ1owZ1I3YVB4eV9zdkFvWHBaZXhyN1VfclprenBNblZ4ZkxaVzZFZ252ekZUbk1RN3kwNHJadTdhY2xZUjQ2Y2ZuMHNSWUVjeXBEeWFnTWZPMXhFdDM0ZVVRVEtTT3ZzM3F0MGhwY19hNk9ZTmhLNlJYUXNUQQ?oc=5",
       "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in focus IV: Infection prevention and control: from isolation to safe discharge and quarantine &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "World Health Organization (WHO)"
-    },
-    {
-      "title": "More hantavirus cases are expected, WHO chief says - USA Today",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
-      "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
-      "source": "USA Today"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -350,6 +336,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
+    },
+    {
+      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "source": "Johns Hopkins Medicine"
     },
     {
       "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
@@ -448,6 +441,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
       "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
       "source": "The Colorado Sun"
+    },
+    {
+      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
+      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
+      "summary": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
     }
   ],
   "usHistoric": {
@@ -477,10 +477,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-11T08:14:54.906454Z",
+    "timestamp": "2026-07-11T09:48:47.647118Z",
     "who": 0,
     "promed": 0,
-    "news": 39,
+    "news": 38,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
