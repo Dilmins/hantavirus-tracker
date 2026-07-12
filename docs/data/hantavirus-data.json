@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T06:25:29.240434Z",
+  "lastUpdated": "2026-07-12T08:36:31.176966Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "Think Global Health",
-        "politico.eu",
+        "ABC News - Breaking News, Latest News and Videos",
         "American Hospital Association",
-        "The Colorado Sun",
-        "Colorado Public Radio",
-        "Cureus",
-        "Forbes",
         "World Health Organization (WHO)",
+        "The New York Times",
+        "politico.eu",
+        "The Colorado Sun",
+        "CBS News",
         "CNN",
         "NBC News",
-        "CBS News",
-        "The New York Times",
-        "ABC News - Breaking News, Latest News and Videos"
+        "Forbes",
+        "Colorado Public Radio",
+        "Think Global Health",
+        "Cureus"
       ],
       "alertCount": 13
     },
@@ -298,13 +298,6 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "GENEVA / WHO HANTAVIRUS UPDATE - UN Media",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZN0hGbWhqNzByVXFnMUgydnA0bzZXV0RGYmpiTURzY3QxalJ4VF9jM2FoYW5ZNm9zWi1yUjVVMjlSRUF4RzQwTVVfVmxvZl9VeW9hN2ExYXVFTUFLb3RCZg?oc=5",
-      "summary": "GENEVA / WHO HANTAVIRUS UPDATE &nbsp;&nbsp; UN Media",
-      "source": "UN Media"
-    },
-    {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
       "published": "Tue, 02 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
@@ -429,6 +422,13 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMGtkd0VyTVBtWmYwVHk0am1nZlZPTTlON28zUEpuM19CaWw0YmI4MXdUdE92ZExCbVR3Z0FLSXdxQjRqWGdhdENPMXZscTdpY1FwbmF6SUh4QWxJTjNZUWdPUHhjeHBPb0Y0VUN0MVBKWFR4VzhvRmtLVVRzT03SAYQBQVVfeXFMTkhOc1hBOFl1WXpOZjA5YzVQNFhaR0FJeTJubDVCVU1LSXo2SHZrekV1N2xhR25aZjQzX0VnRWlJdE81Vlp3eVhHRWpJTEhteU94amgwdWhXVDVKZzduU0hINHM5VFBkSjhGUjVWTWEwYTdXQ1Etd1AtNTFHYUhxdzlmTGNh?oc=5",
       "summary": "What we know about hantavirus cases tied to deadly cruise ship outbreak &nbsp;&nbsp; CBS News",
       "source": "CBS News"
+    },
+    {
+      "title": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar - The Guardian",
+      "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdllzcnlVUFRvNWw3akVUS0VXQmJtY0NUMjBGXzYtRlllQ180OEExSGx6WkZ1ZVlha2RKWjFaY1NYTWdpaDd3Vk1VSDFWWExkWkdqUk9mOVFpRFpySmFKbURZQXhLTkE3NTNjN3lmM0RuVmg4dk1YNXpwN25oSHltclo0WXJMMC1LVjJvNGZnQ1dfdjN2Vnp6Y1Z3Y2RqNThFWVRCN3lRVUs?oc=5",
+      "summary": "Right now, we could be living through a hantavirus disaster. The world avoided that, and this is why | Devi Sridhar &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
     }
   ],
   "usHistoric": {
@@ -458,7 +458,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-12T06:25:29.240449Z",
+    "timestamp": "2026-07-12T08:36:31.176983Z",
     "who": 0,
     "promed": 0,
     "news": 39,
