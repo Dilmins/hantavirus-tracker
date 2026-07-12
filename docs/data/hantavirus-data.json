@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T10:12:58.599243Z",
+  "lastUpdated": "2026-07-12T11:29:44.505250Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "Cureus",
-        "American Hospital Association",
-        "Forbes",
-        "World Health Organization (WHO)",
-        "The Colorado Sun",
         "NBC News",
         "CNN",
+        "Think Global Health",
+        "Cureus",
+        "Forbes",
         "Colorado Public Radio",
-        "The New York Times",
         "CBS News",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Think Global Health"
+        "American Hospital Association",
+        "World Health Organization (WHO)",
+        "The New York Times",
+        "The Colorado Sun",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 12
     },
@@ -457,7 +457,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-12T10:12:58.599257Z",
+    "timestamp": "2026-07-12T11:29:44.505265Z",
     "who": 0,
     "promed": 0,
     "news": 39,
