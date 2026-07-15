@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T20:01:20.263565Z",
+  "lastUpdated": "2026-07-15T21:13:23.326712Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "NBC News",
-        "CIDRAP",
-        "ABC News - Breaking News, Latest News and Videos",
-        "American Hospital Association",
-        "The Colorado Sun",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Think Global Health",
-        "CNN",
-        "KDHE.ks.gov",
         "World Health Organization (WHO)",
-        "Colorado Public Radio",
-        "Forbes",
         "ABC7 Los Angeles",
-        "Cureus"
+        "Think Global Health",
+        "KDHE.ks.gov",
+        "Colorado Public Radio",
+        "Cureus",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Forbes",
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "American Hospital Association",
+        "CIDRAP",
+        "The Colorado Sun",
+        "NBC News"
       ],
       "alertCount": 15
     },
@@ -459,7 +459,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-15T20:01:20.263577Z",
+    "timestamp": "2026-07-15T21:13:23.326727Z",
     "who": 0,
     "promed": 0,
     "news": 41,
