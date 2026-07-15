@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-15T10:27:42.463830Z",
+  "lastUpdated": "2026-07-15T11:56:39.506245Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 40,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -72,6 +72,13 @@
           "source": "American Hospital Association"
         },
         {
+          "title": "How Industry Can Help Prevent the Next Cruise Ship Outbreak - Think Global Health",
+          "published": "Thu, 09 Jul 2026 14:54:18 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQi04eWE5bjBvQ1pUNEQwQ25tYjF4NG9nemQ1bXNhUWt4bVFzNHByR3JLSGw0cl8yYk5HSkV2T0x0RjhvcFphV19OYUczdjZoN01iblVjcGlVSjM2NS00d0owZWJnbnIwRGtoalU5NlhtcE54SklZWnlNUy1RSVJTbWM3R2NJaGplUWNUcU9TNEROZHNDa29UaWhNNVo0V09kWUg0?oc=5",
+          "summary": "How Industry Can Help Prevent the Next Cruise Ship Outbreak &nbsp;&nbsp; Think Global Health",
+          "source": "Think Global Health"
+        },
+        {
           "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
           "published": "Thu, 07 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
@@ -100,13 +107,6 @@
           "source": "Forbes"
         },
         {
-          "title": "Hantavirus outbreak linked to cruise ship over, says WHO - CBC",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGxtc3pIRm1MbnJ6cFo3M1J4VHJWcWZRQW4zX2hvSTVhSzFRRXVzVVBlZkh3dnZYYno0MDdsdmxhQl84M3VRMHl5VlNOQ1N4U0Rrb2dnU25ua1hfOFN5dHlRM1Q1YzhLcHBTdkQ1cGhpVzNNV01ieWc3MXpneTRWUjZ5NTEwYXBS?oc=5",
-          "summary": "Hantavirus outbreak linked to cruise ship over, says WHO &nbsp;&nbsp; CBC",
-          "source": "CBC"
-        },
-        {
           "title": "Hantavirus update news: Quarantine ends for last of cruise ship passengers involved in outbreak - ABC7 Los Angeles",
           "published": "Mon, 22 Jun 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNel9lZW9qUWstZ1p2NDlGTU9tazZRQ2diRTFvWWRHRVpqTDIxeUQtb1FMZUdnbE5UU2RwaDliZlVGeTVlSEZXNENJYlBFVjlGbnA3ZnBXY1N4TXkzblhvbFdlbTdvMmhoeEM0Ym1sSHlHVVhLeHVRdHlTdXFKWTBLT2MycUFrWDUycGp5b0ZHWFVaaUwtOFBoQnIxUnFzd1FuTGZkMUwxbXl2T092TEs1LXlqU0VzQmfSAbwBQVVfeXFMUGpEVU4zTlM3U0NDUWdlT2tXTktQNFNpSHl3MExWRDd4M01KT1lmWkxGVXcwd3dvSWlLNldjMFlrWi1pRk1jZG5SU0o3aXdLMVZpZkpfdU5QeU1xM2piN2g5UkhJby1tTEU5VF84Vmt5UTItWGNWRVdJMGFGTjFweS0wZE9pNHpEbTE4ZWNlMVA0OXdpZk1zemxKUUZXaVAyZTZYaEdnTWJPcHZnNXpmakhzZFM1Q1Nzek5ESEI?oc=5",
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "ABC7 Los Angeles",
-        "American Hospital Association",
-        "NBC News",
-        "CBC",
-        "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Cureus",
-        "ABC News - Breaking News, Latest News and Videos",
-        "cbs19.tv",
-        "CNN",
-        "KDHE.ks.gov",
-        "Colorado Public Radio",
         "Forbes",
         "World Health Organization (WHO)",
-        "The Colorado Sun"
+        "CIDRAP",
+        "cbs19.tv",
+        "Colorado Public Radio",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Colorado Sun",
+        "NBC News",
+        "KDHE.ks.gov",
+        "Think Global Health",
+        "CNN",
+        "Cureus",
+        "ABC7 Los Angeles",
+        "American Hospital Association",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 15
     },
@@ -161,8 +161,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -335,6 +335,13 @@
       "source": "American Hospital Association"
     },
     {
+      "title": "How Industry Can Help Prevent the Next Cruise Ship Outbreak - Think Global Health",
+      "published": "Thu, 09 Jul 2026 14:54:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQi04eWE5bjBvQ1pUNEQwQ25tYjF4NG9nemQ1bXNhUWt4bVFzNHByR3JLSGw0cl8yYk5HSkV2T0x0RjhvcFphV19OYUczdjZoN01iblVjcGlVSjM2NS00d0owZWJnbnIwRGtoalU5NlhtcE54SklZWnlNUy1RSVJTbWM3R2NJaGplUWNUcU9TNEROZHNDa29UaWhNNVo0V09kWUg0?oc=5",
+      "summary": "How Industry Can Help Prevent the Next Cruise Ship Outbreak &nbsp;&nbsp; Think Global Health",
+      "source": "Think Global Health"
+    },
+    {
       "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
@@ -382,13 +389,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
       "summary": "WHO says Hantavirus outbreak linked to ship is over &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "Hantavirus outbreak linked to cruise ship over, says WHO - CBC",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGxtc3pIRm1MbnJ6cFo3M1J4VHJWcWZRQW4zX2hvSTVhSzFRRXVzVVBlZkh3dnZYYno0MDdsdmxhQl84M3VRMHl5VlNOQ1N4U0Rrb2dnU25ua1hfOFN5dHlRM1Q1YzhLcHBTdkQ1cGhpVzNNV01ieWc3MXpneTRWUjZ5NTEwYXBS?oc=5",
-      "summary": "Hantavirus outbreak linked to cruise ship over, says WHO &nbsp;&nbsp; CBC",
-      "source": "CBC"
     },
     {
       "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
@@ -460,10 +460,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-15T10:27:42.463845Z",
+    "timestamp": "2026-07-15T11:56:39.506260Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
