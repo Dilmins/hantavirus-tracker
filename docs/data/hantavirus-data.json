@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-16T08:31:07.884486Z",
+  "lastUpdated": "2026-07-16T10:32:57.444864Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 5,
-  "newsCount": 43,
+  "locationsTracked": 6,
+  "newsCount": 44,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -72,13 +72,6 @@
           "source": "WTTW News"
         },
         {
-          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
-          "published": "Tue, 12 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
-          "source": "European Medicines Agency (EMA)"
-        },
-        {
           "title": "How Industry Can Help Prevent the Next Cruise Ship Outbreak - Think Global Health",
           "published": "Thu, 09 Jul 2026 14:54:18 GMT",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQi04eWE5bjBvQ1pUNEQwQ25tYjF4NG9nemQ1bXNhUWt4bVFzNHByR3JLSGw0cl8yYk5HSkV2T0x0RjhvcFphV19OYUczdjZoN01iblVjcGlVSjM2NS00d0owZWJnbnIwRGtoalU5NlhtcE54SklZWnlNUy1RSVJTbWM3R2NJaGplUWNUcU9TNEROZHNDa29UaWhNNVo0V09kWUg0?oc=5",
@@ -119,24 +112,30 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
           "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
           "source": "The Colorado Sun"
+        },
+        {
+          "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
+          "published": "Mon, 18 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
+          "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
+          "source": "Colorado Public Radio"
         }
       ],
       "sources": [
-        "KDHE.ks.gov",
-        "WTTW News",
-        "Think Global Health",
-        "European Medicines Agency (EMA)",
-        "Forbes",
         "Colorado Public Radio",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Forbes",
         "The Colorado Sun",
         "World Health Organization (WHO)",
+        "Think Global Health",
+        "WTTW News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "American Hospital Association",
+        "CNN",
         "CIDRAP",
         "ABC News - Breaking News, Latest News and Videos",
-        "American Hospital Association",
-        "CNN"
+        "KDHE.ks.gov"
       ],
-      "alertCount": 14
+      "alertCount": 13
     },
     {
       "country": "USA",
@@ -201,6 +200,24 @@
       "alertCount": 1
     },
     {
+      "country": "India",
+      "lat": 20.59,
+      "lng": 78.96,
+      "alerts": [
+        {
+          "title": "Viruses do not respect borders. An expert explains how the world should prepare for their outbreaks - The Indian Express",
+          "published": "Thu, 16 Jul 2026 10:00:51 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenN5Y0xLZXdIMkdwNThNLTNTVGUyOXg1X2pCNEhITDhhOHgtSUVfa0t6VlN0VGpjR21KcTd4VmZwNDQyRlFzcWE1Y2daeTZ1bDU5dzA2TlpKT0Y0cnZDMHIxTkFSRE4tRFF1MWRXRXJ1MU5fTXpaTURHMUpwY3N1TDl5YjFvTk0tUVhyYVliRGRPZXRMWmVDSmZzZGRQcWxwdVpGVGNNR01SaHlXM0REeUpkMU52Q1Nuc190Z01qb9IBxgFBVV95cUxNRlYwaWd6QWZETnpZUXdHTnJZQkZ6UWpzakQ2aEJnbXBGNlFja3B0clowTzl5N0JnQklhdmdZQ0Faa2tYT2hMdzgtSmRJWFpCcjU1c0NwY2REMF9qVjVpd2RqTU9udVZFT1QwQkJ2MVRQNk1hQ1k3WFRxby1iYTVJejJzM1Y4ekZaemtTRUNDWTZnRkg1dlpSVXM5bENaLWp5N2lJUDFFcUo0VVh4elRaWjE0UE81Z3V6SGt5dDdyb2MtTkthV0E?oc=5",
+          "summary": "Viruses do not respect borders. An expert explains how the world should prepare for their outbreaks &nbsp;&nbsp; The Indian Express",
+          "source": "The Indian Express"
+        }
+      ],
+      "sources": [
+        "The Indian Express"
+      ],
+      "alertCount": 1
+    },
+    {
       "country": "Chile",
       "lat": -45.57,
       "lng": -72.07,
@@ -226,13 +243,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
       "summary": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists &nbsp;&nbsp; The New York Times",
       "source": "The New York Times"
-    },
-    {
-      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
-      "summary": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "source": "HHS.gov"
     },
     {
       "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
@@ -263,6 +273,13 @@
       "source": "World Health Organization (WHO)"
     },
     {
+      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
+      "published": "Wed, 15 Jul 2026 12:46:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
+      "source": "tristandc.com"
+    },
+    {
       "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
       "published": "Wed, 15 Jul 2026 12:05:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
@@ -289,6 +306,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YcU5LRG9pTzJuYVptVm40dlR0UDJ2ZFBtcHlZQkpMclpORF9fdEczOHF6LXZSdUF5cEM5X0ZIdTNVYXR2UkJJcVFiRkFTMDRlQjlWeHZpc1lydERXd21kVFNUU0x2WXozMkt0NmwxN19nNFJyMWtrRkpWSnRVUQ?oc=5",
       "summary": "Why is hantavirus so deadly? It\u2019s not what you may think &nbsp;&nbsp; Science News",
       "source": "Science News"
+    },
+    {
+      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Tue, 14 Jul 2026 17:10:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc?oc=5",
+      "summary": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -326,18 +350,18 @@
       "source": "WTTW News"
     },
     {
-      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
-      "source": "European Medicines Agency (EMA)"
-    },
-    {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
       "published": "Tue, 02 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
+    },
+    {
+      "title": "Viruses do not respect borders. An expert explains how the world should prepare for their outbreaks - The Indian Express",
+      "published": "Thu, 16 Jul 2026 10:00:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenN5Y0xLZXdIMkdwNThNLTNTVGUyOXg1X2pCNEhITDhhOHgtSUVfa0t6VlN0VGpjR21KcTd4VmZwNDQyRlFzcWE1Y2daeTZ1bDU5dzA2TlpKT0Y0cnZDMHIxTkFSRE4tRFF1MWRXRXJ1MU5fTXpaTURHMUpwY3N1TDl5YjFvTk0tUVhyYVliRGRPZXRMWmVDSmZzZGRQcWxwdVpGVGNNR01SaHlXM0REeUpkMU52Q1Nuc190Z01qb9IBxgFBVV95cUxNRlYwaWd6QWZETnpZUXdHTnJZQkZ6UWpzakQ2aEJnbXBGNlFja3B0clowTzl5N0JnQklhdmdZQ0Faa2tYT2hMdzgtSmRJWFpCcjU1c0NwY2REMF9qVjVpd2RqTU9udVZFT1QwQkJ2MVRQNk1hQ1k3WFRxby1iYTVJejJzM1Y4ekZaemtTRUNDWTZnRkg1dlpSVXM5bENaLWp5N2lJUDFFcUo0VVh4elRaWjE0UE81Z3V6SGt5dDdyb2MtTkthV0E?oc=5",
+      "summary": "Viruses do not respect borders. An expert explains how the world should prepare for their outbreaks &nbsp;&nbsp; The Indian Express",
+      "source": "The Indian Express"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -422,13 +446,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
       "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
       "source": "Anadolu Ajans\u0131"
-    },
-    {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     }
   ],
   "usHistoric": {
@@ -458,10 +475,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-16T08:31:07.884503Z",
+    "timestamp": "2026-07-16T10:32:57.444879Z",
     "who": 0,
     "promed": 0,
-    "news": 43,
+    "news": 44,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
