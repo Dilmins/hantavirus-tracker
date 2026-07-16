@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-16T12:07:29.768437Z",
+  "lastUpdated": "2026-07-16T14:18:36.674112Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 44,
+  "newsCount": 45,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,20 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Colorado Public Radio",
-        "CBC",
-        "The Colorado Sun",
         "The Santa Barbara Independent",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
-        "American Hospital Association",
         "Think Global Health",
+        "American Hospital Association",
+        "The Colorado Sun",
+        "Colorado Public Radio",
+        "CIDRAP",
         "WTTW News",
-        "Forbes",
-        "ABC News - Breaking News, Latest News and Videos",
         "Al Jazeera",
-        "KDHE.ks.gov"
+        "The Guardian",
+        "ABC News - Breaking News, Latest News and Videos",
+        "KDHE.ks.gov",
+        "World Health Organization (WHO)",
+        "Forbes",
+        "CBC"
       ],
       "alertCount": 16
     },
@@ -160,8 +160,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -171,15 +171,15 @@
       "lng": -1.17,
       "alerts": [
         {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
+          "source": "New England Journal of Medicine"
         }
       ],
       "sources": [
-        "The New England Journal of Medicine"
+        "New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -250,18 +250,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge - Anadolu Ajans\u0131",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUFTTU94LTFUem5IY0FUbGhuNmZqcFA4WElHcHBsM25abkxSTE9DNVFsY3ZVTHd1N2RqbV93VEE1ZU1hWm9lTXJfUVRCMjFyYzBUNVlBR0pNVHc4Y09WMWllYnloRHBwcmtCR0R0d0tMM2dQX1o4QUN4THF4MzZ5TDBvTHc5am5DZVZack9YTXBjLXN6RlM1RENOX3JxYWp1dlMtekpkbzJoOGx4UTlWa1gzbjFCNDlwbUJzUm13?oc=5",
-      "summary": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
-    },
-    {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
-      "source": "The New England Journal of Medicine"
+      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
+      "source": "New England Journal of Medicine"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
@@ -304,6 +297,13 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YcU5LRG9pTzJuYVptVm40dlR0UDJ2ZFBtcHlZQkpMclpORF9fdEczOHF6LXZSdUF5cEM5X0ZIdTNVYXR2UkJJcVFiRkFTMDRlQjlWeHZpc1lydERXd21kVFNUU0x2WXozMkt0NmwxN19nNFJyMWtrRkpWSnRVUQ?oc=5",
       "summary": "Why is hantavirus so deadly? It\u2019s not what you may think &nbsp;&nbsp; Science News",
       "source": "Science News"
+    },
+    {
+      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Tue, 14 Jul 2026 17:10:07 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc?oc=5",
+      "summary": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -425,11 +425,11 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
-      "published": "Sun, 17 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
+      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
+      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
     }
   ],
   "usHistoric": {
@@ -459,10 +459,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-16T12:07:29.768453Z",
+    "timestamp": "2026-07-16T14:18:36.674126Z",
     "who": 0,
     "promed": 0,
-    "news": 44,
+    "news": 45,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
