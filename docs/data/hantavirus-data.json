@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T20:33:05.595491Z",
+  "lastUpdated": "2026-07-17T21:29:56.084438Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "CBC",
-        "Forbes",
-        "The New York Times",
-        "Al Jazeera",
-        "American Hospital Association",
-        "Colorado Public Radio",
-        "World Health Organization (WHO)",
         "ABC News - Breaking News, Latest News and Videos",
+        "Colorado Public Radio",
         "KDHE.ks.gov",
+        "CBC",
+        "Al Jazeera",
         "CIDRAP",
+        "World Health Organization (WHO)",
+        "American Hospital Association",
         "The Colorado Sun",
-        "The Guardian"
+        "Forbes",
+        "The Guardian",
+        "The New York Times"
       ],
       "alertCount": 14
     },
@@ -223,11 +223,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
-      "source": "Euronews"
+      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
+      "source": "Euronews.com"
     },
     {
       "title": "WHO says hantavirus outbreak to be declared over by July 2 if no new cases emerge - Anadolu Ajans\u0131",
@@ -439,7 +439,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-17T20:33:05.595506Z",
+    "timestamp": "2026-07-17T21:29:56.084449Z",
     "who": 0,
     "promed": 0,
     "news": 40,
