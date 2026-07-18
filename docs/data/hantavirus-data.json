@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T03:27:48.875272Z",
+  "lastUpdated": "2026-07-18T05:41:32.504011Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,18 @@
         }
       ],
       "sources": [
-        "CBC",
-        "The Guardian",
-        "The Colorado Sun",
-        "World Health Organization (WHO)",
         "Forbes",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CIDRAP",
-        "KDHE.ks.gov",
+        "The Guardian",
         "Al Jazeera",
+        "Colorado Public Radio",
+        "CIDRAP",
+        "The Colorado Sun",
+        "ABC News - Breaking News, Latest News and Videos",
         "American Hospital Association",
-        "Colorado Public Radio"
+        "KDHE.ks.gov",
+        "CBC",
+        "World Health Organization (WHO)",
+        "NBC News"
       ],
       "alertCount": 13
     },
@@ -157,8 +158,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -248,6 +249,13 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
       "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
       "source": "tristandc.com"
+    },
+    {
+      "title": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn - Labmate Online",
+      "published": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZGh5NWFwcFpuQmNLclJTbV9EdDRDTEtycHRPemRnU2pUTVpQUENCX3ZxbndUZ0JnNXVvMmRHODN3Y05NSmI0TUtPUUlYb2Z2VWM1SXdjdHN5VzdjWGg3LVFsdGQ1dkxORElFSWhacEswUTFwYW9GNEc5T3k2c0oyWEVMN2hpMHZYNnk2NXhKVW1DVGJudy1SSk5kLXA5X0dQQUhqNXhsVnZJRHRwbktZX015M0lJSUdlQ0NjRlBSWXlKMUhhY01RSnJ2QV8ySmhKbUxaTVFTcmJWVkhiT205ZXJNQWVKdnNCMVpRb05GWFpDRDRRMHFtS3NRbUxkdng0dVlWQg?oc=5",
+      "summary": "Hantavirus and Ebola scares reveal cracks in public health messaging, infectious diseases experts warn &nbsp;&nbsp; Labmate Online",
+      "source": "Labmate Online"
     },
     {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
@@ -376,18 +384,18 @@
       "source": "The Guardian"
     },
     {
-      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
-      "summary": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
-      "source": "News-Medical"
-    },
-    {
       "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
+    },
+    {
+      "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
+      "published": "Sun, 12 Jul 2026 18:55:53 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakUzSlNQU2NNcEwxX3NnN1FDeVRxcklONm44TDdxc1BPTmp0QUhJTnM2Z09NSlhnVThRcTlyVkxRQ3FTM1Uxb0pXb3FpbG43WnJTU3hvQzJTbHExUVNZR1VOYjl6NVB1X1RBNTJMUl9wYlRwUkhMS2RYZTNXZHdEMTk0d0pnamd0Wll3RXVweHluSkVUbWc?oc=5",
+      "summary": "Keystone Health Shares Hantavirus Prevention and Safety Guidance &nbsp;&nbsp; Franklin County Free Press",
+      "source": "Franklin County Free Press"
     },
     {
       "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
@@ -402,13 +410,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
-      "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
-      "source": "The Colorado Sun"
     }
   ],
   "usHistoric": {
@@ -438,7 +439,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-18T03:27:48.875287Z",
+    "timestamp": "2026-07-18T05:41:32.504022Z",
     "who": 0,
     "promed": 0,
     "news": 39,
