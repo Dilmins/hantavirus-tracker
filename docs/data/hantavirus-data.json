@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T09:07:16.692738Z",
+  "lastUpdated": "2026-07-18T10:38:27.692983Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "NBC News",
-        "CBC",
+        "Al Jazeera",
+        "The Colorado Sun",
+        "Colorado Public Radio",
+        "The Guardian",
         "World Health Organization (WHO)",
         "American Hospital Association",
+        "Forbes",
         "CIDRAP",
-        "The Guardian",
-        "Al Jazeera",
+        "NBC News",
         "KDHE.ks.gov",
-        "Colorado Public Radio",
-        "The Colorado Sun",
-        "Forbes"
+        "CBC"
       ],
       "alertCount": 13
     },
@@ -438,7 +438,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-18T09:07:16.692752Z",
+    "timestamp": "2026-07-18T10:38:27.693001Z",
     "who": 0,
     "promed": 0,
     "news": 39,
