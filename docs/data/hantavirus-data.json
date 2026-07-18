@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T11:34:49.643965Z",
+  "lastUpdated": "2026-07-18T12:35:42.592563Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "CIDRAP",
         "CBC",
-        "Al Jazeera",
-        "The Guardian",
-        "American Hospital Association",
-        "Colorado Public Radio",
-        "The Colorado Sun",
         "NBC News",
+        "Forbes",
+        "The Colorado Sun",
+        "CIDRAP",
+        "World Health Organization (WHO)",
         "KDHE.ks.gov",
-        "World Health Organization (WHO)"
+        "Colorado Public Radio",
+        "Al Jazeera",
+        "American Hospital Association",
+        "The Guardian"
       ],
       "alertCount": 13
     },
@@ -157,8 +157,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -376,18 +376,18 @@
       "source": "The Guardian"
     },
     {
+      "title": "Decades of research reveal surprising secrets about hantavirus evolution - News-Medical",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbktFdnRmTHRJaTRDOGpHU0ItYk5Sc2tncmNIMlNmX1VJY0tLaHpEYk13YVZYQUJuNkpnUXF5dURHNkhITzBtOWVPaHRhcWg3X3ZKUUFLWVNMSkVKN21PN1UzTEN3R0duWjFRUXVQY2lLZXZOQ0NTdWpZOVR4MDV1OVZ2eGVNRmNhUjFhUEFrQ0tka0FnMzdYQ2hVb1BDbmQtOWhQZnNGaTFkM0h3cXZjT3lseGg5UUQ4T1NCdQ?oc=5",
+      "summary": "Decades of research reveal surprising secrets about hantavirus evolution &nbsp;&nbsp; News-Medical",
+      "source": "News-Medical"
+    },
+    {
       "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
-    },
-    {
-      "title": "Keystone Health Shares Hantavirus Prevention and Safety Guidance - Franklin County Free Press",
-      "published": "Sun, 12 Jul 2026 18:55:53 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQakUzSlNQU2NNcEwxX3NnN1FDeVRxcklONm44TDdxc1BPTmp0QUhJTnM2Z09NSlhnVThRcTlyVkxRQ3FTM1Uxb0pXb3FpbG43WnJTU3hvQzJTbHExUVNZR1VOYjl6NVB1X1RBNTJMUl9wYlRwUkhMS2RYZTNXZHdEMTk0d0pnamd0Wll3RXVweHluSkVUbWc?oc=5",
-      "summary": "Keystone Health Shares Hantavirus Prevention and Safety Guidance &nbsp;&nbsp; Franklin County Free Press",
-      "source": "Franklin County Free Press"
     },
     {
       "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
@@ -438,7 +438,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-18T11:34:49.643979Z",
+    "timestamp": "2026-07-18T12:35:42.592578Z",
     "who": 0,
     "promed": 0,
     "news": 39,
