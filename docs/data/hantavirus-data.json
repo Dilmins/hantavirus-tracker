@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T16:08:48.326854Z",
+  "lastUpdated": "2026-07-18T17:11:39.043598Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "NBC News",
-        "World Health Organization (WHO)",
-        "KDHE.ks.gov",
-        "The Guardian",
+        "Forbes",
         "ABC News - Breaking News, Latest News and Videos",
         "The Colorado Sun",
-        "CIDRAP",
-        "Colorado Public Radio",
-        "Forbes",
-        "American Hospital Association",
         "Al Jazeera",
-        "CBC"
+        "CIDRAP",
+        "KDHE.ks.gov",
+        "World Health Organization (WHO)",
+        "American Hospital Association",
+        "The Guardian",
+        "CBC",
+        "NBC News",
+        "Colorado Public Radio"
       ],
       "alertCount": 14
     },
@@ -158,8 +158,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -321,13 +321,6 @@
       "source": "Boston University"
     },
     {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
-      "source": "The Topeka Capital-Journal"
-    },
-    {
       "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
@@ -361,6 +354,13 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
       "summary": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "The hantavirus outbreak is over, WHO declares - Live Science",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1ZkaF95X3NVdUhNQlZNTlRMTl9QR01ZVDdLaXZiSVktMUJrOTZPdkZsR2FQREhQSUJWLVgxd2VYM2NnRllrWURUN21NSUN0eFp5dmJ3UlNkVkFvY0NHa09BYmJOdkVNRVZvQ2JmSWVpTl92SmZaSmUtbUU2VHRqVDlSTFdSWWpabVZZczVnQzY4Q1JpRnZudUVETlZPbXpGNHQ4dWlNVElVUQ?oc=5",
+      "summary": "The hantavirus outbreak is over, WHO declares &nbsp;&nbsp; Live Science",
+      "source": "Live Science"
     },
     {
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
@@ -439,7 +439,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-18T16:08:48.326865Z",
+    "timestamp": "2026-07-18T17:11:39.043619Z",
     "who": 0,
     "promed": 0,
     "news": 39,
