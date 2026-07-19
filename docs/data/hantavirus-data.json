@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-19T20:37:04.280632Z",
+  "lastUpdated": "2026-07-19T21:32:02.505140Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 40,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,21 +122,21 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "KDHE.ks.gov",
-        "CIDRAP",
-        "The New York Times",
-        "NBC News",
         "World Health Organization (WHO)",
-        "Al Jazeera",
-        "Think Global Health",
-        "CBC",
-        "The Guardian",
+        "KDHE.ks.gov",
+        "The Colorado Sun",
+        "CIDRAP",
         "Colorado Public Radio",
+        "Think Global Health",
+        "Al Jazeera",
         "BBC",
-        "The Colorado Sun"
+        "The Guardian",
+        "Forbes",
+        "CBC",
+        "The New York Times",
+        "NBC News"
       ],
-      "alertCount": 15
+      "alertCount": 16
     },
     {
       "country": "USA",
@@ -159,8 +159,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -224,11 +224,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
-      "source": "Euronews.com"
+      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
+      "source": "Euronews"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -440,10 +440,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-19T20:37:04.280646Z",
+    "timestamp": "2026-07-19T21:32:02.505157Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
