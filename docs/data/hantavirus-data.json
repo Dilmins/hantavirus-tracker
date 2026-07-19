@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T23:06:57.851848Z",
+  "lastUpdated": "2026-07-19T00:06:20.007679Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "Forbes",
-        "Al Jazeera",
-        "Colorado Public Radio",
         "ABC News - Breaking News, Latest News and Videos",
-        "KDHE.ks.gov",
-        "World Health Organization (WHO)",
-        "CIDRAP",
-        "NBC News",
-        "American Hospital Association",
+        "The Guardian",
         "CBC",
-        "The Guardian"
+        "Colorado Public Radio",
+        "Forbes",
+        "The Colorado Sun",
+        "CIDRAP",
+        "Al Jazeera",
+        "KDHE.ks.gov",
+        "American Hospital Association",
+        "World Health Organization (WHO)",
+        "NBC News"
       ],
       "alertCount": 14
     },
@@ -223,11 +223,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkZPelVPQ1JaSkx5VzZTOHg5S0F3aWZUcFNXZXVHcWRQOEZXTDh4ZDdjdzc1TmgtTEc4MzltcGtXR21QZk1VQy00bGhLT2QyMmJnSDlqaDJPVDVLWTl3SVI3NXZXcGdXNE9wZm4zR2Z0RmFja2dFc1Zvbnd0ZnBhY3hLb0czN2Y2X1pFQ25UOVBNQk5ZbVg5QXJfdE9UYkJF?oc=5",
-      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews",
-      "source": "Euronews"
+      "summary": "Deadly Hantavirus outbreak should end on 2 July, WHO says &nbsp;&nbsp; Euronews.com",
+      "source": "Euronews.com"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -439,7 +439,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-18T23:06:57.851863Z",
+    "timestamp": "2026-07-19T00:06:20.007689Z",
     "who": 0,
     "promed": 0,
     "news": 39,
