@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T14:46:12.501336Z",
+  "lastUpdated": "2026-07-19T15:45:15.963659Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
+        "Think Global Health",
+        "CIDRAP",
+        "NBC News",
         "Al Jazeera",
         "The Colorado Sun",
-        "World Health Organization (WHO)",
-        "Colorado Public Radio",
+        "Forbes",
+        "CBC",
         "The Guardian",
         "The New York Times",
-        "NBC News",
-        "Forbes",
-        "CIDRAP",
-        "Think Global Health",
+        "Colorado Public Radio",
         "ABC News - Breaking News, Latest News and Videos",
-        "CBC"
+        "World Health Organization (WHO)"
       ],
       "alertCount": 14
     },
@@ -439,7 +439,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-19T14:46:12.501352Z",
+    "timestamp": "2026-07-19T15:45:15.963674Z",
     "who": 0,
     "promed": 0,
     "news": 40,
