@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T18:32:13.020932Z",
+  "lastUpdated": "2026-07-20T20:11:07.542901Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "Al Jazeera",
+        "KDHE.ks.gov",
         "NBC News",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
-        "The Guardian",
-        "American Hospital Association",
         "CBC",
+        "ABC News - Breaking News, Latest News and Videos",
+        "World Health Organization (WHO)",
         "Colorado Public Radio",
-        "KDHE.ks.gov"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Guardian",
+        "The Colorado Sun",
+        "American Hospital Association",
+        "Al Jazeera"
       ],
       "alertCount": 11
     },
@@ -183,8 +183,8 @@
         }
       ],
       "sources": [
-        "Yahoo",
-        "CIDRAP"
+        "CIDRAP",
+        "Yahoo"
       ],
       "alertCount": 2
     },
@@ -311,13 +311,6 @@
       "source": "The Washington Post"
     },
     {
-      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
-      "source": "AZ Family"
-    },
-    {
       "title": "Is It Too Risky to Travel Internationally? - Right as Rain by UW Medicine",
       "published": "Thu, 16 Jul 2026 15:52:34 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkxBVWNCWEhiOE9adFE1WENuRWpkWUNOMi1CVnFXeHd2d1FBTktBVlJhRFNGYjRJU1NCOHlBRmQ2YmxGLUE4dFlwS0p2aXA5N0hRTUxsVS1PRl9jNDdHNi1JZEVaN2ZDbUtOZXppbElZbTZZSndlWURIWE90cjZtT0VzdWFrelJnRVEyNUVOQnJYS1N0eVljbmJtVWxORzNKaGt6Z1U0SDA?oc=5",
@@ -337,6 +330,13 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
       "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
       "source": "Boston University"
+    },
+    {
+      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
+      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
+      "source": "The Topeka Capital-Journal"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -464,7 +464,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-20T18:32:13.020948Z",
+    "timestamp": "2026-07-20T20:11:07.542916Z",
     "who": 0,
     "promed": 0,
     "news": 40,
