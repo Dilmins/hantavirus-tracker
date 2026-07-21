@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-21T16:14:16.835798Z",
+  "lastUpdated": "2026-07-21T17:45:00.078925Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 4,
-  "newsCount": 38,
+  "locationsTracked": 5,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -93,13 +93,6 @@
           "source": "BBC"
         },
         {
-          "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
-          "summary": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
-          "source": "Al Jazeera"
-        },
-        {
           "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
@@ -119,32 +112,52 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
           "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
           "source": "CIDRAP"
+        },
+        {
+          "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
+          "published": "Mon, 20 Jul 2026 08:54:24 GMT",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
+          "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
+          "source": "American Hospital Association"
         }
       ],
       "sources": [
-        "CNN",
-        "American Hospital Association",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
-        "Al Jazeera",
-        "NBC News",
-        "Forbes",
-        "ABC News - Breaking News, Latest News and Videos",
         "The Colorado Sun",
-        "BBC",
-        "CBC",
-        "CIDRAP",
-        "Think Global Health",
         "The Source - Bend, Oregon",
-        "The Guardian"
+        "Forbes",
+        "BBC",
+        "American Hospital Association",
+        "Al Jazeera",
+        "The Guardian",
+        "CIDRAP",
+        "CBC",
+        "Think Global Health",
+        "CNN",
+        "ABC News - Breaking News, Latest News and Videos",
+        "World Health Organization (WHO)"
       ],
-      "alertCount": 16
+      "alertCount": 14
     },
     {
       "country": "Venezuela",
       "lat": 6.42,
       "lng": -66.59,
       "alerts": [
+        {
+          "title": "Three deaths caused by hantavirus in Venezuela, the Ministry of Health confirms - Informat.ro",
+          "published": "Tue, 21 Jul 2026 17:34:15 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFZXTWNVbFo5X09fZkc2WmNQNHNaWURVbEsxUHZ1aExlYWhJWmtEVzA2OWl2dHZhQzlrV2dGd1J5eDg5MnlBbm1pMDBXc1NhRUFKbGppZGROOEl1RnJrR1FnTjJFUnJhbFJvMmhUTkNkcGttaTlZRmJpOTdwa3dGRjlEc2dwWkhKQzI1ZXA4OERZbWpUSmhRZTJHaTJLVjVqdmlYV2Y2NlFjd2ZyU3RabExqbnZFR21LRjVHTjhqdw?oc=5",
+          "summary": "Three deaths caused by hantavirus in Venezuela, the Ministry of Health confirms &nbsp;&nbsp; Informat.ro",
+          "source": "Informat.ro"
+        },
+        {
+          "title": "Three people dead from Hantavirus in Venezuela spark outbreak concerns - The Independent",
+          "published": "Tue, 21 Jul 2026 17:02:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXhDYVdTSXk3WWlIcDFVcVIxM2lITDY2a0pWNjZ6LTlQRzhRNWk0MV9FZFN1Wk1zNGlOODFqVkZQM1diOWlIOXhIZTN0ZmNfaGM3NDlOYlRXVTh6cTZRYnhtT2hLSXZCVVVwMm5XYkxkU1JfTE5kUVNUODFDb1JROXdXdUJUenlNTy1FZHlPZjU3QVBUeXh3?oc=5",
+          "summary": "Three people dead from Hantavirus in Venezuela spark outbreak concerns &nbsp;&nbsp; The Independent",
+          "source": "The Independent"
+        },
         {
           "title": "Venezuela says three people with confirmed hantavirus have died - GMA Network",
           "published": "Tue, 21 Jul 2026 15:52:16 GMT",
@@ -161,10 +174,12 @@
         }
       ],
       "sources": [
+        "Devdiscourse",
+        "Informat.ro",
         "GMA Network",
-        "Devdiscourse"
+        "The Independent"
       ],
-      "alertCount": 2
+      "alertCount": 4
     },
     {
       "country": "USA",
@@ -181,6 +196,24 @@
       ],
       "sources": [
         "USA Today"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "lat": 52.36,
+      "lng": -1.17,
+      "alerts": [
+        {
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
+        }
+      ],
+      "sources": [
+        "The New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -212,11 +245,32 @@
       "source": "AJMC"
     },
     {
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
+      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+      "source": "The New England Journal of Medicine"
+    },
+    {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
       "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
       "source": "tristandc.com"
+    },
+    {
+      "title": "Three deaths caused by hantavirus in Venezuela, the Ministry of Health confirms - Informat.ro",
+      "published": "Tue, 21 Jul 2026 17:34:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFZXTWNVbFo5X09fZkc2WmNQNHNaWURVbEsxUHZ1aExlYWhJWmtEVzA2OWl2dHZhQzlrV2dGd1J5eDg5MnlBbm1pMDBXc1NhRUFKbGppZGROOEl1RnJrR1FnTjJFUnJhbFJvMmhUTkNkcGttaTlZRmJpOTdwa3dGRjlEc2dwWkhKQzI1ZXA4OERZbWpUSmhRZTJHaTJLVjVqdmlYV2Y2NlFjd2ZyU3RabExqbnZFR21LRjVHTjhqdw?oc=5",
+      "summary": "Three deaths caused by hantavirus in Venezuela, the Ministry of Health confirms &nbsp;&nbsp; Informat.ro",
+      "source": "Informat.ro"
+    },
+    {
+      "title": "Three people dead from Hantavirus in Venezuela spark outbreak concerns - The Independent",
+      "published": "Tue, 21 Jul 2026 17:02:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLXhDYVdTSXk3WWlIcDFVcVIxM2lITDY2a0pWNjZ6LTlQRzhRNWk0MV9FZFN1Wk1zNGlOODFqVkZQM1diOWlIOXhIZTN0ZmNfaGM3NDlOYlRXVTh6cTZRYnhtT2hLSXZCVVVwMm5XYkxkU1JfTE5kUVNUODFDb1JROXdXdUJUenlNTy1FZHlPZjU3QVBUeXh3?oc=5",
+      "summary": "Three people dead from Hantavirus in Venezuela spark outbreak concerns &nbsp;&nbsp; The Independent",
+      "source": "The Independent"
     },
     {
       "title": "Venezuela says three people with confirmed hantavirus have died - GMA Network",
@@ -275,13 +329,6 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "Is It Too Risky to Travel Internationally? - Right as Rain by UW Medicine",
-      "published": "Thu, 16 Jul 2026 15:52:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWkxBVWNCWEhiOE9adFE1WENuRWpkWUNOMi1CVnFXeHd2d1FBTktBVlJhRFNGYjRJU1NCOHlBRmQ2YmxGLUE4dFlwS0p2aXA5N0hRTUxsVS1PRl9jNDdHNi1JZEVaN2ZDbUtOZXppbElZbTZZSndlWURIWE90cjZtT0VzdWFrelJnRVEyNUVOQnJYS1N0eVljbmJtVWxORzNKaGt6Z1U0SDA?oc=5",
-      "summary": "Is It Too Risky to Travel Internationally? &nbsp;&nbsp; Right as Rain by UW Medicine",
-      "source": "Right as Rain by UW Medicine"
-    },
-    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -338,25 +385,11 @@
       "source": "UN News"
     },
     {
-      "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
-      "summary": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
       "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
-    },
-    {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
-      "published": "Sun, 17 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
     },
     {
       "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
@@ -442,10 +475,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-21T16:14:16.835814Z",
+    "timestamp": "2026-07-21T17:45:00.078940Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
