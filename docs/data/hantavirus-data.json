@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-21T18:55:54.246596Z",
+  "lastUpdated": "2026-07-21T20:12:28.455755Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 36,
+  "newsCount": 35,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -114,36 +114,49 @@
           "source": "CIDRAP"
         },
         {
-          "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-          "published": "Mon, 20 Jul 2026 08:54:24 GMT",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-          "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-          "source": "American Hospital Association"
+          "title": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. - The Colorado Sun",
+          "published": "Mon, 18 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
+          "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
+          "source": "The Colorado Sun"
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "American Hospital Association",
-        "Forbes",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Al Jazeera",
         "The Colorado Sun",
         "The Guardian",
-        "The Source - Bend, Oregon",
-        "BBC",
-        "CNN",
         "CBC",
         "CIDRAP",
+        "Think Global Health",
+        "The Source - Bend, Oregon",
+        "CNN",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "ABC News - Breaking News, Latest News and Videos",
-        "Al Jazeera",
-        "Think Global Health"
+        "Forbes",
+        "BBC",
+        "World Health Organization (WHO)"
       ],
-      "alertCount": 14
+      "alertCount": 13
     },
     {
       "country": "Venezuela",
       "lat": 6.42,
       "lng": -66.59,
       "alerts": [
+        {
+          "title": "Outbreak could be worse: Venezuela confirms 3 hantavirus deaths - Latest news from Azerbaijan",
+          "published": "Tue, 21 Jul 2026 19:52:30 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEN5SjhEWTRYS0l0N3pHcVBwd3B5SldpbVhSSWNuMG15N1AyeTZ1WnZlZVhJeXZnaURMUUxhbjRpOVktYTNOM2FaQ0JOWWo4bGJ5aUxHVUN6dWk3Qkowc01peE1BZ2pZNHhjbGtPLXJ1WVlHZ0FNQmZqTTByUTM0c2swOUJ0X1JYY3B3?oc=5",
+          "summary": "Outbreak could be worse: Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; Latest news from Azerbaijan",
+          "source": "Latest news from Azerbaijan"
+        },
+        {
+          "title": "Hantavirus kills three in Venezuela - The Manila Times",
+          "published": "Tue, 21 Jul 2026 19:06:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVh5UldmWXI2VkoxeUk4czZaSjhrRXZQV3ZFQzQwNzd5WlJGQUlENTYtLUhwSHM1b2tKX29FNldfVkhNRjRTaDh5ZFgzTmN3RkJYOEFGZVczUHlfWFJ5V2tCTDdQU1pRSTBwZ0twR3NENEc2U2szVzNIeGVjc3U3VlRJLTY4M2FHN1NocEZXUFJCUdIBlwFBVV95cUxPZ1VBMkkybEt6V05MSVlicDVrakY2UVdiOWJ6cmstakFPbE5kWWJaTUNmNmg1M1V6R0V0VFhSRmtwT2dFUVFOMXRnZTB1VVVPX2d6VVUyUnRrZzJIRnl6UjQteVAwd1c1bW1tdTF5REEwdUhPek5pUjE5RkRoT3VpRmkyb0JCU29MaUxScHc0dnZyeGRHU1F3?oc=5",
+          "summary": "Hantavirus kills three in Venezuela &nbsp;&nbsp; The Manila Times",
+          "source": "The Manila Times"
+        },
         {
           "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
           "published": "Tue, 21 Jul 2026 17:59:53 GMT",
@@ -182,12 +195,14 @@
       ],
       "sources": [
         "GMA Network",
-        "Informat.ro",
+        "The Manila Times",
         "Devdiscourse",
+        "Informat.ro",
+        "The Independent",
         "Anadolu Ajans\u0131",
-        "The Independent"
+        "Latest news from Azerbaijan"
       ],
-      "alertCount": 5
+      "alertCount": 7
     },
     {
       "country": "USA",
@@ -246,11 +261,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
-      "source": "AJMC"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -260,18 +275,25 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
-      "published": "Wed, 20 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
-    },
-    {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
       "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
       "source": "tristandc.com"
+    },
+    {
+      "title": "Outbreak could be worse: Venezuela confirms 3 hantavirus deaths - Latest news from Azerbaijan",
+      "published": "Tue, 21 Jul 2026 19:52:30 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEN5SjhEWTRYS0l0N3pHcVBwd3B5SldpbVhSSWNuMG15N1AyeTZ1WnZlZVhJeXZnaURMUUxhbjRpOVktYTNOM2FaQ0JOWWo4bGJ5aUxHVUN6dWk3Qkowc01peE1BZ2pZNHhjbGtPLXJ1WVlHZ0FNQmZqTTByUTM0c2swOUJ0X1JYY3B3?oc=5",
+      "summary": "Outbreak could be worse: Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; Latest news from Azerbaijan",
+      "source": "Latest news from Azerbaijan"
+    },
+    {
+      "title": "Hantavirus kills three in Venezuela - The Manila Times",
+      "published": "Tue, 21 Jul 2026 19:06:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVh5UldmWXI2VkoxeUk4czZaSjhrRXZQV3ZFQzQwNzd5WlJGQUlENTYtLUhwSHM1b2tKX29FNldfVkhNRjRTaDh5ZFgzTmN3RkJYOEFGZVczUHlfWFJ5V2tCTDdQU1pRSTBwZ0twR3NENEc2U2szVzNIeGVjc3U3VlRJLTY4M2FHN1NocEZXUFJCUdIBlwFBVV95cUxPZ1VBMkkybEt6V05MSVlicDVrakY2UVdiOWJ6cmstakFPbE5kWWJaTUNmNmg1M1V6R0V0VFhSRmtwT2dFUVFOMXRnZTB1VVVPX2d6VVUyUnRrZzJIRnl6UjQteVAwd1c1bW1tdTF5REEwdUhPek5pUjE5RkRoT3VpRmkyb0JCU29MaUxScHc0dnZyeGRHU1F3?oc=5",
+      "summary": "Hantavirus kills three in Venezuela &nbsp;&nbsp; The Manila Times",
+      "source": "The Manila Times"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
@@ -342,13 +364,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
       "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
       "source": "KFF"
-    },
-    {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
-      "source": "Harvard Gazette"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -428,13 +443,6 @@
       "source": "CIDRAP"
     },
     {
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "published": "Mon, 20 Jul 2026 08:54:24 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-      "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "source": "American Hospital Association"
-    },
-    {
       "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
@@ -454,6 +462,13 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
       "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "title": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak - USA Today",
+      "published": "Mon, 11 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkw0Z3hMY2lBdVlnQnRFaXNzNi1tZDVLU2RMZDVUNjRwY1BBaG90TVBMbWhPb0FmWDJ2eUNpZGlrenBDVUViWGJ3R2cxeDZrZDFaZ3ZiOW5MYkpZcWlUMHRCZG1QeGFhUV80RjZ1cjVNeXlHVklwU2JXc0lfTUNjcGxCSms0VUxFcDJuT0pHczNwUFVsYkRsZjN2SDdndENnVlIyTnU4aDNVejVueE1veXhXdG9EeVVpUjRadi0xSng3Qjg?oc=5",
+      "summary": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak &nbsp;&nbsp; USA Today",
+      "source": "USA Today"
     }
   ],
   "usHistoric": {
@@ -483,10 +498,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-21T18:55:54.246605Z",
+    "timestamp": "2026-07-21T20:12:28.455772Z",
     "who": 0,
     "promed": 0,
-    "news": 36,
+    "news": 35,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
