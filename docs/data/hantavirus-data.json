@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T12:50:09.292195Z",
+  "lastUpdated": "2026-07-21T14:54:22.696269Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -123,21 +123,21 @@
       ],
       "sources": [
         "CIDRAP",
-        "NBC News",
-        "CNN",
-        "Colorado Public Radio",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Think Global Health",
-        "The Source - Bend, Oregon",
-        "Forbes",
-        "World Health Organization (WHO)",
-        "The Colorado Sun",
-        "Al Jazeera",
-        "CBC",
+        "BBC",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "The Guardian",
+        "Forbes",
+        "NBC News",
+        "Think Global Health",
+        "CNN",
+        "World Health Organization (WHO)",
+        "Al Jazeera",
+        "The Colorado Sun",
         "American Hospital Association",
-        "BBC"
+        "CBC",
+        "The Source - Bend, Oregon",
+        "The Guardian",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Colorado Public Radio"
       ],
       "alertCount": 17
     },
@@ -210,6 +210,13 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
       "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
       "source": "The New England Journal of Medicine"
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
@@ -399,13 +406,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
       "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
-      "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
-      "source": "Colorado Public Radio"
     }
   ],
   "usHistoric": {
@@ -435,7 +435,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-21T12:50:09.292209Z",
+    "timestamp": "2026-07-21T14:54:22.696279Z",
     "who": 0,
     "promed": 0,
     "news": 39,
