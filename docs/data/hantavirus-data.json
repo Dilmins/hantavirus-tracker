@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-21T21:32:34.184684Z",
+  "lastUpdated": "2026-07-21T22:34:09.228961Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 35,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "The Guardian",
-        "The Colorado Sun",
         "CIDRAP",
-        "CBC",
+        "The Guardian",
+        "ABC News - Breaking News, Latest News and Videos",
         "CNN",
         "Think Global Health",
-        "The Source - Bend, Oregon",
         "BBC",
         "World Health Organization (WHO)",
+        "The Colorado Sun",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "ABC News - Breaking News, Latest News and Videos"
+        "CBC",
+        "The Source - Bend, Oregon",
+        "Forbes"
       ],
       "alertCount": 12
     },
@@ -142,6 +142,13 @@
       "lat": 6.42,
       "lng": -66.59,
       "alerts": [
+        {
+          "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
+          "published": "Tue, 21 Jul 2026 21:58:40 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhjNDdNaWVGeEZ6eTVzY3piWmpFdzhHMUFTbFF5UEIxSF9uVUYyUThzVmZTNUpHQmotYkpjaVhzX2l0X244M2FFNDBJeXBQYngyazQ3VlFUMUIwblhDTmhKT1VxYkFmMERRa0JESm5JMVREclg2ampCR1dUaHM2Z29GYTA?oc=5",
+          "summary": "Venezuela: Three people with confirmed hantavirus have died &nbsp;&nbsp; Outbreak News Today",
+          "source": "Outbreak News Today"
+        },
         {
           "title": "Hantavirus kills three in Venezuela - Medical Xpress",
           "published": "Tue, 21 Jul 2026 20:20:06 GMT",
@@ -193,15 +200,16 @@
         }
       ],
       "sources": [
-        "Latest news from Azerbaijan",
-        "Anadolu Ajans\u0131",
-        "Devdiscourse",
+        "GMA Network",
         "Informat.ro",
-        "The Independent",
         "Medical Xpress",
-        "GMA Network"
+        "Devdiscourse",
+        "Latest news from Azerbaijan",
+        "The Independent",
+        "Outbreak News Today",
+        "Anadolu Ajans\u0131"
       ],
-      "alertCount": 7
+      "alertCount": 8
     },
     {
       "country": "USA",
@@ -286,6 +294,13 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
       "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
       "source": "tristandc.com"
+    },
+    {
+      "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
+      "published": "Tue, 21 Jul 2026 21:58:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhjNDdNaWVGeEZ6eTVzY3piWmpFdzhHMUFTbFF5UEIxSF9uVUYyUThzVmZTNUpHQmotYkpjaVhzX2l0X244M2FFNDBJeXBQYngyazQ3VlFUMUIwblhDTmhKT1VxYkFmMERRa0JESm5JMVREclg2ampCR1dUaHM2Z29GYTA?oc=5",
+      "summary": "Venezuela: Three people with confirmed hantavirus have died &nbsp;&nbsp; Outbreak News Today",
+      "source": "Outbreak News Today"
     },
     {
       "title": "Hantavirus kills three in Venezuela - Medical Xpress",
@@ -461,13 +476,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
       "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak - USA Today",
-      "published": "Mon, 11 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkw0Z3hMY2lBdVlnQnRFaXNzNi1tZDVLU2RMZDVUNjRwY1BBaG90TVBMbWhPb0FmWDJ2eUNpZGlrenBDVUViWGJ3R2cxeDZrZDFaZ3ZiOW5MYkpZcWlUMHRCZG1QeGFhUV80RjZ1cjVNeXlHVklwU2JXc0lfTUNjcGxCSms0VUxFcDJuT0pHczNwUFVsYkRsZjN2SDdndENnVlIyTnU4aDNVejVueE1veXhXdG9EeVVpUjRadi0xSng3Qjg?oc=5",
-      "summary": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak &nbsp;&nbsp; USA Today",
-      "source": "USA Today"
     }
   ],
   "usHistoric": {
@@ -497,10 +505,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-21T21:32:34.184703Z",
+    "timestamp": "2026-07-21T22:34:09.228974Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
