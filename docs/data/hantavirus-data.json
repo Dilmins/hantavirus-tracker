@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T11:30:04.162235Z",
+  "lastUpdated": "2026-07-22T12:58:06.684441Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -86,13 +86,6 @@
           "source": "Caliber.Az"
         },
         {
-          "title": "Venezuela Confirms 3 Deaths from Hantavirus - VOI.ID",
-          "published": "Wed, 22 Jul 2026 04:21:52 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE80Y2doTUJkeUx6ZzVnNXZEekhmT3RZRkt0T3JoZ1g0a1dPcEhJOGluV1RYSXVCelo5aHlsakQyRkJVbG_SAUJBVV95cUxOVlQ1Z1pEdTRReUFZdHp4c210aFpFOWhuQWRUYjhYM2syM3N4aWJreG82a29xclo4eWxJUi1zSWhKUlE?oc=5",
-          "summary": "Venezuela Confirms 3 Deaths from Hantavirus &nbsp;&nbsp; VOI.ID",
-          "source": "VOI.ID"
-        },
-        {
           "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission - chinadailyasia.com",
           "published": "Wed, 22 Jul 2026 03:59:41 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dmYwaFlaZUw5YWRXb2RMTjFpQmhfZnEtbFlCMTNvVi1FMWVaeGFQVmFVYmxrczhnazlnM3pra3lQZmhISVdBT25IRHVoZWlKbGtMNVNFUG0?oc=5",
@@ -119,26 +112,33 @@
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uWHQxSmhMNVZYdVpWaDYzTEZJM0tvc25UdmRwLUhxbEljVzVWNWtYbUVGSWRvSndEZWpoMFhxLXBHaEVlLUxab1lXM2NYRkRSQVFQRjBXSEh0b1RSVE14VUFadGUzWTZzWVAtTnFxclBCc2hRbnc?oc=5",
           "summary": "Venezuela confirms three hantavirus deaths, says no sign of person-to-person spread &nbsp;&nbsp; AnewZ",
           "source": "AnewZ"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - The Press Democrat",
+          "published": "Tue, 21 Jul 2026 23:58:24 GMT",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdmZDelQycjNVcDBRR3Q3SVZjT21MejFKYmllU21faEJLYjdSQ0lrX1lZU1l1elQyXzNndVFEMDB6dVVVWlFIY2VXLWUtNXNsYmRjTW01NVUtbW9MMl8zNkVvMUZlOTZwMFhWaS1pMGxWSmZZMVVVTHoxLXNuNXl6ZUE0WklIVG5EeGdvRmtEY0R1SnAwNDRRQ3RFMmVCQQ?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; The Press Democrat",
+          "source": "The Press Democrat"
         }
       ],
       "sources": [
         "The Independent",
-        "Clinton Herald",
-        "AnewZ",
-        "BNO News",
+        "ABS-CBN",
         "news.cgtn.com",
-        "T\u00fcrkiye Today",
-        "Anadolu Ajans\u0131",
-        "Caliber.Az",
-        "VOI.ID",
-        "Temple Daily Telegram",
-        "AOL.com",
-        "Qazinform",
         "AP News",
+        "AOL.com",
         "The Press Democrat",
+        "Anadolu Ajans\u0131",
+        "Qazinform",
         "Ottumwa Courier",
+        "AnewZ",
+        "Oskaloosa Herald",
+        "Temple Daily Telegram",
         "chinadailyasia.com",
-        "ABS-CBN"
+        "Clinton Herald",
+        "T\u00fcrkiye Today",
+        "Caliber.Az",
+        "BNO News"
       ],
       "alertCount": 17
     },
@@ -212,15 +212,15 @@
         }
       ],
       "sources": [
-        "KDHE.ks.gov",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Forbes",
         "The Guardian",
-        "CNN",
-        "CIDRAP",
-        "PBS",
+        "KDHE.ks.gov",
+        "Forbes",
         "CBC",
-        "NBC News"
+        "NBC News",
+        "CNN",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "CIDRAP"
       ],
       "alertCount": 9
     },
@@ -323,13 +323,6 @@
       "source": "Caliber.Az"
     },
     {
-      "title": "Venezuela Confirms 3 Deaths from Hantavirus - VOI.ID",
-      "published": "Wed, 22 Jul 2026 04:21:52 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE80Y2doTUJkeUx6ZzVnNXZEekhmT3RZRkt0T3JoZ1g0a1dPcEhJOGluV1RYSXVCelo5aHlsakQyRkJVbG_SAUJBVV95cUxOVlQ1Z1pEdTRReUFZdHp4c210aFpFOWhuQWRUYjhYM2syM3N4aWJreG82a29xclo4eWxJUi1zSWhKUlE?oc=5",
-      "summary": "Venezuela Confirms 3 Deaths from Hantavirus &nbsp;&nbsp; VOI.ID",
-      "source": "VOI.ID"
-    },
-    {
       "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission - chinadailyasia.com",
       "published": "Wed, 22 Jul 2026 03:59:41 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dmYwaFlaZUw5YWRXb2RMTjFpQmhfZnEtbFlCMTNvVi1FMWVaeGFQVmFVYmxrczhnazlnM3pra3lQZmhISVdBT25IRHVoZWlKbGtMNVNFUG0?oc=5",
@@ -398,6 +391,13 @@
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONHI0Y3l3cFpEbjFkeGo1andhaFJSZlRXeHBmc0dQUEVjeFk5cmxqVmlQMzVoYVNMcnAzMG1ianA1ekZPUWhlRjhpRWpFRXhiSjVHLWpKT3JpRlNla2g5N3RzQ3F1cVF5bDVMUHJKcWszXzZEWlZ2MGlETnc2M1ZRbzVjamtxMFpZelp2c2hudWVNTHUyYXRhNFB1TVpDSmJrcEdsamdPU0pxN2U2NVNKM0dHdlpSaFdzSDdtM2VqOHRJWUtkR0hwSnBIcWxrWFNjOEpZQmxSUS1BSEZ1X0kxbFVZTDZJc1pIUjJydUx1WkRjV0ROOW5RakFLd05uWFNfZWd0Nmo2VUViX1VXRGJWX1BRM2FrMFdvdzZz?oc=5",
       "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Ottumwa Courier",
       "source": "Ottumwa Courier"
+    },
+    {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Oskaloosa Herald",
+      "published": "Tue, 21 Jul 2026 23:36:08 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTXVBd2JyZ3FPMW9IWkVIbWpBU0I2enZHcElvYy1WSjFxR3pKLWd2aFZlTUVNZHktR2VsT0FBXzF4OTFYMEFLVmtBUmlHdzJFN0ZDT01MSFJ2aUlDSnRPWjdvVmZaNkFiMFVIcS1mRWc2WWwzeUFLY1NLQUhZRHJ3a3JPTjg3dGI3ZElUYU9fUTFYek5XVlBnSWR2eGdkZkJTajJqQ0VwbVVQbWM4VmxQU1hLaUdRaTAwdzNFOURQS2RGbnYweVgyME1ZQVhiTUlhQzBNblBPaUpTQlc1ZENxRVNzN1JjeGo2VUVnOEl2VUFJRlMxcGJHbDQ3ZzVsY0JQcERENE9ObWZhOVlOaC1KWi1PV2E?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Oskaloosa Herald",
+      "source": "Oskaloosa Herald"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Temple Daily Telegram",
@@ -518,7 +518,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-22T11:30:04.162252Z",
+    "timestamp": "2026-07-22T12:58:06.684477Z",
     "who": 0,
     "promed": 0,
     "news": 38,
