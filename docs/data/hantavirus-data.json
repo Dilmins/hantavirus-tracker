@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-22T20:05:23.236320Z",
+  "lastUpdated": "2026-07-22T21:20:33.616567Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 40,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -72,18 +72,18 @@
           "source": "ET HealthWorld"
         },
         {
-          "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - AOL.com",
-          "published": "Wed, 22 Jul 2026 08:46:51 GMT",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkljMUpUODRZMTVJYlFtZVlEUzdBV25fNDRhc0ZYelZXZTI1R3hwSnRfRXNucHJfYTVSM2Z1dmMtam04YzlVVndwVUotcnBaQmRNV3BxUnU5cndTcGlqdU9PVjNydGpFQzRoaDhFT0Fid0xLMU9lMUI4Q2c4RGVJNFI3MUhVdw?oc=5",
-          "summary": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; AOL.com",
-          "source": "AOL.com"
-        },
-        {
           "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - The Independent",
           "published": "Wed, 22 Jul 2026 08:25:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlRKZms1eTNGLUxMQ1hjUXFuZE9MRHJyR1gtYmQweHJRdEJWZHFkMl8yVkVnVDZ3bktaUTVaRXNURkprRHZ4Z21OSXBVRHIySE4yb08tTC1jcUc0ZHg5R2pkLWpjaDZSMGFNX2ExNjhCblJndmxWZll2VkRfdFBPTl91eGpfVkxFY3poX1hDMXR6OVNlOFBob1N6N2s2aWdfZG5RT0V6SHlRbjg?oc=5",
           "summary": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; The Independent",
           "source": "The Independent"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Medical Xpress",
+          "published": "Wed, 22 Jul 2026 08:01:37 GMT",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBISmZVTHZwRmJzTWZzUWJQQlpwbUliTjluQ1NRUmp6SW1tSEZHOEdFZ2ZPNVhnd3FObkkyc1hXSjA1UXpZM0dhTGdZVGNnRWNUaEl3X1F2RU1VTWV4dms0NzlWMXdORmhNc0pHMVc0dGx2dw?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Medical Xpress",
+          "source": "Medical Xpress"
         },
         {
           "title": "Venezuela confirms 3 hantavirus deaths - T\u00fcrkiye Today",
@@ -122,24 +122,23 @@
         }
       ],
       "sources": [
-        "Orlando Sentinel",
-        "T\u00fcrkiye Today",
-        "AP News",
-        "ET HealthWorld",
-        "facebook.com",
-        "BNO News",
-        "Caliber.Az",
-        "The Independent",
-        "chinadailyasia.com",
-        "Anadolu Ajans\u0131",
         "ABS-CBN",
+        "chinadailyasia.com",
+        "Toronto Star",
+        "Caliber.Az",
+        "Anadolu Ajans\u0131",
+        "Medical Xpress",
         "Qazinform",
-        "Oskaloosa Herald",
+        "facebook.com",
+        "The Independent",
+        "AP News",
+        "T\u00fcrkiye Today",
+        "ET HealthWorld",
         "Ottumwa Courier",
-        "AOL.com",
-        "Clinton Herald"
+        "Clinton Herald",
+        "BNO News"
       ],
-      "alertCount": 16
+      "alertCount": 15
     },
     {
       "country": "Atlantic Ocean",
@@ -147,11 +146,18 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+          "title": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise - Newswise",
+          "published": "Wed, 22 Jul 2026 18:50:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbURTQnB6dy1IX0FCY083YXdDeW9xeTM2QWM1OFlCSXlKanVKVVQzQ0lNVEY2RnRaSWh5OXpENWZGN3BTWUcyb0gxVjU1TTNTWFBBYXQ0b3lMdmJsSXNnSWluWEZYOTR6M3MyS3NyUlVHcndBcjhxQXY3eHp0cExtRDVwenZ2VHE4R1c4WE5zUzRsbDRCY2hmWXVOc2JjWlZiZkZ6ZWw2RWJadm0wdlNUWnBEcUJZaGlVV204bUw0MXhCTVRPb1lmZm85Z0gzSzJSajNvYWtNVWNqTGRySUdqaTliaWNVUW1HU1QtWG9TeHpEaXFNYkplM29seGN4MWvSAf8BQVVfeXFMUG1EU0JwenctSF9BQmNPN2F3Q3lvcXkzNkFjNThZQkl5Smp1SlVUM0NJTVRGNkZ0WkloeTl6RDVmRjdwU1lHMm9IMVY1NU0zU1hQQWF0NG95THZibElzZ0lpblhGWDk0ejNzMktzclJVR3J3QXI4cUF2N3h6dHBMbUQ1cHp2dlRxOEdXOFhOc1M0bGw0QmNoZll1TnNiY1pWYmZGemVsNkViWnZtMHZTVFpwRHFCWWhpVVdtOG1MNDF4Qk1UT29ZZmZvOWdIM0syUmozb2FrTVVjakxkcklHamk5YmljVVFtR1NULVhvU3h6RGlxTWJKZTNvbHhjeDFr?oc=5",
+          "summary": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise &nbsp;&nbsp; Newswise",
+          "source": "Newswise"
+        },
+        {
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-          "source": "KDHE.ks.gov"
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
+          "source": "KDHE (.gov)"
         },
         {
           "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
@@ -204,16 +210,17 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "CBC",
+        "Newswise",
         "American Hospital Association",
-        "KDHE.ks.gov",
-        "Forbes",
-        "The Source - Bend, Oregon",
+        "KDHE (.gov)",
         "The Guardian",
-        "CNN"
+        "Forbes",
+        "CBC",
+        "CNN",
+        "The Source - Bend, Oregon",
+        "CIDRAP"
       ],
-      "alertCount": 8
+      "alertCount": 9
     },
     {
       "country": "USA",
@@ -279,6 +286,13 @@
       "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
     },
     {
+      "title": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise - Newswise",
+      "published": "Wed, 22 Jul 2026 18:50:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbURTQnB6dy1IX0FCY083YXdDeW9xeTM2QWM1OFlCSXlKanVKVVQzQ0lNVEY2RnRaSWh5OXpENWZGN3BTWUcyb0gxVjU1TTNTWFBBYXQ0b3lMdmJsSXNnSWluWEZYOTR6M3MyS3NyUlVHcndBcjhxQXY3eHp0cExtRDVwenZ2VHE4R1c4WE5zUzRsbDRCY2hmWXVOc2JjWlZiZkZ6ZWw2RWJadm0wdlNUWnBEcUJZaGlVV204bUw0MXhCTVRPb1lmZm85Z0gzSzJSajNvYWtNVWNqTGRySUdqaTliaWNVUW1HU1QtWG9TeHpEaXFNYkplM29seGN4MWvSAf8BQVVfeXFMUG1EU0JwenctSF9BQmNPN2F3Q3lvcXkzNkFjNThZQkl5Smp1SlVUM0NJTVRGNkZ0WkloeTl6RDVmRjdwU1lHMm9IMVY1NU0zU1hQQWF0NG95THZibElzZ0lpblhGWDk0ejNzMktzclJVR3J3QXI4cUF2N3h6dHBMbUQ1cHp2dlRxOEdXOFhOc1M0bGw0QmNoZll1TnNiY1pWYmZGemVsNkViWnZtMHZTVFpwRHFCWWhpVVdtOG1MNDF4Qk1UT29ZZmZvOWdIM0syUmozb2FrTVVjakxkcklHamk5YmljVVFtR1NULVhvU3h6RGlxTWJKZTNvbHhjeDFr?oc=5",
+      "summary": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise &nbsp;&nbsp; Newswise",
+      "source": "Newswise"
+    },
+    {
       "title": "CDC cuts leave US less prepared for disease outbreaks, former officials warn - The Guardian",
       "published": "Wed, 22 Jul 2026 17:14:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk9xeHl6Qlg3MVlNZTZDQ1ZwZTlZZWFGdXdMQkt5aTlIckhyU25ERFU3TlJaWDQyUVZReFRhbnV5Z0Jqb09MbDZuOVR1R0dQV1hwOFJxSHQwd0ZpYVNmTXg0dFZnbDdGN0FNSGprUjF5Um1UVmhvdU5MbF9tTlcxR29KN1pRbEhvZ0Y3dzBrbE9YbDJFSzgtanRQYXdSVEF0am5VT010aw?oc=5",
@@ -321,18 +335,18 @@
       "source": "ET HealthWorld"
     },
     {
-      "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - AOL.com",
-      "published": "Wed, 22 Jul 2026 08:46:51 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkljMUpUODRZMTVJYlFtZVlEUzdBV25fNDRhc0ZYelZXZTI1R3hwSnRfRXNucHJfYTVSM2Z1dmMtam04YzlVVndwVUotcnBaQmRNV3BxUnU5cndTcGlqdU9PVjNydGpFQzRoaDhFT0Fid0xLMU9lMUI4Q2c4RGVJNFI3MUhVdw?oc=5",
-      "summary": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; AOL.com",
-      "source": "AOL.com"
-    },
-    {
       "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - The Independent",
       "published": "Wed, 22 Jul 2026 08:25:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlRKZms1eTNGLUxMQ1hjUXFuZE9MRHJyR1gtYmQweHJRdEJWZHFkMl8yVkVnVDZ3bktaUTVaRXNURkprRHZ4Z21OSXBVRHIySE4yb08tTC1jcUc0ZHg5R2pkLWpjaDZSMGFNX2ExNjhCblJndmxWZll2VkRfdFBPTl91eGpfVkxFY3poX1hDMXR6OVNlOFBob1N6N2s2aWdfZG5RT0V6SHlRbjg?oc=5",
       "summary": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; The Independent",
       "source": "The Independent"
+    },
+    {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Medical Xpress",
+      "published": "Wed, 22 Jul 2026 08:01:37 GMT",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBISmZVTHZwRmJzTWZzUWJQQlpwbUliTjluQ1NRUmp6SW1tSEZHOEdFZ2ZPNVhnd3FObkkyc1hXSjA1UXpZM0dhTGdZVGNnRWNUaEl3X1F2RU1VTWV4dms0NzlWMXdORmhNc0pHMVc0dGx2dw?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths - T\u00fcrkiye Today",
@@ -384,18 +398,11 @@
       "source": "tristandc.com"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE (.gov)",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-      "source": "KDHE.ks.gov"
-    },
-    {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Orlando Sentinel",
-      "published": "Tue, 21 Jul 2026 23:57:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1ZUOEJBRjBDWDVlNnk3bTVUR1VFNFJ3MU5UVjlWMmp2dDFTQU1ReU5KMU9lRUVFeEZ6ZXBhTmZNSkdWb1R1dmp2bVN6eDMzYUh5WThEeV80TnNMVDM2aXJKbm9LZG1EU2lLRF9vRldQd01QX21objQwYXQ5WWJzWFRxUjRXUEFZTi1reDlGeFBpQk9PLVdvV2tuaTROcmoz?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Orlando Sentinel",
-      "source": "Orlando Sentinel"
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE (.gov)",
+      "source": "KDHE (.gov)"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Clinton Herald",
@@ -412,18 +419,18 @@
       "source": "Ottumwa Courier"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Oskaloosa Herald",
-      "published": "Tue, 21 Jul 2026 23:36:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTXVBd2JyZ3FPMW9IWkVIbWpBU0I2enZHcElvYy1WSjFxR3pKLWd2aFZlTUVNZHktR2VsT0FBXzF4OTFYMEFLVmtBUmlHdzJFN0ZDT01MSFJ2aUlDSnRPWjdvVmZaNkFiMFVIcS1mRWc2WWwzeUFLY1NLQUhZRHJ3a3JPTjg3dGI3ZElUYU9fUTFYek5XVlBnSWR2eGdkZkJTajJqQ0VwbVVQbWM4VmxQU1hLaUdRaTAwdzNFOURQS2RGbnYweVgyME1ZQVhiTUlhQzBNblBPaUpTQlc1ZENxRVNzN1JjeGo2VUVnOEl2VUFJRlMxcGJHbDQ3ZzVsY0JQcERENE9ObWZhOVlOaC1KWi1PV2E?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Oskaloosa Herald",
-      "source": "Oskaloosa Herald"
-    },
-    {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
       "published": "Tue, 21 Jul 2026 23:36:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
       "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
       "source": "AP News"
+    },
+    {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Toronto Star",
+      "published": "Tue, 21 Jul 2026 23:22:15 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUzdIUXdzOEhqckprdkUzb2w4UVVKel81Ylk2MGRMQ3VxNzRtRmFHWTBPTTFsZ1pmeU9WbFVHZG5NbDFsZjBFWkdWUzJGU1RuRjlSd1ZqOWxraGZIN3FEUUxsdTV5NmJvOGM4eG9uZHJhamdtV25oNlNoNHRHMDJFVXMwVXZVal9ZWHZWMWxzcDVTcUM0d2ZkdGNwNWVOYXpoaUxaLXhDYjN0V3NncE1FY0NoZF9ETEFnYWNWZVNWa1FOT21YdnlfRmpEbkJMaGJNeFBRNHF4b2JCTXk2c1NJd1Z6ZzdWUE1pZzZJWE1YZkFxVGFnNUZjbUoxYmdoWHlhWThSNnZXMA?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Toronto Star",
+      "source": "Toronto Star"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
@@ -509,10 +516,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-22T20:05:23.236333Z",
+    "timestamp": "2026-07-22T21:20:33.616584Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
