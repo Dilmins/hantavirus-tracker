@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-22T22:31:06.082434Z",
+  "lastUpdated": "2026-07-22T23:37:44.493983Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 37,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -50,13 +50,6 @@
       "lat": 6.42,
       "lng": -66.59,
       "alerts": [
-        {
-          "title": "At least three people in Venezuela died after contracting hantavirus, the health ministry said, as it ruled out human-to-human transmission of the rare disease. | via ANC 24/7 Link to full story in comment section. - facebook.com",
-          "published": "Wed, 22 Jul 2026 17:00:14 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEtoY1NwbGxVTzVKenZPRkJ0WTI3NGdfS0FrV3JJX1NMTnVnMzJQb0d1YWNFcjJTVi11MERrRDBMMGYtbG1CbGlkVHhoUXhhamlLVlI2WFM2Y1hjUXltZ0M4Qmhydmo1SGRFT1FaSUIxbzhIcWU4YUFQYjc3SUZJNXNDVXJySnJlaWZBd09IWWZFbE1NTFdlTEZUSlpDZWszR1BTLTZPdUprWU1rdTdISFgwcHYtTWFIRlhuTktFMnI5SVZIRkk1Y2hYZ0FhaXc0ZzFJdG4tNA?oc=5",
-          "summary": "At least three people in Venezuela died after contracting hantavirus, the health ministry said, as it ruled out human-to-human transmission of the rare disease. | via ANC 24/7 Link to full story in comment section. &nbsp;&nbsp; facebook.com",
-          "source": "facebook.com"
-        },
         {
           "title": "Venezuela confirms three hantavirus deaths, rules out human-to-human transmission - Qazinform",
           "published": "Wed, 22 Jul 2026 10:43:54 GMT",
@@ -119,26 +112,32 @@
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0J6TGxWamdYYjE0NkdDX200SHA5N2tqSERmdlFGN3UzS2pGOHVzSTloUEpSNzJIc1hYUWxUM2NZUEFpdm85YTd0YnpCOE1Ia3lRX1BXWjc4UFVCZ1JOeUF3dHB5ZzZyOUs2REh4dG0xQ3lWc1QzS3BXVzBDLW1LY3FfSkxxNWExbXR4cVlJeW1tXzlEUjZGaVZ3?oc=5",
           "summary": "Hantavirus kills three in Venezuela &nbsp;&nbsp; ABS-CBN",
           "source": "ABS-CBN"
+        },
+        {
+          "title": "3 killed by hantavirus in Venezuela - BNO News",
+          "published": "Wed, 22 Jul 2026 01:37:07 GMT",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
+          "summary": "3 killed by hantavirus in Venezuela &nbsp;&nbsp; BNO News",
+          "source": "BNO News"
         }
       ],
       "sources": [
-        "chinadailyasia.com",
+        "Anadolu Ajans\u0131",
         "ABC News - Breaking News, Latest News and Videos",
-        "T\u00fcrkiye Today",
-        "Qazinform",
-        "The Independent",
-        "BNO News",
-        "facebook.com",
-        "ET HealthWorld",
+        "ABS-CBN",
         "Clinton Herald",
         "AP News",
-        "ABS-CBN",
+        "Qazinform",
+        "AOL.com",
+        "ET HealthWorld",
+        "T\u00fcrkiye Today",
+        "The Independent",
         "Caliber.Az",
-        "Ottumwa Courier",
-        "Anadolu Ajans\u0131",
-        "AOL.com"
+        "BNO News",
+        "chinadailyasia.com",
+        "Ottumwa Courier"
       ],
-      "alertCount": 15
+      "alertCount": 14
     },
     {
       "country": "Atlantic Ocean",
@@ -203,14 +202,14 @@
         }
       ],
       "sources": [
-        "KDHE (.gov)",
-        "The Source - Bend, Oregon",
         "CBC",
-        "Newswise",
-        "Forbes",
+        "The Source - Bend, Oregon",
         "CIDRAP",
+        "CNN",
+        "KDHE (.gov)",
+        "Newswise",
         "The Guardian",
-        "CNN"
+        "Forbes"
       ],
       "alertCount": 8
     },
@@ -297,13 +296,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYk9xeHl6Qlg3MVlNZTZDQ1ZwZTlZZWFGdXdMQkt5aTlIckhyU25ERFU3TlJaWDQyUVZReFRhbnV5Z0Jqb09MbDZuOVR1R0dQV1hwOFJxSHQwd0ZpYVNmTXg0dFZnbDdGN0FNSGprUjF5Um1UVmhvdU5MbF9tTlcxR29KN1pRbEhvZ0Y3dzBrbE9YbDJFSzgtanRQYXdSVEF0am5VT010aw?oc=5",
       "summary": "CDC cuts leave US less prepared for disease outbreaks, former officials warn &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
-    },
-    {
-      "title": "At least three people in Venezuela died after contracting hantavirus, the health ministry said, as it ruled out human-to-human transmission of the rare disease. | via ANC 24/7 Link to full story in comment section. - facebook.com",
-      "published": "Wed, 22 Jul 2026 17:00:14 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEtoY1NwbGxVTzVKenZPRkJ0WTI3NGdfS0FrV3JJX1NMTnVnMzJQb0d1YWNFcjJTVi11MERrRDBMMGYtbG1CbGlkVHhoUXhhamlLVlI2WFM2Y1hjUXltZ0M4Qmhydmo1SGRFT1FaSUIxbzhIcWU4YUFQYjc3SUZJNXNDVXJySnJlaWZBd09IWWZFbE1NTFdlTEZUSlpDZWszR1BTLTZPdUprWU1rdTdISFgwcHYtTWFIRlhuTktFMnI5SVZIRkk1Y2hYZ0FhaXc0ZzFJdG4tNA?oc=5",
-      "summary": "At least three people in Venezuela died after contracting hantavirus, the health ministry said, as it ruled out human-to-human transmission of the rare disease. | via ANC 24/7 Link to full story in comment section. &nbsp;&nbsp; facebook.com",
-      "source": "facebook.com"
     },
     {
       "title": "US Passengers Describe Their Days in Hantavirus Quarantine - Newser",
@@ -479,6 +471,13 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
       "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
+    },
+    {
+      "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "published": "Mon, 20 Jul 2026 20:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5",
+      "summary": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "source": "The Source - Bend, Oregon"
     }
   ],
   "usHistoric": {
@@ -508,10 +507,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-22T22:31:06.082451Z",
+    "timestamp": "2026-07-22T23:37:44.493998Z",
     "who": 0,
     "promed": 0,
-    "news": 37,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
