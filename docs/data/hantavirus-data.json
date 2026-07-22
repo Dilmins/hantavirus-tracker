@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T18:55:36.087067Z",
+  "lastUpdated": "2026-07-22T20:05:23.236320Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,25 +122,24 @@
         }
       ],
       "sources": [
-        "Caliber.Az",
-        "ET HealthWorld",
-        "Qazinform",
-        "ABS-CBN",
-        "The Independent",
         "Orlando Sentinel",
-        "chinadailyasia.com",
-        "AP News",
-        "Outbreak News Today",
         "T\u00fcrkiye Today",
-        "BNO News",
+        "AP News",
+        "ET HealthWorld",
         "facebook.com",
-        "Clinton Herald",
+        "BNO News",
+        "Caliber.Az",
+        "The Independent",
+        "chinadailyasia.com",
+        "Anadolu Ajans\u0131",
+        "ABS-CBN",
+        "Qazinform",
         "Oskaloosa Herald",
         "Ottumwa Courier",
         "AOL.com",
-        "Anadolu Ajans\u0131"
+        "Clinton Herald"
       ],
-      "alertCount": 17
+      "alertCount": 16
     },
     {
       "country": "Atlantic Ocean",
@@ -205,14 +204,14 @@
         }
       ],
       "sources": [
+        "CIDRAP",
+        "CBC",
+        "American Hospital Association",
+        "KDHE.ks.gov",
         "Forbes",
         "The Source - Bend, Oregon",
         "The Guardian",
-        "KDHE.ks.gov",
-        "CNN",
-        "CIDRAP",
-        "American Hospital Association",
-        "CBC"
+        "CNN"
       ],
       "alertCount": 8
     },
@@ -427,13 +426,6 @@
       "source": "AP News"
     },
     {
-      "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
-      "published": "Tue, 21 Jul 2026 21:58:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhjNDdNaWVGeEZ6eTVzY3piWmpFdzhHMUFTbFF5UEIxSF9uVUYyUThzVmZTNUpHQmotYkpjaVhzX2l0X244M2FFNDBJeXBQYngyazQ3VlFUMUIwblhDTmhKT1VxYkFmMERRa0JESm5JMVREclg2ampCR1dUaHM2Z29GYTA?oc=5",
-      "summary": "Venezuela: Three people with confirmed hantavirus have died &nbsp;&nbsp; Outbreak News Today",
-      "source": "Outbreak News Today"
-    },
-    {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
       "published": "Tue, 21 Jul 2026 17:59:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
@@ -481,6 +473,13 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
       "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; Time Magazine",
       "source": "Time Magazine"
+    },
+    {
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
+      "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+      "source": "Forbes"
     }
   ],
   "usHistoric": {
@@ -510,7 +509,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-22T18:55:36.087082Z",
+    "timestamp": "2026-07-22T20:05:23.236333Z",
     "who": 0,
     "promed": 0,
     "news": 40,
