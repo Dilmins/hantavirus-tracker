@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-23T04:29:47.769550Z",
+  "lastUpdated": "2026-07-23T07:05:46.820674Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 37,
+  "newsCount": 38,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -72,13 +72,6 @@
           "source": "T\u00fcrkiye Today"
         },
         {
-          "title": "Venezuela confirms three hantavirus deaths - Caliber.Az",
-          "published": "Wed, 22 Jul 2026 06:15:34 GMT",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jTWxja2dNeFBVYVA5NnViV05MakNYbVBmLTF0QkUxT1NZWlE5aGY3azJNOXgxZ3pXNlpUUDg1UVA2VmpURHlTbWI4U0xrVjZzQ2dTUVRGLTN1TmgzRFNjTmVUd2FnM19YTjJWZThuSG90dU15TmRnUA?oc=5",
-          "summary": "Venezuela confirms three hantavirus deaths &nbsp;&nbsp; Caliber.Az",
-          "source": "Caliber.Az"
-        },
-        {
           "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission - chinadailyasia.com",
           "published": "Wed, 22 Jul 2026 03:59:41 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dmYwaFlaZUw5YWRXb2RMTjFpQmhfZnEtbFlCMTNvVi1FMWVaeGFQVmFVYmxrczhnazlnM3pra3lQZmhISVdBT25IRHVoZWlKbGtMNVNFUG0?oc=5",
@@ -119,22 +112,29 @@
           "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONHI0Y3l3cFpEbjFkeGo1andhaFJSZlRXeHBmc0dQUEVjeFk5cmxqVmlQMzVoYVNMcnAzMG1ianA1ekZPUWhlRjhpRWpFRXhiSjVHLWpKT3JpRlNla2g5N3RzQ3F1cVF5bDVMUHJKcWszXzZEWlZ2MGlETnc2M1ZRbzVjamtxMFpZelp2c2hudWVNTHUyYXRhNFB1TVpDSmJrcEdsamdPU0pxN2U2NVNKM0dHdlpSaFdzSDdtM2VqOHRJWUtkR0hwSnBIcWxrWFNjOEpZQmxSUS1BSEZ1X0kxbFVZTDZJc1pIUjJydUx1WkRjV0ROOW5RakFLd05uWFNfZWd0Nmo2VUViX1VXRGJWX1BRM2FrMFdvdzZz?oc=5",
           "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Ottumwa Courier",
           "source": "Ottumwa Courier"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Oskaloosa Herald",
+          "published": "Tue, 21 Jul 2026 23:36:08 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTXVBd2JyZ3FPMW9IWkVIbWpBU0I2enZHcElvYy1WSjFxR3pKLWd2aFZlTUVNZHktR2VsT0FBXzF4OTFYMEFLVmtBUmlHdzJFN0ZDT01MSFJ2aUlDSnRPWjdvVmZaNkFiMFVIcS1mRWc2WWwzeUFLY1NLQUhZRHJ3a3JPTjg3dGI3ZElUYU9fUTFYek5XVlBnSWR2eGdkZkJTajJqQ0VwbVVQbWM4VmxQU1hLaUdRaTAwdzNFOURQS2RGbnYweVgyME1ZQVhiTUlhQzBNblBPaUpTQlc1ZENxRVNzN1JjeGo2VUVnOEl2VUFJRlMxcGJHbDQ3ZzVsY0JQcERENE9ObWZhOVlOaC1KWi1PV2E?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Oskaloosa Herald",
+          "source": "Oskaloosa Herald"
         }
       ],
       "sources": [
-        "Toronto Star",
-        "Clinton Herald",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Caliber.Az",
+        "ET HealthWorld",
+        "AP News",
+        "T\u00fcrkiye Today",
         "chinadailyasia.com",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Toronto Star",
         "Ottumwa Courier",
         "Oskaloosa Herald",
-        "Qazinform",
+        "Latest news from Azerbaijan",
         "BNO News",
         "Anadolu Ajans\u0131",
-        "ET HealthWorld",
-        "T\u00fcrkiye Today",
-        "AP News"
+        "Qazinform",
+        "Clinton Herald"
       ],
       "alertCount": 13
     },
@@ -201,14 +201,14 @@
         }
       ],
       "sources": [
-        "CBC",
-        "KDHE (.gov)",
         "The Source - Bend, Oregon",
-        "The Guardian",
+        "KDHE (.gov)",
+        "CBC",
+        "CNN",
         "Forbes",
+        "The Guardian",
         "Newswise",
-        "CIDRAP",
-        "CNN"
+        "CIDRAP"
       ],
       "alertCount": 8
     },
@@ -277,11 +277,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
     },
     {
       "title": "2026 News - Maryland School of Medicine",
@@ -305,13 +305,6 @@
       "source": "Newser"
     },
     {
-      "title": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters - Medical Daily",
-      "published": "Wed, 22 Jul 2026 13:00:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1BQZkswSy1ObG8yY0pKQk9nSnVJb0tMRDk0S3l5MFpvRExpMnRxZTJHVF90WG5iQmVxWmlabnBsTkNUaDdiRHRsMVd4MWI4S19rVnpwc0dUMnpDMlItS1E0dEFMV1p6aVJUa0dUQVJmeDR3a2UybGNyZ0hXdW05Uk5pWlBGOFFaTGFDN0o3WXV4eXdDTVFrZGRicnZWeUIxT0M5RU1B?oc=5",
-      "summary": "CDC Warns Ebola and Hantavirus Can Both Start Like the Flu: Why Early Diagnosis Matters &nbsp;&nbsp; Medical Daily",
-      "source": "Medical Daily"
-    },
-    {
       "title": "Venezuela confirms three hantavirus deaths, rules out human-to-human transmission - Qazinform",
       "published": "Wed, 22 Jul 2026 10:43:54 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnJTbE43d0lyVlNBTk45MU5tcU5oUlZPNERnWnlJVG05aElKbkxiSUR6anI3OFR4TGJXdE9zdU9rUE1WNkNZTm85bG9XR0tzYXp5YUZYZXJ3QXJOd0tFZTVmU05VUGNjbzRiRzJtbno3Y1ZhbEpPaE5VbDJ6b1VjSW90cDVGcFJDNHZVZ0plYktjTGZUN2NmeGpZVGo4dlZ6bVRPYy1wMFc5OGQyS1NHQUotUGzSAbQBQVVfeXFMT2pkSGV5SzRwbFZGU1I0TDVCdnFqazZKZmFWaXBIZTF6ZDZCSmc0dHZ2dkxjMUNrUVQyTFN3X0g4cEF1XzJGVUxpVUlyY0wwQUJCeWZ3cjBPa3I1OTBidGY5cnB0R2VvX2pBaDhuV0doU2MwRVYwYllISF9yY0ZVNFlzMzFSZTFZWFBqUWV6aGtPUmY0NWJaVVFUcVdFdjRVTVRVRDU0TlROWXFZUi0wSTAtNW5f?oc=5",
@@ -331,13 +324,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBqSG1Mc3hIQzBrZU00eDlFZUtPYzNQMHdpQ1RfRnRUWGpWWXFiVkk5anhnU3dia3hNLXZJODdEcmZJak81alE3TlNkSHBKcjNDOXJ3dUswRmpBTnh4eExFTzVLek85eDJTTFpqZGRHYWdUR1VBZ1A2NHQ1WlctV2hsWTNQRmw0?oc=5",
       "summary": "Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; T\u00fcrkiye Today",
       "source": "T\u00fcrkiye Today"
-    },
-    {
-      "title": "Venezuela confirms three hantavirus deaths - Caliber.Az",
-      "published": "Wed, 22 Jul 2026 06:15:34 GMT",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jTWxja2dNeFBVYVA5NnViV05MakNYbVBmLTF0QkUxT1NZWlE5aGY3azJNOXgxZ3pXNlpUUDg1UVA2VmpURHlTbWI4U0xrVjZzQ2dTUVRGLTN1TmgzRFNjTmVUd2FnM19YTjJWZThuSG90dU15TmRnUA?oc=5",
-      "summary": "Venezuela confirms three hantavirus deaths &nbsp;&nbsp; Caliber.Az",
-      "source": "Caliber.Az"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths, rules out person-to-person transmission - chinadailyasia.com",
@@ -373,6 +359,13 @@
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
       "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
       "source": "The New England Journal of Medicine"
+    },
+    {
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
@@ -417,6 +410,13 @@
       "source": "Toronto Star"
     },
     {
+      "title": "Outbreak could be worse: Venezuela confirms 3 hantavirus deaths - Latest news from Azerbaijan",
+      "published": "Tue, 21 Jul 2026 19:53:40 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUEN5SjhEWTRYS0l0N3pHcVBwd3B5SldpbVhSSWNuMG15N1AyeTZ1WnZlZVhJeXZnaURMUUxhbjRpOVktYTNOM2FaQ0JOWWo4bGJ5aUxHVUN6dWk3Qkowc01peE1BZ2pZNHhjbGtPLXJ1WVlHZ0FNQmZqTTByUTM0c2swOUJ0X1JYY3B3?oc=5",
+      "summary": "Outbreak could be worse: Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; Latest news from Azerbaijan",
+      "source": "Latest news from Azerbaijan"
+    },
+    {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
       "published": "Tue, 21 Jul 2026 17:59:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
@@ -459,6 +459,13 @@
       "source": "Boston University"
     },
     {
+      "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
+      "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; Time Magazine",
+      "source": "Time Magazine"
+    },
+    {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
@@ -478,13 +485,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5",
       "summary": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
       "source": "The Source - Bend, Oregon"
-    },
-    {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "published": "Mon, 20 Jul 2026 18:41:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
     }
   ],
   "usHistoric": {
@@ -514,10 +514,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-23T04:29:47.769563Z",
+    "timestamp": "2026-07-23T07:05:46.820691Z",
     "who": 0,
     "promed": 0,
-    "news": 37,
+    "news": 38,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
