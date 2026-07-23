@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T13:00:50.879639Z",
+  "lastUpdated": "2026-07-23T15:09:01.765235Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -123,16 +123,16 @@
       ],
       "sources": [
         "ET HealthWorld",
-        "ABC News - Breaking News, Latest News and Videos",
-        "AP News",
-        "Qazinform",
-        "T\u00fcrkiye Today",
-        "Anadolu Ajans\u0131",
-        "BNO News",
-        "Latest news from Azerbaijan",
-        "ABS-CBN",
-        "Clinton Herald",
         "Toronto Star",
+        "Qazinform",
+        "Anadolu Ajans\u0131",
+        "ABS-CBN",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Clinton Herald",
+        "AP News",
+        "Latest news from Azerbaijan",
+        "BNO News",
+        "T\u00fcrkiye Today",
         "Ottumwa Courier"
       ],
       "alertCount": 12
@@ -201,13 +201,13 @@
       ],
       "sources": [
         "CIDRAP",
-        "The Source - Bend, Oregon",
-        "Newswise",
         "KDHE (.gov)",
-        "CBC",
         "The Colorado Sun",
+        "Newswise",
         "The Guardian",
-        "Forbes"
+        "The Source - Bend, Oregon",
+        "Forbes",
+        "CBC"
       ],
       "alertCount": 8
     },
@@ -513,7 +513,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-23T13:00:50.879654Z",
+    "timestamp": "2026-07-23T15:09:01.765247Z",
     "who": 0,
     "promed": 0,
     "news": 37,
