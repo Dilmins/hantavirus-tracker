@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T20:39:39.170244Z",
+  "lastUpdated": "2026-07-24T21:43:12.994929Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,20 @@
         }
       ],
       "sources": [
-        "AP News",
+        "Anadolu Ajans\u0131",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BNO News",
         "Clinton Herald",
         "T\u00fcrkiye Today",
-        "Ottumwa Courier",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Anadolu Ajans\u0131",
-        "Qazinform",
-        "Yahoo News New Zealand",
         "Toronto Star",
-        "BNO News",
-        "ET HealthWorld"
+        "Caracas Chronicles",
+        "Ottumwa Courier",
+        "Yahoo News New Zealand",
+        "AP News",
+        "ET HealthWorld",
+        "Qazinform"
       ],
-      "alertCount": 11
+      "alertCount": 12
     },
     {
       "country": "Atlantic Ocean",
@@ -189,26 +190,18 @@
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYVg4TUFTUVl2RmhZQWp5ck44dzVLY044RVg1bkpXa0NhOVhIS3dDczRkNU52UG9sdERXX3liTWxiam1aOGZzWmVLUXZVNHN5MXB2VWZRVjFCV0lTeWk2Q3E4UTdKNnhTWTlRemRIbE1DQXMyV3FSdWNERlhqTl9ycQ?oc=5",
           "summary": "Some hantavirus-exposed cruise ship passengers return home to finish quarantine &nbsp;&nbsp; CNN",
           "source": "CNN"
-        },
-        {
-          "title": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days - ABC News - Breaking News, Latest News and Videos",
-          "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTlB5M0NuMVRROTM2cmVCenV4TW54UXM5ajBlSWVRRVd3bV9YMm01TkhrcTZrOWlqS204dkpfWmE3Sk9XRkVlclFOelVsNDAzeTVjMXNHV0t6d0NvWFl5T2pQVDV5V28wdlJ6c1NLZ0Fxa3h3dHNzMUVtT3hpRUZZR3FzaFdjbDEweUoxanBFZE9NdWZnMGJRVUMtbWJfUzdUSGVNRTZCeUZCYkVFUDJJ0gG0AUFVX3lxTE1TcTA4Y0hNUjA3MmkwUlYtY00wRzdSOW1ZMW5EQ25iUnBCTlc2TllEWjRJRnMtM0p2UFlJcVhVOWltcWVCSVZuYktIREFzNFNXSEd0WmdjM2dvMm9MWXM3R1J2alRNQ0E2SndoSFJ6SVZvNktYeXI1cGo0ZVNiUGtMYlRJc3V4czk5VTRmdjU1R3BmYlVobGhBaDRzbDBqVURVc0ZmalJFczJtbTBUSnZQQmVtTA?oc=5",
-          "summary": "US cruise passenger quarantining for hantavirus says he will remain in Nebraska for full 42 days &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ],
       "sources": [
-        "KDHE.ks.gov",
-        "CIDRAP",
-        "The Guardian",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Forbes",
-        "CBC",
         "Newswise",
-        "CNN"
+        "The Guardian",
+        "CNN",
+        "CIDRAP",
+        "Forbes",
+        "KDHE.ks.gov",
+        "CBC"
       ],
-      "alertCount": 8
+      "alertCount": 7
     },
     {
       "country": "USA",
@@ -512,7 +505,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-24T20:39:39.170259Z",
+    "timestamp": "2026-07-24T21:43:12.994942Z",
     "who": 0,
     "promed": 0,
     "news": 37,
