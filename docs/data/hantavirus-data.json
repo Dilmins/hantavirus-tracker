@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T07:06:03.420574Z",
+  "lastUpdated": "2026-07-24T09:31:01.468685Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -79,13 +79,6 @@
           "source": "T\u00fcrkiye Today"
         },
         {
-          "title": "Hantavirus kills three in Venezuela - ABS-CBN",
-          "published": "Wed, 22 Jul 2026 01:51:55 GMT",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0J6TGxWamdYYjE0NkdDX200SHA5N2tqSERmdlFGN3UzS2pGOHVzSTloUEpSNzJIc1hYUWxUM2NZUEFpdm85YTd0YnpCOE1Ia3lRX1BXWjc4UFVCZ1JOeUF3dHB5ZzZyOUs2REh4dG0xQ3lWc1QzS3BXVzBDLW1LY3FfSkxxNWExbXR4cVlJeW1tXzlEUjZGaVZ3?oc=5",
-          "summary": "Hantavirus kills three in Venezuela &nbsp;&nbsp; ABS-CBN",
-          "source": "ABS-CBN"
-        },
-        {
           "title": "3 killed by hantavirus in Venezuela - BNO News",
           "published": "Wed, 22 Jul 2026 01:37:07 GMT",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
@@ -119,23 +112,29 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
           "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
           "source": "AP News"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Toronto Star",
+          "published": "Tue, 21 Jul 2026 23:22:15 GMT",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUzdIUXdzOEhqckprdkUzb2w4UVVKel81Ylk2MGRMQ3VxNzRtRmFHWTBPTTFsZ1pmeU9WbFVHZG5NbDFsZjBFWkdWUzJGU1RuRjlSd1ZqOWxraGZIN3FEUUxsdTV5NmJvOGM4eG9uZHJhamdtV25oNlNoNHRHMDJFVXMwVXZVal9ZWHZWMWxzcDVTcUM0d2ZkdGNwNWVOYXpoaUxaLXhDYjN0V3NncE1FY0NoZF9ETEFnYWNWZVNWa1FOT21YdnlfRmpEbkJMaGJNeFBRNHF4b2JCTXk2c1NJd1Z6ZzdWUE1pZzZJWE1YZkFxVGFnNUZjbUoxYmdoWHlhWThSNnZXMA?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Toronto Star",
+          "source": "Toronto Star"
         }
       ],
       "sources": [
+        "ET HealthWorld",
+        "AP News",
         "BNO News",
-        "Qazinform",
+        "T\u00fcrkiye Today",
+        "Anadolu Ajans\u0131",
+        "Toronto Star",
+        "Clinton Herald",
         "Los Angeles Times",
         "Orlando Sentinel",
-        "AP News",
-        "Anadolu Ajans\u0131",
-        "ET HealthWorld",
-        "ABS-CBN",
         "Ottumwa Courier",
-        "Toronto Star",
-        "T\u00fcrkiye Today",
-        "Clinton Herald"
+        "Qazinform"
       ],
-      "alertCount": 12
+      "alertCount": 11
     },
     {
       "country": "Atlantic Ocean",
@@ -214,18 +213,19 @@
         }
       ],
       "sources": [
-        "American Hospital Association",
-        "KDHE.ks.gov",
-        "CNN",
+        "ABC News - Breaking News, Latest News and Videos",
         "Newswise",
-        "Forbes",
+        "KDHE.ks.gov",
+        "The Guardian",
         "CBC",
-        "The Colorado Sun",
-        "CIDRAP",
+        "CNN",
+        "Forbes",
         "The Source - Bend, Oregon",
-        "The Guardian"
+        "The Colorado Sun",
+        "American Hospital Association",
+        "CIDRAP"
       ],
-      "alertCount": 10
+      "alertCount": 11
     },
     {
       "country": "USA",
@@ -338,13 +338,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBqSG1Mc3hIQzBrZU00eDlFZUtPYzNQMHdpQ1RfRnRUWGpWWXFiVkk5anhnU3dia3hNLXZJODdEcmZJak81alE3TlNkSHBKcjNDOXJ3dUswRmpBTnh4eExFTzVLek85eDJTTFpqZGRHYWdUR1VBZ1A2NHQ1WlctV2hsWTNQRmw0?oc=5",
       "summary": "Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; T\u00fcrkiye Today",
       "source": "T\u00fcrkiye Today"
-    },
-    {
-      "title": "Hantavirus kills three in Venezuela - ABS-CBN",
-      "published": "Wed, 22 Jul 2026 01:51:55 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0J6TGxWamdYYjE0NkdDX200SHA5N2tqSERmdlFGN3UzS2pGOHVzSTloUEpSNzJIc1hYUWxUM2NZUEFpdm85YTd0YnpCOE1Ia3lRX1BXWjc4UFVCZ1JOeUF3dHB5ZzZyOUs2REh4dG0xQ3lWc1QzS3BXVzBDLW1LY3FfSkxxNWExbXR4cVlJeW1tXzlEUjZGaVZ3?oc=5",
-      "summary": "Hantavirus kills three in Venezuela &nbsp;&nbsp; ABS-CBN",
-      "source": "ABS-CBN"
     },
     {
       "title": "3 killed by hantavirus in Venezuela - BNO News",
@@ -492,6 +485,13 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYk44Q1F4QVg5a3FuTXdIRjR1X2pPd0ZhZ1ZWMkNqUEpZa0NmUGFSQ1BIdEdHa2pWem1KVGUzdkY0Z1hSazdnQ3RCbmVqb0NZb09mVnlPQ0ZZcGxERGQxM0M3Q0E4bktfd2xac1FkeF9GRV9lRFJZYjFJYWI5UlZaYzVVUXExWjllX29VeXNUMkg2WDV0djhwcWIzUnkzVlpiTnZPdTVhMDNPNmliTnBibDZJTFBDTUZ6cnNfcm5raUFwY3ZTcFdR?oc=5",
       "summary": "Dispute grows over home monitoring of hantavirus passengers &nbsp;&nbsp; The Washington Post",
       "source": "The Washington Post"
+    },
+    {
+      "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
+      "published": "Mon, 20 Jul 2026 20:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5",
+      "summary": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
+      "source": "The Source - Bend, Oregon"
     }
   ],
   "usHistoric": {
@@ -521,7 +521,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-24T07:06:03.420588Z",
+    "timestamp": "2026-07-24T09:31:01.468700Z",
     "who": 0,
     "promed": 0,
     "news": 38,
