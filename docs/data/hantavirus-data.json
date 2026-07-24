@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-24T19:09:56.605749Z",
+  "lastUpdated": "2026-07-24T20:39:39.170244Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 36,
+  "newsCount": 37,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,19 @@
         }
       ],
       "sources": [
-        "Yahoo News New Zealand",
+        "AP News",
         "Clinton Herald",
-        "Ottumwa Courier",
         "T\u00fcrkiye Today",
-        "Outbreak News Today",
-        "Anadolu Ajans\u0131",
-        "BNO News",
-        "Qazinform",
-        "ET HealthWorld",
+        "Ottumwa Courier",
         "ABC News - Breaking News, Latest News and Videos",
+        "Anadolu Ajans\u0131",
+        "Qazinform",
+        "Yahoo News New Zealand",
         "Toronto Star",
-        "AP News"
+        "BNO News",
+        "ET HealthWorld"
       ],
-      "alertCount": 12
+      "alertCount": 11
     },
     {
       "country": "Atlantic Ocean",
@@ -200,14 +199,14 @@
         }
       ],
       "sources": [
-        "Forbes",
+        "KDHE.ks.gov",
+        "CIDRAP",
         "The Guardian",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Forbes",
         "CBC",
         "Newswise",
-        "CNN",
-        "KDHE.ks.gov",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CIDRAP"
+        "CNN"
       ],
       "alertCount": 8
     },
@@ -232,8 +231,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -409,13 +408,6 @@
       "source": "Toronto Star"
     },
     {
-      "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
-      "published": "Tue, 21 Jul 2026 21:58:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhjNDdNaWVGeEZ6eTVzY3piWmpFdzhHMUFTbFF5UEIxSF9uVUYyUThzVmZTNUpHQmotYkpjaVhzX2l0X244M2FFNDBJeXBQYngyazQ3VlFUMUIwblhDTmhKT1VxYkFmMERRa0JESm5JMVREclg2ampCR1dUaHM2Z29GYTA?oc=5",
-      "summary": "Venezuela: Three people with confirmed hantavirus have died &nbsp;&nbsp; Outbreak News Today",
-      "source": "Outbreak News Today"
-    },
-    {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
       "published": "Tue, 21 Jul 2026 17:59:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
@@ -484,6 +476,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
       "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
+      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     }
   ],
   "usHistoric": {
@@ -513,10 +512,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-24T19:09:56.605762Z",
+    "timestamp": "2026-07-24T20:39:39.170259Z",
     "who": 0,
     "promed": 0,
-    "news": 36,
+    "news": 37,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
