@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-24T09:31:01.468685Z",
+  "lastUpdated": "2026-07-24T11:22:02.552919Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 38,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -123,16 +123,16 @@
       ],
       "sources": [
         "ET HealthWorld",
-        "AP News",
-        "BNO News",
-        "T\u00fcrkiye Today",
-        "Anadolu Ajans\u0131",
-        "Toronto Star",
-        "Clinton Herald",
         "Los Angeles Times",
+        "Clinton Herald",
+        "AP News",
+        "Anadolu Ajans\u0131",
         "Orlando Sentinel",
-        "Ottumwa Courier",
-        "Qazinform"
+        "BNO News",
+        "Toronto Star",
+        "T\u00fcrkiye Today",
+        "Qazinform",
+        "Ottumwa Courier"
       ],
       "alertCount": 11
     },
@@ -213,17 +213,17 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "Newswise",
-        "KDHE.ks.gov",
-        "The Guardian",
-        "CBC",
         "CNN",
-        "Forbes",
+        "CBC",
+        "CIDRAP",
         "The Source - Bend, Oregon",
+        "Newswise",
         "The Colorado Sun",
         "American Hospital Association",
-        "CIDRAP"
+        "The Guardian",
+        "Forbes",
+        "ABC News - Breaking News, Latest News and Videos",
+        "KDHE.ks.gov"
       ],
       "alertCount": 11
     },
@@ -375,6 +375,13 @@
       "source": "KDHE.ks.gov"
     },
     {
+      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
+      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
+    },
+    {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Orlando Sentinel",
       "published": "Tue, 21 Jul 2026 23:57:40 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1ZUOEJBRjBDWDVlNnk3bTVUR1VFNFJ3MU5UVjlWMmp2dDFTQU1ReU5KMU9lRUVFeEZ6ZXBhTmZNSkdWb1R1dmp2bVN6eDMzYUh5WThEeV80TnNMVDM2aXJKbm9LZG1EU2lLRF9vRldQd01QX21objQwYXQ5WWJzWFRxUjRXUEFZTi1reDlGeFBpQk9PLVdvV2tuaTROcmoz?oc=5",
@@ -485,13 +492,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYk44Q1F4QVg5a3FuTXdIRjR1X2pPd0ZhZ1ZWMkNqUEpZa0NmUGFSQ1BIdEdHa2pWem1KVGUzdkY0Z1hSazdnQ3RCbmVqb0NZb09mVnlPQ0ZZcGxERGQxM0M3Q0E4bktfd2xac1FkeF9GRV9lRFJZYjFJYWI5UlZaYzVVUXExWjllX29VeXNUMkg2WDV0djhwcWIzUnkzVlpiTnZPdTVhMDNPNmliTnBibDZJTFBDTUZ6cnNfcm5raUFwY3ZTcFdR?oc=5",
       "summary": "Dispute grows over home monitoring of hantavirus passengers &nbsp;&nbsp; The Washington Post",
       "source": "The Washington Post"
-    },
-    {
-      "title": "Doctor on Hantavirus Cruise is One of the Top Birders in the World - The Source - Bend, Oregon",
-      "published": "Mon, 20 Jul 2026 20:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS3FEcHlkY2dKRExiZ2Z1eWFHNnFMLWVPWnVJbTEwWVdnVllLZFFMRHV5MWFWdElKMXh6NkVvQld4bkNKM1dHb3JWSU5kaHhrYTZIcTRYRjQ4dHg3TkIzTUpfQUlYSHY0dFBWZE1XMjlISlAzV2YyUVRnZThaY3oyNWFhV1hXeVhaNm5ndVFha0QyOEpvTHFJWElPVklLOGtzNEJTS0UzUHdXV2U3Z1E?oc=5",
-      "summary": "Doctor on Hantavirus Cruise is One of the Top Birders in the World &nbsp;&nbsp; The Source - Bend, Oregon",
-      "source": "The Source - Bend, Oregon"
     }
   ],
   "usHistoric": {
@@ -521,10 +521,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-24T09:31:01.468700Z",
+    "timestamp": "2026-07-24T11:22:02.552930Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
