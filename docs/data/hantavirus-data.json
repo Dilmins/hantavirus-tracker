@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T18:36:35.194308Z",
+  "lastUpdated": "2026-07-25T19:52:57.542213Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,15 +115,15 @@
         }
       ],
       "sources": [
-        "Anadolu Ajans\u0131",
         "BNO News",
-        "ABC News - Breaking News, Latest News and Videos",
-        "AP News",
         "chinadailyhk",
+        "Anadolu Ajans\u0131",
+        "AP News",
+        "Toronto Star",
+        "T\u00fcrkiye Today",
         "Clinton Herald",
         "Caracas Chronicles",
-        "T\u00fcrkiye Today",
-        "Toronto Star"
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 9
     },
@@ -190,14 +190,14 @@
         }
       ],
       "sources": [
+        "The Colorado Sun",
         "NBC News",
-        "CBC",
         "The Guardian",
         "Medical Xpress",
-        "Forbes",
+        "CBC",
         "KDHE.ks.gov",
-        "The Colorado Sun",
-        "CIDRAP"
+        "CIDRAP",
+        "Forbes"
       ],
       "alertCount": 8
     },
@@ -222,8 +222,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -462,18 +462,18 @@
       "source": "The Guardian"
     },
     {
-      "title": "As Hantavirus Spreads, Climate and Health Research Faces a Funding Crisis - peninsulapress.com",
-      "published": "Sat, 25 Jul 2026 12:32:06 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnd0RG5oQURMQThCRVdPdHRzci05dnpaTWxZS3VGZ3NoSTY1V1hLRktuWnJGMmY5eGxtRmFjdHJjYnhGOVl1ZmZZTjZXdWdXN3NVM3FJeFBhY0VpT1h1cVd2UFZ3THRjdWN5dHE2WU9mNEZtQ3NYYldlX3h1Qm5pNEMzckNHQ1ptYW5nWFhxRVZrUkxMQnpYalMwV1pPMThKdEZwS1huWjJyX2xreXBGQQ?oc=5",
-      "summary": "As Hantavirus Spreads, Climate and Health Research Faces a Funding Crisis &nbsp;&nbsp; peninsulapress.com",
-      "source": "peninsulapress.com"
-    },
-    {
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
       "published": "Mon, 20 Jul 2026 18:41:09 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
       "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
+      "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
+      "source": "BBC"
     }
   ],
   "usHistoric": {
@@ -503,7 +503,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-25T18:36:35.194322Z",
+    "timestamp": "2026-07-25T19:52:57.542229Z",
     "who": 0,
     "promed": 0,
     "news": 39,
