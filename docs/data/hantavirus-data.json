@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T01:08:08.672341Z",
+  "lastUpdated": "2026-07-25T04:25:17.616206Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -65,13 +65,6 @@
           "source": "ET HealthWorld"
         },
         {
-          "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - Yahoo News New Zealand",
-          "published": "Wed, 22 Jul 2026 08:25:37 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV0JkSHZqVFJhVTdlT3B6Z1ljaGZyM3VoVHZmNnNRVDZfQ3hmMHE5NVAyV2dtSDl0aTdmV0xBSzhDc3pzZnFXaVFreHd4NXl6eUxwb0dCTEo3Slc5c1c4N2NXb08tMkg3R0VZaTJVblg3VFFGME9UQTRBQlZ2dGppUkZ3?oc=5",
-          "summary": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; Yahoo News New Zealand",
-          "source": "Yahoo News New Zealand"
-        },
-        {
           "title": "Venezuela confirms 3 hantavirus deaths - T\u00fcrkiye Today",
           "published": "Wed, 22 Jul 2026 06:44:14 GMT",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBqSG1Mc3hIQzBrZU00eDlFZUtPYzNQMHdpQ1RfRnRUWGpWWXFiVkk5anhnU3dia3hNLXZJODdEcmZJak81alE3TlNkSHBKcjNDOXJ3dUswRmpBTnh4eExFTzVLek85eDJTTFpqZGRHYWdUR1VBZ1A2NHQ1WlctV2hsWTNQRmw0?oc=5",
@@ -119,23 +112,29 @@
           "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQUzdIUXdzOEhqckprdkUzb2w4UVVKel81Ylk2MGRMQ3VxNzRtRmFHWTBPTTFsZ1pmeU9WbFVHZG5NbDFsZjBFWkdWUzJGU1RuRjlSd1ZqOWxraGZIN3FEUUxsdTV5NmJvOGM4eG9uZHJhamdtV25oNlNoNHRHMDJFVXMwVXZVal9ZWHZWMWxzcDVTcUM0d2ZkdGNwNWVOYXpoaUxaLXhDYjN0V3NncE1FY0NoZF9ETEFnYWNWZVNWa1FOT21YdnlfRmpEbkJMaGJNeFBRNHF4b2JCTXk2c1NJd1Z6ZzdWUE1pZzZJWE1YZkFxVGFnNUZjbUoxYmdoWHlhWThSNnZXMA?oc=5",
           "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Toronto Star",
           "source": "Toronto Star"
+        },
+        {
+          "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+          "published": "Tue, 21 Jul 2026 17:59:53 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
+          "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
+          "source": "Anadolu Ajans\u0131"
         }
       ],
       "sources": [
-        "Toronto Star",
-        "T\u00fcrkiye Today",
-        "ET HealthWorld",
-        "Qazinform",
-        "Anadolu Ajans\u0131",
         "Ottumwa Courier",
         "BNO News",
-        "Clinton Herald",
+        "Anadolu Ajans\u0131",
         "Caracas Chronicles",
-        "Yahoo News New Zealand",
         "ABC News - Breaking News, Latest News and Videos",
-        "AP News"
+        "T\u00fcrkiye Today",
+        "ET HealthWorld",
+        "Toronto Star",
+        "AP News",
+        "Qazinform",
+        "Clinton Herald"
       ],
-      "alertCount": 12
+      "alertCount": 11
     },
     {
       "country": "Atlantic Ocean",
@@ -179,10 +178,10 @@
         }
       ],
       "sources": [
-        "KDHE.ks.gov",
-        "CBC",
         "The Guardian",
+        "KDHE.ks.gov",
         "CIDRAP",
+        "CBC",
         "Newswise"
       ],
       "alertCount": 5
@@ -208,8 +207,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -234,8 +233,8 @@
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "Outbreak News Today"
+        "Outbreak News Today",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -300,13 +299,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNXBRS2ZXMC1OUVo1SVh3Vm9WZ3ZKZ0VHbGE2WWU1Nm9CMFlhaFBkeC1JLWR3UGtiT0ZCOVlXWFRDZFZNX3RDOHFKQ1h6OUpDcERUWUFVazJmSjlNS0FrTjZ4SkdPN18xVEN2TU1rNThnamVnVnJlYU9tWnpuZWVXNkZkRFgwaGJqVW1VRWJER0JoVWtuTXVtS081ZFVRSTFNVXA5Uzlnc1RlYnQ0dnI3TmNtSzNGWEhpX1VLdmpOTGpqS2N4X1BieDVITkptSVpXam5EaHVxZFFSSTk0b3NCV3ZxWWFISTlzYWc4bWxKZU5FcXJmdHfSAfYBQVVfeXFMTTVwUUtmVzAtTlFaNUlYd1ZvVmd2SmdFR2xhNlllNTZvQjBZYWhQZHgtSS1kd1BrYk9GQjlZV1hUQ2RWTV90QzhxSkNYejlKQ3BEVFlBVWsyZko5TUtBa042eEpHTzdfMVRDdk1NazU4Z2plZ1ZyZWFPbVp6bmVlVzZGZERYMGhialVtVUViREdCaFVrbk11bUtPNWRVUUkxTVVwOVM5Z3NUZWJ0NHZyN05jbUszRlhIaV9VS3ZqTkxqaktjeF9QYng1SE5KbUlaV2puRGh1cWRRUkk5NG9zQld2cVlhSEk5c2FnOG1sSmVORXFyZnR3?oc=5",
       "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ET HealthWorld",
       "source": "ET HealthWorld"
-    },
-    {
-      "title": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela - Yahoo News New Zealand",
-      "published": "Wed, 22 Jul 2026 08:25:37 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV0JkSHZqVFJhVTdlT3B6Z1ljaGZyM3VoVHZmNnNRVDZfQ3hmMHE5NVAyV2dtSDl0aTdmV0xBSzhDc3pzZnFXaVFreHd4NXl6eUxwb0dCTEo3Slc5c1c4N2NXb08tMkg3R0VZaTJVblg3VFFGME9UQTRBQlZ2dGppUkZ3?oc=5",
-      "summary": "What is Hantavirus and what are the symptoms? All you need to know as three dead in Venezuela &nbsp;&nbsp; Yahoo News New Zealand",
-      "source": "Yahoo News New Zealand"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths - T\u00fcrkiye Today",
@@ -421,6 +413,13 @@
       "source": "Stanford Medicine"
     },
     {
+      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
+      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
+      "source": "KFF"
+    },
+    {
       "title": "Cruise Ship Hantavirus Outbreak Highlights Need for Clear Public Health Communication and Global Disease Preparedness | Newswise - Newswise",
       "published": "Thu, 23 Jul 2026 00:40:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUZxY2pqVkpKYlVkQ0M1djVlOTN2Xy1iLXhQbWtwVWhGNC1VejRJODQ0ZVlBOHAwUDFhWmljcU9jRXg0VWdsTlIxYVZiRE9lYlhlUEhsbExJUmgwSFVIdlpzTmZPTzZ1Sk9pTE53UnMyVzJIMExOSFZkRWNzNXVDRmRfZEZaRDR2QWt0NXFyeVcyVEFQUnlhaWZxLThHU2hKdkpnZ0hwblYxWVFYZy1sZGtfN3dKLVFDdzBCVnlkMzRQcW1XS3pKOVpsaW1jQXVKTWV6NVZZWDZ6VEVaMDhxLTNybFAyUdIB5gFBVV95cUxPLUZxY2pqVkpKYlVkQ0M1djVlOTN2Xy1iLXhQbWtwVWhGNC1VejRJODQ0ZVlBOHAwUDFhWmljcU9jRXg0VWdsTlIxYVZiRE9lYlhlUEhsbExJUmgwSFVIdlpzTmZPTzZ1Sk9pTE53UnMyVzJIMExOSFZkRWNzNXVDRmRfZEZaRDR2QWt0NXFyeVcyVEFQUnlhaWZxLThHU2hKdkpnZ0hwblYxWVFYZy1sZGtfN3dKLVFDdzBCVnlkMzRQcW1XS3pKOVpsaW1jQXVKTWV6NVZZWDZ6VEVaMDhxLTNybFAyUQ?oc=5",
@@ -497,7 +496,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-25T01:08:08.672358Z",
+    "timestamp": "2026-07-25T04:25:17.616225Z",
     "who": 0,
     "promed": 0,
     "news": 37,
