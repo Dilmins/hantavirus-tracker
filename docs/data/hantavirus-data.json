@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T07:17:39.321861Z",
+  "lastUpdated": "2026-07-26T09:29:31.886989Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,18 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "Medical Xpress",
-        "Al Jazeera",
-        "Forbes",
-        "CBC",
-        "KDHE.ks.gov",
-        "The Guardian",
-        "NBC News",
         "CIDRAP",
+        "Forbes",
+        "Al Jazeera",
+        "NBC News",
+        "KDHE.ks.gov",
+        "Medical Xpress",
+        "The Guardian",
+        "Science | AAAS",
         "AP News",
-        "Science | AAAS"
+        "The Colorado Sun"
       ],
-      "alertCount": 11
+      "alertCount": 10
     },
     {
       "country": "Venezuela",
@@ -170,11 +169,11 @@
           "source": "AP News"
         },
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Clinton Herald",
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - The Lufkin Daily News",
           "published": "Tue, 21 Jul 2026 23:36:08 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYkFMVzFKbTJQQjBPSDAyQUg5RnQyYWJTWWhHaS0tTTdrMlFqOF9KVUlOZC1VN05JVWdiQzlRUHo3V0dpZk1YaDRoZVpPa3c1Wk54dFVHR3RzLUFUS0xUcXJPU2VxNlpZU1kwV01sNktsMVA1WW54WW01X0dDNE5PbU1TelpTOHRJVGg5TzRiLU5OTzNDVVAtZ3BvWGdjSW90ZElUUGY3dW9NNkZqMW0zM2xUaGh6V1dvc09BRFpWLVkyWkVEY2lzZ3gzMlVXNVVWRlN0Wk9fSkItV2lFcXZLb3BjSnhIUW1JcGFQNS1WYmtnMDZUWThCNlhkUjh4Q0dyZEJEWEI2T3A0Q091OTdWeDB6MklDYzRvN1ZQeTEyWG8tUQ?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Clinton Herald",
-          "source": "Clinton Herald"
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMTdMSDQxa3lPODNqeFpjOWJIMHI0X1pRZGlQWGNjUGk0OGV4N3M2MWt3dGc0dzAzckdDSGlpX3ZvZ1laXzVlNHJ3M2VUVkNaeEN5VlAtV19iTzFZYzJCTFlmRkwxR1l3Z1Y3b0lsTkFlZW1OUGwxVzNhWGFMdDRUdnpiLWlRNWRQZ291VWgxUEZKUDloLTF3dDlPUFY0bzZ0Sk1yeVZfMnNzVC0xbWxJOFpIcG5hbmlqTVpMeDJSNmFtRVRTOVlYVC1QeEFVMThzdTdhcElILV80S0Z0d3RLbVlvbk5yai1OVF8yc1pWdzhSQmdBTWM5aEl3bVF6clFsY2NtYzNfLTlmYWhLSTYzU0d1XzU1UkE?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; The Lufkin Daily News",
+          "source": "The Lufkin Daily News"
         },
         {
           "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
@@ -200,13 +199,13 @@
       ],
       "sources": [
         "Caracas Chronicles",
-        "Outbreak News Today",
+        "T\u00fcrkiye Today",
+        "The Lufkin Daily News",
         "ABC News - Breaking News, Latest News and Videos",
         "Anadolu Ajans\u0131",
-        "BNO News",
-        "Clinton Herald",
-        "T\u00fcrkiye Today",
-        "AP News"
+        "Outbreak News Today",
+        "AP News",
+        "BNO News"
       ],
       "alertCount": 8
     },
@@ -231,8 +230,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -359,11 +358,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Clinton Herald",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - The Lufkin Daily News",
       "published": "Tue, 21 Jul 2026 23:36:08 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQYkFMVzFKbTJQQjBPSDAyQUg5RnQyYWJTWWhHaS0tTTdrMlFqOF9KVUlOZC1VN05JVWdiQzlRUHo3V0dpZk1YaDRoZVpPa3c1Wk54dFVHR3RzLUFUS0xUcXJPU2VxNlpZU1kwV01sNktsMVA1WW54WW01X0dDNE5PbU1TelpTOHRJVGg5TzRiLU5OTzNDVVAtZ3BvWGdjSW90ZElUUGY3dW9NNkZqMW0zM2xUaGh6V1dvc09BRFpWLVkyWkVEY2lzZ3gzMlVXNVVWRlN0Wk9fSkItV2lFcXZLb3BjSnhIUW1JcGFQNS1WYmtnMDZUWThCNlhkUjh4Q0dyZEJEWEI2T3A0Q091OTdWeDB6MklDYzRvN1ZQeTEyWG8tUQ?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Clinton Herald",
-      "source": "Clinton Herald"
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMTdMSDQxa3lPODNqeFpjOWJIMHI0X1pRZGlQWGNjUGk0OGV4N3M2MWt3dGc0dzAzckdDSGlpX3ZvZ1laXzVlNHJ3M2VUVkNaeEN5VlAtV19iTzFZYzJCTFlmRkwxR1l3Z1Y3b0lsTkFlZW1OUGwxVzNhWGFMdDRUdnpiLWlRNWRQZ291VWgxUEZKUDloLTF3dDlPUFY0bzZ0Sk1yeVZfMnNzVC0xbWxJOFpIcG5hbmlqTVpMeDJSNmFtRVRTOVlYVC1QeEFVMThzdTdhcElILV80S0Z0d3RLbVlvbk5yai1OVF8yc1pWdzhSQmdBTWM5aEl3bVF6clFsY2NtYzNfLTlmYWhLSTYzU0d1XzU1UkE?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; The Lufkin Daily News",
+      "source": "The Lufkin Daily News"
     },
     {
       "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
@@ -443,6 +442,13 @@
       "source": "AP News"
     },
     {
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
+      "summary": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
+      "source": "NPR"
+    },
+    {
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
@@ -476,13 +482,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
       "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
-    },
-    {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "published": "Mon, 20 Jul 2026 18:41:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
     }
   ],
   "usHistoric": {
@@ -512,7 +511,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-26T07:17:39.321876Z",
+    "timestamp": "2026-07-26T09:29:31.887003Z",
     "who": 0,
     "promed": 0,
     "news": 39,
