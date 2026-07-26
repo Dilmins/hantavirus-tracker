@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T22:39:28.246375Z",
+  "lastUpdated": "2026-07-26T23:38:54.377175Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
+        "Al Jazeera",
+        "Forbes",
+        "KDHE.ks.gov",
+        "The Guardian",
+        "NBC News",
+        "Medical Xpress",
         "The Colorado Sun",
         "CIDRAP",
-        "KDHE.ks.gov",
-        "Al Jazeera",
-        "The Guardian",
-        "Medical Xpress",
-        "CBC",
         "AP News",
-        "NBC News",
-        "Forbes"
+        "CBC"
       ],
       "alertCount": 10
     },
@@ -169,13 +169,6 @@
           "source": "AP News"
         },
         {
-          "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
-          "published": "Tue, 21 Jul 2026 21:58:40 GMT",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhjNDdNaWVGeEZ6eTVzY3piWmpFdzhHMUFTbFF5UEIxSF9uVUYyUThzVmZTNUpHQmotYkpjaVhzX2l0X244M2FFNDBJeXBQYngyazQ3VlFUMUIwblhDTmhKT1VxYkFmMERRa0JESm5JMVREclg2ampCR1dUaHM2Z29GYTA?oc=5",
-          "summary": "Venezuela: Three people with confirmed hantavirus have died &nbsp;&nbsp; Outbreak News Today",
-          "source": "Outbreak News Today"
-        },
-        {
           "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
           "published": "Tue, 21 Jul 2026 17:59:53 GMT",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
@@ -191,15 +184,14 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "Outbreak News Today",
-        "Caracas Chronicles",
         "Anadolu Ajans\u0131",
-        "BNO News",
         "T\u00fcrkiye Today",
-        "AP News"
+        "AP News",
+        "Caracas Chronicles",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BNO News"
       ],
-      "alertCount": 7
+      "alertCount": 6
     },
     {
       "country": "USA",
@@ -350,13 +342,6 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Venezuela: Three people with confirmed hantavirus have died - Outbreak News Today",
-      "published": "Tue, 21 Jul 2026 21:58:40 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUhjNDdNaWVGeEZ6eTVzY3piWmpFdzhHMUFTbFF5UEIxSF9uVUYyUThzVmZTNUpHQmotYkpjaVhzX2l0X244M2FFNDBJeXBQYngyazQ3VlFUMUIwblhDTmhKT1VxYkFmMERRa0JESm5JMVREclg2ampCR1dUaHM2Z29GYTA?oc=5",
-      "summary": "Venezuela: Three people with confirmed hantavirus have died &nbsp;&nbsp; Outbreak News Today",
-      "source": "Outbreak News Today"
-    },
-    {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
       "published": "Tue, 21 Jul 2026 17:59:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
@@ -397,6 +382,13 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
       "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
+      "source": "Harvard Gazette"
     },
     {
       "title": "Cruise ship outbreak highlights need for clear communication on emerging disease threats - Medical Xpress",
@@ -503,7 +495,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-26T22:39:28.246391Z",
+    "timestamp": "2026-07-26T23:38:54.377188Z",
     "who": 0,
     "promed": 0,
     "news": 39,
