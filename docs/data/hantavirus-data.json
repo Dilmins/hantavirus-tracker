@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T14:23:02.050518Z",
+  "lastUpdated": "2026-07-27T16:37:30.969303Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,15 +115,15 @@
         }
       ],
       "sources": [
+        "Science | AAAS",
+        "KDHE.ks.gov",
         "NBC News",
         "CIDRAP",
         "The Colorado Sun",
-        "KDHE.ks.gov",
         "Al Jazeera",
-        "Science | AAAS",
         "AP News",
-        "Forbes",
-        "The Guardian"
+        "The Guardian",
+        "Forbes"
       ],
       "alertCount": 9
     },
@@ -176,11 +176,11 @@
         }
       ],
       "sources": [
+        "AP News",
         "Caracas Chronicles",
-        "Anadolu Ajans\u0131",
         "BNO News",
         "T\u00fcrkiye Today",
-        "AP News",
+        "Anadolu Ajans\u0131",
         "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 6
@@ -206,8 +206,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -487,7 +487,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-27T14:23:02.050533Z",
+    "timestamp": "2026-07-27T16:37:30.969319Z",
     "who": 0,
     "promed": 0,
     "news": 39,
