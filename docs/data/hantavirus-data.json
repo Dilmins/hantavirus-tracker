@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T23:38:54.377175Z",
+  "lastUpdated": "2026-07-27T01:16:11.338552Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -56,13 +56,6 @@
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
           "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
           "source": "KDHE.ks.gov"
-        },
-        {
-          "title": "Cruise ship outbreak highlights need for clear communication on emerging disease threats - Medical Xpress",
-          "published": "Thu, 23 Jul 2026 19:40:03 GMT",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzFseDdFZ1VxaEdrTTVtVzQ0bVJwTU9zUXJzbHdEODE5SGplU3RlV083Rkk1d0tqSklkbWhNWWlnak9MLUlzYWpsQklLb29RbUVtTUliTVQ0aElDTVAxdkh1V1ZZaW5rMWFsdXBHcXJMcmQ2UVhhb192SWdjckZwWjl5dWhfaUY2dVZjeDB3TVgxZWM?oc=5",
-          "summary": "Cruise ship outbreak highlights need for clear communication on emerging disease threats &nbsp;&nbsp; Medical Xpress",
-          "source": "Medical Xpress"
         },
         {
           "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
@@ -123,17 +116,16 @@
       ],
       "sources": [
         "Al Jazeera",
-        "Forbes",
-        "KDHE.ks.gov",
         "The Guardian",
-        "NBC News",
-        "Medical Xpress",
+        "AP News",
+        "KDHE.ks.gov",
         "The Colorado Sun",
         "CIDRAP",
-        "AP News",
+        "Forbes",
+        "NBC News",
         "CBC"
       ],
-      "alertCount": 10
+      "alertCount": 9
     },
     {
       "country": "Venezuela",
@@ -184,12 +176,12 @@
         }
       ],
       "sources": [
-        "Anadolu Ajans\u0131",
-        "T\u00fcrkiye Today",
-        "AP News",
         "Caracas Chronicles",
+        "AP News",
+        "BNO News",
         "ABC News - Breaking News, Latest News and Videos",
-        "BNO News"
+        "T\u00fcrkiye Today",
+        "Anadolu Ajans\u0131"
       ],
       "alertCount": 6
     },
@@ -214,8 +206,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -258,11 +250,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
-      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; AJMC",
+      "source": "AJMC"
     },
     {
       "title": "2026 News - Maryland School of Medicine",
@@ -391,13 +383,6 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "Cruise ship outbreak highlights need for clear communication on emerging disease threats - Medical Xpress",
-      "published": "Thu, 23 Jul 2026 19:40:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZzFseDdFZ1VxaEdrTTVtVzQ0bVJwTU9zUXJzbHdEODE5SGplU3RlV083Rkk1d0tqSklkbWhNWWlnak9MLUlzYWpsQklLb29RbUVtTUliTVQ0aElDTVAxdkh1V1ZZaW5rMWFsdXBHcXJMcmQ2UVhhb192SWdjckZwWjl5dWhfaUY2dVZjeDB3TVgxZWM?oc=5",
-      "summary": "Cruise ship outbreak highlights need for clear communication on emerging disease threats &nbsp;&nbsp; Medical Xpress",
-      "source": "Medical Xpress"
-    },
-    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -466,6 +451,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
       "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
+      "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
+      "source": "BBC"
     }
   ],
   "usHistoric": {
@@ -495,7 +487,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-26T23:38:54.377188Z",
+    "timestamp": "2026-07-27T01:16:11.338593Z",
     "who": 0,
     "promed": 0,
     "news": 39,
