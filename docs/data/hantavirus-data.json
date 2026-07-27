@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-27T21:00:53.640270Z",
+  "lastUpdated": "2026-07-27T22:10:21.932424Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 39,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -115,14 +115,14 @@
         }
       ],
       "sources": [
-        "AP News",
         "The Guardian",
-        "Forbes",
+        "CIDRAP",
+        "The Colorado Sun",
         "KDHE.ks.gov",
         "Al Jazeera",
-        "The Colorado Sun",
-        "CIDRAP",
+        "Forbes",
         "NBC News",
+        "AP News",
         "Science | AAAS"
       ],
       "alertCount": 9
@@ -176,12 +176,12 @@
         }
       ],
       "sources": [
-        "AP News",
-        "BNO News",
+        "ABC News - Breaking News, Latest News and Videos",
         "T\u00fcrkiye Today",
-        "Anadolu Ajans\u0131",
+        "BNO News",
         "Caracas Chronicles",
-        "ABC News - Breaking News, Latest News and Videos"
+        "Anadolu Ajans\u0131",
+        "AP News"
       ],
       "alertCount": 6
     },
@@ -206,8 +206,8 @@
         }
       ],
       "sources": [
-        "USA Today",
-        "Live Science"
+        "Live Science",
+        "USA Today"
       ],
       "alertCount": 2
     },
@@ -397,6 +397,13 @@
       "source": "Boston University"
     },
     {
+      "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2tnd2FFUHBBUDJTbUstT3U4VDYxa2JLNU9LVFhMWmFCZjIzeTQ1cGR5X2N1VjJDOFFwaUZOZmxwTnY5WWdlTkczdmlVQXFFWS1ZSVZrQnpsRVFWTTExMUMzOTk4SFRwVEttbUphV1NaWGNBenJhRXJfSWQ4TDNRc2RCUDF1Sk0?oc=5",
+      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; Harvard T.H. Chan School of Public Health",
+      "source": "Harvard T.H. Chan School of Public Health"
+    },
+    {
       "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
@@ -451,13 +458,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
-    },
-    {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "published": "Mon, 20 Jul 2026 18:41:09 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
     }
   ],
   "usHistoric": {
@@ -487,10 +487,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-27T21:00:53.640289Z",
+    "timestamp": "2026-07-27T22:10:21.932439Z",
     "who": 0,
     "promed": 0,
-    "news": 39,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
