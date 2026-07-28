@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T22:31:20.362044Z",
+  "lastUpdated": "2026-07-28T23:37:15.135229Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
+        "Al Jazeera",
+        "AP News",
+        "American Hospital Association",
         "cbs19.tv",
         "KDHE.ks.gov",
-        "Forbes",
-        "AP News",
-        "Al Jazeera",
         "NBC News",
+        "Forbes",
         "The Guardian",
-        "American Hospital Association",
-        "CBC",
-        "CIDRAP"
+        "CIDRAP",
+        "CBC"
       ],
       "alertCount": 10
     },
@@ -163,9 +163,9 @@
         }
       ],
       "sources": [
-        "T\u00fcrkiye Today",
         "Anadolu Ajans\u0131",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "T\u00fcrkiye Today"
       ],
       "alertCount": 3
     },
@@ -301,11 +301,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
+      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
-      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
-      "source": "tristandc.com"
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
+      "source": "TristanDC.com"
     },
     {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
@@ -489,7 +489,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-28T22:31:20.362055Z",
+    "timestamp": "2026-07-28T23:37:15.135244Z",
     "who": 0,
     "promed": 0,
     "news": 39,
