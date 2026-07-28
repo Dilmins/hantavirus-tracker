@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-28T21:20:34.110688Z",
+  "lastUpdated": "2026-07-28T22:31:20.362044Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 6,
-  "newsCount": 38,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "American Hospital Association",
         "cbs19.tv",
-        "The Guardian",
-        "Al Jazeera",
-        "CBC",
-        "AP News",
         "KDHE.ks.gov",
-        "CIDRAP",
+        "Forbes",
+        "AP News",
+        "Al Jazeera",
         "NBC News",
-        "Forbes"
+        "The Guardian",
+        "American Hospital Association",
+        "CBC",
+        "CIDRAP"
       ],
       "alertCount": 10
     },
@@ -163,9 +163,9 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
         "T\u00fcrkiye Today",
-        "Anadolu Ajans\u0131"
+        "Anadolu Ajans\u0131",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 3
     },
@@ -190,8 +190,8 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
       ],
       "alertCount": 2
     },
@@ -251,6 +251,13 @@
     }
   ],
   "recentNews": [
+    {
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "summary": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
+      "source": "HHS.gov"
+    },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
@@ -453,13 +460,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     }
   ],
   "usHistoric": {
@@ -489,10 +489,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-28T21:20:34.110699Z",
+    "timestamp": "2026-07-28T22:31:20.362055Z",
     "who": 0,
     "promed": 0,
-    "news": 38,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
