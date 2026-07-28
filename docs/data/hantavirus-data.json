@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T00:15:54.101983Z",
+  "lastUpdated": "2026-07-28T03:44:10.443630Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,15 +115,15 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "KDHE.ks.gov",
-        "The Guardian",
-        "Al Jazeera",
-        "NBC News",
-        "AP News",
         "Forbes",
+        "The Guardian",
+        "NBC News",
         "Science | AAAS",
-        "CIDRAP"
+        "CIDRAP",
+        "KDHE.ks.gov",
+        "The Colorado Sun",
+        "AP News",
+        "Al Jazeera"
       ],
       "alertCount": 9
     },
@@ -176,12 +176,12 @@
         }
       ],
       "sources": [
+        "BNO News",
+        "T\u00fcrkiye Today",
         "Anadolu Ajans\u0131",
         "Caracas Chronicles",
-        "T\u00fcrkiye Today",
-        "BNO News",
-        "AP News",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News"
       ],
       "alertCount": 6
     },
@@ -250,11 +250,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
     },
     {
       "title": "2026 News - Maryland School of Medicine",
@@ -487,7 +487,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-28T00:15:54.101993Z",
+    "timestamp": "2026-07-28T03:44:10.443645Z",
     "who": 0,
     "promed": 0,
     "news": 40,
