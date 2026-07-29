@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T16:55:29.309691Z",
+  "lastUpdated": "2026-07-29T18:01:16.672568Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "BBC",
-        "AP News",
-        "CIDRAP",
-        "Forbes",
-        "Al Jazeera",
-        "NBC News",
-        "American Hospital Association",
         "Colorado Public Radio",
         "Think Global Health",
+        "American Hospital Association",
+        "AP News",
+        "CIDRAP",
         "The Guardian",
+        "NBC News",
         "ABC News - Breaking News, Latest News and Videos",
-        "Science | AAAS"
+        "Al Jazeera",
+        "Forbes",
+        "Science | AAAS",
+        "BBC"
       ],
       "alertCount": 12
     },
@@ -195,15 +195,15 @@
       "lng": -3.75,
       "alerts": [
         {
-          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
+          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - yahoo.com",
           "published": "Mon, 15 Jun 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
+          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; yahoo.com",
+          "source": "yahoo.com"
         }
       ],
       "sources": [
-        "Yahoo"
+        "yahoo.com"
       ],
       "alertCount": 1
     },
@@ -246,11 +246,11 @@
   ],
   "recentNews": [
     {
-      "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - medicaldaily.com",
+      "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - Medical Daily",
       "published": "Wed, 29 Jul 2026 01:00:05 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFBLY2tBQ3N6MjdiR1hEZi1PS3o1dXZiRndsZEdOYl9WU1N4NU9yR1FEbGdFTU9XSzAtWEg3S2VuWjR1Wkg1cktIckx0V2g2RXVGMUM3MzlfUVhFUGZVOUxPeUp4c0xZM2lyblBpMjhfN05WcGZiY0tpY3pxN255QUZVcFdHUVlod05IdC1ZeXFabHVPS0lSNg?oc=5",
-      "summary": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds &nbsp;&nbsp; medicaldaily.com",
-      "source": "medicaldaily.com"
+      "summary": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds &nbsp;&nbsp; Medical Daily",
+      "source": "Medical Daily"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
@@ -295,11 +295,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
+      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
-      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
-      "source": "tristandc.com"
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
+      "source": "TristanDC.com"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -379,11 +379,11 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
+      "title": "What to know about hantavirus, and past cases and deaths in Kansas - cjonline.com",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
-      "source": "The Topeka Capital-Journal"
+      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; cjonline.com",
+      "source": "cjonline.com"
     },
     {
       "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
@@ -442,11 +442,11 @@
       "source": "The Guardian"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
-      "source": "unric.org"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     },
     {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
@@ -483,7 +483,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-29T16:55:29.309708Z",
+    "timestamp": "2026-07-29T18:01:16.672583Z",
     "who": 0,
     "promed": 0,
     "news": 42,
