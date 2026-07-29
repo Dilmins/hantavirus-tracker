@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T15:34:05.876008Z",
+  "lastUpdated": "2026-07-29T16:55:29.309691Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "Think Global Health",
         "BBC",
-        "Science | AAAS",
         "AP News",
-        "The Guardian",
         "CIDRAP",
-        "Al Jazeera",
-        "American Hospital Association",
-        "NBC News",
-        "Colorado Public Radio",
         "Forbes",
-        "ABC News - Breaking News, Latest News and Videos"
+        "Al Jazeera",
+        "NBC News",
+        "American Hospital Association",
+        "Colorado Public Radio",
+        "Think Global Health",
+        "The Guardian",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Science | AAAS"
       ],
       "alertCount": 12
     },
@@ -184,8 +184,8 @@
         }
       ],
       "sources": [
-        "AP News",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News"
       ],
       "alertCount": 2
     },
@@ -246,11 +246,11 @@
   ],
   "recentNews": [
     {
-      "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - Medical Daily",
+      "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - medicaldaily.com",
       "published": "Wed, 29 Jul 2026 01:00:05 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFBLY2tBQ3N6MjdiR1hEZi1PS3o1dXZiRndsZEdOYl9WU1N4NU9yR1FEbGdFTU9XSzAtWEg3S2VuWjR1Wkg1cktIckx0V2g2RXVGMUM3MzlfUVhFUGZVOUxPeUp4c0xZM2lyblBpMjhfN05WcGZiY0tpY3pxN255QUZVcFdHUVlod05IdC1ZeXFabHVPS0lSNg?oc=5",
-      "summary": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds &nbsp;&nbsp; Medical Daily",
-      "source": "Medical Daily"
+      "summary": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds &nbsp;&nbsp; medicaldaily.com",
+      "source": "medicaldaily.com"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
@@ -295,11 +295,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
+      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
-      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
-      "source": "TristanDC.com"
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
+      "source": "tristandc.com"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -317,7 +317,7 @@
     },
     {
       "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - The New York Times",
-      "published": "Tue, 21 Jul 2026 09:01:06 GMT",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
       "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; The New York Times",
       "source": "The New York Times"
@@ -442,11 +442,11 @@
       "source": "The Guardian"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
+      "source": "unric.org"
     },
     {
       "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
@@ -483,7 +483,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-29T15:34:05.876023Z",
+    "timestamp": "2026-07-29T16:55:29.309708Z",
     "who": 0,
     "promed": 0,
     "news": 42,
