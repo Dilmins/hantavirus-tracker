@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-29T23:39:55.113661Z",
+  "lastUpdated": "2026-07-30T01:01:20.999673Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 6,
-  "newsCount": 41,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -51,18 +51,11 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-          "source": "KDHE.ks.gov"
-        },
-        {
-          "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-          "published": "Tue, 28 Jul 2026 20:38:01 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-          "summary": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+          "source": "kdhe.ks.gov"
         },
         {
           "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
@@ -122,18 +115,17 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "AP News",
-        "NBC News",
-        "Al Jazeera",
-        "CIDRAP",
-        "Forbes",
-        "KDHE.ks.gov",
-        "The Guardian",
         "American Hospital Association",
-        "Science | AAAS"
+        "Science | AAAS",
+        "CIDRAP",
+        "The Guardian",
+        "NBC News",
+        "kdhe.ks.gov",
+        "Al Jazeera",
+        "Forbes",
+        "AP News"
       ],
-      "alertCount": 10
+      "alertCount": 9
     },
     {
       "country": "Venezuela",
@@ -146,13 +138,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBqSG1Mc3hIQzBrZU00eDlFZUtPYzNQMHdpQ1RfRnRUWGpWWXFiVkk5anhnU3dia3hNLXZJODdEcmZJak81alE3TlNkSHBKcjNDOXJ3dUswRmpBTnh4eExFTzVLek85eDJTTFpqZGRHYWdUR1VBZ1A2NHQ1WlctV2hsWTNQRmw0?oc=5",
           "summary": "Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; T\u00fcrkiye Today",
           "source": "T\u00fcrkiye Today"
-        },
-        {
-          "title": "3 killed by hantavirus in Venezuela - BNO News",
-          "published": "Wed, 22 Jul 2026 01:37:07 GMT",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
-          "summary": "3 killed by hantavirus in Venezuela &nbsp;&nbsp; BNO News",
-          "source": "BNO News"
         },
         {
           "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -184,14 +169,13 @@
         }
       ],
       "sources": [
+        "Anadolu Ajans\u0131",
         "ABC News - Breaking News, Latest News and Videos",
         "T\u00fcrkiye Today",
-        "Anadolu Ajans\u0131",
-        "AP News",
-        "BNO News",
-        "The Lufkin Daily News"
+        "The Lufkin Daily News",
+        "AP News"
       ],
-      "alertCount": 6
+      "alertCount": 5
     },
     {
       "country": "USA",
@@ -214,8 +198,34 @@
         }
       ],
       "sources": [
-        "Live Science",
-        "USA Today"
+        "USA Today",
+        "Live Science"
+      ],
+      "alertCount": 2
+    },
+    {
+      "country": "Chile",
+      "lat": -35.68,
+      "lng": -71.54,
+      "alerts": [
+        {
+          "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - BNO News",
+          "published": "Wed, 29 Jul 2026 23:57:51 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
+          "summary": "Chile declares 1st hantavirus health alert after 18 deaths this year &nbsp;&nbsp; BNO News",
+          "source": "BNO News"
+        },
+        {
+          "title": "Chile declares nationwide health alert after hantavirus fatality rate rises - Daily Star",
+          "published": "Wed, 29 Jul 2026 18:13:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLW9mdFdLN1RqUUZHUDhFX1hVLTFZY0hlbGVQem5wcFc1eC12Q0xremhPLWpORG9TaFh4QkxPNDBoTnBsN0JEczBuVW5SeHhrWUhCNWZ4NW4yY3JaZlo3Y0pwNG1qam43akpTTWtRZXNKN3NKMmxldUxVdTY4NUNmb2JrcjBoQkJSYnVYU2ZCUWpXbG50Uzh3SlZ3?oc=5",
+          "summary": "Chile declares nationwide health alert after hantavirus fatality rate rises &nbsp;&nbsp; Daily Star",
+          "source": "Daily Star"
+        }
+      ],
+      "sources": [
+        "Daily Star",
+        "BNO News"
       ],
       "alertCount": 2
     },
@@ -254,27 +264,23 @@
         "The New England Journal of Medicine"
       ],
       "alertCount": 1
-    },
-    {
-      "country": "Chile",
-      "lat": -45.57,
-      "lng": -72.07,
-      "alertCount": 14,
-      "alerts": [
-        {
-          "title": "Ays\u00e9n Region, Chile \u2014 Andes Orthohantavirus",
-          "published": "2026-04-15",
-          "link": "https://www.minsal.cl",
-          "summary": "Agricultural workers in southern Chile. Genomic sequences deposited to GenBank. Oligochaeta rodent reservoir confirmed. Active surveillance ongoing by Chile MINSAL.",
-          "source": "Chile Ministry of Health"
-        }
-      ],
-      "sources": [
-        "Chile Ministry of Health"
-      ]
     }
   ],
   "recentNews": [
+    {
+      "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - BNO News",
+      "published": "Wed, 29 Jul 2026 23:57:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
+      "summary": "Chile declares 1st hantavirus health alert after 18 deaths this year &nbsp;&nbsp; BNO News",
+      "source": "BNO News"
+    },
+    {
+      "title": "Chile declares nationwide health alert after hantavirus fatality rate rises - Daily Star",
+      "published": "Wed, 29 Jul 2026 18:13:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLW9mdFdLN1RqUUZHUDhFX1hVLTFZY0hlbGVQem5wcFc1eC12Q0xremhPLWpORG9TaFh4QkxPNDBoTnBsN0JEczBuVW5SeHhrWUhCNWZ4NW4yY3JaZlo3Y0pwNG1qam43akpTTWtRZXNKN3NKMmxldUxVdTY4NUNmb2JrcjBoQkJSYnVYU2ZCUWpXbG50Uzh3SlZ3?oc=5",
+      "summary": "Chile declares nationwide health alert after hantavirus fatality rate rises &nbsp;&nbsp; Daily Star",
+      "source": "Daily Star"
+    },
     {
       "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - Medical Daily",
       "published": "Wed, 29 Jul 2026 01:00:05 GMT",
@@ -302,13 +308,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTBqSG1Mc3hIQzBrZU00eDlFZUtPYzNQMHdpQ1RfRnRUWGpWWXFiVkk5anhnU3dia3hNLXZJODdEcmZJak81alE3TlNkSHBKcjNDOXJ3dUswRmpBTnh4eExFTzVLek85eDJTTFpqZGRHYWdUR1VBZ1A2NHQ1WlctV2hsWTNQRmw0?oc=5",
       "summary": "Venezuela confirms 3 hantavirus deaths &nbsp;&nbsp; T\u00fcrkiye Today",
       "source": "T\u00fcrkiye Today"
-    },
-    {
-      "title": "3 killed by hantavirus in Venezuela - BNO News",
-      "published": "Wed, 22 Jul 2026 01:37:07 GMT",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53MHJCUXp6OXowSUpOaW1JTXJnQUhUV2NWYVhtRVdfUW9NNWtnNDRsWVdFQXRlaUJyRTZyWUVqYkt3cDBoSllIYW5KcS1xeXota3ViN1JkYUpnU1ZUdHl2dzRtQmNkOGtUSzdiT2NhWjBrcWMwRnRaTGZqWVluYzg?oc=5",
-      "summary": "3 killed by hantavirus in Venezuela &nbsp;&nbsp; BNO News",
-      "source": "BNO News"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -339,25 +338,11 @@
       "source": "TristanDC.com"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-      "source": "KDHE.ks.gov"
-    },
-    {
-      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
-      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "published": "Tue, 28 Jul 2026 20:38:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-      "summary": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos"
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+      "source": "kdhe.ks.gov"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - The Lufkin Daily News",
@@ -374,11 +359,11 @@
       "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - The New York Times",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - nytimes.com",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
-      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
+      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; nytimes.com",
+      "source": "nytimes.com"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
@@ -416,11 +401,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - news.harvard.edu",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
-      "source": "Harvard Gazette"
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; news.harvard.edu",
+      "source": "news.harvard.edu"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -484,6 +469,13 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
       "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
       "source": "The Guardian"
+    },
+    {
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "published": "Sun, 17 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     }
   ],
   "usHistoric": {
@@ -513,10 +505,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-29T23:39:55.113674Z",
+    "timestamp": "2026-07-30T01:01:20.999687Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
