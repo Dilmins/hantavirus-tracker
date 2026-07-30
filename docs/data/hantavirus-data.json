@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-30T13:12:52.620433Z",
+  "lastUpdated": "2026-07-30T15:22:38.136795Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 40,
+  "newsCount": 41,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -51,6 +51,13 @@
       "lng": -20.0,
       "alerts": [
         {
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+          "published": "Wed, 13 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
+          "source": "KDHE.ks.gov"
+        },
+        {
           "title": "All passengers evacuated from hantavirus-hit cruise ship - CNN",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGd3pjR2Zhb0I3N053QzBGTE9sVGhQUDhwaWZrQnZVZlo4aGl0aWxleVl4eVJ5WGNSZmpMYVVWOU1WenZ1VnNQdHVJSWFHNURXRTdaZWxSRndCX1U1cDdueWltclNTWkJnOEt3bGMzUDJJcnd5N3hnTXZn?oc=5",
@@ -58,11 +65,11 @@
           "source": "CNN"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+          "source": "bbc.com"
         },
         {
           "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
@@ -107,77 +114,71 @@
           "source": "Forbes"
         },
         {
-          "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+          "title": "WHO declares hantavirus outbreak linked to cruise ship over - theguardian.com",
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-          "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-          "source": "The Guardian"
-        },
-        {
-          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-          "source": "CIDRAP"
+          "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; theguardian.com",
+          "source": "theguardian.com"
         }
       ],
       "sources": [
-        "Science | AAAS",
-        "NBC News",
-        "CNN",
-        "Forbes",
-        "AP News",
-        "The Guardian",
         "Al Jazeera",
         "Think Global Health",
+        "bbc.com",
+        "Forbes",
         "CIDRAP",
         "American Hospital Association",
+        "AP News",
         "CBC",
-        "BBC"
+        "CNN",
+        "theguardian.com",
+        "KDHE.ks.gov",
+        "NBC News",
+        "Science | AAAS"
       ],
-      "alertCount": 12
+      "alertCount": 13
     },
     {
-      "country": "Venezuela",
-      "lat": 6.42,
-      "lng": -66.59,
+      "country": "Chile",
+      "lat": -35.68,
+      "lng": -71.54,
       "alerts": [
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected - Los Angeles Times",
-          "published": "Wed, 22 Jul 2026 15:54:18 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGUzREd1VlZxMXlWcmUyVF8tVzR1X1VMcXVpNXJQVTEwMnNfbS0yUzJsUGhUeHAtellOanZiTXphV2IwMkNGU3hHZFVsVEhyWkNuUUROanNWeVBpLXJzanpuOEwwenZGbEhDN1RaektzRHhkLVlpaE1fX1NaWDVqcVZqN2JlcnZ5MkZrbWtfd0hDQk84OFdpTjdDOEdfdEx5aWxjVExVUC1UdlV0NkdrZnpySVhwVmpTQmNGMEdLS3BkSlE?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected &nbsp;&nbsp; Los Angeles Times",
-          "source": "Los Angeles Times"
+          "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - BNO News",
+          "published": "Wed, 29 Jul 2026 23:57:51 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
+          "summary": "Chile declares 1st hantavirus health alert after 18 deaths this year &nbsp;&nbsp; BNO News",
+          "source": "BNO News"
         },
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
-          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hhVDBWUDE5Y1FLMFRZbTFTSnY3bGdrMVMzVUgwQ3VaN29LSWhTNUF2SVRTYVNxVHBtc1VQQW9ucEtCb184YllNMXNITDNtUjBCN0pDOU1na1pQRlc3LWRCSXRnZmpQVW5LdVI5ejZiRnpHZTF4QUdqZ050bGpSbFdLaENxSU1qNlczTlNfWVVUYjZYUTJZVkFiX3pUdVV6aUZpY1Nn0gGrAUFVX3lxTE43NEt0cUg2cVNaN1p3d09rclVJNUExbVltMFZqVXBJa3hra2ZoRnFUbUd6UkJITmNUQ3lNZ3ZtemtaRko5TlVNTEZMNTJBX0ZnUVZaczdQM3FwdzVqWFpPRTZvWVoxcGxOVzd4N2Y0YlhoLW1BR1UwMVJFelVLWnc4M2xXa0ZaenhheVUyMHJXREdDZy1fUmYxSU1qWnB4V3BHaDVKS3JaV0RqOA?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
+          "published": "Thu, 30 Jul 2026 13:43:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
+          "summary": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; upi.com",
+          "source": "upi.com"
         }
       ],
       "sources": [
-        "Los Angeles Times",
-        "ABC News - Breaking News, Latest News and Videos"
+        "upi.com",
+        "BNO News"
       ],
       "alertCount": 2
     },
     {
-      "country": "Spain",
-      "lat": 40.46,
-      "lng": -3.75,
+      "country": "Canada",
+      "lat": 56.13,
+      "lng": -106.35,
       "alerts": [
         {
-          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-          "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
+          "title": "Chile issues first-ever preventive hantavirus health alert - Yahoo News Canada",
+          "published": "Thu, 30 Jul 2026 13:43:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEJIN2RJWEhVR1RVQm5yb2hseHdoUktLMjl3REhvX3I5MVhZR3BaSk9rVjd0bE9IR3hXY0ZFT1NTRmxFVzFkZllpeUo4RDRGakRFdzVCQUNfY3R2NXRGN3p2RVNlNEk2eHo0b2RqNUVNS3ZWTmdEOGo5Vnd0cVVkTw?oc=5",
+          "summary": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; Yahoo News Canada",
+          "source": "Yahoo News Canada"
         }
       ],
       "sources": [
-        "Yahoo"
+        "Yahoo News Canada"
       ],
       "alertCount": 1
     },
@@ -200,20 +201,20 @@
       "alertCount": 1
     },
     {
-      "country": "Chile",
-      "lat": -35.68,
-      "lng": -71.54,
+      "country": "Venezuela",
+      "lat": 6.42,
+      "lng": -66.59,
       "alerts": [
         {
-          "title": "Chile declares 1st hantavirus health alert after 18 deaths this year - BNO News",
-          "published": "Wed, 29 Jul 2026 23:57:51 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
-          "summary": "Chile declares 1st hantavirus health alert after 18 deaths this year &nbsp;&nbsp; BNO News",
-          "source": "BNO News"
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hhVDBWUDE5Y1FLMFRZbTFTSnY3bGdrMVMzVUgwQ3VaN29LSWhTNUF2SVRTYVNxVHBtc1VQQW9ucEtCb184YllNMXNITDNtUjBCN0pDOU1na1pQRlc3LWRCSXRnZmpQVW5LdVI5ejZiRnpHZTF4QUdqZ050bGpSbFdLaENxSU1qNlczTlNfWVVUYjZYUTJZVkFiX3pUdVV6aUZpY1Nn0gGrAUFVX3lxTE43NEt0cUg2cVNaN1p3d09rclVJNUExbVltMFZqVXBJa3hra2ZoRnFUbUd6UkJITmNUQ3lNZ3ZtemtaRko5TlVNTEZMNTJBX0ZnUVZaczdQM3FwdzVqWFpPRTZvWVoxcGxOVzd4N2Y0YlhoLW1BR1UwMVJFelVLWnc4M2xXa0ZaenhheVUyMHJXREdDZy1fUmYxSU1qWnB4V3BHaDVKS3JaV0RqOA?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos"
         }
       ],
       "sources": [
-        "BNO News"
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 1
     }
@@ -225,6 +226,13 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUllGb1RmX1RyWUl0eDBtWEpTOXQ2UFV0d1puX0ZGX1M2SjhjZy1TMF84YmhRZ29XSTFtYlVTUFQ3eUVOZHljNzJsRjVPU1NrMnJ5eTlFdHZQVlo2UjktQ1lBTk1PdEtzX1FhTjNZZTF2SjhBUG4wczFxN19Wbm5qVnRXeGFJN1JQU2NITmxnWm1MLXlpTEdubzZYWFRfeE53VDl3WTh2Z3RWS00?oc=5",
       "summary": "Chile declares 1st hantavirus health alert after 18 deaths this year &nbsp;&nbsp; BNO News",
       "source": "BNO News"
+    },
+    {
+      "title": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds - Medical Daily",
+      "published": "Wed, 29 Jul 2026 01:00:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFBLY2tBQ3N6MjdiR1hEZi1PS3o1dXZiRndsZEdOYl9WU1N4NU9yR1FEbGdFTU9XSzAtWEg3S2VuWjR1Wkg1cktIckx0V2g2RXVGMUM3MzlfUVhFUGZVOUxPeUp4c0xZM2lyblBpMjhfN05WcGZiY0tpY3pxN255QUZVcFdHUVlod05IdC1ZeXFabHVPS0lSNg?oc=5",
+      "summary": "Hantavirus Can Affect the Brain and Nerves in Rare Cases, a New Review of the Literature Finds &nbsp;&nbsp; Medical Daily",
+      "source": "Medical Daily"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
@@ -239,13 +247,6 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
       "summary": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
       "source": "The University of Maryland, Baltimore"
-    },
-    {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected - Los Angeles Times",
-      "published": "Wed, 22 Jul 2026 15:54:18 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGUzREd1VlZxMXlWcmUyVF8tVzR1X1VMcXVpNXJQVTEwMnNfbS0yUzJsUGhUeHAtellOanZiTXphV2IwMkNGU3hHZFVsVEhyWkNuUUROanNWeVBpLXJzanpuOEwwenZGbEhDN1RaektzRHhkLVlpaE1fX1NaWDVqcVZqN2JlcnZ5MkZrbWtfd0hDQk84OFdpTjdDOEdfdEx5aWxjVExVUC1UdlV0NkdrZnpySVhwVmpTQmNGMEdLS3BkSlE?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected &nbsp;&nbsp; Los Angeles Times",
-      "source": "Los Angeles Times"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -267,6 +268,13 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
       "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
       "source": "TristanDC.com"
+    },
+    {
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+      "published": "Wed, 13 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
+      "source": "KDHE.ks.gov"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -325,11 +333,25 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+      "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
+    },
+    {
+      "title": "Chile issues first-ever preventive hantavirus health alert - Yahoo News Canada",
+      "published": "Thu, 30 Jul 2026 13:43:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEJIN2RJWEhVR1RVQm5yb2hseHdoUktLMjl3REhvX3I5MVhZR3BaSk9rVjd0bE9IR3hXY0ZFT1NTRmxFVzFkZllpeUo4RDRGakRFdzVCQUNfY3R2NXRGN3p2RVNlNEk2eHo0b2RqNUVNS3ZWTmdEOGo5Vnd0cVVkTw?oc=5",
+      "summary": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; Yahoo News Canada",
+      "source": "Yahoo News Canada"
+    },
+    {
+      "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
+      "published": "Thu, 30 Jul 2026 13:43:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
+      "summary": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; upi.com",
+      "source": "upi.com"
     },
     {
       "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
@@ -402,32 +424,11 @@
       "source": "Forbes"
     },
     {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+      "title": "WHO declares hantavirus outbreak linked to cruise ship over - theguardian.com",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
-      "published": "Sun, 17 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
-    },
-    {
-      "title": "Hantavirus outbreak offers lessons for the next pandemic - Earth.com",
-      "published": "Sat, 11 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDg0al82bmRNblpsR1k3bGhoaHFzOUluZGlxcG1idWVJS295RGszUVAteE5rMVQzMFdDVVdoNG5UQWtIQUItYXpyR3FsUTFlZ3RjUGhyeU9hdWVReHZsR19YdkhKb3VlU0hKM05FMFB6ZFE5Y2ZPNzRmNTlJQ3IzVXZWLXNqVFp0NDVZOQ?oc=5",
-      "summary": "Hantavirus outbreak offers lessons for the next pandemic &nbsp;&nbsp; Earth.com",
-      "source": "Earth.com"
-    },
-    {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 14:56:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelBkQkdpX1puOF92MV9lb2diSThPSC1McV9xTlA5WldxNGJQSzc1a2xRM2FGbkp6aGs3SGtTQTdWaERBZ0hxNHRtLWVmZC1uajZFMm8xNWRvckZzSHljclZIU3d4NXlBb0Y4YTRVazA3SmpPdmVheENac2J0LWdVSjhKcjdva3lpYTR5My1adDFVRXMzUjljWVZNdzBMVnFzeVo0Z3JrSU43SnhOWVYybURn?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
+      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; theguardian.com",
+      "source": "theguardian.com"
     }
   ],
   "usHistoric": {
@@ -457,10 +458,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-30T13:12:52.620447Z",
+    "timestamp": "2026-07-30T15:22:38.136810Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 41,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
