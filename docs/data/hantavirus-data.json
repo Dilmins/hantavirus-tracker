@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T11:39:07.560812Z",
+  "lastUpdated": "2026-07-31T13:17:53.736494Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 41,
+  "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -79,11 +79,18 @@
           "source": "NBC News"
         },
         {
-          "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+          "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
           "published": "Thu, 11 Jun 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-          "summary": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; science.org",
-          "source": "science.org"
+          "summary": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
+          "source": "Science | AAAS"
+        },
+        {
+          "title": "How Industry Can Help Prevent the Next Cruise Ship Outbreak - Think Global Health",
+          "published": "Thu, 09 Jul 2026 14:54:18 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQi04eWE5bjBvQ1pUNEQwQ25tYjF4NG9nemQ1bXNhUWt4bVFzNHByR3JLSGw0cl8yYk5HSkV2T0x0RjhvcFphV19OYUczdjZoN01iblVjcGlVSjM2NS00d0owZWJnbnIwRGtoalU5NlhtcE54SklZWnlNUy1RSVJTbWM3R2NJaGplUWNUcU9TNEROZHNDa29UaWhNNVo0V09kWUg0?oc=5",
+          "summary": "How Industry Can Help Prevent the Next Cruise Ship Outbreak &nbsp;&nbsp; Think Global Health",
+          "source": "Think Global Health"
         },
         {
           "title": "WHO confirms five cases of hantavirus linked to cruise ship - Al Jazeera",
@@ -98,13 +105,6 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
           "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
           "source": "Forbes"
-        },
-        {
-          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-          "published": "Sat, 09 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-          "source": "PBS"
         },
         {
           "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
@@ -122,19 +122,45 @@
         }
       ],
       "sources": [
-        "AP News",
-        "science.org",
-        "CIDRAP",
+        "NBC News",
+        "Al Jazeera",
         "Central Oregon Daily",
-        "PBS",
-        "BBC",
+        "Think Global Health",
         "Forbes",
+        "CIDRAP",
+        "BBC",
         "KDHE.ks.gov",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Al Jazeera",
-        "NBC News"
+        "Science | AAAS",
+        "AP News"
       ],
       "alertCount": 11
+    },
+    {
+      "country": "USA",
+      "lat": 37.09,
+      "lng": -95.71,
+      "alerts": [
+        {
+          "title": "More hantavirus cases are expected, WHO chief says - USA Today",
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
+          "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
+          "source": "USA Today"
+        },
+        {
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "published": "Fri, 15 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
+          "source": "Live Science"
+        }
+      ],
+      "sources": [
+        "Live Science",
+        "USA Today"
+      ],
+      "alertCount": 2
     },
     {
       "country": "Chile",
@@ -161,24 +187,6 @@
         "upi.com"
       ],
       "alertCount": 2
-    },
-    {
-      "country": "USA",
-      "lat": 37.09,
-      "lng": -95.71,
-      "alerts": [
-        {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
-          "published": "Fri, 15 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
-          "source": "livescience.com"
-        }
-      ],
-      "sources": [
-        "livescience.com"
-      ],
-      "alertCount": 1
     },
     {
       "country": "United Kingdom",
@@ -254,6 +262,13 @@
       "source": "World Health Organization (WHO)"
     },
     {
+      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
+      "published": "Wed, 15 Jul 2026 12:46:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
+      "source": "TristanDC.com"
+    },
+    {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
@@ -280,6 +295,20 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hhVDBWUDE5Y1FLMFRZbTFTSnY3bGdrMVMzVUgwQ3VaN29LSWhTNUF2SVRTYVNxVHBtc1VQQW9ucEtCb184YllNMXNITDNtUjBCN0pDOU1na1pQRlc3LWRCSXRnZmpQVW5LdVI5ejZiRnpHZTF4QUdqZ050bGpSbFdLaENxSU1qNlczTlNfWVVUYjZYUTJZVkFiX3pUdVV6aUZpY1Nn0gGrAUFVX3lxTE43NEt0cUg2cVNaN1p3d09rclVJNUExbVltMFZqVXBJa3hra2ZoRnFUbUd6UkJITmNUQ3lNZ3ZtemtaRko5TlVNTEZMNTJBX0ZnUVZaczdQM3FwdzVqWFpPRTZvWVoxcGxOVzd4N2Y0YlhoLW1BR1UwMVJFelVLWnc4M2xXa0ZaenhheVUyMHJXREdDZy1fUmYxSU1qWnB4V3BHaDVKS3JaV0RqOA?oc=5",
       "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc?oc=5",
+      "summary": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "title": "More hantavirus cases are expected, WHO chief says - USA Today",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
+      "summary": "More hantavirus cases are expected, WHO chief says &nbsp;&nbsp; USA Today",
+      "source": "USA Today"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -338,13 +367,6 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
-      "source": "Boston University"
-    },
-    {
       "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
@@ -380,11 +402,18 @@
       "source": "NBC News"
     },
     {
-      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - science.org",
+      "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemJtTTFqM3JONmktSzlRV1drOVoxaG9oZG45Y1MydXdUYm1WUjdaMXQxeWZOLW9tNjlMWXRmd1ZYQ05hU1VTUzVOSXY2Y0xNV2VQSnZjTTNVNElPVkUya0ZKTWZPOE5wUVV0NGY5WDJlSGZ0Zk1KNmRxYzRkeXZ5dG11VEtoOVktdkl2Sm1LVjZiRzFrNkFodXoyMFplZEhnR0l2N2dUWXdGeVRUUlRQclhuNjdLLU81anc?oc=5",
-      "summary": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; science.org",
-      "source": "science.org"
+      "summary": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios &nbsp;&nbsp; Science | AAAS",
+      "source": "Science | AAAS"
+    },
+    {
+      "title": "How Industry Can Help Prevent the Next Cruise Ship Outbreak - Think Global Health",
+      "published": "Thu, 09 Jul 2026 14:54:18 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQi04eWE5bjBvQ1pUNEQwQ25tYjF4NG9nemQ1bXNhUWt4bVFzNHByR3JLSGw0cl8yYk5HSkV2T0x0RjhvcFphV19OYUczdjZoN01iblVjcGlVSjM2NS00d0owZWJnbnIwRGtoalU5NlhtcE54SklZWnlNUy1RSVJTbWM3R2NJaGplUWNUcU9TNEROZHNDa29UaWhNNVo0V09kWUg0?oc=5",
+      "summary": "How Industry Can Help Prevent the Next Cruise Ship Outbreak &nbsp;&nbsp; Think Global Health",
+      "source": "Think Global Health"
     },
     {
       "title": "WHO confirms five cases of hantavirus linked to cruise ship - Al Jazeera",
@@ -406,27 +435,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
-    },
-    {
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-      "source": "PBS"
-    },
-    {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 14:56:01 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelBkQkdpX1puOF92MV9lb2diSThPSC1McV9xTlA5WldxNGJQSzc1a2xRM2FGbkp6aGs3SGtTQTdWaERBZ0hxNHRtLWVmZC1uajZFMm8xNWRvckZzSHljclZIU3d4NXlBb0Y4YTRVazA3SmpPdmVheENac2J0LWdVSjhKcjdva3lpYTR5My1adDFVRXMzUjljWVZNdzBMVnFzeVo0Z3JrSU43SnhOWVYybURn?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
-    },
-    {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
     }
   ],
   "usHistoric": {
@@ -456,10 +464,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-07-31T11:39:07.560828Z",
+    "timestamp": "2026-07-31T13:17:53.736508Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 43,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
