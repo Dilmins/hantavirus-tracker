@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-01T09:19:25.139947Z",
+  "lastUpdated": "2026-08-01T10:54:33.709778Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 44,
+  "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,11 +58,11 @@
           "source": "KDHE.ks.gov"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+          "source": "bbc.com"
         },
         {
           "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "NBC News",
-        "CIDRAP",
         "Science | AAAS",
-        "BBC",
-        "AP News",
-        "KDHE.ks.gov",
-        "CBC",
-        "PBS",
-        "Al Jazeera",
+        "Central Oregon Daily",
+        "cbc.ca",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "Forbes",
+        "bbc.com",
         "Colorado Public Radio",
-        "Central Oregon Daily"
+        "PBS",
+        "Al Jazeera",
+        "AP News",
+        "CIDRAP",
+        "KDHE.ks.gov",
+        "NBC News"
       ],
       "alertCount": 13
     },
@@ -159,8 +159,8 @@
         }
       ],
       "sources": [
-        "upi.com",
-        "BNO News"
+        "BNO News",
+        "upi.com"
       ],
       "alertCount": 2
     },
@@ -170,15 +170,15 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
           "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
-          "source": "livescience.com"
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
+          "source": "Live Science"
         }
       ],
       "sources": [
-        "livescience.com"
+        "Live Science"
       ],
       "alertCount": 1
     },
@@ -266,11 +266,11 @@
       "source": "Stanford Medicine"
     },
     {
-      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - kff.org",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
-      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
-      "source": "KFF"
+      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; kff.org",
+      "source": "kff.org"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -287,11 +287,11 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+      "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
     },
     {
       "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
@@ -406,11 +406,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
+      "title": "WHO to give update on hantavirus and Ebola after outbreaks - bbc.com",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
-      "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
     }
   ],
   "usHistoric": {
@@ -440,10 +440,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-01T09:19:25.139962Z",
+    "timestamp": "2026-08-01T10:54:33.709791Z",
     "who": 0,
     "promed": 0,
-    "news": 44,
+    "news": 43,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
