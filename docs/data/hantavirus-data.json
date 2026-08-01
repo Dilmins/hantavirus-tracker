@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T07:12:37.662800Z",
+  "lastUpdated": "2026-08-01T09:19:25.139947Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "KDHE.ks.gov",
-        "BBC",
-        "Central Oregon Daily",
+        "NBC News",
         "CIDRAP",
         "Science | AAAS",
+        "BBC",
         "AP News",
-        "Colorado Public Radio",
+        "KDHE.ks.gov",
+        "CBC",
         "PBS",
-        "NBC News",
-        "Forbes",
         "Al Jazeera",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CBC"
+        "Forbes",
+        "Colorado Public Radio",
+        "Central Oregon Daily"
       ],
       "alertCount": 13
     },
@@ -170,15 +170,15 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
           "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-          "source": "Live Science"
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
+          "source": "livescience.com"
         }
       ],
       "sources": [
-        "Live Science"
+        "livescience.com"
       ],
       "alertCount": 1
     },
@@ -322,11 +322,11 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - bu.edu",
+      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; bu.edu",
-      "source": "bu.edu"
+      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
+      "source": "Boston University"
     },
     {
       "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
@@ -343,11 +343,11 @@
       "source": "AP News"
     },
     {
-      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
+      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - npr.org",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
-      "summary": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
-      "source": "NPR"
+      "summary": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; npr.org",
+      "source": "npr.org"
     },
     {
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
@@ -378,11 +378,11 @@
       "source": "Forbes"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
-      "source": "unric.org"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -440,7 +440,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-01T07:12:37.662819Z",
+    "timestamp": "2026-08-01T09:19:25.139962Z",
     "who": 0,
     "promed": 0,
     "news": 44,
