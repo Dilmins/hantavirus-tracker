@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T09:22:08.703635Z",
+  "lastUpdated": "2026-08-02T10:55:45.049701Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -72,11 +72,11 @@
           "source": "AP News"
         },
         {
-          "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - nbcnews.com",
+          "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
           "published": "Thu, 11 Jun 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
-          "summary": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine &nbsp;&nbsp; nbcnews.com",
-          "source": "nbcnews.com"
+          "summary": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine &nbsp;&nbsp; NBC News",
+          "source": "NBC News"
         },
         {
           "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "PBS",
-        "centraloregondaily.com",
-        "WTTW",
-        "Al Jazeera",
-        "Science | AAAS",
         "KDHE.ks.gov",
-        "CIDRAP",
-        "CBC",
-        "nbcnews.com",
+        "PBS",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Al Jazeera",
+        "NBC News",
         "AP News",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Central Oregon Daily",
+        "Science | AAAS",
+        "WTTW",
+        "CIDRAP",
+        "Forbes",
+        "CBC"
       ],
       "alertCount": 12
     },
@@ -166,8 +166,8 @@
       ],
       "sources": [
         "Outbreak News Today",
-        "BNO News",
-        "upi.com"
+        "upi.com",
+        "BNO News"
       ],
       "alertCount": 3
     },
@@ -199,8 +199,8 @@
         }
       ],
       "sources": [
-        "Hartford Courant",
         "T\u00fcrkiye Today",
+        "Hartford Courant",
         "Anadolu Ajans\u0131"
       ],
       "alertCount": 3
@@ -409,11 +409,11 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - bu.edu",
+      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; bu.edu",
-      "source": "bu.edu"
+      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
+      "source": "Boston University"
     },
     {
       "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
@@ -444,11 +444,11 @@
       "source": "NPR"
     },
     {
-      "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - nbcnews.com",
+      "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
-      "summary": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine &nbsp;&nbsp; nbcnews.com",
-      "source": "nbcnews.com"
+      "summary": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine &nbsp;&nbsp; NBC News",
+      "source": "NBC News"
     },
     {
       "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
@@ -499,7 +499,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-02T09:22:08.703647Z",
+    "timestamp": "2026-08-02T10:55:45.049718Z",
     "who": 0,
     "promed": 0,
     "news": 43,
