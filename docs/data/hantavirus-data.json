@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-05T18:46:54.283196Z",
+  "lastUpdated": "2026-08-05T20:19:58.322306Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
-  "newsCount": 43,
+  "locationsTracked": 7,
+  "newsCount": 41,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -79,13 +79,6 @@
           "source": "BBC"
         },
         {
-          "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-          "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
-          "summary": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-          "source": "AP News"
-        },
-        {
           "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
           "published": "Thu, 11 Jun 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUJoSmJidDdNUnpTbkdfT2ZkWjhFa3ZpSnZ0UDF5RDRCczRWWVVGQTRjTmJIR241SFRpeUlGWmRwYlBXMUFTLUd5d1BicTJmRElOWm5qWmxzNmJUOG12V3BfWnE3Y2hZWXhyeTFfSlBTNnlZY2hJOTNxZGtaRDJELTdtR056RG5pSWU1LThSRWpRNzR5RnhHM1ctLUFkdkJJLTR0aTNiQi1zQmFqckJldDZpTEtFaEZ4Nk9obU5R?oc=5",
@@ -119,24 +112,29 @@
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
           "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
           "source": "Forbes"
+        },
+        {
+          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+          "published": "Sat, 09 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+          "source": "PBS"
         }
       ],
       "sources": [
-        "CIDRAP",
-        "AP News",
-        "Al Jazeera",
-        "WTTW",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "Science | AAAS",
-        "BBC",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Forbes",
         "NBC News",
+        "WTTW",
+        "BBC",
+        "Al Jazeera",
         "European Medicines Agency (EMA)",
-        "pbs.org",
+        "ABC News - Breaking News, Latest News and Videos",
+        "PBS",
+        "Forbes",
+        "CIDRAP",
         "KDHE.ks.gov"
       ],
-      "alertCount": 13
+      "alertCount": 11
     },
     {
       "country": "Venezuela",
@@ -159,8 +157,8 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "AP News"
+        "AP News",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 2
     },
@@ -201,6 +199,24 @@
       "alertCount": 1
     },
     {
+      "country": "Argentina",
+      "lat": -38.42,
+      "lng": -63.62,
+      "alerts": [
+        {
+          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
+          "published": "Wed, 02 Dec 2020 08:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
+          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
+        }
+      ],
+      "sources": [
+        "The New England Journal of Medicine"
+      ],
+      "alertCount": 1
+    },
+    {
       "country": "United Kingdom",
       "lat": 52.36,
       "lng": -1.17,
@@ -220,21 +236,21 @@
     },
     {
       "country": "Chile",
-      "lat": -45.57,
-      "lng": -72.07,
-      "alertCount": 14,
+      "lat": -35.68,
+      "lng": -71.54,
       "alerts": [
         {
-          "title": "Ays\u00e9n Region, Chile \u2014 Andes Orthohantavirus",
-          "published": "2026-04-15",
-          "link": "https://www.minsal.cl",
-          "summary": "Agricultural workers in southern Chile. Genomic sequences deposited to GenBank. Oligochaeta rodent reservoir confirmed. Active surveillance ongoing by Chile MINSAL.",
-          "source": "Chile Ministry of Health"
+          "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
+          "published": "Thu, 30 Jul 2026 13:43:44 GMT",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
+          "summary": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; upi.com",
+          "source": "upi.com"
         }
       ],
       "sources": [
-        "Chile Ministry of Health"
-      ]
+        "upi.com"
+      ],
+      "alertCount": 1
     }
   ],
   "recentNews": [
@@ -281,18 +297,18 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
-      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
       "title": "Hantavirus explained: from hamsters to human trials - Understanding Animal Research",
       "published": "Wed, 05 Aug 2026 16:29:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
       "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; Understanding Animal Research",
       "source": "Understanding Animal Research"
+    },
+    {
+      "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
+      "published": "Wed, 02 Dec 2020 08:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
+      "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
+      "source": "The New England Journal of Medicine"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
@@ -351,18 +367,25 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "No sign of larger hantavirus outbreak, says UN health agency - BBC",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FdDhmUjR3MHN3bGx1TFRfdXpGLTlXMEQxc095amY5Wl9wZFo1RmRyVG5CR1FnVnh1aThUbHdkRU9HU0FoU3lkY3Y2andCNFBQVTlSb01jZnRtQQ?oc=5",
-      "summary": "No sign of larger hantavirus outbreak, says UN health agency &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
       "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
       "source": "BBC"
+    },
+    {
+      "title": "Chile issues first-ever preventive hantavirus health alert - upi.com",
+      "published": "Thu, 30 Jul 2026 13:43:44 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGE2Si1GNHNLLWFuN3Q3Vk9Fd3BWY3c5Z01KY2RpdDBBMU41aDZNLWZWdDR0MTY4MlBtejM5VktMQkRSaktLaWJiRkhfVDgtQmlRQUNsWGFObUlPbS1ra21FdEtQOWcxZzc1OUxPME92Q2pKVk1Bc2NwYi01LUNaVjIzeWdrODVzNVJCTkZYRHM4VUZQd3pSZkNn0gGfAUFVX3lxTE1oa2QwclIwcFRWY1BlVmE0Qko2N3pkVW84RlNpczhrRThwMHl4X3RfZHVrQlozOGpXWnoyS1dSUjRMQlFDQndmY2hmOU1pLXN6amc4dHB1WXBlbjNMOHFOTDd5Q3UybkJRTXFhR2h2SEFtQ1psWVdscE0wS1NCTXFYQ0JDUmY0UUtTcncwTjUxNzc1ems0enVuaUJHY1Z1Zw?oc=5",
+      "summary": "Chile issues first-ever preventive hantavirus health alert &nbsp;&nbsp; upi.com",
+      "source": "upi.com"
+    },
+    {
+      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
+      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -386,11 +409,11 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - cnbc.com",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
-      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
-      "source": "CNBC"
+      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; cnbc.com",
+      "source": "cnbc.com"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -398,20 +421,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2tnd2FFUHBBUDJTbUstT3U4VDYxa2JLNU9LVFhMWmFCZjIzeTQ1cGR5X2N1VjJDOFFwaUZOZmxwTnY5WWdlTkczdmlVQXFFWS1ZSVZrQnpsRVFWTTExMUMzOTk4SFRwVEttbUphV1NaWGNBenJhRXJfSWQ4TDNRc2RCUDF1Sk0?oc=5",
       "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; Harvard T.H. Chan School of Public Health",
       "source": "Harvard T.H. Chan School of Public Health"
-    },
-    {
-      "title": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - AP News",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
-      "summary": "\ufeff\ufeffUS puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island &nbsp;&nbsp; AP News",
-      "source": "AP News"
-    },
-    {
-      "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms - NPR",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
-      "summary": "White House response to hantavirus and Ebola contrasts with COVID criticisms &nbsp;&nbsp; NPR",
-      "source": "NPR"
     },
     {
       "title": "CDC and Florida at odds over hantavirus cruise ship passenger\u2019s quarantine - NBC News",
@@ -447,6 +456,13 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREJjNVZ5dlE0VlU2b2lOaGxWQk9qeFNqWm1ienNmYi1Da0tGYnhGaTk0dVFKc05FYndReVVzaGliQXJSRnNOOXJzdXJiZWUxbFFBN1FJNkc0WDIxSVJyVW1YYzNlRktlNVA4eWdwQjE4X2diZjBfWjJ0d3FRNU9rTlJ6TkVpN2I5aW41Vkk5ZnNJQWE0WWhHY052SzBOQ3dn0gGmAUFVX3lxTE9PdXNnNEhYNTdkcGZsNEJPeGg4blE3c245X0tCVU91ejhHUEpEVDIwMUcwZ1pCeEZQT180VEZmQUJsV3dTdzBEemdnSGJjY0NvSUxzbkgzWm83aGF6YWhOVXBzTl9GcllVZTBod0ZTWmRGdTBwMVFXdEdNTmtJUmMwal9XUWtsRWNtMWhKQjV3OS01TExQSTZUME91TUFSRWU3cnhyRXc?oc=5",
       "summary": "WHO confirms five cases of hantavirus linked to cruise ship &nbsp;&nbsp; Al Jazeera",
       "source": "Al Jazeera"
+    },
+    {
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
+      "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+      "source": "Forbes"
     }
   ],
   "usHistoric": {
@@ -476,10 +492,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-05T18:46:54.283243Z",
+    "timestamp": "2026-08-05T20:19:58.322318Z",
     "who": 0,
     "promed": 0,
-    "news": 43,
+    "news": 41,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
