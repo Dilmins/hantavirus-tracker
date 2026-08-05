@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T20:19:58.322306Z",
+  "lastUpdated": "2026-08-05T21:39:58.802060Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,45 @@
         }
       ],
       "sources": [
-        "Science | AAAS",
-        "NBC News",
-        "WTTW",
         "BBC",
-        "Al Jazeera",
-        "European Medicines Agency (EMA)",
+        "NBC News",
         "ABC News - Breaking News, Latest News and Videos",
-        "PBS",
-        "Forbes",
+        "European Medicines Agency (EMA)",
+        "Science | AAAS",
+        "WTTW",
+        "KDHE.ks.gov",
+        "Al Jazeera",
         "CIDRAP",
-        "KDHE.ks.gov"
+        "PBS",
+        "Forbes"
       ],
       "alertCount": 11
+    },
+    {
+      "country": "United Kingdom",
+      "lat": 55.38,
+      "lng": -3.44,
+      "alerts": [
+        {
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
+        },
+        {
+          "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
+          "published": "Wed, 05 Aug 2026 16:29:53 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
+          "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
+          "source": "understandinganimalresearch.org.uk"
+        }
+      ],
+      "sources": [
+        "The New England Journal of Medicine",
+        "understandinganimalresearch.org.uk"
+      ],
+      "alertCount": 2
     },
     {
       "country": "Venezuela",
@@ -157,8 +183,8 @@
         }
       ],
       "sources": [
-        "AP News",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News"
       ],
       "alertCount": 2
     },
@@ -208,24 +234,6 @@
           "published": "Wed, 02 Dec 2020 08:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
           "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
-        }
-      ],
-      "sources": [
-        "The New England Journal of Medicine"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "United Kingdom",
-      "lat": 52.36,
-      "lng": -1.17,
-      "alerts": [
-        {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
-          "published": "Wed, 20 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
           "source": "The New England Journal of Medicine"
         }
       ],
@@ -297,11 +305,11 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "Hantavirus explained: from hamsters to human trials - Understanding Animal Research",
+      "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
       "published": "Wed, 05 Aug 2026 16:29:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
-      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; Understanding Animal Research",
-      "source": "Understanding Animal Research"
+      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
+      "source": "understandinganimalresearch.org.uk"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -409,11 +417,11 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - cnbc.com",
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
-      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; cnbc.com",
-      "source": "cnbc.com"
+      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
+      "source": "CNBC"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -492,7 +500,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-05T20:19:58.322318Z",
+    "timestamp": "2026-08-05T21:39:58.802077Z",
     "who": 0,
     "promed": 0,
     "news": 41,
