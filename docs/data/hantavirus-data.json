@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-06T07:13:17.600820Z",
+  "lastUpdated": "2026-08-06T09:50:36.147180Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
+  "locationsTracked": 5,
   "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -115,14 +115,14 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "European Medicines Agency (EMA)",
         "KDHE.ks.gov",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Al Jazeera",
-        "CIDRAP",
+        "Forbes",
         "BBC",
-        "PBS"
+        "ABC News - Breaking News, Latest News and Videos",
+        "European Medicines Agency (EMA)",
+        "PBS",
+        "Al Jazeera",
+        "CIDRAP"
       ],
       "alertCount": 9
     },
@@ -132,11 +132,11 @@
       "lng": -66.59,
       "alerts": [
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
-          "source": "AP News"
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
+          "source": "apnews.com"
         },
         {
           "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
@@ -147,28 +147,10 @@
         }
       ],
       "sources": [
-        "AP News",
+        "apnews.com",
         "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 2
-    },
-    {
-      "country": "Spain",
-      "lat": 40.46,
-      "lng": -3.75,
-      "alerts": [
-        {
-          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
-          "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
-        }
-      ],
-      "sources": [
-        "Yahoo"
-      ],
-      "alertCount": 1
     },
     {
       "country": "USA",
@@ -177,7 +159,7 @@
       "alerts": [
         {
           "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
-          "published": "Tue, 12 May 2026 10:50:38 GMT",
+          "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
           "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
           "source": "Live Science"
@@ -227,11 +209,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
-      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
+      "source": "ajmc.com"
     },
     {
       "title": "2026 News - The University of Maryland, Baltimore",
@@ -241,11 +223,11 @@
       "source": "The University of Maryland, Baltimore"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
       "published": "Wed, 22 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
-      "source": "AP News"
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
+      "source": "apnews.com"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
@@ -290,25 +272,18 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
-      "published": "Tue, 12 May 2026 10:50:38 GMT",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-      "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-      "source": "Live Science"
-    },
-    {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
-      "source": "med.stanford.edu"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "source": "Stanford Medicine"
     },
     {
-      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - kff.org",
+      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
-      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; kff.org",
-      "source": "kff.org"
+      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
+      "source": "KFF"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -409,6 +384,13 @@
       "source": "Al Jazeera"
     },
     {
+      "title": "Cumming Global Centre for Pandemic Therapeutics announces projects to accelerate therapeutics for Ebola and hantavirus - doherty.edu.au",
+      "published": "Thu, 06 Aug 2026 02:39:35 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWHB5cUxPVU8tbW5IRTlQRF9qTGJmQlNPdDRmU21XekNHbWxVdG5NZ1AtaHZUY2VfNmdzZkh6UTZXU2R4NlBYeEdsbjd3Y05wdWlTbFUxN0FYLWxNVjM1NU5FWEUwYVpyYkJGRXVxZ2FrM3FQa2dJb2NZT3N2OHNpN0FzV0VvN0lXQ2V3RHA1d2dFLWpZa2JtR2pYcGFfd1d6amQ4UzROZHl2dy1BdnRrWUhMa1JvSlJkSm0wV0lhSGQyM0kxTjRUWV9PblJlNVczajNEMjZFWmRIRGo5dEY5OVROVkFWR3EzTjF3?oc=5",
+      "summary": "Cumming Global Centre for Pandemic Therapeutics announces projects to accelerate therapeutics for Ebola and hantavirus &nbsp;&nbsp; doherty.edu.au",
+      "source": "doherty.edu.au"
+    },
+    {
       "title": "CO26168 | From Hantavirus to Ebola: Rebuilding Trust in Health and Biosecurity Governance - S. Rajaratnam School of International Studies (RSIS)",
       "published": "Thu, 06 Aug 2026 00:23:17 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUF9XQ1l5UGMwS1Q3VldENThadktMYURWVnlLbmg0dFZEYy1HZXV2NXdDZ1oxM2ZlN0JTb0dZcnJMTVRQR2hLdWpYakRkaGNJRF9GT0JscHdkeFlIWURWRUhqYTVPSHZCM0VMOXdZQVpUc1NrTk5LRjRIeHhmT29Oem1pNld5RThueFAtLW5PTm1fc0ZqZExRYm15bFdhVlNiQjd5OTlpTVY1XzhwbGJ1LXVCRm9XZklJZEtJV1lR?oc=5",
@@ -464,7 +446,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-06T07:13:17.600833Z",
+    "timestamp": "2026-08-06T09:50:36.147195Z",
     "who": 0,
     "promed": 0,
     "news": 40,
