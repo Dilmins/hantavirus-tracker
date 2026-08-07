@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T23:23:56.107960Z",
+  "lastUpdated": "2026-08-07T23:54:46.791866Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -94,12 +94,12 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "Forbes",
         "CIDRAP",
-        "Al Jazeera",
         "BBC",
-        "KDHE.ks.gov"
+        "Forbes",
+        "World Health Organization (WHO)",
+        "KDHE.ks.gov",
+        "Al Jazeera"
       ],
       "alertCount": 6
     },
@@ -145,8 +145,8 @@
         }
       ],
       "sources": [
-        "euractiv.com",
         "RTL Today",
+        "euractiv.com",
         "Bangladesh Sangbad Sangstha (BSS)",
         "Le Monde.fr",
         "The Connexion"
@@ -159,11 +159,11 @@
       "lng": -66.59,
       "alerts": [
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-          "source": "apnews.com"
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+          "source": "AP News"
         },
         {
           "title": "Venezuela confirms 3 hantavirus deaths - T\u00fcrkiye Today",
@@ -173,25 +173,25 @@
           "source": "T\u00fcrkiye Today"
         },
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
-          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hhVDBWUDE5Y1FLMFRZbTFTSnY3bGdrMVMzVUgwQ3VaN29LSWhTNUF2SVRTYVNxVHBtc1VQQW9ucEtCb184YllNMXNITDNtUjBCN0pDOU1na1pQRlc3LWRCSXRnZmpQVW5LdVI5ejZiRnpHZTF4QUdqZ050bGpSbFdLaENxSU1qNlczTlNfWVVUYjZYUTJZVkFiX3pUdVV6aUZpY1Nn0gGrAUFVX3lxTE43NEt0cUg2cVNaN1p3d09rclVJNUExbVltMFZqVXBJa3hra2ZoRnFUbUd6UkJITmNUQ3lNZ3ZtemtaRko5TlVNTEZMNTJBX0ZnUVZaczdQM3FwdzVqWFpPRTZvWVoxcGxOVzd4N2Y0YlhoLW1BR1UwMVJFelVLWnc4M2xXa0ZaenhheVUyMHJXREdDZy1fUmYxSU1qWnB4V3BHaDVKS3JaV0RqOA?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+          "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - aa.com.tr",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
-          "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
-          "source": "Anadolu Ajans\u0131"
+          "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; aa.com.tr",
+          "source": "aa.com.tr"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Scranton Times-Tribune",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVV8wMzRUMHdjZ0FONGlReWJhVVRFQ3VudzEwYkxnbUxxSXRlQW51VGxXeGVlZUUxUHdUZk9vZDU2ZHdCbkZHekdTSTFuU01zcF9MWFp0R1FoMmFPcmhWZnRhb3ZwTm5hRi1FalU5LXFfWlpkYVFBVHlyMGtJMDJfUXM3d1g5OFZNVXk2NV9pMmcwMjNEOFRySFZnQWRpVnR0SHc?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Scranton Times-Tribune",
+          "source": "Scranton Times-Tribune"
         }
       ],
       "sources": [
         "T\u00fcrkiye Today",
-        "apnews.com",
-        "ABC News - Breaking News, Latest News and Videos",
-        "Anadolu Ajans\u0131"
+        "Scranton Times-Tribune",
+        "aa.com.tr",
+        "AP News"
       ],
       "alertCount": 4
     },
@@ -237,15 +237,15 @@
       "lng": -3.75,
       "alerts": [
         {
-          "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - Anadolu Ajans\u0131",
+          "title": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days - aa.com.tr",
           "published": "Fri, 07 Aug 2026 13:36:30 GMT",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVhHSWhBM0FIeVVILUZqNFM0N2s4MUhweWhQREJab2hLRGlyemwwT2NSZG9jb1JHd093c0w2UXRCZ0VpWm83Tkc5SmZSbjZBS1VPTEMwODNXcnJOamNVZll4bTBHNUU5WERwZHdpME5yQWYxaG1CaGdwLXNpbmp0djhfcmp6Sm1OUS1mZ09mTmNwVHZEclJEdV9Vb0hKa044R1lEVEE2ODVaSnN0NG5rSlBVd01UTjdxeTdtT25tQnJmaVhWcFBzYQ?oc=5",
-          "summary": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days &nbsp;&nbsp; Anadolu Ajans\u0131",
-          "source": "Anadolu Ajans\u0131"
+          "summary": "Health officials say new hantavirus patient in Spain may have been contagious for 10 days &nbsp;&nbsp; aa.com.tr",
+          "source": "aa.com.tr"
         }
       ],
       "sources": [
-        "Anadolu Ajans\u0131"
+        "aa.com.tr"
       ],
       "alertCount": 1
     },
@@ -288,18 +288,18 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
-      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
       "published": "Wed, 22 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-      "source": "apnews.com"
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+      "source": "AP News"
     },
     {
       "title": "2026 News - The University of Maryland, Baltimore",
@@ -330,11 +330,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
+      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
-      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
-      "source": "TristanDC.com"
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
+      "source": "tristandc.com"
     },
     {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
@@ -365,18 +365,18 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - ABC News - Breaking News, Latest News and Videos",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2hhVDBWUDE5Y1FLMFRZbTFTSnY3bGdrMVMzVUgwQ3VaN29LSWhTNUF2SVRTYVNxVHBtc1VQQW9ucEtCb184YllNMXNITDNtUjBCN0pDOU1na1pQRlc3LWRCSXRnZmpQVW5LdVI5ejZiRnpHZTF4QUdqZ050bGpSbFdLaENxSU1qNlczTlNfWVVUYjZYUTJZVkFiX3pUdVV6aUZpY1Nn0gGrAUFVX3lxTE43NEt0cUg2cVNaN1p3d09rclVJNUExbVltMFZqVXBJa3hra2ZoRnFUbUd6UkJITmNUQ3lNZ3ZtemtaRko5TlVNTEZMNTJBX0ZnUVZaczdQM3FwdzVqWFpPRTZvWVoxcGxOVzd4N2Y0YlhoLW1BR1UwMVJFelVLWnc4M2xXa0ZaenhheVUyMHJXREdDZy1fUmYxSU1qWnB4V3BHaDVKS3JaV0RqOA?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
-      "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+      "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - aa.com.tr",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
-      "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
+      "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; aa.com.tr",
+      "source": "aa.com.tr"
+    },
+    {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Scranton Times-Tribune",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVV8wMzRUMHdjZ0FONGlReWJhVVRFQ3VudzEwYkxnbUxxSXRlQW51VGxXeGVlZUUxUHdUZk9vZDU2ZHdCbkZHekdTSTFuU01zcF9MWFp0R1FoMmFPcmhWZnRhb3ZwTm5hRi1FalU5LXFfWlpkYVFBVHlyMGtJMDJfUXM3d1g5OFZNVXk2NV9pMmcwMjNEOFRySFZnQWRpVnR0SHc?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Scranton Times-Tribune",
+      "source": "Scranton Times-Tribune"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
@@ -428,11 +428,11 @@
       "source": "hopkinsmedicine.org"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - bu.edu",
+      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; bu.edu",
-      "source": "bu.edu"
+      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
+      "source": "Boston University"
     },
     {
       "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -491,11 +491,11 @@
       "source": "BBC"
     },
     {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - nytimes.com",
+      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; nytimes.com",
-      "source": "nytimes.com"
+      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times"
     }
   ],
   "usHistoric": {
@@ -525,7 +525,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-07T23:23:56.107975Z",
+    "timestamp": "2026-08-07T23:54:46.791881Z",
     "who": 0,
     "promed": 0,
     "news": 39,
