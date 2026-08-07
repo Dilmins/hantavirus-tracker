@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-07T14:37:54.591388Z",
+  "lastUpdated": "2026-08-07T15:33:00.537218Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 8,
+  "locationsTracked": 7,
   "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -100,21 +100,21 @@
           "source": "PBS"
         },
         {
-          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
+          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; cidrap.umn.edu",
-          "source": "cidrap.umn.edu"
+          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
         }
       ],
       "sources": [
+        "Al Jazeera",
         "KDHE.ks.gov",
-        "World Health Organization (WHO)",
         "PBS",
-        "cidrap.umn.edu",
-        "BBC",
         "Forbes",
-        "Al Jazeera"
+        "World Health Organization (WHO)",
+        "CIDRAP",
+        "BBC"
       ],
       "alertCount": 8
     },
@@ -160,10 +160,10 @@
         }
       ],
       "sources": [
-        "RTL Today",
         "Le Monde.fr",
-        "The Connexion",
         "euractiv.com",
+        "RTL Today",
+        "The Connexion",
         "Bangladesh Sangbad Sangstha (BSS)"
       ],
       "alertCount": 5
@@ -189,8 +189,8 @@
         }
       ],
       "sources": [
-        "Anadolu Ajans\u0131",
-        "El Constitucional"
+        "El Constitucional",
+        "Anadolu Ajans\u0131"
       ],
       "alertCount": 2
     },
@@ -215,8 +215,8 @@
         }
       ],
       "sources": [
-        "AP News",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News"
       ],
       "alertCount": 2
     },
@@ -253,24 +253,6 @@
       ],
       "sources": [
         "nejm.org"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "United Kingdom",
-      "lat": 55.38,
-      "lng": -3.44,
-      "alerts": [
-        {
-          "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
-          "published": "Wed, 05 Aug 2026 16:29:53 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
-          "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
-          "source": "understandinganimalresearch.org.uk"
-        }
-      ],
-      "sources": [
-        "understandinganimalresearch.org.uk"
       ],
       "alertCount": 1
     },
@@ -337,11 +319,11 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
+      "title": "Hantavirus explained: from hamsters to human trials - Understanding Animal Research",
       "published": "Wed, 05 Aug 2026 16:29:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
-      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
-      "source": "understandinganimalresearch.org.uk"
+      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; Understanding Animal Research",
+      "source": "Understanding Animal Research"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - nejm.org",
@@ -372,11 +354,11 @@
       "source": "KFF"
     },
     {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - cidrap.umn.edu",
+      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
@@ -484,11 +466,11 @@
       "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
+      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
@@ -498,11 +480,11 @@
       "source": "BBC"
     },
     {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
+      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - nytimes.com",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
+      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; nytimes.com",
+      "source": "nytimes.com"
     }
   ],
   "usHistoric": {
@@ -532,7 +514,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-07T14:37:54.591403Z",
+    "timestamp": "2026-08-07T15:33:00.537229Z",
     "who": 0,
     "promed": 0,
     "news": 40,
