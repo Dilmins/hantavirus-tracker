@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T05:21:54.333425Z",
+  "lastUpdated": "2026-08-07T06:40:08.321717Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -72,11 +72,11 @@
           "source": "BBC"
         },
         {
-          "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+          "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - who.int",
           "published": "Thu, 07 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
-          "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
-          "source": "World Health Organization (WHO)"
+          "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; who.int",
+          "source": "who.int"
         },
         {
           "title": "WHO confirms five cases of hantavirus linked to cruise ship - Al Jazeera",
@@ -115,14 +115,14 @@
         }
       ],
       "sources": [
-        "PBS",
-        "KDHE.ks.gov",
-        "World Health Organization (WHO)",
         "Al Jazeera",
-        "BBC",
         "CIDRAP",
+        "Forbes",
         "Informat.ro",
-        "Forbes"
+        "KDHE.ks.gov",
+        "BBC",
+        "PBS",
+        "who.int"
       ],
       "alertCount": 9
     },
@@ -144,13 +144,21 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
           "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
           "source": "Le Monde.fr"
+        },
+        {
+          "title": "Tourist in France tests positive for hantavirus - today.rtl.lu",
+          "published": "Fri, 07 Aug 2026 05:29:58 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNHS1hDczBZTzZ3aEZ5SXVPQU50VDI2eG9oc3NCN3VJOGNLdVlHMkNHbVhSUG5zNlpfeXlRbHlETDhoaGtqUU1KR0c0TjU1UDdXNjRmNXZuLUJQZEVlYjUtb0pRaUFjclRrMklpZ2JjRHdJMEhualdWUVJQVVVhTEhvdlFwOWZDcWZQcVhyVWFLR28?oc=5",
+          "summary": "Tourist in France tests positive for hantavirus &nbsp;&nbsp; today.rtl.lu",
+          "source": "today.rtl.lu"
         }
       ],
       "sources": [
+        "Medical Xpress",
         "Le Monde.fr",
-        "Medical Xpress"
+        "today.rtl.lu"
       ],
-      "alertCount": 2
+      "alertCount": 3
     },
     {
       "country": "Venezuela",
@@ -173,8 +181,34 @@
         }
       ],
       "sources": [
-        "AP News",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News"
+      ],
+      "alertCount": 2
+    },
+    {
+      "country": "United Kingdom",
+      "lat": 55.38,
+      "lng": -3.44,
+      "alerts": [
+        {
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
+        },
+        {
+          "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
+          "published": "Wed, 05 Aug 2026 16:29:53 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
+          "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
+          "source": "understandinganimalresearch.org.uk"
+        }
+      ],
+      "sources": [
+        "understandinganimalresearch.org.uk",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -215,24 +249,6 @@
       "alertCount": 1
     },
     {
-      "country": "United Kingdom",
-      "lat": 52.36,
-      "lng": -1.17,
-      "alerts": [
-        {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
-          "published": "Wed, 20 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
-        }
-      ],
-      "sources": [
-        "The New England Journal of Medicine"
-      ],
-      "alertCount": 1
-    },
-    {
       "country": "Chile",
       "lat": -45.57,
       "lng": -72.07,
@@ -253,11 +269,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
-      "source": "The American Journal of Managed Care"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
+      "source": "ajmc.com"
     },
     {
       "title": "2026 News - The University of Maryland, Baltimore",
@@ -281,11 +297,11 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - who.int",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; who.int",
+      "source": "who.int"
     },
     {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
@@ -302,11 +318,11 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus explained: from hamsters to human trials - Understanding Animal Research",
+      "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
       "published": "Wed, 05 Aug 2026 16:29:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
-      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; Understanding Animal Research",
-      "source": "Understanding Animal Research"
+      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
+      "source": "understandinganimalresearch.org.uk"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -386,11 +402,11 @@
       "source": "CNBC"
     },
     {
-      "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+      "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - who.int",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
-      "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
+      "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; who.int",
+      "source": "who.int"
     },
     {
       "title": "WHO confirms five cases of hantavirus linked to cruise ship - Al Jazeera",
@@ -449,11 +465,11 @@
       "source": "PBS"
     },
     {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
+      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - aa.com.tr",
       "published": "Sat, 06 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
+      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; aa.com.tr",
+      "source": "aa.com.tr"
     },
     {
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
@@ -490,7 +506,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-07T05:21:54.333439Z",
+    "timestamp": "2026-08-07T06:40:08.321730Z",
     "who": 0,
     "promed": 0,
     "news": 39,
