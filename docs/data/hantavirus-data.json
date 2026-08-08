@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T18:23:38.860247Z",
+  "lastUpdated": "2026-08-08T19:06:30.172454Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -51,11 +51,11 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-          "source": "KDHE.ks.gov"
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+          "source": "kdhe.ks.gov"
         },
         {
           "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
@@ -79,11 +79,11 @@
           "source": "World Health Organization (WHO)"
         },
         {
-          "title": "WHO confirms five cases of hantavirus linked to cruise ship - Al Jazeera",
+          "title": "WHO confirms five cases of hantavirus linked to cruise ship - aljazeera.com",
           "published": "Thu, 07 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREJjNVZ5dlE0VlU2b2lOaGxWQk9qeFNqWm1ienNmYi1Da0tGYnhGaTk0dVFKc05FYndReVVzaGliQXJSRnNOOXJzdXJiZWUxbFFBN1FJNkc0WDIxSVJyVW1YYzNlRktlNVA4eWdwQjE4X2diZjBfWjJ0d3FRNU9rTlJ6TkVpN2I5aW41Vkk5ZnNJQWE0WWhHY052SzBOQ3dn0gGmAUFVX3lxTE9PdXNnNEhYNTdkcGZsNEJPeGg4blE3c245X0tCVU91ejhHUEpEVDIwMUcwZ1pCeEZQT180VEZmQUJsV3dTdzBEemdnSGJjY0NvSUxzbkgzWm83aGF6YWhOVXBzTl9GcllVZTBod0ZTWmRGdTBwMVFXdEdNTmtJUmMwal9XUWtsRWNtMWhKQjV3OS01TExQSTZUME91TUFSRWU3cnhyRXc?oc=5",
-          "summary": "WHO confirms five cases of hantavirus linked to cruise ship &nbsp;&nbsp; Al Jazeera",
-          "source": "Al Jazeera"
+          "summary": "WHO confirms five cases of hantavirus linked to cruise ship &nbsp;&nbsp; aljazeera.com",
+          "source": "aljazeera.com"
         },
         {
           "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -100,23 +100,31 @@
           "source": "PBS"
         },
         {
-          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
+          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; cidrap.umn.edu",
-          "source": "cidrap.umn.edu"
+          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
+        },
+        {
+          "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
+          "published": "Mon, 18 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
+          "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
+          "source": "Colorado Public Radio"
         }
       ],
       "sources": [
-        "cidrap.umn.edu",
-        "BBC",
-        "KDHE.ks.gov",
-        "Al Jazeera",
-        "PBS",
         "World Health Organization (WHO)",
-        "Forbes"
+        "Forbes",
+        "CIDRAP",
+        "aljazeera.com",
+        "BBC",
+        "PBS",
+        "kdhe.ks.gov",
+        "Colorado Public Radio"
       ],
-      "alertCount": 8
+      "alertCount": 9
     },
     {
       "country": "France",
@@ -145,17 +153,17 @@
           "source": "The Connexion"
         },
         {
-          "title": "France recommends home isolation for close contacts of hantavirus case, risk 'low' - Bangladesh Sangbad Sangstha (BSS)",
+          "title": "France recommends home isolation for close contacts of hantavirus case, risk 'low' - bssnews.net",
           "published": "Fri, 07 Aug 2026 09:56:19 GMT",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51ZW5uQjQ0N0c5a2QtTFpCOXE1alV2QXdlSkpzdDVMSUFONTIxZG9mTXExWFJfUDVWZlBid0steEJsek4wYVVJZ2ZDVXY4NTVGdVBicXM0dw?oc=5",
-          "summary": "France recommends home isolation for close contacts of hantavirus case, risk 'low' &nbsp;&nbsp; Bangladesh Sangbad Sangstha (BSS)",
-          "source": "Bangladesh Sangbad Sangstha (BSS)"
+          "summary": "France recommends home isolation for close contacts of hantavirus case, risk 'low' &nbsp;&nbsp; bssnews.net",
+          "source": "bssnews.net"
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "Bangladesh Sangbad Sangstha (BSS)",
         "Le Monde.fr",
+        "bssnews.net",
+        "Medical Xpress",
         "The Connexion"
       ],
       "alertCount": 4
@@ -306,11 +314,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
-      "source": "KDHE.ks.gov"
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+      "source": "kdhe.ks.gov"
     },
     {
       "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
@@ -348,11 +356,11 @@
       "source": "KFF"
     },
     {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - cidrap.umn.edu",
+      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
@@ -390,18 +398,11 @@
       "source": "Boston University"
     },
     {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - cjonline.com",
+      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; cjonline.com",
-      "source": "cjonline.com"
-    },
-    {
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
-      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
-      "source": "CNBC"
+      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
+      "source": "The Topeka Capital-Journal"
     },
     {
       "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -411,11 +412,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "WHO confirms five cases of hantavirus linked to cruise ship - Al Jazeera",
+      "title": "WHO confirms five cases of hantavirus linked to cruise ship - aljazeera.com",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREJjNVZ5dlE0VlU2b2lOaGxWQk9qeFNqWm1ienNmYi1Da0tGYnhGaTk0dVFKc05FYndReVVzaGliQXJSRnNOOXJzdXJiZWUxbFFBN1FJNkc0WDIxSVJyVW1YYzNlRktlNVA4eWdwQjE4X2diZjBfWjJ0d3FRNU9rTlJ6TkVpN2I5aW41Vkk5ZnNJQWE0WWhHY052SzBOQ3dn0gGmAUFVX3lxTE9PdXNnNEhYNTdkcGZsNEJPeGg4blE3c245X0tCVU91ejhHUEpEVDIwMUcwZ1pCeEZQT180VEZmQUJsV3dTdzBEemdnSGJjY0NvSUxzbkgzWm83aGF6YWhOVXBzTl9GcllVZTBod0ZTWmRGdTBwMVFXdEdNTmtJUmMwal9XUWtsRWNtMWhKQjV3OS01TExQSTZUME91TUFSRWU3cnhyRXc?oc=5",
-      "summary": "WHO confirms five cases of hantavirus linked to cruise ship &nbsp;&nbsp; Al Jazeera",
-      "source": "Al Jazeera"
+      "summary": "WHO confirms five cases of hantavirus linked to cruise ship &nbsp;&nbsp; aljazeera.com",
+      "source": "aljazeera.com"
     },
     {
       "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
@@ -467,11 +468,11 @@
       "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
+      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
@@ -479,6 +480,13 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
       "source": "BBC"
+    },
+    {
+      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
+      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times"
     }
   ],
   "usHistoric": {
@@ -508,7 +516,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-08T18:23:38.860260Z",
+    "timestamp": "2026-08-08T19:06:30.172478Z",
     "who": 0,
     "promed": 0,
     "news": 39,
