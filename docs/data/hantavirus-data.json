@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T17:28:58.550258Z",
+  "lastUpdated": "2026-08-08T17:56:46.533867Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -108,13 +108,13 @@
         }
       ],
       "sources": [
-        "Forbes",
         "PBS",
-        "BBC",
-        "World Health Organization (WHO)",
         "KDHE.ks.gov",
         "Al Jazeera",
-        "CIDRAP"
+        "CIDRAP",
+        "BBC",
+        "World Health Organization (WHO)",
+        "Forbes"
       ],
       "alertCount": 8
     },
@@ -153,10 +153,10 @@
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "The Connexion",
         "Bangladesh Sangbad Sangstha (BSS)",
-        "Le Monde.fr"
+        "Le Monde.fr",
+        "Medical Xpress",
+        "The Connexion"
       ],
       "alertCount": 4
     },
@@ -271,11 +271,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
-      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
+      "source": "ajmc.com"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -508,7 +508,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-08T17:28:58.550275Z",
+    "timestamp": "2026-08-08T17:56:46.533882Z",
     "who": 0,
     "promed": 0,
     "news": 39,
