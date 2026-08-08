@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T19:42:05.856720Z",
+  "lastUpdated": "2026-08-08T20:01:13.453578Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,14 +115,14 @@
         }
       ],
       "sources": [
-        "PBS",
-        "who.int",
-        "Colorado Public Radio",
+        "Forbes",
         "Al Jazeera",
         "BBC",
-        "Forbes",
+        "Colorado Public Radio",
+        "KDHE.ks.gov",
         "cidrap.umn.edu",
-        "KDHE.ks.gov"
+        "PBS",
+        "who.int"
       ],
       "alertCount": 9
     },
@@ -161,9 +161,9 @@
         }
       ],
       "sources": [
+        "Bangladesh Sangbad Sangstha (BSS)",
         "Medical Xpress",
         "The Connexion",
-        "Bangladesh Sangbad Sangstha (BSS)",
         "Le Monde.fr"
       ],
       "alertCount": 4
@@ -482,11 +482,11 @@
       "source": "BBC"
     },
     {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
+      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - nytimes.com",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
+      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; nytimes.com",
+      "source": "nytimes.com"
     }
   ],
   "usHistoric": {
@@ -516,7 +516,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-08T19:42:05.856734Z",
+    "timestamp": "2026-08-08T20:01:13.453592Z",
     "who": 0,
     "promed": 0,
     "news": 39,
