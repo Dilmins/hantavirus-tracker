@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T22:16:27.427297Z",
+  "lastUpdated": "2026-08-08T22:53:49.814160Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -117,12 +117,12 @@
       "sources": [
         "PBS",
         "Forbes",
-        "World Health Organization (WHO)",
-        "Colorado Public Radio",
+        "KDHE.ks.gov",
+        "Al Jazeera",
         "BBC",
         "CIDRAP",
-        "Al Jazeera",
-        "KDHE.ks.gov"
+        "World Health Organization (WHO)",
+        "Colorado Public Radio"
       ],
       "alertCount": 9
     },
@@ -132,11 +132,11 @@
       "lng": 2.21,
       "alerts": [
         {
-          "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
+          "title": "Hantavirus detected in France tourist now isolated in Spain - medicalxpress.com",
           "published": "Thu, 06 Aug 2026 18:07:31 GMT",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
-          "source": "Medical Xpress"
+          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; medicalxpress.com",
+          "source": "medicalxpress.com"
         },
         {
           "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
@@ -161,10 +161,10 @@
         }
       ],
       "sources": [
-        "Bangladesh Sangbad Sangstha (BSS)",
-        "Le Monde.fr",
         "The Connexion",
-        "Medical Xpress"
+        "Bangladesh Sangbad Sangstha (BSS)",
+        "medicalxpress.com",
+        "Le Monde.fr"
       ],
       "alertCount": 4
     },
@@ -192,15 +192,15 @@
       "lng": -63.62,
       "alerts": [
         {
-          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
+          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - New England Journal of Medicine",
           "published": "Wed, 02 Dec 2020 08:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
+          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; New England Journal of Medicine",
+          "source": "New England Journal of Medicine"
         }
       ],
       "sources": [
-        "The New England Journal of Medicine"
+        "New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -210,15 +210,15 @@
       "lng": -66.59,
       "alerts": [
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-          "source": "apnews.com"
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+          "source": "AP News"
         }
       ],
       "sources": [
-        "apnews.com"
+        "AP News"
       ],
       "alertCount": 1
     },
@@ -228,15 +228,15 @@
       "lng": -1.17,
       "alerts": [
         {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
+          "source": "New England Journal of Medicine"
         }
       ],
       "sources": [
-        "The New England Journal of Medicine"
+        "New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -279,18 +279,18 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care\u00ae (AJMC\u00ae)",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
-      "source": "ajmc.com"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care\u00ae (AJMC\u00ae)",
+      "source": "The American Journal of Managed Care\u00ae (AJMC\u00ae)"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
       "published": "Wed, 22 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-      "source": "apnews.com"
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+      "source": "AP News"
     },
     {
       "title": "2026 News - The University of Maryland, Baltimore",
@@ -300,11 +300,11 @@
       "source": "The University of Maryland, Baltimore"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
-      "source": "The New England Journal of Medicine"
+      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
+      "source": "New England Journal of Medicine"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
@@ -335,18 +335,18 @@
       "source": "Understanding Animal Research"
     },
     {
-      "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
+      "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - New England Journal of Medicine",
       "published": "Wed, 02 Dec 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-      "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-      "source": "The New England Journal of Medicine"
+      "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; New England Journal of Medicine",
+      "source": "New England Journal of Medicine"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
-      "source": "Stanford Medicine"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
+      "source": "med.stanford.edu"
     },
     {
       "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
@@ -419,11 +419,11 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
+      "title": "Hantavirus detected in France tourist now isolated in Spain - medicalxpress.com",
       "published": "Thu, 06 Aug 2026 18:07:31 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-      "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
-      "source": "Medical Xpress"
+      "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; medicalxpress.com",
+      "source": "medicalxpress.com"
     },
     {
       "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
@@ -447,11 +447,11 @@
       "source": "Forbes"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
-      "source": "unric.org"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -516,7 +516,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-08T22:16:27.427311Z",
+    "timestamp": "2026-08-08T22:53:49.814174Z",
     "who": 0,
     "promed": 0,
     "news": 39,
