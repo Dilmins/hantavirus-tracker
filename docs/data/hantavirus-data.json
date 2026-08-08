@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T08:19:54.261601Z",
+  "lastUpdated": "2026-08-08T09:07:14.132205Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -88,10 +88,10 @@
       ],
       "sources": [
         "BBC",
-        "Forbes",
-        "Al Jazeera",
         "KDHE.ks.gov",
-        "CIDRAP"
+        "CIDRAP",
+        "Al Jazeera",
+        "Forbes"
       ],
       "alertCount": 5
     },
@@ -130,10 +130,10 @@
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "The Connexion",
         "Le Monde.fr",
-        "Bangladesh Sangbad Sangstha (BSS)"
+        "The Connexion",
+        "Bangladesh Sangbad Sangstha (BSS)",
+        "Medical Xpress"
       ],
       "alertCount": 4
     },
@@ -172,38 +172,12 @@
         }
       ],
       "sources": [
-        "T\u00fcrkiye Today",
         "Anadolu Ajans\u0131",
+        "AP News",
         "Scranton Times-Tribune",
-        "AP News"
+        "T\u00fcrkiye Today"
       ],
       "alertCount": 4
-    },
-    {
-      "country": "United Kingdom",
-      "lat": 52.36,
-      "lng": -1.17,
-      "alerts": [
-        {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
-          "published": "Wed, 20 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
-        },
-        {
-          "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
-          "published": "Wed, 05 Aug 2026 16:29:53 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
-          "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
-          "source": "understandinganimalresearch.org.uk"
-        }
-      ],
-      "sources": [
-        "understandinganimalresearch.org.uk",
-        "The New England Journal of Medicine"
-      ],
-      "alertCount": 2
     },
     {
       "country": "USA",
@@ -256,6 +230,24 @@
       ],
       "sources": [
         "Anadolu Ajans\u0131"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "United Kingdom",
+      "lat": 52.36,
+      "lng": -1.17,
+      "alerts": [
+        {
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
+          "published": "Wed, 20 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
+        }
+      ],
+      "sources": [
+        "The New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -343,11 +335,11 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus explained: from hamsters to human trials - understandinganimalresearch.org.uk",
+      "title": "Hantavirus explained: from hamsters to human trials - Understanding Animal Research",
       "published": "Wed, 05 Aug 2026 16:29:53 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUFsaE5LakRYbUdVMTljSzJrV0tQSEFYeWdZWU44d0tORDYtN0EyV1lpMmJsUm9iR3owOG5MZnpJSkx4cDJPY0JvZ2haaEhmS3dVLWZCSHA2MjdCY2o1RGtlTm1fQmIwWlU1S2dKTmJNVUZ6WFlnQkV5bk1QdVpGLWxkQkJlalg4dkpKSW9MS244NG55YzRCMXRUMl9TMFJaZnVYdg?oc=5",
-      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; understandinganimalresearch.org.uk",
-      "source": "understandinganimalresearch.org.uk"
+      "summary": "Hantavirus explained: from hamsters to human trials &nbsp;&nbsp; Understanding Animal Research",
+      "source": "Understanding Animal Research"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -392,11 +384,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - news.harvard.edu",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
-      "source": "Harvard Gazette"
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; news.harvard.edu",
+      "source": "news.harvard.edu"
     },
     {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
@@ -406,11 +398,11 @@
       "source": "AZ Family"
     },
     {
-      "title": "Reported Cases of Hantavirus Disease - cdc.gov",
+      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
-      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; cdc.gov",
-      "source": "cdc.gov"
+      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
       "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
@@ -517,7 +509,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-08T08:19:54.261617Z",
+    "timestamp": "2026-08-08T09:07:14.132220Z",
     "who": 0,
     "promed": 0,
     "news": 39,
