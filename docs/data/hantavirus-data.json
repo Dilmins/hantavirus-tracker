@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T02:48:55.062647Z",
+  "lastUpdated": "2026-08-08T04:03:03.743251Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -79,13 +79,6 @@
           "source": "Forbes"
         },
         {
-          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-          "published": "Sat, 09 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-          "source": "PBS"
-        },
-        {
           "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
@@ -101,21 +94,27 @@
         }
       ],
       "sources": [
-        "Colorado Public Radio",
-        "CIDRAP",
-        "KDHE.ks.gov",
-        "PBS",
         "Al Jazeera",
+        "Colorado Public Radio",
         "Forbes",
-        "BBC"
+        "BBC",
+        "KDHE.ks.gov",
+        "CIDRAP"
       ],
-      "alertCount": 7
+      "alertCount": 6
     },
     {
       "country": "France",
       "lat": 46.23,
       "lng": 2.21,
       "alerts": [
+        {
+          "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
+          "published": "Thu, 06 Aug 2026 18:07:31 GMT",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
+          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
+          "source": "Medical Xpress"
+        },
         {
           "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
           "published": "Thu, 06 Aug 2026 16:09:01 GMT",
@@ -124,11 +123,11 @@
           "source": "Le Monde.fr"
         },
         {
-          "title": "Rare hantavirus case confirmed after visit to France - connexionfrance.com",
+          "title": "Rare hantavirus case confirmed after visit to France - The Connexion",
           "published": "Fri, 07 Aug 2026 12:46:43 GMT",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDZfUmlPOERCbmI1MGVROFYzVFlCWFd1azRQWXBCUGxwQ29tVUxCaEpkOTlIdDFXVjJOTUl2VEItZWtSZkZfUDMtM1VXbk9iQ19ySjdsczM4WVJYLVZHWHQyVmNpUVA0RzZiYjhZbmduR1hTNzdZaGVzV0xHYm5VWGxhcHVHVGpQRnNhSXVYVXNLYTUzZk5pRFcyNHA?oc=5",
-          "summary": "Rare hantavirus case confirmed after visit to France &nbsp;&nbsp; connexionfrance.com",
-          "source": "connexionfrance.com"
+          "summary": "Rare hantavirus case confirmed after visit to France &nbsp;&nbsp; The Connexion",
+          "source": "The Connexion"
         },
         {
           "title": "France recommends home isolation for close contacts of hantavirus case, risk 'low' - Bangladesh Sangbad Sangstha (BSS)",
@@ -136,30 +135,15 @@
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51ZW5uQjQ0N0c5a2QtTFpCOXE1alV2QXdlSkpzdDVMSUFONTIxZG9mTXExWFJfUDVWZlBid0steEJsek4wYVVJZ2ZDVXY4NTVGdVBicXM0dw?oc=5",
           "summary": "France recommends home isolation for close contacts of hantavirus case, risk 'low' &nbsp;&nbsp; Bangladesh Sangbad Sangstha (BSS)",
           "source": "Bangladesh Sangbad Sangstha (BSS)"
-        },
-        {
-          "title": "Hantavirus detected in France tourist now isolated in Spain - euractiv.com",
-          "published": "Fri, 07 Aug 2026 05:54:33 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0VwRHVaZ3VZZ3V4Z0ZfOElqV2p3MVpyQ1czd0RjSnYtV0JSWW5Nd1JfTmNsQlFUa3JkUGg5My1YY2FrRHVuamJhWTVSa05zNXF6SXFsN1NtM1l0dlF1WDJ3aVN4QVpHVjR6czRlRjJLN3N2Zmprb1JwVldxajZYTzVJaGc1WFZiT2hZd184WVhhcU0z?oc=5",
-          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; euractiv.com",
-          "source": "euractiv.com"
-        },
-        {
-          "title": "Visited in July: Tourist in France tests positive for hantavirus - RTL Today",
-          "published": "Fri, 07 Aug 2026 05:29:58 GMT",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDNHS1hDczBZTzZ3aEZ5SXVPQU50VDI2eG9oc3NCN3VJOGNLdVlHMkNHbVhSUG5zNlpfeXlRbHlETDhoaGtqUU1KR0c0TjU1UDdXNjRmNXZuLUJQZEVlYjUtb0pRaUFjclRrMklpZ2JjRHdJMEhualdWUVJQVVVhTEhvdlFwOWZDcWZQcVhyVWFLR28?oc=5",
-          "summary": "Visited in July: Tourist in France tests positive for hantavirus &nbsp;&nbsp; RTL Today",
-          "source": "RTL Today"
         }
       ],
       "sources": [
-        "euractiv.com",
-        "RTL Today",
         "Bangladesh Sangbad Sangstha (BSS)",
+        "Medical Xpress",
         "Le Monde.fr",
-        "connexionfrance.com"
+        "The Connexion"
       ],
-      "alertCount": 5
+      "alertCount": 4
     },
     {
       "country": "Venezuela",
@@ -196,8 +180,8 @@
         }
       ],
       "sources": [
-        "T\u00fcrkiye Today",
         "Orlando Sentinel",
+        "T\u00fcrkiye Today",
         "AP News",
         "Anadolu Ajans\u0131"
       ],
@@ -296,11 +280,11 @@
   ],
   "recentNews": [
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
+      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
-      "source": "ajmc.com"
+      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; The American Journal of Managed Care",
+      "source": "The American Journal of Managed Care"
     },
     {
       "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
@@ -336,6 +320,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
       "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "World Health Organization (WHO)"
+    },
+    {
+      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
+      "published": "Wed, 15 Jul 2026 12:46:33 GMT",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
+      "source": "TristanDC.com"
     },
     {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
@@ -401,11 +392,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - news.harvard.edu",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
-      "source": "Harvard Gazette"
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; news.harvard.edu",
+      "source": "news.harvard.edu"
     },
     {
       "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
@@ -420,6 +411,13 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
       "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+    },
+    {
+      "title": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. - The Washington Post",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDFTbkFaV3VvX2Fmc1VuY2E0Y2JZUXZ0RVJFSk1CN0x1eVdkVFExejdmQzc4V2NYMHJsRTZnUEJYQ1pjeC16SmR1ZEpNM0cwSDM4cldrSHpZWGotenRiX2V4X0NwSVRiQkJkdnNEUF96TFh4cjgzZTJEQTJUako4bXJfYS10ZlF5aklNZDRQNzVpdUpWU0hUZ0dGejJaYnFxZ2xMMFgycUE0Sl9UY0w3OF9n?oc=5",
+      "summary": "Opinion | The hantavirus outbreak has officially ended. Here are 5 lessons. &nbsp;&nbsp; The Washington Post",
+      "source": "The Washington Post"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -443,11 +441,25 @@
       "source": "Al Jazeera"
     },
     {
+      "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
+      "published": "Thu, 06 Aug 2026 18:07:31 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
+      "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress"
+    },
+    {
       "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
       "published": "Thu, 06 Aug 2026 16:09:01 GMT",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
       "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "CO26168 | From Hantavirus to Ebola: Rebuilding Trust in Health and Biosecurity Governance - S. Rajaratnam School of International Studies (RSIS)",
+      "published": "Thu, 06 Aug 2026 00:23:17 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUF9XQ1l5UGMwS1Q3VldENThadktMYURWVnlLbmg0dFZEYy1HZXV2NXdDZ1oxM2ZlN0JTb0dZcnJMTVRQR2hLdWpYakRkaGNJRF9GT0JscHdkeFlIWURWRUhqYTVPSHZCM0VMOXdZQVpUc1NrTk5LRjRIeHhmT29Oem1pNld5RThueFAtLW5PTm1fc0ZqZExRYm15bFdhVlNiQjd5OTlpTVY1XzhwbGJ1LXVCRm9XZklJZEtJV1lR?oc=5",
+      "summary": "CO26168 | From Hantavirus to Ebola: Rebuilding Trust in Health and Biosecurity Governance &nbsp;&nbsp; S. Rajaratnam School of International Studies (RSIS)",
+      "source": "S. Rajaratnam School of International Studies (RSIS)"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -464,13 +476,6 @@
       "source": "unric"
     },
     {
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-      "source": "PBS"
-    },
-    {
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
@@ -483,27 +488,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
       "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
-    },
-    {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
-      "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
-      "source": "Colorado Public Radio"
     }
   ],
   "usHistoric": {
@@ -533,7 +517,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-08T02:48:55.062661Z",
+    "timestamp": "2026-08-08T04:03:03.743265Z",
     "who": 0,
     "promed": 0,
     "news": 39,
