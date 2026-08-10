@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-10T21:55:39.435838Z",
+  "lastUpdated": "2026-08-10T22:25:24.212091Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 8,
-  "newsCount": 42,
+  "newsCount": 44,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,18 +58,32 @@
           "source": "KDHE.ks.gov"
         },
         {
-          "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
+          "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - bbc.com",
           "published": "Wed, 06 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd0ZidENzSVlCY1JkUUlhOFhTTWlrbWhYNkxkcUFRbFhuZ3hXcmZHbS1QMjRLR2ZMdm5rWHJDX2xEQlAtUmNQOTZMQ3IzR2RIdXF1MA?oc=5",
-          "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; bbc.com",
+          "source": "bbc.com"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
-          "published": "Tue, 05 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "title": "Oregon Health Authority 'closely monitoring' cruise ship hantavirus cases - The News Guard",
+          "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWkJxSHBLdFBETGYtWnZhY19SMHJLZUF0WkJJZXl4WHVtM0pMUWpZdHN4MUJjR1I0dEJIa3JQMUc1Uk9RY0ljaVc2WGJMZzZudUJWaXY5MG5KSjhGN0djUnB5WnVkQ1lxbDBrLVQxbzJHT1g2akw1NDNpZmxTTEhiLWJleWRBUlI1UEthY3lfN3pLS0RUUXJDSkw3Zy1hXy1QVTRTV2E3UWYzcWl2eEUxeXh1dlM5VE1USWhtdXhidjd2VVpSVkZRMFd1MWNpRjNPUkhoWGFicGs1UHFia2FTUUpWb3RkU2tKVHlB?oc=5",
+          "summary": "Oregon Health Authority 'closely monitoring' cruise ship hantavirus cases &nbsp;&nbsp; The News Guard",
+          "source": "The News Guard"
+        },
+        {
+          "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW",
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
+          "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW",
+          "source": "WTTW"
+        },
+        {
+          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
+          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+          "source": "European Medicines Agency (EMA)"
         },
         {
           "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -105,34 +119,65 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
           "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
           "source": "CIDRAP"
-        },
-        {
-          "title": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak - Colorado Public Radio",
-          "published": "Mon, 18 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN2Y1SlBMb21GRzI3WEFIMFRuUS1NQzVqY1ZtMEswZUluTEExdlZiTkcyYkY3ZGJKaTQzTFZCaTdYVzVpRGNWTGhFUDRxMXY3U1JiUkFiN1lIZWNoaHIxY0FPUFlJa0JJaFBzdENQc0o?oc=5",
-          "summary": "Douglas County adult dies from hantavirus, health officials say there\u2019s no link to cruise ship outbreak &nbsp;&nbsp; Colorado Public Radio",
-          "source": "Colorado Public Radio"
-        },
-        {
-          "title": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical",
-          "published": "Mon, 10 Aug 2026 16:24:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYU9FZklrQnJYSlVrYi1vS1NKTl8tcU42TGhQdkpmTzdhR0hIWjFPd09HaDJyUGFyNTVOWHdpY25GWnk3bmtZcVJkM05qY21Bdk81cGs3Vm1kazFqaVByMzZhNUlUZE00QlBHVFBOUWg1TmlnZmQzQlRoN0RkSWR6TU9NNmNzQUluaG84N2xzUzNyWTVKUlZ1aG1FMUhaTGxPYWpkYjh6bkk5NU50RUJnR0Juc1o3RXYwUlBuUkdSUHg2RWtlTzJ6eHp6c2s4NkFMUDZaNnR6NA?oc=5",
-          "summary": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness &nbsp;&nbsp; News-Medical",
-          "source": "News-Medical"
         }
       ],
       "sources": [
         "Al Jazeera",
-        "CIDRAP",
-        "PBS",
+        "WTTW",
+        "European Medicines Agency (EMA)",
+        "cdc.gov",
         "World Health Organization (WHO)",
-        "KDHE.ks.gov",
+        "CIDRAP",
         "Forbes",
-        "Colorado Public Radio",
+        "bbc.com",
+        "PBS",
+        "The News Guard",
         "News-Medical",
-        "BBC"
+        "KDHE.ks.gov"
       ],
-      "alertCount": 10
+      "alertCount": 12
+    },
+    {
+      "country": "Venezuela",
+      "lat": 6.42,
+      "lng": -66.59,
+      "alerts": [
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
+          "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+          "source": "AP News"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected - Los Angeles Times",
+          "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGUzREd1VlZxMXlWcmUyVF8tVzR1X1VMcXVpNXJQVTEwMnNfbS0yUzJsUGhUeHAtellOanZiTXphV2IwMkNGU3hHZFVsVEhyWkNuUUROanNWeVBpLXJzanpuOEwwenZGbEhDN1RaektzRHhkLVlpaE1fX1NaWDVqcVZqN2JlcnZ5MkZrbWtfd0hDQk84OFdpTjdDOEdfdEx5aWxjVExVUC1UdlV0NkdrZnpySVhwVmpTQmNGMEdLS3BkSlE?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected &nbsp;&nbsp; Los Angeles Times",
+          "source": "Los Angeles Times"
+        },
+        {
+          "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
+          "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
+          "source": "Anadolu Ajans\u0131"
+        },
+        {
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Hartford Courant",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeTZPM2l4cHotRnctcUNCQ3ZmdDBoRldwV1c1OHUxU3VKaXl1eVFTOFRNekpIX2NpVGVERTdtaXd3UGxldjhvLU9sSVRYMzlwaDM5SmpHd0JTZ29DN3k4LUZJdGZzUm9ueU81dTdGSG41SXk0di1hYVNwMzVqcXhLYTJaU1R5ZEJxRDFzVEU2Y19XWk1wTHlPX3RrYnBUY3JSc3YzSXBoNzhzc2RNbnZXdWszWWJYeXpEY2w1X21lM0NaN012Nmd1Ymxhd0xQdmdGN0JYOVJRRzFVS0JpYV9TclgxUWM4TTF5QUZ3NXJGN0V1R0RGRlh0NVdVakxOLTkzN3VSeUZvTkpORUJhTXAzZ0ZpajBwdXU0T042c2l0NjVuQ1lETXV1elRTYjJjS3d3Q1pj?oc=5",
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Hartford Courant",
+          "source": "Hartford Courant"
+        }
+      ],
+      "sources": [
+        "Anadolu Ajans\u0131",
+        "Los Angeles Times",
+        "Hartford Courant",
+        "AP News"
+      ],
+      "alertCount": 4
     },
     {
       "country": "France",
@@ -140,18 +185,11 @@
       "lng": 2.21,
       "alerts": [
         {
-          "title": "Hantavirus detected in France tourist now isolated in Spain - medicalxpress.com",
+          "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
           "published": "Thu, 06 Aug 2026 18:07:31 GMT",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; medicalxpress.com",
-          "source": "medicalxpress.com"
-        },
-        {
-          "title": "France recommends home isolation for close contacts of hantavirus case, risk \u2018low\u2019 - Macau Business",
-          "published": "Fri, 07 Aug 2026 14:22:45 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2tKWGdhYlByRFMydTRZZ2k4RUpaMUU3YXNQb1pUcTlETFhFODFLQ25sU3QwbmMzMTh6X0xabUtndjByb0VyOVFaMFdYc1RwbnhrTzdSa1NBUDZvb3R1WU5IX21jR3pmLXVVQmpuYkdyeWRrRDhRdlpKNklNMGV4N1J0LXFwMTBQUFdYS3R5WmNnRVotR3BJLUdMZ0ZBYWI5WDNjMkRqSTJLZw?oc=5",
-          "summary": "France recommends home isolation for close contacts of hantavirus case, risk \u2018low\u2019 &nbsp;&nbsp; Macau Business",
-          "source": "Macau Business"
+          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
+          "source": "Medical Xpress"
         },
         {
           "title": "Rare hantavirus case confirmed after visit to France - The Connexion",
@@ -163,10 +201,9 @@
       ],
       "sources": [
         "The Connexion",
-        "medicalxpress.com",
-        "Macau Business"
+        "Medical Xpress"
       ],
-      "alertCount": 3
+      "alertCount": 2
     },
     {
       "country": "USA",
@@ -201,24 +238,6 @@
       ],
       "sources": [
         "The New England Journal of Medicine"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Venezuela",
-      "lat": 6.42,
-      "lng": -66.59,
-      "alerts": [
-        {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
-          "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
-          "source": "AP News"
-        }
-      ],
-      "sources": [
-        "AP News"
       ],
       "alertCount": 1
     },
@@ -300,6 +319,13 @@
       "source": "The University of Maryland, Baltimore"
     },
     {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected - Los Angeles Times",
+      "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGUzREd1VlZxMXlWcmUyVF8tVzR1X1VMcXVpNXJQVTEwMnNfbS0yUzJsUGhUeHAtellOanZiTXphV2IwMkNGU3hHZFVsVEhyWkNuUUROanNWeVBpLXJzanpuOEwwenZGbEhDN1RaektzRHhkLVlpaE1fX1NaWDVqcVZqN2JlcnZ5MkZrbWtfd0hDQk84OFdpTjdDOEdfdEx5aWxjVExVUC1UdlV0NkdrZnpySVhwVmpTQmNGMEdLS3BkSlE?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected &nbsp;&nbsp; Los Angeles Times",
+      "source": "Los Angeles Times"
+    },
+    {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
@@ -321,11 +347,11 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
+      "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - bbc.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd0ZidENzSVlCY1JkUUlhOFhTTWlrbWhYNkxkcUFRbFhuZ3hXcmZHbS1QMjRLR2ZMdm5rWHJDX2xEQlAtUmNQOTZMQ3IzR2RIdXF1MA?oc=5",
-      "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -342,11 +368,32 @@
       "source": "The New England Journal of Medicine"
     },
     {
+      "title": "Oregon Health Authority 'closely monitoring' cruise ship hantavirus cases - The News Guard",
+      "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWkJxSHBLdFBETGYtWnZhY19SMHJLZUF0WkJJZXl4WHVtM0pMUWpZdHN4MUJjR1I0dEJIa3JQMUc1Uk9RY0ljaVc2WGJMZzZudUJWaXY5MG5KSjhGN0djUnB5WnVkQ1lxbDBrLVQxbzJHT1g2akw1NDNpZmxTTEhiLWJleWRBUlI1UEthY3lfN3pLS0RUUXJDSkw3Zy1hXy1QVTRTV2E3UWYzcWl2eEUxeXh1dlM5VE1USWhtdXhidjd2VVpSVkZRMFd1MWNpRjNPUkhoWGFicGs1UHFia2FTUUpWb3RkU2tKVHlB?oc=5",
+      "summary": "Oregon Health Authority 'closely monitoring' cruise ship hantavirus cases &nbsp;&nbsp; The News Guard",
+      "source": "The News Guard"
+    },
+    {
       "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - The New York Times",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
       "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; The New York Times",
       "source": "The New York Times"
+    },
+    {
+      "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
+      "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "source": "Anadolu Ajans\u0131"
+    },
+    {
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Hartford Courant",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNeTZPM2l4cHotRnctcUNCQ3ZmdDBoRldwV1c1OHUxU3VKaXl1eVFTOFRNekpIX2NpVGVERTdtaXd3UGxldjhvLU9sSVRYMzlwaDM5SmpHd0JTZ29DN3k4LUZJdGZzUm9ueU81dTdGSG41SXk0di1hYVNwMzVqcXhLYTJaU1R5ZEJxRDFzVEU2Y19XWk1wTHlPX3RrYnBUY3JSc3YzSXBoNzhzc2RNbnZXdWszWWJYeXpEY2w1X21lM0NaN012Nmd1Ymxhd0xQdmdGN0JYOVJRRzFVS0JpYV9TclgxUWM4TTF5QUZ3NXJGN0V1R0RGRlh0NVdVakxOLTkzN3VSeUZvTkpORUJhTXAzZ0ZpajBwdXU0T042c2l0NjVuQ1lETXV1elRTYjJjS3d3Q1pj?oc=5",
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Hartford Courant",
+      "source": "Hartford Courant"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -370,18 +417,25 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
-      "published": "Tue, 05 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
+      "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW",
+      "source": "WTTW"
     },
     {
-      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
+      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+      "source": "European Medicines Agency (EMA)"
+    },
+    {
+      "title": "Reported Cases of Hantavirus Disease - cdc.gov",
       "published": "Thu, 23 Apr 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
-      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; cdc.gov",
+      "source": "cdc.gov"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -391,18 +445,11 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
+      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - bu.edu",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
-      "source": "Boston University"
-    },
-    {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - cjonline.com",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; cjonline.com",
-      "source": "cjonline.com"
+      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; bu.edu",
+      "source": "bu.edu"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -433,11 +480,11 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Hantavirus detected in France tourist now isolated in Spain - medicalxpress.com",
+      "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
       "published": "Thu, 06 Aug 2026 18:07:31 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-      "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; medicalxpress.com",
-      "source": "medicalxpress.com"
+      "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -459,34 +506,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
       "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
       "source": "PBS"
-    },
-    {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
-    },
-    {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
-      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
-      "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
-      "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMTNUNklldDk5MTlYTkRDWFVFZG5ZZExQNURHV0Nrd0s3T0c5dmlpU0h4ZzVBWWxQOE5ja3FSUS1hVjJlQ1prTnNheEFZX3R6Vm9waU5YaURNQlZEdWhpLVlhdnpvbUpxS2Q4LWNTVm9PLUJWUHF5djI2dDUta3Y1X2dBS21oZS1oc3RHTnh3?oc=5",
-      "summary": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
     }
   ],
   "usHistoric": {
@@ -516,10 +535,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-10T21:55:39.435853Z",
+    "timestamp": "2026-08-10T22:25:24.212104Z",
     "who": 0,
     "promed": 0,
-    "news": 42,
+    "news": 44,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
