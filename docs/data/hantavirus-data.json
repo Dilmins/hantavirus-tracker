@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T00:51:20.692711Z",
+  "lastUpdated": "2026-08-11T02:59:00.620734Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,15 +115,15 @@
         }
       ],
       "sources": [
-        "BBC",
-        "World Health Organization (WHO)",
         "Al Jazeera",
-        "News-Medical",
-        "PBS",
         "KDHE.ks.gov",
+        "World Health Organization (WHO)",
+        "PBS",
         "The News Guard",
+        "News-Medical",
         "CIDRAP",
-        "Forbes"
+        "Forbes",
+        "BBC"
       ],
       "alertCount": 9
     },
@@ -133,11 +133,11 @@
       "lng": -66.59,
       "alerts": [
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
           "published": "Wed, 22 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-          "source": "apnews.com"
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+          "source": "AP News"
         },
         {
           "title": "Venezuela confirms 3 people have died of hantavirus infections, 2 more deaths suspected - Los Angeles Times",
@@ -162,10 +162,10 @@
         }
       ],
       "sources": [
-        "apnews.com",
         "Hartford Courant",
         "Los Angeles Times",
-        "Anadolu Ajans\u0131"
+        "Anadolu Ajans\u0131",
+        "AP News"
       ],
       "alertCount": 4
     },
@@ -197,8 +197,8 @@
         }
       ],
       "sources": [
-        "Macau Business",
         "Medical Xpress",
+        "Macau Business",
         "The Connexion"
       ],
       "alertCount": 3
@@ -303,11 +303,11 @@
       "source": "The American Journal of Managed Care"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - apnews.com",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - AP News",
       "published": "Wed, 22 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; apnews.com",
-      "source": "apnews.com"
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; AP News",
+      "source": "AP News"
     },
     {
       "title": "2026 News - The University of Maryland, Baltimore",
@@ -373,11 +373,11 @@
       "source": "The News Guard"
     },
     {
-      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - nytimes.com",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - The New York Times",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
-      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; nytimes.com",
-      "source": "nytimes.com"
+      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times"
     },
     {
       "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
@@ -394,11 +394,11 @@
       "source": "Hartford Courant"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
-      "source": "med.stanford.edu"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "source": "Stanford Medicine"
     },
     {
       "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
@@ -408,11 +408,11 @@
       "source": "KFF"
     },
     {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - news.harvard.edu",
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; news.harvard.edu",
-      "source": "news.harvard.edu"
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
+      "source": "Harvard Gazette"
     },
     {
       "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
@@ -422,11 +422,11 @@
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
+      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
-      "source": "hopkinsmedicine.org"
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "source": "Johns Hopkins Medicine"
     },
     {
       "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
@@ -533,7 +533,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-11T00:51:20.692726Z",
+    "timestamp": "2026-08-11T02:59:00.620750Z",
     "who": 0,
     "promed": 0,
     "news": 42,
