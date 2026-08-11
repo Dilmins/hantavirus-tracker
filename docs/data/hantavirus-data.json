@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T19:43:15.149896Z",
+  "lastUpdated": "2026-08-11T20:23:32.156912Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -93,11 +93,11 @@
           "source": "PBS"
         },
         {
-          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
+          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
           "published": "Mon, 20 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-          "source": "CIDRAP"
+          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; cidrap.umn.edu",
+          "source": "cidrap.umn.edu"
         },
         {
           "title": "Rare cruise ship virus outbreak highlights public messaging lessons and disease preparedness - News-Medical",
@@ -108,13 +108,13 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "CIDRAP",
         "Al Jazeera",
-        "World Health Organization (WHO)",
-        "PBS",
-        "BBC",
         "News-Medical",
+        "Forbes",
+        "PBS",
+        "cidrap.umn.edu",
+        "BBC",
+        "World Health Organization (WHO)",
         "KDHE.ks.gov"
       ],
       "alertCount": 8
@@ -147,9 +147,9 @@
         }
       ],
       "sources": [
+        "Medical Xpress",
         "The Connexion",
-        "Macau Business",
-        "Medical Xpress"
+        "Macau Business"
       ],
       "alertCount": 3
     },
@@ -192,15 +192,15 @@
           "source": "AP News"
         },
         {
-          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Orlando Sentinel",
+          "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - orlandosentinel.com",
           "published": "Tue, 21 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1ZUOEJBRjBDWDVlNnk3bTVUR1VFNFJ3MU5UVjlWMmp2dDFTQU1ReU5KMU9lRUVFeEZ6ZXBhTmZNSkdWb1R1dmp2bVN6eDMzYUh5WThEeV80TnNMVDM2aXJKbm9LZG1EU2lLRF9vRldQd01QX21objQwYXQ5WWJzWFRxUjRXUEFZTi1reDlGeFBpQk9PLVdvV2tuaTROcmoz?oc=5",
-          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Orlando Sentinel",
-          "source": "Orlando Sentinel"
+          "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; orlandosentinel.com",
+          "source": "orlandosentinel.com"
         }
       ],
       "sources": [
-        "Orlando Sentinel",
+        "orlandosentinel.com",
         "AP News"
       ],
       "alertCount": 2
@@ -280,6 +280,13 @@
   ],
   "recentNews": [
     {
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "summary": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
+      "source": "HHS.gov"
+    },
+    {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
@@ -315,11 +322,11 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
+      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - cidrap.umn.edu",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
-      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
+      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; cidrap.umn.edu",
+      "source": "cidrap.umn.edu"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -343,11 +350,11 @@
       "source": "AP News"
     },
     {
-      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - Orlando Sentinel",
+      "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected - orlandosentinel.com",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM1ZUOEJBRjBDWDVlNnk3bTVUR1VFNFJ3MU5UVjlWMmp2dDFTQU1ReU5KMU9lRUVFeEZ6ZXBhTmZNSkdWb1R1dmp2bVN6eDMzYUh5WThEeV80TnNMVDM2aXJKbm9LZG1EU2lLRF9vRldQd01QX21objQwYXQ5WWJzWFRxUjRXUEFZTi1reDlGeFBpQk9PLVdvV2tuaTROcmoz?oc=5",
-      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; Orlando Sentinel",
-      "source": "Orlando Sentinel"
+      "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected &nbsp;&nbsp; orlandosentinel.com",
+      "source": "orlandosentinel.com"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -392,11 +399,11 @@
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Johns Hopkins Medicine"
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
+      "source": "hopkinsmedicine.org"
     },
     {
       "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
@@ -469,18 +476,11 @@
       "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
+      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - cidrap.umn.edu",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
-      "title": "WHO to give update on hantavirus and Ebola after outbreaks - BBC",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQzdPblZhUDl3ckZtQXpxVjg0RTlaNTlmYjF1ZklwMzVfcVNTV3pxSDA0N3hQQWdTbzFVX1NvRE5GTGdWYk9JOE1GX05ueVkzSGIxcQ?oc=5",
-      "summary": "WHO to give update on hantavirus and Ebola after outbreaks &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; cidrap.umn.edu",
+      "source": "cidrap.umn.edu"
     },
     {
       "title": "American Passenger Blocked From Leaving Federal Hantavirus Quarantine - The New York Times",
@@ -517,7 +517,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-11T19:43:15.149909Z",
+    "timestamp": "2026-08-11T20:23:32.156927Z",
     "who": 0,
     "promed": 0,
     "news": 41,
