@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T11:09:14.232463Z",
+  "lastUpdated": "2026-08-12T11:56:25.915275Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "The News Guard",
-        "CIDRAP",
+        "World Health Organization (WHO)",
         "Science | AAAS",
+        "The News Guard",
         "WTTW",
         "European Medicines Agency (EMA)",
-        "PBS",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "KDHE.ks.gov",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CIDRAP",
         "Al Jazeera",
-        "World Health Organization (WHO)"
+        "PBS"
       ],
       "alertCount": 10
     },
@@ -164,8 +164,8 @@
       ],
       "sources": [
         "Anadolu Ajans\u0131",
-        "AP News",
-        "Orlando Sentinel"
+        "Orlando Sentinel",
+        "AP News"
       ],
       "alertCount": 3
     },
@@ -258,11 +258,11 @@
       "source": "The American Journal of Managed Care"
     },
     {
-      "title": "2026 News - The University of Maryland, Baltimore",
+      "title": "2026 News - medschool.umaryland.edu",
       "published": "Wed, 22 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "summary": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
-      "source": "The University of Maryland, Baltimore"
+      "summary": "2026 News &nbsp;&nbsp; medschool.umaryland.edu",
+      "source": "medschool.umaryland.edu"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -447,11 +447,11 @@
       "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
-      "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - Nature",
+      "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - nature.com",
       "published": "Mon, 11 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzazlQT3A1YVRzUFRwLUJSTVZLa3dFMkxFb1RwVU9nVHJDOW4wRUl1X2gyVzQwMkpWUENjSEluVWRkUGNVUEVaQ2pnREozemotd2N4bE5HLUNqSUVVdWFR?oc=5",
-      "summary": "Hantavirus outbreak exposes uncertainty about how disease spreads &nbsp;&nbsp; Nature",
-      "source": "Nature"
+      "summary": "Hantavirus outbreak exposes uncertainty about how disease spreads &nbsp;&nbsp; nature.com",
+      "source": "nature.com"
     }
   ],
   "usHistoric": {
@@ -481,7 +481,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-12T11:09:14.232478Z",
+    "timestamp": "2026-08-12T11:56:25.915285Z",
     "who": 0,
     "promed": 0,
     "news": 38,
