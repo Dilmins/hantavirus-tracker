@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-14T22:14:35.833247Z",
+  "lastUpdated": "2026-08-14T22:40:34.293234Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 5,
-  "newsCount": 41,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "BBC",
-        "PBS",
         "News-Medical",
+        "PBS",
+        "KDHE.ks.gov",
+        "World Health Organization (WHO)",
+        "BBC",
+        "European Medicines Agency (EMA)",
         "Al Jazeera",
-        "WTTW",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "CIDRAP",
-        "World Health Organization (WHO)",
-        "European Medicines Agency (EMA)",
-        "KDHE.ks.gov",
-        "Science | AAAS"
+        "Science | AAAS",
+        "WTTW"
       ],
       "alertCount": 12
     },
@@ -253,11 +253,11 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "Hantavirus outbreak: Another passenger contracts disease - news.un.org",
+      "title": "Hantavirus outbreak: Another passenger contracts disease - UN News",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CQTczbTFwcEZoS3dzTE1sSmZ1b1J3TGtoT0drN2xWaUs0RHE1bm9Kc2FtMGxFSE8yTlk3UHhBYTZlQjdPNURkS1R4NzN2eVJtTTNzX2lRaw?oc=5",
-      "summary": "Hantavirus outbreak: Another passenger contracts disease &nbsp;&nbsp; news.un.org",
-      "source": "news.un.org"
+      "summary": "Hantavirus outbreak: Another passenger contracts disease &nbsp;&nbsp; UN News",
+      "source": "UN News"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -337,25 +337,18 @@
       "source": "BBC"
     },
     {
-      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Thu, 23 Apr 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
-      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
-    },
-    {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Johns Hopkins Medicine"
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
+      "source": "hopkinsmedicine.org"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
+      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - bu.edu",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
-      "source": "Boston University"
+      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; bu.edu",
+      "source": "bu.edu"
     },
     {
       "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
@@ -419,6 +412,13 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
+    },
+    {
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -448,10 +448,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-14T22:14:35.833263Z",
+    "timestamp": "2026-08-14T22:40:34.293245Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
