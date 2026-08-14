@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T18:03:57.301225Z",
+  "lastUpdated": "2026-08-14T19:10:50.174482Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
-        "BBC",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Al Jazeera",
-        "PBS",
-        "WTTW",
         "CIDRAP",
-        "KDHE.ks.gov",
+        "Al Jazeera",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "European Medicines Agency (EMA)",
         "Forbes",
+        "PBS",
+        "BBC",
+        "News-Medical",
         "World Health Organization (WHO)",
-        "News-Medical"
+        "WTTW",
+        "KDHE.ks.gov"
       ],
       "alertCount": 12
     },
@@ -186,15 +186,15 @@
       "lng": -16.63,
       "alerts": [
         {
-          "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - cnn.com",
+          "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - CNN",
           "published": "Sun, 10 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMzgyMm1yWFlqRm1iTEwyWmFCY3h5VmpVREMxbXphMDdkb2hmSnJCQzdlRjBya3JrbXdiN1pDWjVwUHZzdkU4T0U2Sk13aVdONGhxTzN5dGwydFpNZ3hNN1Z5UVA1V1FlX2xFaUpoRkJ5VGdreXh1dFFReURSRGs?oc=5",
-          "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus &nbsp;&nbsp; cnn.com",
-          "source": "cnn.com"
+          "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus &nbsp;&nbsp; CNN",
+          "source": "CNN"
         }
       ],
       "sources": [
-        "cnn.com"
+        "CNN"
       ],
       "alertCount": 1
     },
@@ -469,11 +469,11 @@
       "source": "unric"
     },
     {
-      "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - cnn.com",
+      "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus - CNN",
       "published": "Sun, 10 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMzgyMm1yWFlqRm1iTEwyWmFCY3h5VmpVREMxbXphMDdkb2hmSnJCQzdlRjBya3JrbXdiN1pDWjVwUHZzdkU4T0U2Sk13aVdONGhxTzN5dGwydFpNZ3hNN1Z5UVA1V1FlX2xFaUpoRkJ5VGdreXh1dFFReURSRGs?oc=5",
-      "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus &nbsp;&nbsp; cnn.com",
-      "source": "cnn.com"
+      "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus &nbsp;&nbsp; CNN",
+      "source": "CNN"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -510,7 +510,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-14T18:03:57.301240Z",
+    "timestamp": "2026-08-14T19:10:50.174496Z",
     "who": 0,
     "promed": 0,
     "news": 42,
