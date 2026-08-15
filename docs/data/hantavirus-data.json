@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T15:54:29.105845Z",
+  "lastUpdated": "2026-08-15T16:11:34.242603Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "PBS",
-        "WTTW",
-        "Science | AAAS",
-        "aljazeera.com",
         "European Medicines Agency (EMA)",
-        "UN News",
-        "News-Medical",
-        "KDHE.ks.gov",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "aljazeera.com",
+        "BBC",
         "CIDRAP",
-        "BBC"
+        "News-Medical",
+        "WTTW",
+        "PBS",
+        "World Health Organization (WHO)",
+        "UN News",
+        "Science | AAAS",
+        "KDHE.ks.gov"
       ],
       "alertCount": 13
     },
@@ -250,11 +250,11 @@
       "source": "AP News"
     },
     {
-      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - The New York Times",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - nytimes.com",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
-      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; The New York Times",
-      "source": "The New York Times"
+      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; nytimes.com",
+      "source": "nytimes.com"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -348,11 +348,11 @@
       "source": "Science | AAAS"
     },
     {
-      "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - time.com",
+      "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
-      "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; time.com",
-      "source": "time.com"
+      "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; Time Magazine",
+      "source": "Time Magazine"
     },
     {
       "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - UN News",
@@ -431,7 +431,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-15T15:54:29.105859Z",
+    "timestamp": "2026-08-15T16:11:34.242618Z",
     "who": 0,
     "promed": 0,
     "news": 39,
