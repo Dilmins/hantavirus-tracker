@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T07:44:36.419311Z",
+  "lastUpdated": "2026-08-15T07:59:34.572613Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
         "PBS",
-        "Al Jazeera",
+        "WTTW",
         "News-Medical",
-        "KDHE.ks.gov",
-        "Science | AAAS",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CBS News",
-        "CIDRAP",
         "BBC",
-        "WTTW"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Science | AAAS",
+        "KDHE.ks.gov",
+        "World Health Organization (WHO)",
+        "CIDRAP",
+        "Al Jazeera",
+        "CBS News"
       ],
       "alertCount": 12
     },
@@ -344,11 +344,11 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
+      "title": "How hantavirus actually spreads is a key question - hsph.harvard.edu",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2tnd2FFUHBBUDJTbUstT3U4VDYxa2JLNU9LVFhMWmFCZjIzeTQ1cGR5X2N1VjJDOFFwaUZOZmxwTnY5WWdlTkczdmlVQXFFWS1ZSVZrQnpsRVFWTTExMUMzOTk4SFRwVEttbUphV1NaWGNBenJhRXJfSWQ4TDNRc2RCUDF1Sk0?oc=5",
-      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; Harvard T.H. Chan School of Public Health",
-      "source": "Harvard T.H. Chan School of Public Health"
+      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; hsph.harvard.edu",
+      "source": "hsph.harvard.edu"
     },
     {
       "title": "How did the cruise ship hantavirus outbreak start? Scientists are investigating new scenarios - Science | AAAS",
@@ -386,11 +386,11 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
+      "source": "unric.org"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -448,7 +448,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-15T07:44:36.419329Z",
+    "timestamp": "2026-08-15T07:59:34.572630Z",
     "who": 0,
     "promed": 0,
     "news": 39,
