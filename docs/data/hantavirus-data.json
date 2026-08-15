@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:14:00.484275Z",
+  "lastUpdated": "2026-08-15T21:34:11.143084Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "KDHE.ks.gov",
         "News-Medical",
-        "Al Jazeera",
-        "CBS News",
-        "science.org",
-        "UN News",
-        "BBC",
         "European Medicines Agency (EMA)",
+        "BBC",
+        "CIDRAP",
+        "Al Jazeera",
+        "World Health Organization (WHO)",
         "WTTW",
         "PBS",
-        "World Health Organization (WHO)",
-        "KDHE.ks.gov"
+        "UN News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CBS News",
+        "science.org"
       ],
       "alertCount": 13
     },
@@ -384,11 +384,11 @@
       "source": "PBS"
     },
     {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
+      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - aa.com.tr",
       "published": "Sat, 06 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
+      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; aa.com.tr",
+      "source": "aa.com.tr"
     },
     {
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
@@ -432,7 +432,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-15T21:14:00.484291Z",
+    "timestamp": "2026-08-15T21:34:11.143098Z",
     "who": 0,
     "promed": 0,
     "news": 39,
