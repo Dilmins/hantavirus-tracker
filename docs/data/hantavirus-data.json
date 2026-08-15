@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T21:55:11.539894Z",
+  "lastUpdated": "2026-08-15T22:09:22.752999Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -79,11 +79,11 @@
           "source": "Science | AAAS"
         },
         {
-          "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - UN News",
+          "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - news.un.org",
           "published": "Thu, 07 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEX1FvU2YzcHFsNU5icmIxT3lqelBjWG5HdVEyMUFtOFNaXzJ5RHZVNUVRWTg0b3d2azlhY2RVcDUxRDNMOFJPcjZpb3YxajB0elF2QmNXdw?oc=5",
-          "summary": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says &nbsp;&nbsp; UN News",
-          "source": "UN News"
+          "summary": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says &nbsp;&nbsp; news.un.org",
+          "source": "news.un.org"
         },
         {
           "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "PBS",
-        "CBS News",
-        "WTTW",
-        "CIDRAP",
-        "KDHE.ks.gov",
-        "News-Medical",
         "European Medicines Agency (EMA)",
-        "Science | AAAS",
-        "BBC",
-        "Al Jazeera",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "UN News"
+        "CIDRAP",
+        "WTTW",
+        "CBS News",
+        "PBS",
+        "Science | AAAS",
+        "news.un.org",
+        "News-Medical",
+        "Al Jazeera",
+        "World Health Organization (WHO)",
+        "KDHE.ks.gov",
+        "BBC"
       ],
       "alertCount": 13
     },
@@ -342,11 +342,11 @@
       "source": "Time Magazine"
     },
     {
-      "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - UN News",
+      "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - news.un.org",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEX1FvU2YzcHFsNU5icmIxT3lqelBjWG5HdVEyMUFtOFNaXzJ5RHZVNUVRWTg0b3d2azlhY2RVcDUxRDNMOFJPcjZpb3YxajB0elF2QmNXdw?oc=5",
-      "summary": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says &nbsp;&nbsp; UN News",
-      "source": "UN News"
+      "summary": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says &nbsp;&nbsp; news.un.org",
+      "source": "news.un.org"
     },
     {
       "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -432,7 +432,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-15T21:55:11.539908Z",
+    "timestamp": "2026-08-15T22:09:22.753014Z",
     "who": 0,
     "promed": 0,
     "news": 39,
