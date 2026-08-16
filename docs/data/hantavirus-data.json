@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T19:31:49.481688Z",
+  "lastUpdated": "2026-08-16T19:52:26.025545Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,21 +122,20 @@
         }
       ],
       "sources": [
-        "WTTW",
+        "European Medicines Agency (EMA)",
+        "PBS",
+        "Science | AAAS",
         "UN News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "World Health Organization (WHO)",
+        "CIDRAP",
+        "CBS News",
+        "KDHE.ks.gov",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "BBC",
         "Al Jazeera",
-        "KDHE.ks.gov",
-        "Science | AAAS",
-        "News-Medical",
-        "CIDRAP",
-        "PBS",
-        "CBS News",
-        "European Medicines Agency (EMA)"
+        "WTTW"
       ],
-      "alertCount": 14
+      "alertCount": 13
     },
     {
       "country": "Venezuela",
@@ -258,6 +257,13 @@
       "source": "DW.com"
     },
     {
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 - The New York Times",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
+      "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: \u2018I Felt Like a Prisoner\u2019 &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times"
+    },
+    {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
@@ -279,11 +285,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - news.harvard.edu",
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; news.harvard.edu",
-      "source": "news.harvard.edu"
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
+      "source": "Harvard Gazette"
     },
     {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -349,11 +355,11 @@
       "source": "NPR"
     },
     {
-      "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - time.com",
+      "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
-      "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; time.com",
-      "source": "time.com"
+      "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; Time Magazine",
+      "source": "Time Magazine"
     },
     {
       "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - UN News",
@@ -396,13 +402,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
       "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
       "source": "PBS"
-    },
-    {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
     }
   ],
   "usHistoric": {
@@ -432,7 +431,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-16T19:31:49.481704Z",
+    "timestamp": "2026-08-16T19:52:26.025561Z",
     "who": 0,
     "promed": 0,
     "news": 40,
