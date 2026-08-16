@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T10:12:21.261201Z",
+  "lastUpdated": "2026-08-16T10:37:44.943520Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -123,18 +123,18 @@
       ],
       "sources": [
         "European Medicines Agency (EMA)",
-        "UN News",
-        "News-Medical",
-        "Al Jazeera",
-        "WTTW",
         "CBS News",
-        "KDHE.ks.gov",
-        "World Health Organization (WHO)",
-        "Science | AAAS",
-        "PBS",
-        "CIDRAP",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
         "BBC",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Al Jazeera",
+        "KDHE.ks.gov",
+        "PBS",
+        "UN News",
+        "Science | AAAS",
+        "World Health Organization (WHO)",
+        "WTTW",
+        "News-Medical",
+        "CIDRAP"
       ],
       "alertCount": 13
     },
@@ -432,7 +432,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-16T10:12:21.261214Z",
+    "timestamp": "2026-08-16T10:37:44.943536Z",
     "who": 0,
     "promed": 0,
     "news": 39,
