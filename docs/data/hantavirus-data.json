@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T11:57:51.308111Z",
+  "lastUpdated": "2026-08-17T12:32:17.334582Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "CBS News",
         "BBC",
-        "European Medicines Agency (EMA)",
-        "CIDRAP",
+        "Al Jazeera",
         "World Health Organization (WHO)",
         "WTTW",
         "Forbes",
-        "KDHE.ks.gov",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Al Jazeera",
+        "CBS News",
+        "CIDRAP",
         "PBS",
-        "news.un.org"
+        "news.un.org",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "European Medicines Agency (EMA)",
+        "KDHE.ks.gov"
       ],
       "alertCount": 14
     },
@@ -158,8 +158,8 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Yahoo"
+        "Yahoo",
+        "CIDRAP"
       ],
       "alertCount": 2
     },
@@ -259,11 +259,11 @@
       "source": "The American Journal of Managed Care"
     },
     {
-      "title": "2026 News - The University of Maryland, Baltimore",
+      "title": "2026 News - medschool.umaryland.edu",
       "published": "Wed, 22 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "summary": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
-      "source": "The University of Maryland, Baltimore"
+      "summary": "2026 News &nbsp;&nbsp; medschool.umaryland.edu",
+      "source": "medschool.umaryland.edu"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -336,11 +336,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - news.harvard.edu",
+      "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGpSYklicnhWVDgtOFd2VHBjRF9mdGpNWEpOTUNtdkNILUhRMzd1LTlNWWVsOEhqT3BJM1VQeldXVGpZeGJyUjg1NDNzZk0wZXNfWlBJV1B4WF9uNmVmSlM0dHR5Qk1NaFhRbjdvbUx6UGlIWjdCOVQzZWFpRGd5d091MUxYdFZub1QxNU9JV1hOTjdLOElNcVVBczYxc0E2TmN0VE5USW04UkRDMmhRcUZ6TnlrRzJT?oc=5",
-      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; news.harvard.edu",
-      "source": "news.harvard.edu"
+      "summary": "Hantavirus likely to be fully contained but may take time, Hanage says &nbsp;&nbsp; Harvard Gazette",
+      "source": "Harvard Gazette"
     },
     {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -434,11 +434,11 @@
       "source": "BBC"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
+      "source": "unric.org"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -475,7 +475,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-17T11:57:51.308122Z",
+    "timestamp": "2026-08-17T12:32:17.334596Z",
     "who": 0,
     "promed": 0,
     "news": 43,
