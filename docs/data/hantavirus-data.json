@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T22:46:36.107436Z",
+  "lastUpdated": "2026-08-17T23:12:06.402521Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -65,11 +65,11 @@
           "source": "BBC"
         },
         {
-          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - ema.europa.eu",
+          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; ema.europa.eu",
-          "source": "ema.europa.eu"
+          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+          "source": "European Medicines Agency (EMA)"
         },
         {
           "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "cidrap.umn.edu",
-        "Forbes",
-        "UN News",
-        "World Health Organization (WHO)",
-        "ema.europa.eu",
-        "PBS",
-        "KDHE, KS (.gov)",
-        "BBC",
+        "CIDRAP",
         "WTTW News",
-        "Al Jazeera",
-        "cdc.gov"
+        "World Health Organization (WHO)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "UN News",
+        "Forbes",
+        "BBC",
+        "KDHE, KS (.gov)",
+        "European Medicines Agency (EMA)",
+        "PBS",
+        "Al Jazeera"
       ],
       "alertCount": 12
     },
@@ -149,15 +149,15 @@
           "source": "Yahoo"
         },
         {
-          "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - cidrap.umn.edu",
+          "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - CIDRAP",
           "published": "Fri, 08 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjJJYWhaMGdMYXdIUlFiNlJieTdBUGFna0tRWDZjQ2dOZU45aFEzQ3FTTFVmRjdzbXpmTkRjUkFaR25sTENNREN3eml2V3g2LU94X256LUdXbnFXVm8wZTFtM1ZsQnZMSUpVeHZBR2piQXE4bm1taklrRVVPckhvbEVKUEpUaFlZWEMxeExKY2piYmoydDYzWG1B?oc=5",
-          "summary": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday &nbsp;&nbsp; cidrap.umn.edu",
-          "source": "cidrap.umn.edu"
+          "summary": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
         }
       ],
       "sources": [
-        "cidrap.umn.edu",
+        "CIDRAP",
         "Yahoo"
       ],
       "alertCount": 2
@@ -237,18 +237,18 @@
   ],
   "recentNews": [
     {
-      "title": "Reported Cases of Hantavirus Disease - cdc.gov",
+      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Wed, 26 Jun 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
-      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; cdc.gov",
-      "source": "cdc.gov"
+      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     },
     {
-      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - hhs.gov",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
-      "summary": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
-      "source": "HHS.gov"
+      "summary": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; hhs.gov",
+      "source": "hhs.gov"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
@@ -293,11 +293,11 @@
       "source": "BBC"
     },
     {
-      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - cidrap.umn.edu",
+      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
-      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
@@ -328,11 +328,11 @@
       "source": "KFF"
     },
     {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - cidrap.umn.edu",
+      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
@@ -349,11 +349,11 @@
       "source": "AP News"
     },
     {
-      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - ema.europa.eu",
+      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; ema.europa.eu",
-      "source": "ema.europa.eu"
+      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+      "source": "European Medicines Agency (EMA)"
     },
     {
       "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
@@ -440,11 +440,11 @@
       "source": "Forbes"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
-      "source": "unric.org"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     }
   ],
   "usHistoric": {
@@ -474,7 +474,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-17T22:46:36.107452Z",
+    "timestamp": "2026-08-17T23:12:06.402538Z",
     "who": 0,
     "promed": 0,
     "news": 43,
