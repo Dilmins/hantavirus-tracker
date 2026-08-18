@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T17:50:24.748947Z",
+  "lastUpdated": "2026-08-18T18:20:22.369060Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,18 +122,18 @@
         }
       ],
       "sources": [
-        "UN News",
-        "nejm.org",
-        "CIDRAP",
-        "KDHE, KS (.gov)",
         "PBS",
+        "Al Jazeera",
+        "nejm.org",
+        "Forbes",
+        "WTTW News",
+        "UN News",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "European Medicines Agency (EMA)",
-        "Al Jazeera",
         "BBC",
-        "Forbes",
+        "KDHE, KS (.gov)",
         "World Health Organization (WHO)",
-        "WTTW News"
+        "CIDRAP"
       ],
       "alertCount": 13
     },
@@ -158,8 +158,8 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Yahoo"
+        "Yahoo",
+        "CIDRAP"
       ],
       "alertCount": 2
     },
@@ -367,11 +367,11 @@
       "source": "Boston University"
     },
     {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - cjonline.com",
+      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; cjonline.com",
-      "source": "cjonline.com"
+      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
+      "source": "The Topeka Capital-Journal"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -457,7 +457,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-18T17:50:24.748968Z",
+    "timestamp": "2026-08-18T18:20:22.369076Z",
     "who": 0,
     "promed": 0,
     "news": 43,
