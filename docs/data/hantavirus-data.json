@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T20:11:10.913568Z",
+  "lastUpdated": "2026-08-18T20:37:57.124215Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -93,18 +93,18 @@
           "source": "Al Jazeera"
         },
         {
-          "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+          "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
-          "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
-          "source": "Forbes"
+          "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
+          "source": "forbes.com"
         },
         {
-          "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - aha.org",
+          "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
           "published": "Sun, 02 Aug 2026 19:44:33 GMT",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-          "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; aha.org",
-          "source": "aha.org"
+          "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
+          "source": "American Hospital Association"
         },
         {
           "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -115,15 +115,15 @@
         }
       ],
       "sources": [
-        "KDHE, KS (.gov)",
-        "World Health Organization (WHO)",
-        "aha.org",
-        "Al Jazeera",
-        "European Medicines Agency (EMA)",
+        "American Hospital Association",
         "UN News",
+        "bbc.com",
+        "forbes.com",
+        "European Medicines Agency (EMA)",
+        "Al Jazeera",
         "PBS",
-        "Forbes",
-        "bbc.com"
+        "World Health Organization (WHO)",
+        "KDHE, KS (.gov)"
       ],
       "alertCount": 9
     },
@@ -155,9 +155,9 @@
         }
       ],
       "sources": [
+        "Anadolu Ajans\u0131",
         "AP News",
-        "Orlando Sentinel",
-        "Anadolu Ajans\u0131"
+        "Orlando Sentinel"
       ],
       "alertCount": 3
     },
@@ -182,8 +182,8 @@
         }
       ],
       "sources": [
-        "Yahoo",
-        "CIDRAP"
+        "CIDRAP",
+        "Yahoo"
       ],
       "alertCount": 2
     },
@@ -193,15 +193,15 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
           "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-          "source": "Live Science"
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
+          "source": "livescience.com"
         }
       ],
       "sources": [
-        "Live Science"
+        "livescience.com"
       ],
       "alertCount": 1
     },
@@ -427,11 +427,11 @@
       "source": "AZ Family"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Johns Hopkins Medicine"
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
+      "source": "hopkinsmedicine.org"
     },
     {
       "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
@@ -441,11 +441,11 @@
       "source": "Boston University"
     },
     {
-      "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
+      "title": "How hantavirus actually spreads is a key question - hsph.harvard.edu",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2tnd2FFUHBBUDJTbUstT3U4VDYxa2JLNU9LVFhMWmFCZjIzeTQ1cGR5X2N1VjJDOFFwaUZOZmxwTnY5WWdlTkczdmlVQXFFWS1ZSVZrQnpsRVFWTTExMUMzOTk4SFRwVEttbUphV1NaWGNBenJhRXJfSWQ4TDNRc2RCUDF1Sk0?oc=5",
-      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; Harvard T.H. Chan School of Public Health",
-      "source": "Harvard T.H. Chan School of Public Health"
+      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; hsph.harvard.edu",
+      "source": "hsph.harvard.edu"
     },
     {
       "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
@@ -483,11 +483,11 @@
       "source": "Le Monde.fr"
     },
     {
-      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
-      "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
-      "source": "Forbes"
+      "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
+      "source": "forbes.com"
     }
   ],
   "usHistoric": {
@@ -517,7 +517,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-18T20:11:10.913583Z",
+    "timestamp": "2026-08-18T20:37:57.124231Z",
     "who": 0,
     "promed": 0,
     "news": 42,
