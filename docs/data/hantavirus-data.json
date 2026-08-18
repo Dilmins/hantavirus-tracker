@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T16:18:17.297422Z",
+  "lastUpdated": "2026-08-18T16:54:50.194318Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -58,11 +58,11 @@
           "source": "KDHE, KS (.gov)"
         },
         {
-          "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
+          "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - bbc.com",
           "published": "Wed, 06 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd0ZidENzSVlCY1JkUUlhOFhTTWlrbWhYNkxkcUFRbFhuZ3hXcmZHbS1QMjRLR2ZMdm5rWHJDX2xEQlAtUmNQOTZMQ3IzR2RIdXF1MA?oc=5",
-          "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; bbc.com",
+          "source": "bbc.com"
         },
         {
           "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -79,11 +79,18 @@
           "source": "WTTW News"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+          "source": "bbc.com"
+        },
+        {
+          "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - UN News",
+          "published": "Thu, 07 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEX1FvU2YzcHFsNU5icmIxT3lqelBjWG5HdVEyMUFtOFNaXzJ5RHZVNUVRWTg0b3d2azlhY2RVcDUxRDNMOFJPcjZpb3YxajB0elF2QmNXdw?oc=5",
+          "summary": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says &nbsp;&nbsp; UN News",
+          "source": "UN News"
         },
         {
           "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -107,13 +114,6 @@
           "source": "Forbes"
         },
         {
-          "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
-          "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
-          "source": "BBC"
-        },
-        {
           "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
           "published": "Sat, 09 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
@@ -122,16 +122,17 @@
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "WTTW News",
-        "KDHE, KS (.gov)",
-        "CIDRAP",
-        "World Health Organization (WHO)",
-        "BBC",
-        "European Medicines Agency (EMA)",
         "Al Jazeera",
+        "Forbes",
+        "KDHE, KS (.gov)",
         "PBS",
-        "Forbes"
+        "bbc.com",
+        "European Medicines Agency (EMA)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "UN News",
+        "WTTW News",
+        "CIDRAP",
+        "World Health Organization (WHO)"
       ],
       "alertCount": 12
     },
@@ -156,8 +157,8 @@
         }
       ],
       "sources": [
-        "Yahoo",
-        "CIDRAP"
+        "CIDRAP",
+        "Yahoo"
       ],
       "alertCount": 2
     },
@@ -167,15 +168,15 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
           "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-          "source": "Live Science"
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
+          "source": "livescience.com"
         }
       ],
       "sources": [
-        "Live Science"
+        "livescience.com"
       ],
       "alertCount": 1
     },
@@ -185,15 +186,15 @@
       "lng": -63.62,
       "alerts": [
         {
-          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - New England Journal of Medicine",
+          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
           "published": "Wed, 02 Dec 2020 08:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; New England Journal of Medicine",
-          "source": "New England Journal of Medicine"
+          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
         }
       ],
       "sources": [
-        "New England Journal of Medicine"
+        "The New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -203,15 +204,15 @@
       "lng": -1.17,
       "alerts": [
         {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
-          "source": "New England Journal of Medicine"
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
         }
       ],
       "sources": [
-        "New England Journal of Medicine"
+        "The New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -257,11 +258,11 @@
       "source": "The University of Maryland, Baltimore"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - New England Journal of Medicine",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; New England Journal of Medicine",
-      "source": "New England Journal of Medicine"
+      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; The New England Journal of Medicine",
+      "source": "The New England Journal of Medicine"
     },
     {
       "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
@@ -278,11 +279,11 @@
       "source": "KDHE, KS (.gov)"
     },
     {
-      "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
+      "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - bbc.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd0ZidENzSVlCY1JkUUlhOFhTTWlrbWhYNkxkcUFRbFhuZ3hXcmZHbS1QMjRLR2ZMdm5rWHJDX2xEQlAtUmNQOTZMQ3IzR2RIdXF1MA?oc=5",
-      "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -299,11 +300,11 @@
       "source": "DW.com"
     },
     {
-      "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - New England Journal of Medicine",
+      "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
       "published": "Wed, 02 Dec 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-      "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; New England Journal of Medicine",
-      "source": "New England Journal of Medicine"
+      "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
+      "source": "The New England Journal of Medicine"
     },
     {
       "title": "Kalshi Hantavirus Market: WHO Emergency Declaration Trades At 3 Cents - OddsShopper",
@@ -320,11 +321,11 @@
       "source": "Stanford Medicine"
     },
     {
-      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - KFF",
+      "title": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response - kff.org",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
-      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
-      "source": "KFF"
+      "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; kff.org",
+      "source": "kff.org"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -341,11 +342,11 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - apnews.com",
+      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
-      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; apnews.com",
-      "source": "apnews.com"
+      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; AP News",
+      "source": "AP News"
     },
     {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -362,11 +363,11 @@
       "source": "WTTW News"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+      "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -390,11 +391,18 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "How hantavirus actually spreads is a key question - hsph.harvard.edu",
+      "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2tnd2FFUHBBUDJTbUstT3U4VDYxa2JLNU9LVFhMWmFCZjIzeTQ1cGR5X2N1VjJDOFFwaUZOZmxwTnY5WWdlTkczdmlVQXFFWS1ZSVZrQnpsRVFWTTExMUMzOTk4SFRwVEttbUphV1NaWGNBenJhRXJfSWQ4TDNRc2RCUDF1Sk0?oc=5",
-      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; hsph.harvard.edu",
-      "source": "hsph.harvard.edu"
+      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; Harvard T.H. Chan School of Public Health",
+      "source": "Harvard T.H. Chan School of Public Health"
+    },
+    {
+      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
+      "summary": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
+      "source": "NPR"
     },
     {
       "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
@@ -402,6 +410,13 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
       "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; Time Magazine",
       "source": "Time Magazine"
+    },
+    {
+      "title": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says - UN News",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBEX1FvU2YzcHFsNU5icmIxT3lqelBjWG5HdVEyMUFtOFNaXzJ5RHZVNUVRWTg0b3d2azlhY2RVcDUxRDNMOFJPcjZpb3YxajB0elF2QmNXdw?oc=5",
+      "summary": "Hantavirus outbreak on cruise ship not \u2018another COVID\u2019, WHO says &nbsp;&nbsp; UN News",
+      "source": "UN News"
     },
     {
       "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -425,25 +440,11 @@
       "source": "Forbes"
     },
     {
-      "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
-      "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
       "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
-    },
-    {
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -473,7 +474,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-18T16:18:17.297438Z",
+    "timestamp": "2026-08-18T16:54:50.194356Z",
     "who": 0,
     "promed": 0,
     "news": 43,
