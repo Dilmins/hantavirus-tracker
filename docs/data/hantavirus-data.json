@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T21:37:15.278367Z",
+  "lastUpdated": "2026-08-19T21:58:27.564021Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -51,18 +51,18 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE, KS (.gov)",
-          "source": "KDHE, KS (.gov)"
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+          "source": "kdhe.ks.gov"
         },
         {
-          "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - bbc.com",
+          "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
           "published": "Wed, 06 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd0ZidENzSVlCY1JkUUlhOFhTTWlrbWhYNkxkcUFRbFhuZ3hXcmZHbS1QMjRLR2ZMdm5rWHJDX2xEQlAtUmNQOTZMQ3IzR2RIdXF1MA?oc=5",
-          "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; bbc.com",
-          "source": "bbc.com"
+          "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; BBC",
+          "source": "BBC"
         },
         {
           "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
@@ -86,11 +86,11 @@
           "source": "live-news-wttw.pantheonsite.io"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
-          "source": "bbc.com"
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
+          "source": "BBC"
         },
         {
           "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
@@ -114,23 +114,23 @@
           "source": "PBS"
         },
         {
-          "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
+          "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - cdc.gov",
           "published": "Fri, 08 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
-          "summary": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+          "summary": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship &nbsp;&nbsp; cdc.gov",
+          "source": "cdc.gov"
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "European Medicines Agency (EMA)",
-        "live-news-wttw.pantheonsite.io",
-        "KDHE, KS (.gov)",
-        "bbc.com",
-        "World Health Organization (WHO)",
-        "Forbes",
         "PBS",
-        "ABC News - Breaking News, Latest News and Videos"
+        "European Medicines Agency (EMA)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "cdc.gov",
+        "live-news-wttw.pantheonsite.io",
+        "kdhe.ks.gov",
+        "Forbes",
+        "World Health Organization (WHO)"
       ],
       "alertCount": 10
     },
@@ -155,8 +155,8 @@
         }
       ],
       "sources": [
-        "Yahoo",
-        "CIDRAP"
+        "CIDRAP",
+        "Yahoo"
       ],
       "alertCount": 2
     },
@@ -166,15 +166,15 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
           "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-          "source": "Live Science"
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
+          "source": "livescience.com"
         }
       ],
       "sources": [
-        "Live Science"
+        "livescience.com"
       ],
       "alertCount": 1
     },
@@ -253,11 +253,11 @@
   ],
   "recentNews": [
     {
-      "title": "Reported Cases of Hantavirus Disease - Centers for Disease Control and Prevention | CDC (.gov)",
+      "title": "Reported Cases of Hantavirus Disease - cdc.gov",
       "published": "Wed, 26 Jun 2024 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OSUtYZ1pOOXRDY1pWUTZBSHlKYUlpUzU2R3N5WTFmMlVYOFJPOUpGak1LdmFIa3FHVV9XaXFuWThWSVlLaFpaQmoybHYzR1NaNEFyMFhVNWdaUFJONnJJZkVYaE1idFpwX0VEanZ3?oc=5",
-      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+      "summary": "Reported Cases of Hantavirus Disease &nbsp;&nbsp; cdc.gov",
+      "source": "cdc.gov"
     },
     {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
@@ -295,18 +295,18 @@
       "source": "tristandc.com"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE, KS (.gov)",
-      "source": "KDHE, KS (.gov)"
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+      "source": "kdhe.ks.gov"
     },
     {
-      "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - bbc.com",
+      "title": "Five hantavirus cases now confirmed from cruise ship, health officials say - BBC",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Rd0ZidENzSVlCY1JkUUlhOFhTTWlrbWhYNkxkcUFRbFhuZ3hXcmZHbS1QMjRLR2ZMdm5rWHJDX2xEQlAtUmNQOTZMQ3IzR2RIdXF1MA?oc=5",
-      "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; bbc.com",
-      "source": "bbc.com"
+      "summary": "Five hantavirus cases now confirmed from cruise ship, health officials say &nbsp;&nbsp; BBC",
+      "source": "BBC"
     },
     {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
@@ -316,11 +316,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
+      "title": "Hantavirus: Evacuated passengers begin returning home - dw.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
-      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
-      "source": "DW.com"
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; dw.com",
+      "source": "dw.com"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -372,11 +372,11 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
+      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - apnews.com",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
-      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; AP News",
-      "source": "AP News"
+      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; apnews.com",
+      "source": "apnews.com"
     },
     {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -393,18 +393,18 @@
       "source": "live-news-wttw.pantheonsite.io"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
+      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
-      "source": "bbc.com"
+      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
+      "source": "BBC"
     },
     {
-      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
+      "title": "First hantavirus death reported in Arizona in 2026 - azfamily.com",
       "published": "Tue, 02 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
-      "source": "AZ Family"
+      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; azfamily.com",
+      "source": "azfamily.com"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -490,7 +490,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-19T21:37:15.278382Z",
+    "timestamp": "2026-08-19T21:58:27.564036Z",
     "who": 0,
     "promed": 0,
     "news": 43,
