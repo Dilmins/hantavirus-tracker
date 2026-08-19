@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T11:58:29.305484Z",
+  "lastUpdated": "2026-08-19T12:38:33.174941Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "PBS",
-        "forbes.com",
-        "KDHE, KS (.gov)",
         "ABC News - Breaking News, Latest News and Videos",
-        "UN News",
         "World Health Organization (WHO)",
+        "BBC",
         "European Medicines Agency (EMA)",
+        "UN News",
         "WTTW News",
-        "BBC"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "forbes.com",
+        "KDHE, KS (.gov)"
       ],
       "alertCount": 11
     },
@@ -141,11 +141,11 @@
       "lng": -3.75,
       "alerts": [
         {
-          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - Yahoo",
+          "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak - yahoo.com",
           "published": "Mon, 15 Jun 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
-          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; Yahoo",
-          "source": "Yahoo"
+          "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak &nbsp;&nbsp; yahoo.com",
+          "source": "yahoo.com"
         },
         {
           "title": "Cruise ship at center of hantavirus outbreak to dock in Spain Sunday - CIDRAP",
@@ -156,8 +156,8 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Yahoo"
+        "yahoo.com",
+        "CIDRAP"
       ],
       "alertCount": 2
     },
@@ -289,11 +289,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Postscript to the Hantavirus Outbreak - TristanDC.com",
+      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
-      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; TristanDC.com",
-      "source": "TristanDC.com"
+      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
+      "source": "tristandc.com"
     },
     {
       "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
@@ -373,11 +373,11 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
+      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - apnews.com",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
-      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; AP News",
-      "source": "AP News"
+      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; apnews.com",
+      "source": "apnews.com"
     },
     {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -491,7 +491,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-19T11:58:29.305498Z",
+    "timestamp": "2026-08-19T12:38:33.174958Z",
     "who": 0,
     "promed": 0,
     "news": 43,
