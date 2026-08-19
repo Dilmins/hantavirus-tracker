@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T19:46:55.071481Z",
+  "lastUpdated": "2026-08-19T20:14:09.106262Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -100,11 +100,11 @@
           "source": "World Health Organization (WHO)"
         },
         {
-          "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
+          "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
           "published": "Thu, 02 Jul 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
-          "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
-          "source": "forbes.com"
+          "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+          "source": "Forbes"
         },
         {
           "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -122,15 +122,15 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "forbes.com",
-        "PBS",
+        "European Medicines Agency (EMA)",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "ABC News - Breaking News, Latest News and Videos",
         "KDHE, KS (.gov)",
         "BBC",
-        "European Medicines Agency (EMA)",
-        "live-news-wttw.pantheonsite.io"
+        "live-news-wttw.pantheonsite.io",
+        "PBS",
+        "World Health Organization (WHO)",
+        "Forbes"
       ],
       "alertCount": 10
     },
@@ -155,8 +155,8 @@
         }
       ],
       "sources": [
-        "Yahoo",
-        "CIDRAP"
+        "CIDRAP",
+        "Yahoo"
       ],
       "alertCount": 2
     },
@@ -456,11 +456,11 @@
       "source": "Le Monde.fr"
     },
     {
-      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - forbes.com",
+      "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLWFQWGRFX3IyOVMzQ3pBZDVQRnNpOTl0LTFmdzdXQTR6aDdCU3JFbl9sMWt0UExuM1hYZU1RNmxES3UzZ1UzSnpucjl4ZXlxQldOUk41YV8wYTVwWnVnMXNqR1dRUURtQlhuVEs2X3hGbjE2WEtYWmh3MHRXQXpMYXNTN2Y4T3ZJMU5KdVp1M25QZ21pYVY4bzlwTnFCOVFFNzNWTk5tX1ZtQXgxTVNDLVI5MkxtREM3X2JBdGJBbTg4OHAt?oc=5",
-      "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; forbes.com",
-      "source": "forbes.com"
+      "summary": "Hantavirus Cruise Ship Outbreak Over, WHO Says &nbsp;&nbsp; Forbes",
+      "source": "Forbes"
     }
   ],
   "usHistoric": {
@@ -490,7 +490,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-19T19:46:55.071495Z",
+    "timestamp": "2026-08-19T20:14:09.106272Z",
     "who": 0,
     "promed": 0,
     "news": 43,
