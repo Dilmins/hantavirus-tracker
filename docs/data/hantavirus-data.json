@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T21:03:35.284606Z",
+  "lastUpdated": "2026-08-19T21:37:15.278367Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,15 +122,15 @@
         }
       ],
       "sources": [
-        "PBS",
-        "Forbes",
-        "European Medicines Agency (EMA)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "live-news-wttw.pantheonsite.io",
-        "World Health Organization (WHO)",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "European Medicines Agency (EMA)",
+        "live-news-wttw.pantheonsite.io",
         "KDHE, KS (.gov)",
-        "bbc.com"
+        "bbc.com",
+        "World Health Organization (WHO)",
+        "Forbes",
+        "PBS",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 10
     },
@@ -330,11 +330,11 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "Don\u2019t Sweep It! Saturate it! - pctonline.com",
+      "title": "Don\u2019t Sweep It! Saturate it! - Pest Control Technology",
       "published": "Tue, 18 Aug 2026 14:01:30 GMT",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWUFiazlBZ2t5cFhRUXJnOEMtRXNfck5iU01SYVN4Nk05SjNhRUp3T0kySWtOTC1LRzNpVzZOTkRUdHVCM0VPRE9pN3dfTHJGMkxydl8zci0wYk5VNDZ0Q0Jyd0d6ejhMNTRJXw?oc=5",
-      "summary": "Don\u2019t Sweep It! Saturate it! &nbsp;&nbsp; pctonline.com",
-      "source": "pctonline.com"
+      "summary": "Don\u2019t Sweep It! Saturate it! &nbsp;&nbsp; Pest Control Technology",
+      "source": "Pest Control Technology"
     },
     {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
@@ -490,7 +490,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-19T21:03:35.284639Z",
+    "timestamp": "2026-08-19T21:37:15.278382Z",
     "who": 0,
     "promed": 0,
     "news": 43,
