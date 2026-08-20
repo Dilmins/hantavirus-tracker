@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T07:03:56.837768Z",
+  "lastUpdated": "2026-08-20T07:54:09.121902Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -51,6 +51,13 @@
       "lng": -20.0,
       "alerts": [
         {
+          "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+          "published": "Wed, 19 Aug 2026 02:32:03 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+          "summary": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
           "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
@@ -65,13 +72,6 @@
           "source": "BBC"
         },
         {
-          "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-          "published": "Tue, 18 Aug 2026 00:44:36 GMT",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-          "summary": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
           "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
@@ -79,11 +79,11 @@
           "source": "European Medicines Agency (EMA)"
         },
         {
-          "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
+          "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - news.wttw.com",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
-          "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
-          "source": "WTTW News"
+          "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; news.wttw.com",
+          "source": "news.wttw.com"
         },
         {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -123,14 +123,14 @@
       ],
       "sources": [
         "BBC",
-        "Forbes",
-        "European Medicines Agency (EMA)",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "ABC News - Breaking News, Latest News and Videos",
         "World Health Organization (WHO)",
-        "KDHE, KS (.gov)",
+        "European Medicines Agency (EMA)",
         "PBS",
-        "WTTW News"
+        "Forbes",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "KDHE, KS (.gov)",
+        "news.wttw.com",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 10
     },
@@ -155,8 +155,8 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Yahoo"
+        "Yahoo",
+        "CIDRAP"
       ],
       "alertCount": 2
     },
@@ -166,15 +166,15 @@
       "lng": -95.71,
       "alerts": [
         {
-          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - Live Science",
+          "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues - livescience.com",
           "published": "Fri, 15 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
-          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; Live Science",
-          "source": "Live Science"
+          "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues &nbsp;&nbsp; livescience.com",
+          "source": "livescience.com"
         }
       ],
       "sources": [
-        "Live Science"
+        "livescience.com"
       ],
       "alertCount": 1
     },
@@ -288,6 +288,13 @@
       "source": "World Health Organization (WHO)"
     },
     {
+      "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
+      "published": "Wed, 19 Aug 2026 02:32:03 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
+      "summary": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
@@ -337,13 +344,6 @@
       "source": "Pest Control Technology"
     },
     {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "published": "Tue, 18 Aug 2026 00:44:36 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-      "summary": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos"
-    },
-    {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
@@ -386,11 +386,11 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
+      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - news.wttw.com",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
-      "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
-      "source": "WTTW News"
+      "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; news.wttw.com",
+      "source": "news.wttw.com"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -490,7 +490,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-20T07:03:56.837784Z",
+    "timestamp": "2026-08-20T07:54:09.121918Z",
     "who": 0,
     "promed": 0,
     "news": 43,
