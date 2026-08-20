@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T17:24:20.760863Z",
+  "lastUpdated": "2026-08-20T17:53:24.172943Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,15 +122,15 @@
         }
       ],
       "sources": [
+        "World Health Organization (WHO)",
         "WTTW News",
+        "PBS",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "ABC News - Breaking News, Latest News and Videos",
-        "European Medicines Agency (EMA)",
-        "PBS",
-        "BBC",
-        "Forbes",
         "KDHE, KS (.gov)",
-        "World Health Organization (WHO)"
+        "European Medicines Agency (EMA)",
+        "BBC",
+        "Forbes"
       ],
       "alertCount": 10
     },
@@ -155,8 +155,8 @@
         }
       ],
       "sources": [
-        "Yahoo",
-        "CIDRAP"
+        "CIDRAP",
+        "Yahoo"
       ],
       "alertCount": 2
     },
@@ -316,11 +316,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus: Evacuated passengers begin returning home - dw.com",
+      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
-      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; dw.com",
-      "source": "dw.com"
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
+      "source": "DW.com"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -490,7 +490,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-20T17:24:20.760903Z",
+    "timestamp": "2026-08-20T17:53:24.172957Z",
     "who": 0,
     "promed": 0,
     "news": 43,
