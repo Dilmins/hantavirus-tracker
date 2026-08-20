@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T05:44:15.550483Z",
+  "lastUpdated": "2026-08-20T06:02:38.471309Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,15 +122,15 @@
         }
       ],
       "sources": [
-        "KDHE, KS (.gov)",
-        "PBS",
-        "World Health Organization (WHO)",
-        "BBC",
-        "Forbes",
         "Centers for Disease Control and Prevention | CDC (.gov)",
+        "BBC",
+        "PBS",
+        "KDHE, KS (.gov)",
         "WTTW News",
+        "World Health Organization (WHO)",
+        "ABC News - Breaking News, Latest News and Videos",
         "ema.europa.eu",
-        "ABC News - Breaking News, Latest News and Videos"
+        "Forbes"
       ],
       "alertCount": 10
     },
@@ -400,11 +400,11 @@
       "source": "BBC"
     },
     {
-      "title": "First hantavirus death reported in Arizona in 2026 - azfamily.com",
+      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
       "published": "Tue, 02 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; azfamily.com",
-      "source": "azfamily.com"
+      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
+      "source": "AZ Family"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -490,7 +490,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-20T05:44:15.550496Z",
+    "timestamp": "2026-08-20T06:02:38.471324Z",
     "who": 0,
     "promed": 0,
     "news": 43,
