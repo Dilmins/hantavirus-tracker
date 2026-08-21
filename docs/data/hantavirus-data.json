@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-21T07:57:30.453286Z",
+  "lastUpdated": "2026-08-21T08:32:05.242797Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 8,
+  "locationsTracked": 7,
   "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -107,6 +107,13 @@
           "source": "BBC"
         },
         {
+          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+          "published": "Sat, 09 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+          "source": "PBS"
+        },
+        {
           "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
           "published": "Fri, 08 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
@@ -116,14 +123,15 @@
       ],
       "sources": [
         "WTTW News",
-        "World Health Organization (WHO)",
-        "Forbes",
+        "BBC",
         "KDHE, KS (.gov)",
+        "World Health Organization (WHO)",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "European Medicines Agency (EMA)",
-        "BBC"
+        "PBS",
+        "Forbes"
       ],
-      "alertCount": 9
+      "alertCount": 10
     },
     {
       "country": "USA",
@@ -194,24 +202,6 @@
       ],
       "sources": [
         "The New England Journal of Medicine"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Italy",
-      "lat": 41.87,
-      "lng": 12.57,
-      "alerts": [
-        {
-          "title": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience - Frontiers",
-          "published": "Fri, 17 Jul 2026 08:51:13 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2hQSnJNbjhKdWpIeWdndnUyQ3R6MmtmdnRxeWxkVWNINkl0ZXpBc2Q2RjVZcGNQWkptOHZFeGZqdDh5czB5UEZpU1lPaFhxSE1mQzhBekFaNTdNbU9vaTJIdDl5bTZJM0xMOFBIaExTV2dhMnd3ODVpdS1MSnBUT1p3RElMUFVfUGE3OFRPQlQ4VFNuNnc?oc=5",
-          "summary": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience &nbsp;&nbsp; Frontiers",
-          "source": "Frontiers"
-        }
-      ],
-      "sources": [
-        "Frontiers"
       ],
       "alertCount": 1
     },
@@ -491,7 +481,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-21T07:57:30.453301Z",
+    "timestamp": "2026-08-21T08:32:05.242812Z",
     "who": 0,
     "promed": 0,
     "news": 42,
