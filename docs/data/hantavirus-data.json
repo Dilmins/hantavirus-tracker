@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T03:27:23.588083Z",
+  "lastUpdated": "2026-08-21T04:08:06.690713Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,14 +122,14 @@
         }
       ],
       "sources": [
+        "World Health Organization (WHO)",
+        "European Medicines Agency (EMA)",
+        "PBS",
+        "Forbes",
+        "BBC",
         "KDHE, KS (.gov)",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "WTTW News",
-        "Forbes",
-        "PBS",
-        "BBC",
-        "European Medicines Agency (EMA)",
-        "World Health Organization (WHO)"
+        "WTTW News"
       ],
       "alertCount": 10
     },
@@ -385,7 +385,7 @@
     },
     {
       "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
-      "published": "Thu, 20 Aug 2026 23:25:48 GMT",
+      "published": "Thu, 20 Aug 2026 23:24:59 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5",
       "summary": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
       "source": "Nebraska Examiner"
@@ -481,7 +481,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-21T03:27:23.588120Z",
+    "timestamp": "2026-08-21T04:08:06.690728Z",
     "who": 0,
     "promed": 0,
     "news": 42,
