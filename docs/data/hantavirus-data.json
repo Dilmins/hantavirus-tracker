@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-21T19:35:04.782706Z",
+  "lastUpdated": "2026-08-21T19:54:49.334512Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 8,
-  "newsCount": 41,
+  "locationsTracked": 7,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -108,12 +108,12 @@
         }
       ],
       "sources": [
+        "Forbes",
+        "KDHE, KS (.gov)",
         "BBC",
         "European Medicines Agency (EMA)",
         "World Health Organization (WHO)",
-        "Forbes",
-        "American Hospital Association",
-        "KDHE, KS (.gov)"
+        "American Hospital Association"
       ],
       "alertCount": 8
     },
@@ -132,24 +132,6 @@
       ],
       "sources": [
         "Live Science"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Argentina",
-      "lat": -38.42,
-      "lng": -63.62,
-      "alerts": [
-        {
-          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
-          "published": "Wed, 02 Dec 2020 08:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
-        }
-      ],
-      "sources": [
-        "The New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -309,13 +291,6 @@
       "source": "CIDRAP"
     },
     {
-      "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
-      "published": "Wed, 02 Dec 2020 08:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-      "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-      "source": "The New England Journal of Medicine"
-    },
-    {
       "title": "Don\u2019t Sweep It! Saturate it! - Pest Control Technology",
       "published": "Tue, 18 Aug 2026 14:01:30 GMT",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWUFiazlBZ2t5cFhRUXJnOEMtRXNfck5iU01SYVN4Nk05SjNhRUp3T0kySWtOTC1LRzNpVzZOTkRUdHVCM0VPRE9pN3dfTHJGMkxydl8zci0wYk5VNDZ0Q0Jyd0d6ejhMNTRJXw?oc=5",
@@ -384,6 +359,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5",
       "summary": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
       "source": "Nebraska Examiner"
+    },
+    {
+      "title": "Health Secretary Kennedy visits National Quarantine Unit in Omaha - WOWT",
+      "published": "Thu, 20 Aug 2026 17:12:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzdEX2Zia3ZvSzBEeHFHMHRVWXF5UnlLSjlrLTJjR0lKeXZQazVHSS1lTGg4d3gySHF3U1hoZjBiZFo0d2JGY1FvN3JvblNOM0pOaDN2NlZiT1hQakpVOUdaS1FaWTNzelRielB2VUpGdWZaelN4b1J6RXFrRUdmVWI3Tmd0dmhIMzdZM212dGdNbGNvYVM2c0lLb9IBrwFBVV95cUxQc28zb19qemsxUlZ5TFh3TnE0cUZHc2VIQ0ZLeTJiaHJRd2FYSWgzMEFSaWVGeFpVLTAxd3VtU0NYTXRtTzcycWxTT0wtTWVaOUI2NTliU3I1LWNHTFRJSVJRNjhfNW9TSDVEajJDeUFRQnY3LUNtUTBsUndFbHN4YnUxUkpnNUc1eVVNdTFQWHNyRDFxNVVZTEE1ZXNVYmlYb0lxZEpYWl81MGVmQWxR?oc=5",
+      "summary": "Health Secretary Kennedy visits National Quarantine Unit in Omaha &nbsp;&nbsp; WOWT",
+      "source": "WOWT"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -483,10 +465,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-21T19:35:04.782719Z",
+    "timestamp": "2026-08-21T19:54:49.334524Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
