@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T22:47:25.020300Z",
+  "lastUpdated": "2026-08-21T23:13:20.409443Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -108,12 +108,12 @@
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
-        "BBC",
         "American Hospital Association",
+        "Forbes",
         "World Health Organization (WHO)",
+        "BBC",
         "KDHE, KS (.gov)",
-        "Forbes"
+        "European Medicines Agency (EMA)"
       ],
       "alertCount": 8
     },
@@ -465,7 +465,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-21T22:47:25.020314Z",
+    "timestamp": "2026-08-21T23:13:20.409460Z",
     "who": 0,
     "promed": 0,
     "news": 40,
