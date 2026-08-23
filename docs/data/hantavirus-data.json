@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-23T02:12:52.951011Z",
+  "lastUpdated": "2026-08-23T03:14:39.756703Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 8,
-  "newsCount": 41,
+  "locationsTracked": 7,
+  "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -72,6 +72,13 @@
           "source": "European Medicines Agency (EMA)"
         },
         {
+          "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
+          "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
+          "source": "WTTW News"
+        },
+        {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -100,48 +107,31 @@
           "source": "BBC"
         },
         {
-          "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-          "published": "Sun, 02 Aug 2026 19:44:33 GMT",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-          "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-          "source": "American Hospital Association"
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Forbes",
-        "World Health Organization (WHO)",
-        "European Medicines Agency (EMA)",
-        "American Hospital Association",
-        "KDHE, KS (.gov)"
-      ],
-      "alertCount": 8
-    },
-    {
-      "country": "France",
-      "lat": 46.23,
-      "lng": 2.21,
-      "alerts": [
-        {
-          "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
-          "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
-          "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
-          "source": "Le Monde.fr"
+          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+          "published": "Sat, 09 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+          "source": "PBS"
         },
         {
-          "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
-          "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-          "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
-          "source": "Medical Xpress"
+          "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
+          "published": "Fri, 08 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
+          "summary": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
         }
       ],
       "sources": [
-        "Le Monde.fr",
-        "Medical Xpress"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "WTTW News",
+        "European Medicines Agency (EMA)",
+        "World Health Organization (WHO)",
+        "Forbes",
+        "BBC",
+        "KDHE, KS (.gov)"
       ],
-      "alertCount": 2
+      "alertCount": 10
     },
     {
       "country": "USA",
@@ -180,6 +170,24 @@
       "alertCount": 1
     },
     {
+      "country": "France",
+      "lat": 46.23,
+      "lng": 2.21,
+      "alerts": [
+        {
+          "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+          "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
+          "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
+          "source": "Le Monde.fr"
+        }
+      ],
+      "sources": [
+        "Le Monde.fr"
+      ],
+      "alertCount": 1
+    },
+    {
       "country": "United Kingdom",
       "lat": 52.36,
       "lng": -1.17,
@@ -194,24 +202,6 @@
       ],
       "sources": [
         "The New England Journal of Medicine"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Italy",
-      "lat": 41.87,
-      "lng": 12.57,
-      "alerts": [
-        {
-          "title": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience - Frontiers",
-          "published": "Fri, 17 Jul 2026 08:51:13 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2hQSnJNbjhKdWpIeWdndnUyQ3R6MmtmdnRxeWxkVWNINkl0ZXpBc2Q2RjVZcGNQWkptOHZFeGZqdDh5czB5UEZpU1lPaFhxSE1mQzhBekFaNTdNbU9vaTJIdDl5bTZJM0xMOFBIaExTV2dhMnd3ODVpdS1MSnBUT1p3RElMUFVfUGE3OFRPQlQ4VFNuNnc?oc=5",
-          "summary": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience &nbsp;&nbsp; Frontiers",
-          "source": "Frontiers"
-        }
-      ],
-      "sources": [
-        "Frontiers"
       ],
       "alertCount": 1
     },
@@ -310,6 +300,13 @@
       "source": "CIDRAP"
     },
     {
+      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
+      "source": "DW.com"
+    },
+    {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
       "published": "Wed, 02 Dec 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
@@ -366,6 +363,13 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
+      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
+      "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
+      "source": "WTTW News"
+    },
+    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -408,6 +412,13 @@
       "source": "Harvard T.H. Chan School of Public Health"
     },
     {
+      "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
+      "summary": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say &nbsp;&nbsp; Time Magazine",
+      "source": "Time Magazine"
+    },
+    {
       "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
@@ -420,13 +431,6 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
       "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
       "source": "Le Monde.fr"
-    },
-    {
-      "title": "Hantavirus detected in France tourist now isolated in Spain - Medical Xpress",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNWFPZV8wVUFpNFNsWms4Z2w1eXMzS0pFWWVTNlBNSW9MX1pWYXhyVWNPdTFuaGRjbXZLdHlHSExqMkNZQ0xvTHVXWmxScU9qMTZnSjZFYXZKZVM3YlQydk85S0pkZllIdnFJV3ZMZnV2OG1tNmNjY0cxY0UxZ21pdHZvVl8xbm9GVUtHdg?oc=5",
-      "summary": "Hantavirus detected in France tourist now isolated in Spain &nbsp;&nbsp; Medical Xpress",
-      "source": "Medical Xpress"
     },
     {
       "title": "Hantavirus Cruise Ship Outbreak Over, WHO Says - Forbes",
@@ -448,20 +452,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
-    },
-    {
-      "title": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine - American Hospital Association",
-      "published": "Sun, 02 Aug 2026 19:44:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
-      "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
-      "source": "American Hospital Association"
-    },
-    {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
     }
   ],
   "usHistoric": {
@@ -491,10 +481,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-23T02:12:52.951023Z",
+    "timestamp": "2026-08-23T03:14:39.756718Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 43,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
