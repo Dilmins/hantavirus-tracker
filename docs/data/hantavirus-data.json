@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T11:34:48.738053Z",
+  "lastUpdated": "2026-08-23T11:56:04.897950Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,14 +122,14 @@
         }
       ],
       "sources": [
-        "BBC",
-        "World Health Organization (WHO)",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Forbes",
-        "WTTW News",
         "KDHE, KS (.gov)",
+        "BBC",
+        "PBS",
+        "Forbes",
         "European Medicines Agency (EMA)",
-        "PBS"
+        "WTTW News",
+        "World Health Organization (WHO)"
       ],
       "alertCount": 10
     },
@@ -499,7 +499,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-23T11:34:48.738070Z",
+    "timestamp": "2026-08-23T11:56:04.897965Z",
     "who": 0,
     "promed": 0,
     "news": 44,
