@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:55:54.323073Z",
+  "lastUpdated": "2026-08-23T16:12:16.949483Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -105,25 +105,43 @@
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
           "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
           "source": "American Hospital Association"
-        },
-        {
-          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-          "published": "Sat, 09 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-          "source": "PBS"
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
+        "BBC",
         "American Hospital Association",
         "KDHE, KS (.gov)",
+        "World Health Organization (WHO)",
         "Forbes",
-        "PBS",
-        "BBC",
-        "World Health Organization (WHO)"
+        "European Medicines Agency (EMA)"
       ],
-      "alertCount": 9
+      "alertCount": 8
+    },
+    {
+      "country": "Argentina",
+      "lat": -38.42,
+      "lng": -63.62,
+      "alerts": [
+        {
+          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
+          "published": "Wed, 02 Dec 2020 08:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
+          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
+          "source": "The New England Journal of Medicine"
+        },
+        {
+          "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 - Mongabay",
+          "published": "Sun, 23 Aug 2026 16:03:04 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2hldkNndlU5YkFJdmNOZlQydklHLUh0WkloOWZfWFpTeEFVWU1nZkttM09Wb1FQNXNHeG5yWmk0NmpMOTZ2bEg5RlNvM0h3QWUxV2FCcm5haExPeGdHeHFHRS1WMThyTVRjdHBQQXNiNHFya3ZGR3NQQTRFejJCOE1vVVNXS2FBNWRwOWlYd2dGWlV3czJNbW9jWjFwX0JXYmwyWnhoeFRaSmp1TzVob3hvRm8ySURNN1VuSng3SXFzT3MwNEs4S2V4eTRlczcw?oc=5",
+          "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; Mongabay",
+          "source": "Mongabay"
+        }
+      ],
+      "sources": [
+        "Mongabay",
+        "The New England Journal of Medicine"
+      ],
+      "alertCount": 2
     },
     {
       "country": "France",
@@ -166,24 +184,6 @@
       ],
       "sources": [
         "Live Science"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Argentina",
-      "lat": -38.42,
-      "lng": -63.62,
-      "alerts": [
-        {
-          "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
-          "published": "Wed, 02 Dec 2020 08:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
-          "summary": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina &nbsp;&nbsp; The New England Journal of Medicine",
-          "source": "The New England Journal of Medicine"
-        }
-      ],
-      "sources": [
-        "The New England Journal of Medicine"
       ],
       "alertCount": 1
     },
@@ -451,6 +451,13 @@
       "source": "BBC"
     },
     {
+      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 - Mongabay",
+      "published": "Sun, 23 Aug 2026 16:03:04 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2hldkNndlU5YkFJdmNOZlQydklHLUh0WkloOWZfWFpTeEFVWU1nZkttM09Wb1FQNXNHeG5yWmk0NmpMOTZ2bEg5RlNvM0h3QWUxV2FCcm5haExPeGdHeHFHRS1WMThyTVRjdHBQQXNiNHFya3ZGR3NQQTRFejJCOE1vVVNXS2FBNWRwOWlYd2dGWlV3czJNbW9jWjFwX0JXYmwyWnhoeFRaSmp1TzVob3hvRm8ySURNN1VuSng3SXFzT3MwNEs4S2V4eTRlczcw?oc=5",
+      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; Mongabay",
+      "source": "Mongabay"
+    },
+    {
       "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
@@ -463,13 +470,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkVuUFM0UXk3MFBzMW82WmJEX3JFVGVhRDVNbmtWQWEwVjNEcGxwbWtNdFAyRmh3ZUY3OVlzLWVkczV2OVlVSGc0T3c2SmlySGZWNEhKNFhlVWFoSW1uOGJzc19hWUhjWUdfeTFueWNoNW14Nm9ySk5qcmdncnRBcnAtajRPSnB4UGxxeVpreHRnelAzMUxVXzlDNGNGMS0xbDNhcllLVnh6LWtBa21WUHdkdV8?oc=5",
       "summary": "U.S. citizens on hantavirus cruise ship monitored at Nebraska Medicine &nbsp;&nbsp; American Hospital Association",
       "source": "American Hospital Association"
-    },
-    {
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -499,7 +499,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-23T15:55:54.323081Z",
+    "timestamp": "2026-08-23T16:12:16.949498Z",
     "who": 0,
     "promed": 0,
     "news": 43,
