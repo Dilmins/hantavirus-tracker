@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T07:29:50.235426Z",
+  "lastUpdated": "2026-08-23T07:56:35.631641Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -65,6 +65,13 @@
           "source": "BBC"
         },
         {
+          "title": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths - respiratory-therapy.com",
+          "published": "Wed, 06 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9WM1BzOFlNUDlTdEV1MGlvNGhheGNaZlNJYTJpOVJVcm8wbUMySHdURGNhLXRRN19ReGRFUktxUUpTNlZzNzdfUGZ6NExteS02enJvRm80TmtGYkJUZFJTU2t0N3l5dExyVzQwbU16c0JETkduUEZuU2xZYXVEeGlOWGdvX2Z3bjlwajROdWR1QmNRR0NkVEtqX1BQdFExNnN3elprNFNUcmUtVmNYYy10UG15QzZjdHFoN3pDSmhtTHQ2d2lkbkRXMHdUWTI1YTFJdXo5MnEyMkFwYmc?oc=5",
+          "summary": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths &nbsp;&nbsp; respiratory-therapy.com",
+          "source": "respiratory-therapy.com"
+        },
+        {
           "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
@@ -112,26 +119,22 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
           "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
           "source": "PBS"
-        },
-        {
-          "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
-          "published": "Fri, 08 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
-          "summary": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
         }
       ],
       "sources": [
         "BBC",
-        "KDHE, KS (.gov)",
-        "Forbes",
-        "PBS",
+        "respiratory-therapy.com",
         "European Medicines Agency (EMA)",
+        "PBS",
+        "CBS News",
         "WTTW News",
         "World Health Organization (WHO)",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "The Colorado Sun",
+        "KDHE, KS (.gov)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Forbes"
       ],
-      "alertCount": 10
+      "alertCount": 13
     },
     {
       "country": "USA",
@@ -318,6 +321,13 @@
       "source": "BBC"
     },
     {
+      "title": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths - respiratory-therapy.com",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9WM1BzOFlNUDlTdEV1MGlvNGhheGNaZlNJYTJpOVJVcm8wbUMySHdURGNhLXRRN19ReGRFUktxUUpTNlZzNzdfUGZ6NExteS02enJvRm80TmtGYkJUZFJTU2t0N3l5dExyVzQwbU16c0JETkduUEZuU2xZYXVEeGlOWGdvX2Z3bjlwajROdWR1QmNRR0NkVEtqX1BQdFExNnN3elprNFNUcmUtVmNYYy10UG15QzZjdHFoN3pDSmhtTHQ2d2lkbkRXMHdUWTI1YTFJdXo5MnEyMkFwYmc?oc=5",
+      "summary": "Hantavirus Outbreak on Cruise Ship Leads to Three Deaths &nbsp;&nbsp; respiratory-therapy.com",
+      "source": "respiratory-therapy.com"
+    },
+    {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
@@ -402,13 +412,6 @@
       "source": "BBC"
     },
     {
-      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
-      "source": "AZ Family"
-    },
-    {
       "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
       "published": "Thu, 20 Aug 2026 23:24:59 GMT",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5",
@@ -421,13 +424,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
       "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
       "source": "Johns Hopkins Medicine"
-    },
-    {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
-      "source": "The Topeka Capital-Journal"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -470,6 +466,13 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
+    },
+    {
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -499,7 +502,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-23T07:29:50.235439Z",
+    "timestamp": "2026-08-23T07:56:35.631653Z",
     "who": 0,
     "promed": 0,
     "news": 44,
