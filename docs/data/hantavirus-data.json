@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T22:10:42.136305Z",
+  "lastUpdated": "2026-08-23T22:35:44.112700Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,14 +122,14 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "European Medicines Agency (EMA)",
+        "WTTW News",
         "KDHE, KS (.gov)",
         "BBC",
+        "European Medicines Agency (EMA)",
         "PBS",
+        "Forbes",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "WTTW News",
-        "Forbes"
+        "World Health Organization (WHO)"
       ],
       "alertCount": 10
     },
@@ -333,6 +333,13 @@
       "source": "CIDRAP"
     },
     {
+      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
+      "source": "DW.com"
+    },
+    {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
       "published": "Wed, 02 Dec 2020 08:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PWjl2MHFxajFsZjVIOEpnSXdyWERFblFYaGRzYlowYXZwbjdMb3dmTzhCRXdzalhYTzZVM0NKRGVUWjF2S2hHM1N5UU5pVTdNOTJXSl83em5UMUtxaXRzOA?oc=5",
@@ -471,13 +478,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2hldkNndlU5YkFJdmNOZlQydklHLUh0WkloOWZfWFpTeEFVWU1nZkttM09Wb1FQNXNHeG5yWmk0NmpMOTZ2bEg5RlNvM0h3QWUxV2FCcm5haExPeGdHeHFHRS1WMThyTVRjdHBQQXNiNHFya3ZGR3NQQTRFejJCOE1vVVNXS2FBNWRwOWlYd2dGWlV3czJNbW9jWjFwX0JXYmwyWnhoeFRaSmp1TzVob3hvRm8ySURNN1VuSng3SXFzT3MwNEs4S2V4eTRlczcw?oc=5",
       "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; Mongabay",
       "source": "Mongabay"
-    },
-    {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
-      "published": "Sun, 17 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
     }
   ],
   "usHistoric": {
@@ -507,7 +507,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-23T22:10:42.136320Z",
+    "timestamp": "2026-08-23T22:35:44.112715Z",
     "who": 0,
     "promed": 0,
     "news": 45,
