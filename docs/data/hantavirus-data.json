@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-24T08:09:39.781217Z",
+  "lastUpdated": "2026-08-24T09:01:30.349786Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 7,
-  "newsCount": 43,
+  "locationsTracked": 8,
+  "newsCount": 44,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -115,13 +115,13 @@
         }
       ],
       "sources": [
+        "Forbes",
         "PBS",
         "KDHE, KS (.gov)",
         "BBC",
-        "Forbes",
+        "WTTW News",
         "European Medicines Agency (EMA)",
-        "World Health Organization (WHO)",
-        "WTTW News"
+        "World Health Organization (WHO)"
       ],
       "alertCount": 9
     },
@@ -146,8 +146,8 @@
         }
       ],
       "sources": [
-        "Mongabay",
-        "The New England Journal of Medicine"
+        "The New England Journal of Medicine",
+        "Mongabay"
       ],
       "alertCount": 2
     },
@@ -172,8 +172,8 @@
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "Le Monde.fr"
+        "Le Monde.fr",
+        "Medical Xpress"
       ],
       "alertCount": 2
     },
@@ -210,6 +210,24 @@
       ],
       "sources": [
         "The New England Journal of Medicine"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Italy",
+      "lat": 41.87,
+      "lng": 12.57,
+      "alerts": [
+        {
+          "title": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience - Frontiers",
+          "published": "Fri, 17 Jul 2026 08:51:13 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2hQSnJNbjhKdWpIeWdndnUyQ3R6MmtmdnRxeWxkVWNINkl0ZXpBc2Q2RjVZcGNQWkptOHZFeGZqdDh5czB5UEZpU1lPaFhxSE1mQzhBekFaNTdNbU9vaTJIdDl5bTZJM0xMOFBIaExTV2dhMnd3ODVpdS1MSnBUT1p3RElMUFVfUGE3OFRPQlQ4VFNuNnc?oc=5",
+          "summary": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience &nbsp;&nbsp; Frontiers",
+          "source": "Frontiers"
+        }
+      ],
+      "sources": [
+        "Frontiers"
       ],
       "alertCount": 1
     },
@@ -489,10 +507,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-24T08:09:39.781227Z",
+    "timestamp": "2026-08-24T09:01:30.349797Z",
     "who": 0,
     "promed": 0,
-    "news": 43,
+    "news": 44,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
