@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T23:55:28.888960Z",
+  "lastUpdated": "2026-08-24T00:35:48.252086Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -72,11 +72,11 @@
           "source": "European Medicines Agency (EMA)"
         },
         {
-          "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - live-news-wttw.pantheonsite.io",
+          "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
-          "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; live-news-wttw.pantheonsite.io",
-          "source": "live-news-wttw.pantheonsite.io"
+          "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
+          "source": "WTTW News"
         },
         {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -122,14 +122,14 @@
         }
       ],
       "sources": [
+        "Forbes",
+        "European Medicines Agency (EMA)",
+        "BBC",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "KDHE, KS (.gov)",
+        "WTTW News",
         "PBS",
-        "BBC",
-        "World Health Organization (WHO)",
-        "European Medicines Agency (EMA)",
-        "live-news-wttw.pantheonsite.io",
-        "Forbes"
+        "World Health Organization (WHO)"
       ],
       "alertCount": 10
     },
@@ -154,8 +154,8 @@
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "Mongabay"
+        "Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -396,11 +396,11 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - live-news-wttw.pantheonsite.io",
+      "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
-      "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; live-news-wttw.pantheonsite.io",
-      "source": "live-news-wttw.pantheonsite.io"
+      "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
+      "source": "WTTW News"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -507,7 +507,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-23T23:55:28.888973Z",
+    "timestamp": "2026-08-24T00:35:48.252099Z",
     "who": 0,
     "promed": 0,
     "news": 45,
