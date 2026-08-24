@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T22:14:31.239461Z",
+  "lastUpdated": "2026-08-24T22:44:09.411915Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,13 +115,13 @@
         }
       ],
       "sources": [
+        "World Health Organization (WHO)",
         "Mount Sinai",
         "European Medicines Agency (EMA)",
-        "World Health Organization (WHO)",
         "BBC",
+        "Forbes",
         "KDHE, KS (.gov)",
-        "News On AIR",
-        "Forbes"
+        "News On AIR"
       ],
       "alertCount": 9
     },
@@ -172,8 +172,8 @@
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "Le Monde.fr"
+        "Le Monde.fr",
+        "Medical Xpress"
       ],
       "alertCount": 2
     },
@@ -507,7 +507,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-24T22:14:31.239475Z",
+    "timestamp": "2026-08-24T22:44:09.411930Z",
     "who": 0,
     "promed": 0,
     "news": 43,
