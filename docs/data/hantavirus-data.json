@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-24T09:01:30.349786Z",
+  "lastUpdated": "2026-08-24T10:00:29.970684Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 8,
+  "locationsTracked": 7,
   "newsCount": 44,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -112,18 +112,26 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
           "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
           "source": "PBS"
+        },
+        {
+          "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak - News On AIR",
+          "published": "Mon, 24 Aug 2026 08:00:54 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE?oc=5",
+          "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak &nbsp;&nbsp; News On AIR",
+          "source": "News On AIR"
         }
       ],
       "sources": [
-        "Forbes",
+        "WTTW News",
+        "News On AIR",
         "PBS",
+        "Forbes",
+        "World Health Organization (WHO)",
         "KDHE, KS (.gov)",
         "BBC",
-        "WTTW News",
-        "European Medicines Agency (EMA)",
-        "World Health Organization (WHO)"
+        "European Medicines Agency (EMA)"
       ],
-      "alertCount": 9
+      "alertCount": 10
     },
     {
       "country": "Argentina",
@@ -138,16 +146,16 @@
           "source": "The New England Journal of Medicine"
         },
         {
-          "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 - Mongabay",
+          "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 - news - Mongabay",
           "published": "Sun, 23 Aug 2026 16:03:04 GMT",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2hldkNndlU5YkFJdmNOZlQydklHLUh0WkloOWZfWFpTeEFVWU1nZkttM09Wb1FQNXNHeG5yWmk0NmpMOTZ2bEg5RlNvM0h3QWUxV2FCcm5haExPeGdHeHFHRS1WMThyTVRjdHBQQXNiNHFya3ZGR3NQQTRFejJCOE1vVVNXS2FBNWRwOWlYd2dGWlV3czJNbW9jWjFwX0JXYmwyWnhoeFRaSmp1TzVob3hvRm8ySURNN1VuSng3SXFzT3MwNEs4S2V4eTRlczcw?oc=5",
-          "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; Mongabay",
-          "source": "Mongabay"
+          "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; news - Mongabay",
+          "source": "news - Mongabay"
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "Mongabay"
+        "news - Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -172,8 +180,8 @@
         }
       ],
       "sources": [
-        "Le Monde.fr",
-        "Medical Xpress"
+        "Medical Xpress",
+        "Le Monde.fr"
       ],
       "alertCount": 2
     },
@@ -210,24 +218,6 @@
       ],
       "sources": [
         "The New England Journal of Medicine"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Italy",
-      "lat": 41.87,
-      "lng": 12.57,
-      "alerts": [
-        {
-          "title": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience - Frontiers",
-          "published": "Fri, 17 Jul 2026 08:51:13 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2hQSnJNbjhKdWpIeWdndnUyQ3R6MmtmdnRxeWxkVWNINkl0ZXpBc2Q2RjVZcGNQWkptOHZFeGZqdDh5czB5UEZpU1lPaFhxSE1mQzhBekFaNTdNbU9vaTJIdDl5bTZJM0xMOFBIaExTV2dhMnd3ODVpdS1MSnBUT1p3RElMUFVfUGE3OFRPQlQ4VFNuNnc?oc=5",
-          "summary": "Rapid response and surveillance for high-risk contacts during May 2026 Andes hantavirus outbreak: a Northern Italy experience &nbsp;&nbsp; Frontiers",
-          "source": "Frontiers"
-        }
-      ],
-      "sources": [
-        "Frontiers"
       ],
       "alertCount": 1
     },
@@ -473,11 +463,11 @@
       "source": "BBC"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 - Mongabay",
+      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 - news - Mongabay",
       "published": "Sun, 23 Aug 2026 16:03:04 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2hldkNndlU5YkFJdmNOZlQydklHLUh0WkloOWZfWFpTeEFVWU1nZkttM09Wb1FQNXNHeG5yWmk0NmpMOTZ2bEg5RlNvM0h3QWUxV2FCcm5haExPeGdHeHFHRS1WMThyTVRjdHBQQXNiNHFya3ZGR3NQQTRFejJCOE1vVVNXS2FBNWRwOWlYd2dGWlV3czJNbW9jWjFwX0JXYmwyWnhoeFRaSmp1TzVob3hvRm8ySURNN1VuSng3SXFzT3MwNEs4S2V4eTRlczcw?oc=5",
-      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; Mongabay",
-      "source": "Mongabay"
+      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, has died of hantavirus at 54 &nbsp;&nbsp; news - Mongabay",
+      "source": "news - Mongabay"
     }
   ],
   "usHistoric": {
@@ -507,7 +497,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-24T09:01:30.349797Z",
+    "timestamp": "2026-08-24T10:00:29.970702Z",
     "who": 0,
     "promed": 0,
     "news": 44,
