@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T19:51:17.737538Z",
+  "lastUpdated": "2026-08-24T20:17:38.389807Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,13 +115,13 @@
         }
       ],
       "sources": [
-        "KDHE, KS (.gov)",
-        "News On AIR",
         "World Health Organization (WHO)",
+        "News On AIR",
         "Forbes",
         "BBC",
         "European Medicines Agency (EMA)",
-        "Mount Sinai"
+        "Mount Sinai",
+        "KDHE, KS (.gov)"
       ],
       "alertCount": 9
     },
@@ -146,8 +146,8 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Yahoo"
+        "Yahoo",
+        "CIDRAP"
       ],
       "alertCount": 2
     },
@@ -172,8 +172,8 @@
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "news - Mongabay"
+        "news - Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -489,7 +489,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-24T19:51:17.737551Z",
+    "timestamp": "2026-08-24T20:17:38.389823Z",
     "who": 0,
     "promed": 0,
     "news": 43,
