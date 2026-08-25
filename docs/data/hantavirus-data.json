@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T05:54:11.220750Z",
+  "lastUpdated": "2026-08-25T06:25:11.334094Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,13 +115,13 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "Forbes",
         "Mount Sinai",
         "BBC",
-        "KDHE, KS (.gov)",
+        "World Health Organization (WHO)",
         "News On AIR",
-        "CIDRAP"
+        "Forbes",
+        "CIDRAP",
+        "KDHE, KS (.gov)"
       ],
       "alertCount": 9
     },
@@ -417,13 +417,6 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2tnd2FFUHBBUDJTbUstT3U4VDYxa2JLNU9LVFhMWmFCZjIzeTQ1cGR5X2N1VjJDOFFwaUZOZmxwTnY5WWdlTkczdmlVQXFFWS1ZSVZrQnpsRVFWTTExMUMzOTk4SFRwVEttbUphV1NaWGNBenJhRXJfSWQ4TDNRc2RCUDF1Sk0?oc=5",
-      "summary": "How hantavirus actually spreads is a key question &nbsp;&nbsp; Harvard T.H. Chan School of Public Health",
-      "source": "Harvard T.H. Chan School of Public Health"
-    },
-    {
       "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
@@ -478,6 +471,13 @@
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNN1d4ZDhCQlJSbWJxejljS1VrSFk4dUtNTTFKODR5a2pFcGdVZFgwWnpmLWlQUmVrVGVNVzVZN1M4VkUxSkJZWXFhSy1pS2VZZTRPZm50ZXNoSVdjWGMxY21Pb3F5VDVYc3NwcERzbVRRM2preDZBSzVyRUhpQUpVWnVidkVWVDVvNUNiRElmLXFPWXVmSnRhRnJGeWJGeFIzeUZ2ZEd5c1JoUUhvQkQtMFk2TkI0ZWktdUhrX2hnNF9idnYyLVlmbVpQSXlYQkJQRkVLdEVSdmgyZ1JzcUxHeElWcUd0TTZaNklPY2ZaaFB5NWwyMEQtdlNBS0VqN01Sb09JdUE5MHlFdHQyZ3VKaktMUXFrUWVaX3FSNkU5UWczNGg0QlVJSE5KUEpaYXNO?oc=5",
       "summary": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article &nbsp;&nbsp; Mount Sinai",
       "source": "Mount Sinai"
+    },
+    {
+      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
+      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
+      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "source": "Anadolu Ajans\u0131"
     }
   ],
   "usHistoric": {
@@ -507,7 +507,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T05:54:11.220765Z",
+    "timestamp": "2026-08-25T06:25:11.334109Z",
     "who": 0,
     "promed": 0,
     "news": 43,
