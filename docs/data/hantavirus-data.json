@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-25T06:25:11.334094Z",
+  "lastUpdated": "2026-08-25T07:22:24.774961Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 8,
-  "newsCount": 43,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -107,21 +107,21 @@
           "source": "Mount Sinai"
         },
         {
-          "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak - News On AIR",
-          "published": "Mon, 24 Aug 2026 08:00:54 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE?oc=5",
-          "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak &nbsp;&nbsp; News On AIR",
-          "source": "News On AIR"
+          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+          "published": "Sat, 09 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+          "source": "PBS"
         }
       ],
       "sources": [
-        "Mount Sinai",
-        "BBC",
-        "World Health Organization (WHO)",
-        "News On AIR",
         "Forbes",
-        "CIDRAP",
-        "KDHE, KS (.gov)"
+        "Mount Sinai",
+        "World Health Organization (WHO)",
+        "BBC",
+        "KDHE, KS (.gov)",
+        "PBS",
+        "CIDRAP"
       ],
       "alertCount": 9
     },
@@ -146,8 +146,8 @@
         }
       ],
       "sources": [
-        "news - Mongabay",
-        "The New England Journal of Medicine"
+        "The New England Journal of Medicine",
+        "news - Mongabay"
       ],
       "alertCount": 2
     },
@@ -172,8 +172,8 @@
         }
       ],
       "sources": [
-        "Medical Xpress",
-        "Le Monde.fr"
+        "Le Monde.fr",
+        "Medical Xpress"
       ],
       "alertCount": 2
     },
@@ -396,13 +396,6 @@
       "source": "AZ Family"
     },
     {
-      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
-      "published": "Thu, 20 Aug 2026 23:24:59 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5",
-      "summary": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
-      "source": "Nebraska Examiner"
-    },
-    {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
@@ -473,6 +466,13 @@
       "source": "Mount Sinai"
     },
     {
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
+    },
+    {
       "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
       "published": "Sat, 06 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
@@ -507,10 +507,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T06:25:11.334109Z",
+    "timestamp": "2026-08-25T07:22:24.774972Z",
     "who": 0,
     "promed": 0,
-    "news": 43,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
