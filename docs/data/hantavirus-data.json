@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-25T14:11:34.014664Z",
+  "lastUpdated": "2026-08-25T15:01:52.342032Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 8,
-  "newsCount": 44,
+  "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,18 +122,17 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "PBS",
-        "KDHE, KS (.gov)",
-        "CIDRAP",
-        "BBC",
-        "WTTW News",
         "European Medicines Agency (EMA)",
+        "World Health Organization (WHO)",
+        "WTTW News",
+        "Forbes",
+        "BBC",
         "Centers for Disease Control and Prevention | CDC (.gov)",
         "Mount Sinai",
-        "Forbes"
+        "KDHE, KS (.gov)",
+        "CIDRAP"
       ],
-      "alertCount": 12
+      "alertCount": 11
     },
     {
       "country": "Spain",
@@ -517,10 +516,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T14:11:34.014681Z",
+    "timestamp": "2026-08-25T15:01:52.342048Z",
     "who": 0,
     "promed": 0,
-    "news": 44,
+    "news": 43,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
