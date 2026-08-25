@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T10:59:39.020620Z",
+  "lastUpdated": "2026-08-25T11:26:40.595950Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,13 +115,13 @@
         }
       ],
       "sources": [
-        "BBC",
-        "PBS",
         "Mount Sinai",
         "CIDRAP",
+        "PBS",
+        "Forbes",
+        "BBC",
         "KDHE, KS (.gov)",
-        "World Health Organization (WHO)",
-        "Forbes"
+        "World Health Organization (WHO)"
       ],
       "alertCount": 9
     },
@@ -146,8 +146,8 @@
         }
       ],
       "sources": [
-        "CIDRAP",
-        "Yahoo"
+        "Yahoo",
+        "CIDRAP"
       ],
       "alertCount": 2
     },
@@ -515,7 +515,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T10:59:39.020655Z",
+    "timestamp": "2026-08-25T11:26:40.595967Z",
     "who": 0,
     "promed": 0,
     "news": 43,
