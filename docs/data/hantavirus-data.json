@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T09:59:09.807923Z",
+  "lastUpdated": "2026-08-25T10:29:40.637809Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "Forbes",
-        "PBS",
-        "European Medicines Agency (EMA)",
-        "Mount Sinai",
-        "WTTW News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "KDHE, KS (.gov)",
-        "CIDRAP",
         "BBC",
-        "World Health Organization (WHO)"
+        "European Medicines Agency (EMA)",
+        "World Health Organization (WHO)",
+        "KDHE, KS (.gov)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "Forbes",
+        "CIDRAP",
+        "Mount Sinai",
+        "WTTW News"
       ],
       "alertCount": 12
     },
@@ -174,16 +174,16 @@
           "source": "The New England Journal of Medicine"
         },
         {
-          "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - news - Mongabay",
+          "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - Mongabay",
           "published": "Sun, 23 Aug 2026 16:12:03 GMT",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-          "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
-          "source": "news - Mongabay"
+          "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; Mongabay",
+          "source": "Mongabay"
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "news - Mongabay"
+        "Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -357,13 +357,6 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "Don\u2019t Sweep It! Saturate it! - Pest Control Technology",
-      "published": "Tue, 18 Aug 2026 14:01:30 GMT",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWUFiazlBZ2t5cFhRUXJnOEMtRXNfck5iU01SYVN4Nk05SjNhRUp3T0kySWtOTC1LRzNpVzZOTkRUdHVCM0VPRE9pN3dfTHJGMkxydl8zci0wYk5VNDZ0Q0Jyd0d6ejhMNTRJXw?oc=5",
-      "summary": "Don\u2019t Sweep It! Saturate it! &nbsp;&nbsp; Pest Control Technology",
-      "source": "Pest Control Technology"
-    },
-    {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
@@ -404,6 +397,13 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
       "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
       "source": "WTTW News"
+    },
+    {
+      "title": "Hantavirus and COVID: How are they different? - The Hill",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTU44RVM5LUhBX2Q5bUJCc09pV2x4YzJNZUdsdTlXRWxGM1JkbEEzY0M4c1BEb2dDUlp0U3pVRTJ5R2JWUWRkaGctdkhCaDBhMHR4emZudlI0RHljV1ZwbFVYSU1lYnhwLWtGdzFxZ1U3aE1DbHlsVnpTNzhpZXZFNkhoZ0toa3RzOFHSAY8BQVVfeXFMUFBJbHR1aWVtUkZuZ3FvdXlGTGROV2NkWlMtSXNGU01nNHFFS3pacWpKclA0eW5oVW8wdloxU3MtNy1LSjI3a2xPanVNcUo4UGtTRmZVY29Zdkg1RTJ3OTJ0aXAtY05COHhGUmg3emFqQkxlSTVjdlkxckJCTWdsdFRRRUpiSkpaV3U5VmFreXM?oc=5",
+      "summary": "Hantavirus and COVID: How are they different? &nbsp;&nbsp; The Hill",
+      "source": "The Hill"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -476,11 +476,11 @@
       "source": "BBC"
     },
     {
-      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - news - Mongabay",
+      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - Mongabay",
       "published": "Sun, 23 Aug 2026 16:12:03 GMT",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
-      "source": "news - Mongabay"
+      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; Mongabay",
+      "source": "Mongabay"
     },
     {
       "title": "Hantavirus: What You Need to Know About the Virus - unric",
@@ -517,7 +517,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T09:59:09.807946Z",
+    "timestamp": "2026-08-25T10:29:40.637824Z",
     "who": 0,
     "promed": 0,
     "news": 44,
