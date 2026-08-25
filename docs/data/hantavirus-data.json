@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T08:04:54.317535Z",
+  "lastUpdated": "2026-08-25T08:57:01.831342Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,13 +115,13 @@
         }
       ],
       "sources": [
-        "PBS",
         "World Health Organization (WHO)",
         "CIDRAP",
-        "Forbes",
+        "Mount Sinai",
         "BBC",
         "KDHE, KS (.gov)",
-        "Mount Sinai"
+        "PBS",
+        "Forbes"
       ],
       "alertCount": 9
     },
@@ -355,13 +355,6 @@
       "source": "The New England Journal of Medicine"
     },
     {
-      "title": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions - KOTA Territory News",
-      "published": "Tue, 25 Aug 2026 01:49:20 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXQwTWlkZncyMkt2VmpOQXRZUGRnVk0xQkcyOERuV08tNGJaVFhtb2ZDNkRNRktGMG1jLVZqTGpyYWF0WGxlYUdPdUtQcW9Ob0wwQUt1RE5Pb09KaFIxb0dOaUk4SEdwR0NqX2FmdlM0RnlOOXQ0Y0M0WGNETk1SNzdEc1pwQlVKMThuanAyWXo3WWpOTXlRTHJuWWtaSzlOOG1sQ3pOUVhsZnVoM3VJ?oc=5",
-      "summary": "Hantavirus detected on Pine Ridge Reservation as officials urge precautions &nbsp;&nbsp; KOTA Territory News",
-      "source": "KOTA Territory News"
-    },
-    {
       "title": "Don\u2019t Sweep It! Saturate it! - Pest Control Technology",
       "published": "Tue, 18 Aug 2026 14:01:30 GMT",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWUFiazlBZ2t5cFhRUXJnOEMtRXNfck5iU01SYVN4Nk05SjNhRUp3T0kySWtOTC1LRzNpVzZOTkRUdHVCM0VPRE9pN3dfTHJGMkxydl8zci0wYk5VNDZ0Q0Jyd0d6ejhMNTRJXw?oc=5",
@@ -409,6 +402,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
+    },
+    {
+      "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
+      "published": "Thu, 20 Aug 2026 23:24:59 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQmFkVFI1ZndsQmNJeXh5aUo4RVZxbFI5QUl1VVRvbEpTVU96MEN5Z2ZYZk1teVdocDQtby1Rd1pQcEw0QjI4VjZrRTc4cWdjOUkzTTl5czFhUV9YUzQ4VjI2VHBORGUxNGw2a0p1WmVwU1pNUkpKbkt4RVVyOHVqbjVCNktfeU5mbHh0ZGMxb0pleHI4SVVqUXBKNDc5WVdqQTlWVGZqam11M1hkOElpeU9R?oc=5",
+      "summary": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC &nbsp;&nbsp; Nebraska Examiner",
+      "source": "Nebraska Examiner"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -515,7 +515,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T08:04:54.317553Z",
+    "timestamp": "2026-08-25T08:57:01.831357Z",
     "who": 0,
     "promed": 0,
     "news": 43,
