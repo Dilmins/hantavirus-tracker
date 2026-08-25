@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T20:52:14.018681Z",
+  "lastUpdated": "2026-08-25T21:16:57.826380Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,15 +122,15 @@
         }
       ],
       "sources": [
-        "BBC",
-        "KDHE, KS (.gov)",
         "World Health Organization (WHO)",
+        "KDHE, KS (.gov)",
         "Mount Sinai",
+        "BBC",
+        "Forbes",
+        "European Medicines Agency (EMA)",
         "CIDRAP",
         "WTTW News",
-        "Forbes",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "European Medicines Agency (EMA)"
+        "Centers for Disease Control and Prevention | CDC (.gov)"
       ],
       "alertCount": 11
     },
@@ -181,8 +181,8 @@
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "news - Mongabay"
+        "news - Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -405,13 +405,6 @@
       "source": "WTTW News"
     },
     {
-      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE, KS (.gov)",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
-      "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE, KS (.gov)",
-      "source": "KDHE, KS (.gov)"
-    },
-    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -487,6 +480,13 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
       "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
       "source": "news - Mongabay"
+    },
+    {
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "published": "Sun, 17 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     }
   ],
   "usHistoric": {
@@ -516,7 +516,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T20:52:14.018691Z",
+    "timestamp": "2026-08-25T21:16:57.826395Z",
     "who": 0,
     "promed": 0,
     "news": 43,
