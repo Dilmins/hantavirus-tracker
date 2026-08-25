@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T03:56:52.130484Z",
+  "lastUpdated": "2026-08-25T04:30:58.506956Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -115,11 +115,11 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "News On AIR",
         "Forbes",
         "CIDRAP",
+        "News On AIR",
         "KDHE, KS (.gov)",
+        "World Health Organization (WHO)",
         "Mount Sinai",
         "BBC"
       ],
@@ -183,10 +183,10 @@
       "lng": 78.96,
       "alerts": [
         {
-          "title": "Hantavirus Found on Pine Ridge Indian Reservation - chadronradio.com",
+          "title": "Hantavirus Found on Pine Ridge Indian Reservation \u2013 KCSR / KBPY - chadronradio.com",
           "published": "Mon, 24 Aug 2026 18:00:08 GMT",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mMFVPU2ZWUVRvN25xRzJqS0NtWF9DY2FuYzFtSDV2c1Y4UkM2WTB1b0RPa2JXYmcwU2VDMFhJTVJNUk91eUdnajZScHBjcGpfVEpUbGV6YXBmdV9SaGc?oc=5",
-          "summary": "Hantavirus Found on Pine Ridge Indian Reservation &nbsp;&nbsp; chadronradio.com",
+          "summary": "Hantavirus Found on Pine Ridge Indian Reservation \u2013 KCSR / KBPY &nbsp;&nbsp; chadronradio.com",
           "source": "chadronradio.com"
         }
       ],
@@ -507,7 +507,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T03:56:52.130499Z",
+    "timestamp": "2026-08-25T04:30:58.506964Z",
     "who": 0,
     "promed": 0,
     "news": 43,
