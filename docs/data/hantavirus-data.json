@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T22:45:12.789895Z",
+  "lastUpdated": "2026-08-25T23:03:36.874289Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "BBC",
         "World Health Organization (WHO)",
-        "Forbes",
-        "News On AIR",
-        "Mount Sinai",
-        "KDHE, KS (.gov)",
-        "European Medicines Agency (EMA)",
         "CIDRAP",
-        "WTTW News"
+        "KDHE, KS (.gov)",
+        "BBC",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Mount Sinai",
+        "News On AIR",
+        "European Medicines Agency (EMA)",
+        "WTTW News",
+        "Forbes"
       ],
       "alertCount": 12
     },
@@ -182,8 +182,8 @@
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "news - Mongabay"
+        "news - Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -517,7 +517,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-25T22:45:12.789908Z",
+    "timestamp": "2026-08-25T23:03:36.874302Z",
     "who": 0,
     "promed": 0,
     "news": 44,
