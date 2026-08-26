@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T04:53:23.761829Z",
+  "lastUpdated": "2026-08-26T05:22:57.028322Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,15 +122,15 @@
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
-        "World Health Organization (WHO)",
-        "CIDRAP",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "Forbes",
         "Mount Sinai",
         "WTTW News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "KDHE, KS (.gov)",
+        "CIDRAP",
         "BBC",
-        "KDHE, KS (.gov)"
+        "World Health Organization (WHO)",
+        "European Medicines Agency (EMA)",
+        "Forbes"
       ],
       "alertCount": 11
     },
@@ -341,11 +341,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
+      "title": "Hantavirus: Evacuated passengers begin returning home - dw.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
-      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
-      "source": "DW.com"
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; dw.com",
+      "source": "dw.com"
     },
     {
       "title": "\u201cSuper-Spreaders\u201d and Person-to-Person Transmission of Andes Virus in Argentina - The New England Journal of Medicine",
@@ -508,7 +508,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-26T04:53:23.761843Z",
+    "timestamp": "2026-08-26T05:22:57.028335Z",
     "who": 0,
     "promed": 0,
     "news": 44,
