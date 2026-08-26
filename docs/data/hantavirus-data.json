@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T05:56:38.215814Z",
+  "lastUpdated": "2026-08-26T06:32:24.987308Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -72,13 +72,6 @@
           "source": "BBC"
         },
         {
-          "title": "Hantavirus concerns grow as US officials monitor cases linked to cruise ship outbreak - 6abc Philadelphia",
-          "published": "Tue, 12 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0Yxc1hkV3JGOXkySXV6ellJN0dJVHZoS0JqV3lMaFlNLVVHNVViZ00xeWJDRDdWa1p4MUZPOEJoRWJoZktzRTFTYUFiRjExWUd4OVAybjE0SDEwNzNoelkxMGRhaGpyaFNaNkQ2Ml9kcGF3WTctNG1sT1JzZlFkZldfOVc5TWI3MUkzTFNjMnozMFVmRFJNeFFxOExPbnNsSV9kWDNsX0pMUlFfVTk5X9IBtgFBVV95cUxPZHFPVkJyNDN1V2RaUEtBbU5KbVdfRVAwemVQZ1Rlb3EzTzBkNnZUd2g4TUVPREF5VnBwclViSDlOU3Z2NUEtUWRyRnI0MDk1RGhsS0ZINFlnZmw1VGFlTXpkbU5QWTl4QUNFeGRJa1FLa01tNG1Vb3o4R1JVUnhqQkc2VTlCUkhWVzdWbEoxd0Q0R2k3amlPQkNqel9WRTJCTk5rcHNYelY2MEFENEVmWXd5ckoyZw?oc=5",
-          "summary": "Hantavirus concerns grow as US officials monitor cases linked to cruise ship outbreak &nbsp;&nbsp; 6abc Philadelphia",
-          "source": "6abc Philadelphia"
-        },
-        {
           "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
@@ -119,22 +112,27 @@
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
           "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
           "source": "BBC"
+        },
+        {
+          "title": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article - Mount Sinai",
+          "published": "Sat, 22 Aug 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNN1d4ZDhCQlJSbWJxejljS1VrSFk4dUtNTTFKODR5a2pFcGdVZFgwWnpmLWlQUmVrVGVNVzVZN1M4VkUxSkJZWXFhSy1pS2VZZTRPZm50ZXNoSVdjWGMxY21Pb3F5VDVYc3NwcERzbVRRM2preDZBSzVyRUhpQUpVWnVidkVWVDVvNUNiRElmLXFPWXVmSnRhRnJGeWJGeFIzeUZ2ZEd5c1JoUUhvQkQtMFk2TkI0ZWktdUhrX2hnNF9idnYyLVlmbVpQSXlYQkJQRkVLdEVSdmgyZ1JzcUxHeElWcUd0TTZaNklPY2ZaaFB5NWwyMEQtdlNBS0VqN01Sb09JdUE5MHlFdHQyZ3VKaktMUXFrUWVaX3FSNkU5UWczNGg0QlVJSE5KUEpaYXNO?oc=5",
+          "summary": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article &nbsp;&nbsp; Mount Sinai",
+          "source": "Mount Sinai"
         }
       ],
       "sources": [
-        "BBC",
-        "6abc Philadelphia",
-        "Forbes",
-        "CIDRAP",
         "World Health Organization (WHO)",
+        "BBC",
+        "European Medicines Agency (EMA)",
         "WTTW News",
         "KDHE, KS (.gov)",
-        "Colorado Public Radio",
-        "European Medicines Agency (EMA)",
-        "Mount Sinai",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "CIDRAP",
+        "Forbes",
+        "Mount Sinai"
       ],
-      "alertCount": 13
+      "alertCount": 11
     },
     {
       "country": "Argentina",
@@ -157,8 +155,8 @@
         }
       ],
       "sources": [
-        "The New England Journal of Medicine",
-        "news - Mongabay"
+        "news - Mongabay",
+        "The New England Journal of Medicine"
       ],
       "alertCount": 2
     },
@@ -378,20 +376,6 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 - AP News",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
-      "summary": "French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11 &nbsp;&nbsp; AP News",
-      "source": "AP News"
-    },
-    {
-      "title": "Hantavirus concerns grow as US officials monitor cases linked to cruise ship outbreak - 6abc Philadelphia",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0Yxc1hkV3JGOXkySXV6ellJN0dJVHZoS0JqV3lMaFlNLVVHNVViZ00xeWJDRDdWa1p4MUZPOEJoRWJoZktzRTFTYUFiRjExWUd4OVAybjE0SDEwNzNoelkxMGRhaGpyaFNaNkQ2Ml9kcGF3WTctNG1sT1JzZlFkZldfOVc5TWI3MUkzTFNjMnozMFVmRFJNeFFxOExPbnNsSV9kWDNsX0pMUlFfVTk5X9IBtgFBVV95cUxPZHFPVkJyNDN1V2RaUEtBbU5KbVdfRVAwemVQZ1Rlb3EzTzBkNnZUd2g4TUVPREF5VnBwclViSDlOU3Z2NUEtUWRyRnI0MDk1RGhsS0ZINFlnZmw1VGFlTXpkbU5QWTl4QUNFeGRJa1FLa01tNG1Vb3o4R1JVUnhqQkc2VTlCUkhWVzdWbEoxd0Q0R2k3amlPQkNqel9WRTJCTk5rcHNYelY2MEFENEVmWXd5ckoyZw?oc=5",
-      "summary": "Hantavirus concerns grow as US officials monitor cases linked to cruise ship outbreak &nbsp;&nbsp; 6abc Philadelphia",
-      "source": "6abc Philadelphia"
-    },
-    {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
@@ -411,6 +395,13 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
       "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
       "source": "BBC"
+    },
+    {
+      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
+      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
+      "source": "AZ Family"
     },
     {
       "title": "HHS Secretary RFK Jr. visits Nebraska to praise hantavirus operation at UNMC - Nebraska Examiner",
@@ -439,6 +430,13 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
       "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
       "source": "The Topeka Capital-Journal"
+    },
+    {
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
+      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
+      "source": "CNBC"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -510,7 +508,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-26T05:56:38.215828Z",
+    "timestamp": "2026-08-26T06:32:24.987320Z",
     "who": 0,
     "promed": 0,
     "news": 44,
