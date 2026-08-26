@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-26T20:19:58.025173Z",
+  "lastUpdated": "2026-08-26T23:49:54.026504Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
-  "newsCount": 41,
+  "locationsTracked": 5,
+  "newsCount": 42,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,36 +122,19 @@
         }
       ],
       "sources": [
-        "KDHE, KS (.gov)",
-        "BBC",
-        "World Health Organization (WHO)",
         "Harvard Health",
+        "World Health Organization (WHO)",
         "CIDRAP",
-        "Science | AAAS",
-        "European Medicines Agency (EMA)",
         "Mount Sinai",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "WTTW News"
+        "WTTW News",
+        "KDHE, KS (.gov)",
+        "Science | AAAS",
+        "European Medicines Agency (EMA)",
+        "BBC",
+        "TRT World"
       ],
-      "alertCount": 12
-    },
-    {
-      "country": "Argentina",
-      "lat": -45.0,
-      "lng": -70.0,
-      "alerts": [
-        {
-          "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - news - Mongabay",
-          "published": "Sun, 23 Aug 2026 16:12:03 GMT",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-          "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
-          "source": "news - Mongabay"
-        }
-      ],
-      "sources": [
-        "news - Mongabay"
-      ],
-      "alertCount": 1
+      "alertCount": 13
     },
     {
       "country": "France",
@@ -291,11 +274,18 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus: Evacuated passengers begin returning home - dw.com",
+      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
-      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; dw.com",
-      "source": "dw.com"
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
+      "source": "DW.com"
+    },
+    {
+      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
+      "published": "Tue, 26 May 2026 21:23:02 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
+      "summary": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
+      "source": "La Jolla Institute"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -429,13 +419,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
       "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - news - Mongabay",
-      "published": "Sun, 23 Aug 2026 16:12:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
-      "source": "news - Mongabay"
     }
   ],
   "usHistoric": {
@@ -465,10 +448,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-26T20:19:58.025189Z",
+    "timestamp": "2026-08-26T23:49:54.026518Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 42,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
