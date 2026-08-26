@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T13:31:36.281302Z",
+  "lastUpdated": "2026-08-26T14:23:59.208049Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
+        "KDHE, KS (.gov)",
         "BBC",
         "CIDRAP",
         "PBS",
-        "European Medicines Agency (EMA)",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "World Health Organization (WHO)",
         "Forbes",
-        "KDHE, KS (.gov)",
-        "WTTW News",
-        "Mount Sinai"
+        "World Health Organization (WHO)",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "European Medicines Agency (EMA)",
+        "Mount Sinai",
+        "WTTW News"
       ],
       "alertCount": 12
     },
@@ -509,7 +509,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-26T13:31:36.281317Z",
+    "timestamp": "2026-08-26T14:23:59.208082Z",
     "who": 0,
     "promed": 0,
     "news": 43,
