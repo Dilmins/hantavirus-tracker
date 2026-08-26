@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:32:24.987308Z",
+  "lastUpdated": "2026-08-26T07:30:12.838902Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,14 +122,14 @@
         }
       ],
       "sources": [
-        "World Health Organization (WHO)",
-        "BBC",
-        "European Medicines Agency (EMA)",
         "WTTW News",
-        "KDHE, KS (.gov)",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CIDRAP",
         "Forbes",
+        "European Medicines Agency (EMA)",
+        "BBC",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "World Health Organization (WHO)",
+        "KDHE, KS (.gov)",
+        "CIDRAP",
         "Mount Sinai"
       ],
       "alertCount": 11
@@ -155,8 +155,8 @@
         }
       ],
       "sources": [
-        "news - Mongabay",
-        "The New England Journal of Medicine"
+        "The New England Journal of Medicine",
+        "news - Mongabay"
       ],
       "alertCount": 2
     },
@@ -390,6 +390,13 @@
       "source": "WTTW News"
     },
     {
+      "title": "Hantavirus and COVID: How are they different? - The Hill",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTU44RVM5LUhBX2Q5bUJCc09pV2x4YzJNZUdsdTlXRWxGM1JkbEEzY0M4c1BEb2dDUlp0U3pVRTJ5R2JWUWRkaGctdkhCaDBhMHR4emZudlI0RHljV1ZwbFVYSU1lYnhwLWtGdzFxZ1U3aE1DbHlsVnpTNzhpZXZFNkhoZ0toa3RzOFHSAY8BQVVfeXFMUFBJbHR1aWVtUkZuZ3FvdXlGTGROV2NkWlMtSXNGU01nNHFFS3pacWpKclA0eW5oVW8wdloxU3MtNy1LSjI3a2xPanVNcUo4UGtTRmZVY29Zdkg1RTJ3OTJ0aXAtY05COHhGUmg3emFqQkxlSTVjdlkxckJCTWdsdFRRRUpiSkpaV3U5VmFreXM?oc=5",
+      "summary": "Hantavirus and COVID: How are they different? &nbsp;&nbsp; The Hill",
+      "source": "The Hill"
+    },
+    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -472,13 +479,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
       "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
       "source": "BBC"
-    },
-    {
-      "title": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 - news - Mongabay",
-      "published": "Sun, 23 Aug 2026 16:12:03 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRILVdocU9fSGQwR0RZbFUtSU5nNmc1UUpzeC1zRHVPYUtBc0IyM0hwQnRKdkZJdXdsNzBUSzh6UTdvam5GdUo5NmNoblpJOUZmR2lHYlBNMTBvV055QjhYRlZXdnZqd0pQQ203N2JiNWlHNnR0cUtISXJGUXpHLW5rU00tLVA2TEl6b0lfZEVLS2ViNmxMXzNJcUZKd2NDOU43STJnV1RqNllIM1BQTlJNeHRoTUg1dC1faHczdHZFeDZWQ3c?oc=5",
-      "summary": "Patricio Segura, journalist who defended Patagonia\u2019s rivers, died of hantavirus, aged 54 &nbsp;&nbsp; news - Mongabay",
-      "source": "news - Mongabay"
     }
   ],
   "usHistoric": {
@@ -508,7 +508,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-26T06:32:24.987320Z",
+    "timestamp": "2026-08-26T07:30:12.838914Z",
     "who": 0,
     "promed": 0,
     "news": 44,
