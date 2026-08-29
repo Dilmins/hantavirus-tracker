@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T21:13:39.253285Z",
+  "lastUpdated": "2026-08-29T23:18:42.316033Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -50,6 +50,13 @@
       "lat": -10.0,
       "lng": -20.0,
       "alerts": [
+        {
+          "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
+          "published": "Wed, 27 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+          "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
+        },
         {
           "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
@@ -112,28 +119,21 @@
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YeXhjeFJQUzBoOU5aNUo5SHFqYVp0RGFwNTlyOFFpTnlZcGpVc3RBd09MQ0FEdmEzLUkzSG1XX0NpdXdMSUl0ZlFSNkZ5bnBhOGNpYko0eC0wRjhhOHQw?oc=5",
           "summary": "Hantavirus crops up on a cruise ship \u2014 what scientists are watching &nbsp;&nbsp; Nature",
           "source": "Nature"
-        },
-        {
-          "title": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship - Centers for Disease Control and Prevention | CDC (.gov)",
-          "published": "Fri, 08 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mR1BPWFMwOEJxZnFIU3p1ZS1OVnBvR2pTVFY4Z2wzekhRV3NraU9oQlc2NDdVNUIxVXFlN1ZKUUJFaWFzR3g1NGNaSUd1ZXV0ZVZaLXV5V1JZMjE0M3c?oc=5",
-          "summary": "2026 Multi-country Hantavirus Cluster Linked to Cruise Ship &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-          "source": "Centers for Disease Control and Prevention | CDC (.gov)"
         }
       ],
       "sources": [
-        "WTTW News",
-        "CIDRAP",
-        "BBC",
-        "Science | AAAS",
-        "Nature",
         "Harvard Health",
-        "KDHE, KS (.gov)",
-        "Mount Sinai",
         "European Medicines Agency (EMA)",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Nature",
+        "CIDRAP",
+        "KDHE, KS (.gov)",
+        "Science | AAAS",
+        "BBC",
+        "WTTW News",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Mount Sinai"
       ],
-      "alertCount": 10
+      "alertCount": 11
     },
     {
       "country": "France",
@@ -228,6 +228,13 @@
   ],
   "recentNews": [
     {
+      "title": "Hantavirus outbreak linked to cruise ship grows to 13 cases - CIDRAP",
+      "published": "Wed, 27 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEFnaUhHdmZvYzlNa3hFRkF0UUdfcUtXWmNsU0ttUGYtUGJqQ3NiRmdJSjM4SjR3WWRFT2ktREVsMEJ5UHdCMGdOU3FVblZvNXEweU1JNGhnZ2wwZGh6eFVJbW5oTWJELXVqV2RjTkg1YUFmVVdYX2ZRWDZFZm9ReEpaUnF2RjViYWVSdXplUHlDMFpQS2c?oc=5",
+      "summary": "Hantavirus outbreak linked to cruise ship grows to 13 cases &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
+    },
+    {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
@@ -284,11 +291,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
+      "title": "Hantavirus: Evacuated passengers begin returning home - dw.com",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
-      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
-      "source": "DW.com"
+      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; dw.com",
+      "source": "dw.com"
     },
     {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
@@ -303,13 +310,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzFBV2czM2ZRZlVETDFsSXBJOHlqT0dteXFScWtOZ2huNTFBY1RVUWNXYjk1OHlkUE9COUJ2Rkw4NkhqR1YwZ0cyTVBMYjF0V29QaHRWSF93dkJxaGRIXzZHUEZEZU16aGRCQnRpQUE1d1hfd0dzTGpERmg0WGhFM0Y2NXNoM1FsQ0FlNlVMc0pfREQwb2ZPZTlic0NwQ2UwTGd6NS12V2Z1U2wyYWc?oc=5",
       "summary": "The Hantavirus Outbreak Is a Test Case for the U.S. Public Health Response &nbsp;&nbsp; KFF",
       "source": "KFF"
-    },
-    {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
     },
     {
       "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
@@ -338,6 +338,13 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
       "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
       "source": "European Medicines Agency (EMA)"
+    },
+    {
+      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE, KS (.gov)",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
+      "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE, KS (.gov)",
+      "source": "KDHE, KS (.gov)"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -429,13 +436,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
       "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
       "source": "Anadolu Ajans\u0131"
-    },
-    {
-      "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-      "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
     }
   ],
   "usHistoric": {
@@ -465,7 +465,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-29T21:13:39.253297Z",
+    "timestamp": "2026-08-29T23:18:42.316049Z",
     "who": 0,
     "promed": 0,
     "news": 41,
