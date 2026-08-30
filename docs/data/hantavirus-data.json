@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T19:33:39.525638Z",
+  "lastUpdated": "2026-08-30T22:03:48.938840Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -100,11 +100,11 @@
           "source": "Science | AAAS"
         },
         {
-          "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
-          "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak - News On AIR",
+          "published": "Sat, 29 Aug 2026 07:28:45 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE?oc=5",
+          "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak &nbsp;&nbsp; News On AIR",
+          "source": "News On AIR"
         },
         {
           "title": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article - Mount Sinai",
@@ -122,16 +122,17 @@
         }
       ],
       "sources": [
-        "Science | AAAS",
-        "KDHE, KS (.gov)",
-        "PBS",
+        "News On AIR",
         "CIDRAP",
-        "European Medicines Agency (EMA)",
-        "Harvard Health",
         "BBC",
-        "Mount Sinai",
+        "European Medicines Agency (EMA)",
         "WTTW News",
-        "Centers for Disease Control and Prevention | CDC (.gov)"
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "Harvard Health",
+        "KDHE, KS (.gov)",
+        "Mount Sinai",
+        "Science | AAAS"
       ],
       "alertCount": 12
     },
@@ -417,18 +418,18 @@
       "source": "Le Monde.fr"
     },
     {
-      "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
-      "summary": "WHO declares Hantavirus outbreak linked to cruise ship is over &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
       "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
       "source": "unric"
+    },
+    {
+      "title": "WHO confirms five hantavirus cases linked to cruise ship outbreak - News On AIR",
+      "published": "Sat, 29 Aug 2026 07:28:45 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW1XdWEtel92NXpSYVFfSGJCLU1OeUJhWHA2RU82YmpmTTBpS1pUSl9zaE5DbWhSeksyZVZ6ekduRUk5Q2xOeTFDdGN6RWdkNVpJR1lyNlNtT2VpcmhjZjRwZVR2ellyTlpyN2xpQlZPUkREejNjTHR0VEhPUlpGX2ZmV01sdVRlZm5VMDlIV3o3RFR1WFE?oc=5",
+      "summary": "WHO confirms five hantavirus cases linked to cruise ship outbreak &nbsp;&nbsp; News On AIR",
+      "source": "News On AIR"
     },
     {
       "title": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article - Mount Sinai",
@@ -465,7 +466,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-08-30T19:33:39.525651Z",
+    "timestamp": "2026-08-30T22:03:48.938854Z",
     "who": 0,
     "promed": 0,
     "news": 42,
