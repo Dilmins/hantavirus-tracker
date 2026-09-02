@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-02T21:25:52.727252Z",
+  "lastUpdated": "2026-09-02T23:26:09.200933Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
+  "locationsTracked": 5,
   "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -72,11 +72,11 @@
           "source": "NEJM"
         },
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE, KS (.gov)",
-          "source": "KDHE, KS (.gov)"
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+          "source": "kdhe.ks.gov"
         },
         {
           "title": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
@@ -122,22 +122,22 @@
         }
       ],
       "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Nature",
+        "BBC",
+        "U.S. News & World Report",
+        "CIDRAP",
+        "European Medicines Agency (EMA)",
+        "Florida Hospital News and Healthcare Report",
+        "NEJM",
+        "Science | AAAS",
+        "kdhe.ks.gov",
+        "World Health Organization (WHO)",
+        "Al Jazeera",
+        "Texas State University",
         "Virological",
         "Centers for Disease Control and Prevention | CDC (.gov)",
-        "CIDRAP",
-        "Florida Hospital News and Healthcare Report",
-        "Texas State University",
-        "Nature",
-        "Al Jazeera",
-        "Science | AAAS",
-        "U.S. News & World Report",
-        "World Health Organization (WHO)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "WBFF",
-        "European Medicines Agency (EMA)",
-        "KDHE, KS (.gov)",
-        "BBC",
-        "NEJM"
+        "6abc Philadelphia"
       ],
       "alertCount": 19
     },
@@ -156,6 +156,42 @@
       ],
       "sources": [
         "Le Monde.fr"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Argentina",
+      "lat": -38.42,
+      "lng": -63.62,
+      "alerts": [
+        {
+          "title": "The Current Andes Hantavirus Situation in Argentina (May 2026) - World Health Network",
+          "published": "Thu, 14 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkVGY0dCdGVFemQ4YmJZaVE0NDVaUkQyUUo4M2ltMmJnN3FnMU5QMHY4UGQySXd3WUl3NGg5ZDVZWEU5WkVzSllrTEVmTlBXUlZ4Q0pLenAyYkJuemN1a3doVG1RRVI3bWFwZHNBR0dTY2FLX1p5YUZuRjFFaWk3Vzhha0NaVkhROWVnVmUxZzZLX3BCSmc?oc=5",
+          "summary": "The Current Andes Hantavirus Situation in Argentina (May 2026) &nbsp;&nbsp; World Health Network",
+          "source": "World Health Network"
+        }
+      ],
+      "sources": [
+        "World Health Network"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Pacific Ocean",
+      "lat": 0.0,
+      "lng": -160.0,
+      "alerts": [
+        {
+          "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Scientific American",
+          "published": "Thu, 21 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL?oc=5",
+          "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Scientific American",
+          "source": "Scientific American"
+        }
+      ],
+      "sources": [
+        "Scientific American"
       ],
       "alertCount": 1
     },
@@ -194,13 +230,6 @@
       "source": "CIDRAP"
     },
     {
-      "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - ajmc.com",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
-      "summary": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes &nbsp;&nbsp; ajmc.com",
-      "source": "ajmc.com"
-    },
-    {
       "title": "International public health response helped contain Andes hantavirus outbreak on Dutch cruise ship - CIDRAP",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnlfNUl2WnJRZ3Y3UE5CRnNoZnpfNFRDYnI3OV9fMkR0TG9kdVVPcXNQTGRYUkRvYjhRYmpMN3lNZzBYcWM2QTFZaXFfaUpvMkVaNXF0SXJUZFNjQWdvcFA4UjZiajVDR3BOSlpiZGJUOGc4MkpwS1g4bUF1X3FGYkpVZ3ByY01OZVl0YzZYMHhldS1GYkFNbWtlYjdleU5mWlFxYVpxQ3FSZXFSQUs0OHhlRU1vdkJkRzBxbzN3?oc=5",
@@ -222,18 +251,11 @@
       "source": "NEJM"
     },
     {
-      "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
-      "published": "Wed, 15 Jul 2026 12:46:33 GMT",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
-      "summary": "Postscript to the Hantavirus Outbreak &nbsp;&nbsp; tristandc.com",
-      "source": "tristandc.com"
-    },
-    {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE, KS (.gov)",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE, KS (.gov)",
-      "source": "KDHE, KS (.gov)"
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
+      "source": "kdhe.ks.gov"
     },
     {
       "title": "WHO says hantavirus ship operation completed, monitoring to continue - UN News",
@@ -250,13 +272,6 @@
       "source": "National Geographic"
     },
     {
-      "title": "How our immune cells combat Andes hantavirus - La Jolla Institute",
-      "published": "Tue, 26 May 2026 21:23:02 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc1NzS2l4UG5nZ3RtTUJNenpveHdVSmhtOV9rMVhQS0ZRU0xkZ2RPNnBaNXdpY3lwUENES04yelhHdDZWUlBUTjU5cmlUandEN3NKc3ZmUUxyRkRHMHdXdGUyT1VqMnh6VEpYYjluVVZYQUY3LVJrVV8yVmJEQzBjQy1DX0NYOGdpYmcwX2xNb3Q?oc=5",
-      "summary": "How our immune cells combat Andes hantavirus &nbsp;&nbsp; La Jolla Institute",
-      "source": "La Jolla Institute"
-    },
-    {
       "title": "The MV Hondius Hantavirus Outbreak\u2014Lessons for Pandemic Preparedness - Florida Hospital News and Healthcare Report",
       "published": "Tue, 26 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkFsYUM1cHAtbWtBTmRCNzgwZ3lBbUdqaDFBRDdXVnk0VGVUVExVb1JoYm1GdTZEY0VEQ0lrWkE4NHJvRkF5YjhzSFNiM2ZMN3E4R19YWXlhRDhTZDNvYmx1bGVpei1KSzY0ejg3dW9BYVh6THM2dVI4c0gtODU5OW9RY0RPLWNOamJKTTZRcEtzNHdnU3d2bnI4dHNMM0VUd2wtR011UXIyUQ?oc=5",
@@ -264,11 +279,11 @@
       "source": "Florida Hospital News and Healthcare Report"
     },
     {
-      "title": "5 key facts about hantavirus - Stanford Report",
+      "title": "He was on the trip of a lifetime. Now he\u2019s in a biocontainment unit in Nebraska while hantavirus cases rise - CNN",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaDJFVjlqNEFfb1RTNE9FNnR2Mm9GWU1KdC1CX1VtWjdJT3FtZ283X2pvVGYwUXdQWVJ4NGRaOEZQSkRMTWhxb0J2ZF91NzI2QUFTaFFkUkFwQnE1UkkxUHFaRklGMDlueEN5cXVkRV9TdEVrWngtRnhPS096QjBrNUpwNA?oc=5",
-      "summary": "5 key facts about hantavirus &nbsp;&nbsp; Stanford Report",
-      "source": "Stanford Report"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOHBnSHk0cGJWX0RXdVE2UVowWk1OUzZYY1VsWkstZW9uaEJCYWF5UkhOcEFoNDdTRnV4RlVzLVFFcmhqZ3l1QUN3dUFpbnZCWEtua3Q5ZmRiMjIzbVBMRlJsc0M0anNqUGYxdzZYX2xueWtpNjN0bHhkdzRVUXVYS1p2eHZqdw?oc=5",
+      "summary": "He was on the trip of a lifetime. Now he\u2019s in a biocontainment unit in Nebraska while hantavirus cases rise &nbsp;&nbsp; CNN",
+      "source": "CNN"
     },
     {
       "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
@@ -278,11 +293,11 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE, KS (.gov)",
+      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - kdhe.ks.gov",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
-      "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE, KS (.gov)",
-      "source": "KDHE, KS (.gov)"
+      "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; kdhe.ks.gov",
+      "source": "kdhe.ks.gov"
     },
     {
       "title": "No sign of larger hantavirus outbreak, says UN health agency - BBC",
@@ -327,11 +342,18 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
+      "title": "Hantavirus found in shocking number of Pacific Northwest rodents - Scientific American",
+      "published": "Thu, 21 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkZ1aVVyV19ialdQdnRYZzNsTmFrNUE5eEx0RlZKX3J2SF9TbnFzRmstSkFZMjNQMTJCYklJNUVWNkRoZWxrSEl2QkV3VWFSaFA5dkFZR3QzTjNmZnhkdk9yak1vUWRibGF3dDBPOVJvUGVnQnZKVVN3eXV1Q1dudlJHR3FhUC1VVVZ0SGJnVXlxT18yTUZLVk5sWi1xaVJxNG5TN3dXMERRU0pL?oc=5",
+      "summary": "Hantavirus found in shocking number of Pacific Northwest rodents &nbsp;&nbsp; Scientific American",
+      "source": "Scientific American"
+    },
+    {
+      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - bu.edu",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
-      "source": "Boston University"
+      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; bu.edu",
+      "source": "bu.edu"
     },
     {
       "title": "Five questions answered about the current hantavirus cruise ship outbreak by a TXST microbiology and virology specialist - Texas State University",
@@ -339,6 +361,13 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWFxX0RMUUdMNmRySXJaUDBXcVNKMDBnQ0VCc0xXWWdLcVo1ZnhRRHJwRENhWkVqT3lmMmU3RHRndHctVUtqaUlYd3NXMUlxOTVYaUd3VF9XdWJiWU91UjRoWW1kUF8yYkVVUHdCOHRRUWJDaWlpNWoyV3l4ODJ6dURDNU9LNjc4d1ZQcGg0cDFhTG9KZ19fNnNJR1N1cm9RVG8tRmFwUlZyWkpfY2Y0TS1ydTlHNFNiaUhleFF1UnFkY2RMRG10OQ?oc=5",
       "summary": "Five questions answered about the current hantavirus cruise ship outbreak by a TXST microbiology and virology specialist &nbsp;&nbsp; Texas State University",
       "source": "Texas State University"
+    },
+    {
+      "title": "The Current Andes Hantavirus Situation in Argentina (May 2026) - World Health Network",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkVGY0dCdGVFemQ4YmJZaVE0NDVaUkQyUUo4M2ltMmJnN3FnMU5QMHY4UGQySXd3WUl3NGg5ZDVZWEU5WkVzSllrTEVmTlBXUlZ4Q0pLenAyYkJuemN1a3doVG1RRVI3bWFwZHNBR0dTY2FLX1p5YUZuRjFFaWk3Vzhha0NaVkhROWVnVmUxZzZLX3BCSmc?oc=5",
+      "summary": "The Current Andes Hantavirus Situation in Argentina (May 2026) &nbsp;&nbsp; World Health Network",
+      "source": "World Health Network"
     },
     {
       "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
@@ -388,6 +417,13 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
       "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
       "source": "Le Monde.fr"
+    },
+    {
+      "title": "Preliminary analysis of Orthohantavirus andesense virus sequences from a cruise-ship related cluster, May 2026 - Virological",
+      "published": "Sun, 10 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDFldDg4RjJoaTE4YzlvMS1FNmpWNWk2a3RRdXM3dWJoUmRrd2lESGJyZUgzWlF0Q1duWG9QTzlkbWF0T2ZVcE1wLUNzZnFtdUhnM01XWExfSVR3czhDWVZWVnZRRGhNZFpmQUdSaVNpRTh4b2ZHU19iMmdQYWhSSzlsTTM5TjlCWDZpU2lqOXFxcmpLNFFHdzIxeEwxTDdQWGRDMDBHVGxTaFZHQk5PNEVUTGZmeF9UdmltaFZDS2U1eXp3X3hlbnpRUEI2VnR6TmhtWmdFSQ?oc=5",
+      "summary": "Preliminary analysis of Orthohantavirus andesense virus sequences from a cruise-ship related cluster, May 2026 &nbsp;&nbsp; Virological",
+      "source": "Virological"
     }
   ],
   "usHistoric": {
@@ -417,7 +453,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-02T21:25:52.727266Z",
+    "timestamp": "2026-09-02T23:26:09.200949Z",
     "who": 0,
     "promed": 0,
     "news": 43,
