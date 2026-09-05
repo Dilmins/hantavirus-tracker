@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T20:21:00.270188Z",
+  "lastUpdated": "2026-09-05T22:07:41.362682Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -79,11 +79,11 @@
           "source": "WTTW News"
         },
         {
-          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - ema.europa.eu",
+          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; ema.europa.eu",
-          "source": "ema.europa.eu"
+          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+          "source": "European Medicines Agency (EMA)"
         },
         {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "ema.europa.eu",
-        "News On AIR",
-        "KDHE, KS (.gov)",
         "ABC News - Breaking News, Latest News and Videos",
-        "BBC",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "WTTW News",
-        "PBS",
-        "Mount Sinai",
         "Harvard Health",
-        "CIDRAP"
+        "KDHE, KS (.gov)",
+        "PBS",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "Mount Sinai",
+        "CIDRAP",
+        "News On AIR",
+        "European Medicines Agency (EMA)",
+        "BBC",
+        "WTTW News"
       ],
       "alertCount": 13
     },
@@ -309,11 +309,11 @@
       "source": "WTTW News"
     },
     {
-      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - ema.europa.eu",
+      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; ema.europa.eu",
-      "source": "ema.europa.eu"
+      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+      "source": "European Medicines Agency (EMA)"
     },
     {
       "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE, KS (.gov)",
@@ -358,11 +358,11 @@
       "source": "The Topeka Capital-Journal"
     },
     {
-      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - cnbc.com",
+      "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMHBsWnFWNEZMbk4yemRRWUoydXNDUnJUbnBfOUVGNTJCdGJTZHpNVzMxZjVSOHJxakVBVDUxTkd2TmluajFoWTMtYWxfNkZqQm94bjJtX3ZpazZIX1ZyUnVuT0VjekI4cWdVcDZyNmFoeE9BZzE1Ymc3YmpqbXpBSnFMMHg2NU3SAYwBQVVfeXFMUHJPZ21EM2VBLWtXZXdGTzFrazBmYjg0YkRLOFl3cXJXc2FrOTlDQnktWDhaaTFGU2g2ZWd4OEJuV3g3SDR6TlN5MW42MXZ3SUdnSXI4UGxrY3pKeDRSRnNobWhvRlhNYXV2TFRlY2IzeDh0TXo4aHFlbEtNRWJTZmhVOC16R3JvcDJIT00?oc=5",
-      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; cnbc.com",
-      "source": "cnbc.com"
+      "summary": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored &nbsp;&nbsp; CNBC",
+      "source": "CNBC"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -448,7 +448,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-05T20:21:00.270205Z",
+    "timestamp": "2026-09-05T22:07:41.362698Z",
     "who": 0,
     "promed": 0,
     "news": 42,
