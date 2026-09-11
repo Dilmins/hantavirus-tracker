@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-11T21:09:10.952987Z",
+  "lastUpdated": "2026-09-11T23:14:30.118648Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
-  "newsCount": 44,
+  "locationsTracked": 5,
+  "newsCount": 43,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -93,6 +93,13 @@
           "source": "BBC"
         },
         {
+          "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
+          "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
+          "source": "The Guardian"
+        },
+        {
           "title": "WHO declares cruise ship hantavirus outbreak over - TRT World",
           "published": "Sun, 06 Sep 2026 01:50:57 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9laFZWU01nbjB1a1VnekVveTlfbEJRcmduYlhsVnZVb2R3VUhxT3ZnX0c3ODBMYXhJZnU1bGQzamlUSHcwQjJYWWVBSE9rVnl2RFlUX001Z2M?oc=5",
@@ -112,29 +119,23 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
           "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
           "source": "PBS"
-        },
-        {
-          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-          "source": "CIDRAP"
         }
       ],
       "sources": [
+        "BBC",
+        "KDHE.ks.gov",
+        "ABC News - Breaking News, Latest News and Videos",
+        "NEJM",
+        "CIDRAP",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "WTTW News",
+        "European Medicines Agency (EMA)",
+        "The Guardian",
         "PBS",
         "Mount Sinai",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CIDRAP",
-        "BBC",
-        "TRT World",
-        "KDHE.ks.gov",
-        "NEJM",
-        "WTTW News",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
-        "European Medicines Agency (EMA)"
+        "TRT World"
       ],
-      "alertCount": 12
+      "alertCount": 13
     },
     {
       "country": "Spain",
@@ -151,6 +152,42 @@
       ],
       "sources": [
         "CIDRAP"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Vietnam",
+      "lat": 14.06,
+      "lng": 108.28,
+      "alerts": [
+        {
+          "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+          "summary": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
+          "source": "The Conversation"
+        }
+      ],
+      "sources": [
+        "The Conversation"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "India",
+      "lat": 20.59,
+      "lng": 78.96,
+      "alerts": [
+        {
+          "title": "In 1973, Montana released a gall fly to control spotted knapweed; decades later, the biocontrol program w - The Times of India",
+          "published": "Tue, 08 Sep 2026 17:37:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWDNuOFdDb1FVNEZ4cE1rWmdpN0d5UnFJcndzYmlpSHpkemZwQUFCa1ZTc2FQRml2V19oY3FjVUQtOS01aVdqOHh4U1lYMDV0NExhMVZGQzVZcndSSVNQUUJSYVE0dHVWR0UyTVo3LUtuMldrZzB6YzZCMzU0amkxMG1GU3VrdkhaUTRIMVVKR2tOXzg3X2dqMUVCUHFvckxOMnZ2ZUJZZ2E2dmwzSVR4cXBpV3NFVEJKUjFzelRoTUhfZ1MyOU91MUVEMHY2ZkNMR1hFck9qc0FkVHg2RlM3cGZxN2dqTU5KelhkSEVCVGhWd2lvTXl5UC1VbFBqenY3aEhHUVNfeTVZSUItTW50OXRyZlU1VFhTSEE2bUxCcHBxb2IwR204Yk41UEY4MHdSU3dYRkI4MTdnWjRfcldwOWdnd09HN1pMM3ZpbzFLQnFJTkXSAdgCQVVfeXFMTjR2YVZlUF84RmpLTTV1bVZSU1RvOVhtay1xd2dKRW82dGF2SmZSV0lCMFp3NGVycVJyV0FGVzZ1Vk1FR1FjRGlycDBodGZxMXBOWE5lSWhtYWFFaW8tUl9xY3I5SVNKcEZfRU56T1RiME5FVkFNNkoyZC1yNzdyU2ZPajNodFF4aVllYk9SeG82SG8zcHQyV242aG4yeWF2Vy1hYXpFOV9mbUp5QUt2VUxjaUttQkU4UUhTZHdRRzBiNFFKMU9lQ0VNY25kc3VjeGx0dzRMV09BSlNrVVhxSkIwNEk4Q05Bb1JUdlg2Rlk2Rk9vMHVFUThWOU5sRDdaU0NiQV9jdTY0elZLYXdtNXhpWGtxSGRWRUEyeXN4cDEtTE9ZclFib2hmRmRHazJtQUw2OTkxZVNfbHcyNTBWZVhkVXJxZzUtRkV3dkhBdjgxOWdOYWQxb1o?oc=5",
+          "summary": "In 1973, Montana released a gall fly to control spotted knapweed; decades later, the biocontrol program w &nbsp;&nbsp; The Times of India",
+          "source": "The Times of India"
+        }
+      ],
+      "sources": [
+        "The Times of India"
       ],
       "alertCount": 1
     },
@@ -175,6 +212,13 @@
   ],
   "recentNews": [
     {
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+      "summary": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
+      "source": "The Conversation"
+    },
+    {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - The American Journal of Managed Care",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
@@ -196,11 +240,11 @@
       "source": "NEJM"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - who.int",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
-      "source": "World Health Organization (WHO)"
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; who.int",
+      "source": "who.int"
     },
     {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
@@ -229,13 +273,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
       "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
-    },
-    {
-      "title": "Hantavirus: Evacuated passengers begin returning home - DW.com",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFBWbzVjM3V2M1BkZFNzXzJpLTdtd2FfMXByM01DT09NZm5La3FoaHdGQUJfc29LXy1zY1pIczVoLWxLT21FSzY2M0FKNllXNkdnQTdsZjc0SW5aQUVnUm42QWVvVV9iWThqaHhTVTV1RlNmeGo2VS1tSElPcUFqTi1xWl9pMFRlVGU2QkJ1a25VUQ?oc=5",
-      "summary": "Hantavirus: Evacuated passengers begin returning home &nbsp;&nbsp; DW.com",
-      "source": "DW.com"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -280,18 +317,11 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE.ks.gov",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
-      "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE.ks.gov",
-      "source": "KDHE.ks.gov"
-    },
-    {
-      "title": "No sign of larger hantavirus outbreak, says UN health agency - BBC",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FdDhmUjR3MHN3bGx1TFRfdXpGLTlXMEQxc095amY5Wl9wZFo1RmRyVG5CR1FnVnh1aThUbHdkRU9HU0FoU3lkY3Y2andCNFBQVTlSb01jZnRtQQ?oc=5",
-      "summary": "No sign of larger hantavirus outbreak, says UN health agency &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "title": "In 1973, Montana released a gall fly to control spotted knapweed; decades later, the biocontrol program w - The Times of India",
+      "published": "Tue, 08 Sep 2026 17:37:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWDNuOFdDb1FVNEZ4cE1rWmdpN0d5UnFJcndzYmlpSHpkemZwQUFCa1ZTc2FQRml2V19oY3FjVUQtOS01aVdqOHh4U1lYMDV0NExhMVZGQzVZcndSSVNQUUJSYVE0dHVWR0UyTVo3LUtuMldrZzB6YzZCMzU0amkxMG1GU3VrdkhaUTRIMVVKR2tOXzg3X2dqMUVCUHFvckxOMnZ2ZUJZZ2E2dmwzSVR4cXBpV3NFVEJKUjFzelRoTUhfZ1MyOU91MUVEMHY2ZkNMR1hFck9qc0FkVHg2RlM3cGZxN2dqTU5KelhkSEVCVGhWd2lvTXl5UC1VbFBqenY3aEhHUVNfeTVZSUItTW50OXRyZlU1VFhTSEE2bUxCcHBxb2IwR204Yk41UEY4MHdSU3dYRkI4MTdnWjRfcldwOWdnd09HN1pMM3ZpbzFLQnFJTkXSAdgCQVVfeXFMTjR2YVZlUF84RmpLTTV1bVZSU1RvOVhtay1xd2dKRW82dGF2SmZSV0lCMFp3NGVycVJyV0FGVzZ1Vk1FR1FjRGlycDBodGZxMXBOWE5lSWhtYWFFaW8tUl9xY3I5SVNKcEZfRU56T1RiME5FVkFNNkoyZC1yNzdyU2ZPajNodFF4aVllYk9SeG82SG8zcHQyV242aG4yeWF2Vy1hYXpFOV9mbUp5QUt2VUxjaUttQkU4UUhTZHdRRzBiNFFKMU9lQ0VNY25kc3VjeGx0dzRMV09BSlNrVVhxSkIwNEk4Q05Bb1JUdlg2Rlk2Rk9vMHVFUThWOU5sRDdaU0NiQV9jdTY0elZLYXdtNXhpWGtxSGRWRUEyeXN4cDEtTE9ZclFib2hmRmRHazJtQUw2OTkxZVNfbHcyNTBWZVhkVXJxZzUtRkV3dkhBdjgxOWdOYWQxb1o?oc=5",
+      "summary": "In 1973, Montana released a gall fly to control spotted knapweed; decades later, the biocontrol program w &nbsp;&nbsp; The Times of India",
+      "source": "The Times of India"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -343,11 +373,18 @@
       "source": "NPR"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
+      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
+      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Hantavirus: What You Need to Know About the Virus - unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
-      "source": "unric.org"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
+      "source": "unric"
     },
     {
       "title": "WHO declares cruise ship hantavirus outbreak over - TRT World",
@@ -412,10 +449,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-11T21:09:10.953001Z",
+    "timestamp": "2026-09-11T23:14:30.118662Z",
     "who": 0,
     "promed": 0,
-    "news": 44,
+    "news": 43,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
