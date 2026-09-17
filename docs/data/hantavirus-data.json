@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-17T11:54:58.456858Z",
+  "lastUpdated": "2026-09-17T15:48:53.826300Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
-  "newsCount": 42,
+  "locationsTracked": 4,
+  "newsCount": 44,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,20 +122,37 @@
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "KDHE.ks.gov",
-        "PBS",
-        "CIDRAP",
-        "BBC",
         "World Health Organization (WHO)",
         "NEJM",
-        "nature.com",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "PBS",
+        "KDHE.ks.gov",
+        "CIDRAP",
+        "BBC",
         "European Medicines Agency (EMA)",
         "University of California, Riverside",
-        "ABC News - Breaking News, Latest News and Videos"
+        "ABC News - Breaking News, Latest News and Videos",
+        "Centers for Disease Control and Prevention | CDC (.gov)",
+        "The Colorado Sun"
       ],
-      "alertCount": 13
+      "alertCount": 12
+    },
+    {
+      "country": "Vietnam",
+      "lat": 14.06,
+      "lng": 108.28,
+      "alerts": [
+        {
+          "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+          "summary": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
+          "source": "The Conversation"
+        }
+      ],
+      "sources": [
+        "The Conversation"
+      ],
+      "alertCount": 1
     },
     {
       "country": "Spain",
@@ -175,6 +192,13 @@
     }
   ],
   "recentNews": [
+    {
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - The Conversation",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+      "summary": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; The Conversation",
+      "source": "The Conversation"
+    },
     {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
@@ -316,11 +340,11 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
+      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
-      "source": "Johns Hopkins Medicine"
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
+      "source": "hopkinsmedicine.org"
     },
     {
       "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
@@ -377,13 +401,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; Unric",
       "source": "Unric"
-    },
-    {
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -413,10 +430,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-17T11:54:58.456875Z",
+    "timestamp": "2026-09-17T15:48:53.826315Z",
     "who": 0,
     "promed": 0,
-    "news": 42,
+    "news": 44,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
