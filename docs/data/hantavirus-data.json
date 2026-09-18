@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-18T09:42:28.224233Z",
+  "lastUpdated": "2026-09-18T13:50:26.048699Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
+  "locationsTracked": 4,
   "newsCount": 41,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -107,34 +107,36 @@
           "source": "World Health Organization (WHO)"
         },
         {
-          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
-          "published": "Sat, 09 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
-          "source": "PBS"
+          "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
+          "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
+          "source": "The Guardian"
         },
         {
-          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
-          "source": "CIDRAP"
+          "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
+          "summary": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
+          "source": "Al Jazeera"
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
-        "ABC News - Breaking News, Latest News and Videos",
-        "NEJM",
         "PBS",
-        "CIDRAP",
-        "BBC",
-        "Centers for Disease Control and Prevention | CDC (.gov)",
         "World Health Organization (WHO)",
+        "European Medicines Agency (EMA)",
+        "CIDRAP",
+        "ABC News - Breaking News, Latest News and Videos",
+        "University of California, Riverside",
+        "Al Jazeera",
         "The Colorado Sun",
+        "NEJM",
+        "BBC",
+        "The Guardian",
         "KDHE.ks.gov",
-        "University of California, Riverside"
+        "cdc.gov"
       ],
-      "alertCount": 12
+      "alertCount": 14
     },
     {
       "country": "Spain",
@@ -151,6 +153,24 @@
       ],
       "sources": [
         "CIDRAP"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Vietnam",
+      "lat": 14.06,
+      "lng": 108.28,
+      "alerts": [
+        {
+          "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
+          "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+          "summary": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; theconversation.com",
+          "source": "theconversation.com"
+        }
+      ],
+      "sources": [
+        "theconversation.com"
       ],
       "alertCount": 1
     },
@@ -174,6 +194,13 @@
     }
   ],
   "recentNews": [
+    {
+      "title": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia - theconversation.com",
+      "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG1Vcjd6WHZDN3hyOFdlWnNYVlozWldfT2U1bEhCMXFtTVNCQUxZa1BQa1EzcWVnanFYZ0JHNDdseXEyQzgyWnBSLUJqUGJ3aVFOUFM4UUs0dnJlWDBkanNONVI4WkRnQnFROWk0d01tcWh3OGZibE55RnZJUFFWZHY1U3lIRHc5ZlZTWHlUVTNRdDBqdk1IMElrTzZRNFB2RGtJMmVwYkFfdFNtOWkzMWVHclludVFU?oc=5",
+      "summary": "Hantavirus exposure among wildlife farmers in Vietnam: A warning for Southeast Asia &nbsp;&nbsp; theconversation.com",
+      "source": "theconversation.com"
+    },
     {
       "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
@@ -238,11 +265,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
-      "source": "Stanford Medicine"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
+      "source": "med.stanford.edu"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -273,27 +300,6 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "KDHE Monitoring Individuals with Andes Hantavirus Exposure - KDHE.ks.gov",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
-      "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE.ks.gov",
-      "source": "KDHE.ks.gov"
-    },
-    {
-      "title": "No sign of larger hantavirus outbreak, says UN health agency - BBC",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FdDhmUjR3MHN3bGx1TFRfdXpGLTlXMEQxc095amY5Wl9wZFo1RmRyVG5CR1FnVnh1aThUbHdkRU9HU0FoU3lkY3Y2andCNFBQVTlSb01jZnRtQQ?oc=5",
-      "summary": "No sign of larger hantavirus outbreak, says UN health agency &nbsp;&nbsp; BBC",
-      "source": "BBC"
-    },
-    {
-      "title": "Why the hantavirus outbreak is different from COVID-19 - Al Jazeera",
-      "published": "Tue, 12 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2JrU2VOOThlaDM0OUVUdVNCemE5SlF1aGNvNGFlOWYwZTI4OVJiTWFjYzFXV1lvSTl3Y2pQTWZSSHA2cmxVQ3JTQTNmdFlMdWFTM3hrVm94TWwycWdZRFh4cGtIaXRrQXRVa1g1XzNqVkpJOHNwaXpzaVhlOHJxR1VXR3J0X2ppNWtKYlkxTlp5UzJ5ZFlMMHZ6Y9IBoAFBVV95cUxQeTQ1bGdNMFNPWVJTZC0wckg2N3VNWkhNMDdkQ3RhVDlhazFDYnBrQ0lQekdqSGZBYWRWUjE0RnFLNDhkRHZONXIwTU8tNVItSTduRzVtMXpUU1UyOTBHZ2pqdUROWWw2dnlRQzRoOWJvS1hFUXFWRUF5Z1FMZ1JMaE92a1gyYTZwS01EWXNPTnZ2RmZ4NzRsS3JucnF2TlFI?oc=5",
-      "summary": "Why the hantavirus outbreak is different from COVID-19 &nbsp;&nbsp; Al Jazeera",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
@@ -308,6 +314,13 @@
       "source": "AZ Family"
     },
     {
+      "title": "Wild rodents carrying hantavirus detected in Catamarca and environmental surveillance reinforced - Noticias Ambientales",
+      "published": "Thu, 17 Sep 2026 15:07:13 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRlpWU19uU3pMUTNmaVltcXFVU1R1bmlSUUk5SnRYcC1pSUhRX1VlWVdRMVp0STk5U3lvMThsWGxqYTJnekI5azBpUEFROHhxTFBxbVloZWxUUFhJOERnVGFIS3N3RXBVdExvR0tSU2EySmtMQmk0d0xxalJWb1gzcFljNkdRendMTnFhZzk5NjI4ZldpMWh6MVpCbmhTY0dXRExsR244Y1FwVDhzdWpZLUdsZmdNM3Vyem4xX1hWenNkMEFBckY5SXZkQ3F1eHJablFR?oc=5",
+      "summary": "Wild rodents carrying hantavirus detected in Catamarca and environmental surveillance reinforced &nbsp;&nbsp; Noticias Ambientales",
+      "source": "Noticias Ambientales"
+    },
+    {
       "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
       "published": "Thu, 17 Sep 2026 08:23:39 GMT",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
@@ -315,18 +328,11 @@
       "source": "ABC News - Breaking News, Latest News and Videos"
     },
     {
-      "title": "Hantavirus Outbreak 2026 - hopkinsmedicine.org",
+      "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycG82MWo4bXhqZjRRZk9ldkJGVjVfVXd6c191UzN0djJMMDA3MXZiTTNyVEdIWC1OdzdCWFNtQTBXNzVQYk9zQXJIV015M2dJcGhFMHpCZnhwcjdBT3VySHJZdXhwS1BUY2FJ?oc=5",
-      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; hopkinsmedicine.org",
-      "source": "hopkinsmedicine.org"
-    },
-    {
-      "title": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness - Boston University",
-      "published": "Thu, 14 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
-      "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
-      "source": "Boston University"
+      "summary": "Hantavirus Outbreak 2026 &nbsp;&nbsp; Johns Hopkins Medicine",
+      "source": "Johns Hopkins Medicine"
     },
     {
       "title": "CDC says there are no U.S. hantavirus cases currently, 41 people being monitored - CNBC",
@@ -362,6 +368,20 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
       "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
       "source": "World Health Organization (WHO)"
+    },
+    {
+      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
+      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian"
+    },
+    {
+      "title": "WHO declares cruise-linked hantavirus outbreak officially over - Al Jazeera",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcUJ1RS1xVWtvUENRTG82RVhWY09VVzQtSXd2dGJURE5URGFEc2RTeUlybmNFcFBFenMxNmxpVkNsRzlqRmM0bGVEMDFVMlFxVTFtZFRyRXpWR29MbmNMQVNwNFBiakdLdFpVZWFMeWtYYVIyU1Rha3Z6dHc3akRZMndEWHQ4OEd1TDFNMU00SVUxcVgxeWc0X1FMMktyaG5vRDRNcdIBqgFBVV95cUxOUDN2blBFaU5ZZ3c1ZksxNzJVVXptbXAzakhrYmxFY0N3NlppX1BNd0p1NVVXbTVaUzRQSmxGT25QVjQ4dW93ZGt3a3ZSamstTXhQdmRwVlNyNGZHTk5GbnBaekh1VXJRSWJFNDNMaC10X1htUXJjTHk5TmVtRlV3R05nOFRzNXZRcnROVGlUSUIzWUtrNWZVd2pldlgtMWxrYVJDSEYzUEVCZw?oc=5",
+      "summary": "WHO declares cruise-linked hantavirus outbreak officially over &nbsp;&nbsp; Al Jazeera",
+      "source": "Al Jazeera"
     },
     {
       "title": "Hantavirus: What You Need to Know About the Virus - Unric",
@@ -412,7 +432,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-18T09:42:28.224248Z",
+    "timestamp": "2026-09-18T13:50:26.048715Z",
     "who": 0,
     "promed": 0,
     "news": 41,
