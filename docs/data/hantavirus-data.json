@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-23T20:47:38.432085Z",
+  "lastUpdated": "2026-09-23T23:17:35.831034Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 35,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,11 +58,11 @@
           "source": "NEJM"
         },
         {
-          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
+          "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
           "published": "Wed, 13 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
-          "source": "kdhe.ks.gov"
+          "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
+          "source": "KDHE.ks.gov"
         },
         {
           "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
@@ -93,6 +93,13 @@
           "source": "University of California, Riverside"
         },
         {
+          "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+          "published": "Thu, 07 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
+          "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
+          "source": "World Health Organization (WHO)"
+        },
+        {
           "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
           "published": "Sat, 09 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
@@ -101,15 +108,16 @@
         }
       ],
       "sources": [
-        "WTTW News",
-        "University of California, Riverside",
         "PBS",
-        "kdhe.ks.gov",
+        "WTTW News",
+        "World Health Organization (WHO)",
+        "University of California, Riverside",
+        "KDHE.ks.gov",
+        "NEJM",
         "BBC",
-        "European Medicines Agency (EMA)",
-        "NEJM"
+        "European Medicines Agency (EMA)"
       ],
-      "alertCount": 7
+      "alertCount": 8
     },
     {
       "country": "Vietnam",
@@ -238,11 +246,11 @@
       "source": "tristandc.com"
     },
     {
-      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - kdhe.ks.gov",
+      "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
       "published": "Wed, 13 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTER5Q0RUVU9HclFnUmVrMnFNZkxMR2lNS0VXekpyWFU4cFZNUVVIa0RwY2JjbS1jY0JodlFwT2VjeXB6NE0wMHotYVpXXzJROXNkQV9JblVfLW1EbGdTNg?oc=5",
-      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; kdhe.ks.gov",
-      "source": "kdhe.ks.gov"
+      "summary": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship &nbsp;&nbsp; KDHE.ks.gov",
+      "source": "KDHE.ks.gov"
     },
     {
       "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
@@ -252,11 +260,11 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
-      "source": "med.stanford.edu"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "source": "Stanford Medicine"
     },
     {
       "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
@@ -308,11 +316,11 @@
       "source": "Johns Hopkins Medicine"
     },
     {
-      "title": "What to know about hantavirus, and past cases and deaths in Kansas - cjonline.com",
+      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
       "published": "Thu, 14 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
-      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; cjonline.com",
-      "source": "cjonline.com"
+      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
+      "source": "The Topeka Capital-Journal"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -327,6 +335,13 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
       "summary": "Hantavirus outbreak on cruise ship raises transmission concerns &nbsp;&nbsp; University of California, Riverside",
       "source": "University of California, Riverside"
+    },
+    {
+      "title": "WHO\u2019s response to hantavirus cases linked to a cruise ship - World Health Organization (WHO)",
+      "published": "Thu, 07 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelRHb3JINWxkUDFNQXF2SmExU2RscVB0YlJoTzFIdk9DTGFyMEtCS0llMzh5bHNXUkdUSWdNOWtGandBb19RLUtMd3hka0lLLVBBUjBXZHNXaTJUbWFhZmN2N1EyOGVNVlU3SmZHZmtGUXVjT3BSeHJEUGs1cHZ4Z3pmV0Q1ZTk2azlpYVJHQ0Y0dmp0OVlnVm9BSDg2eUcw?oc=5",
+      "summary": "WHO\u2019s response to hantavirus cases linked to a cruise ship &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
       "title": "Hantavirus: What You Need to Know About the Virus - Unric",
@@ -364,18 +379,11 @@
       "source": "AspenTimes.com"
     },
     {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - cdc.gov",
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
       "published": "Mon, 18 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; cdc.gov",
-      "source": "cdc.gov"
-    },
-    {
-      "title": "Hantavirus outbreak exposes uncertainty about how disease spreads - Nature",
-      "published": "Mon, 11 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzazlQT3A1YVRzUFRwLUJSTVZLa3dFMkxFb1RwVU9nVHJDOW4wRUl1X2gyVzQwMkpWUENjSEluVWRkUGNVUEVaQ2pnREozemotd2N4bE5HLUNqSUVVdWFR?oc=5",
-      "summary": "Hantavirus outbreak exposes uncertainty about how disease spreads &nbsp;&nbsp; Nature",
-      "source": "Nature"
+      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     }
   ],
   "usHistoric": {
@@ -405,10 +413,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-23T20:47:38.432101Z",
+    "timestamp": "2026-09-23T23:17:35.831046Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
