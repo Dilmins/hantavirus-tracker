@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-24T06:44:16.672770Z",
+  "lastUpdated": "2026-09-24T12:13:04.743832Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 3,
-  "newsCount": 35,
+  "locationsTracked": 4,
+  "newsCount": 36,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -51,11 +51,11 @@
       "lng": -20.0,
       "alerts": [
         {
-          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - nejm.org",
+          "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
           "published": "Wed, 20 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; nejm.org",
-          "source": "nejm.org"
+          "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
+          "source": "NEJM"
         },
         {
           "title": "2026 Multi-country Andes Strain Hantavirus Outbreak Associated with a Cruise Ship - KDHE.ks.gov",
@@ -72,11 +72,11 @@
           "source": "WTTW News"
         },
         {
-          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - ema.europa.eu",
+          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; ema.europa.eu",
-          "source": "ema.europa.eu"
+          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+          "source": "European Medicines Agency (EMA)"
         },
         {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -93,21 +93,21 @@
           "source": "University of California, Riverside"
         },
         {
-          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - pbs.org",
+          "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
           "published": "Sat, 09 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; pbs.org",
-          "source": "pbs.org"
+          "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+          "source": "PBS"
         }
       ],
       "sources": [
-        "University of California, Riverside",
-        "pbs.org",
+        "WTTW News",
         "BBC",
-        "ema.europa.eu",
-        "nejm.org",
         "KDHE.ks.gov",
-        "WTTW News"
+        "European Medicines Agency (EMA)",
+        "NEJM",
+        "University of California, Riverside",
+        "PBS"
       ],
       "alertCount": 7
     },
@@ -126,6 +126,24 @@
       ],
       "sources": [
         "The Conversation"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "Venezuela",
+      "lat": 6.42,
+      "lng": -66.59,
+      "alerts": [
+        {
+          "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
+          "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
+          "source": "Anadolu Ajans\u0131"
+        }
+      ],
+      "sources": [
+        "Anadolu Ajans\u0131"
       ],
       "alertCount": 1
     },
@@ -178,11 +196,11 @@
       "source": "kotaradio.com"
     },
     {
-      "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - KOTA Territory News",
+      "title": "CDC testing finds no confirmed hantavirus infection in Pine Ridge - kotatv.com",
       "published": "Wed, 23 Sep 2026 17:37:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmoxM1RvNllOMThUM1BHYTRONThqaWF0VG1JWmF0RVZIRDNORjFraWpHa0NMRXd6LXdfNUJiMTc1YVBNLURuNFdEUGpyWTM1X0VNNE5pWDBwS0pmRFk5dmd2UWh0NHMwRTloLU5udVZPZmtGWl9OSTdJMzdFT2RleXBhM0IzOVJSTDBGZVhfMTlEempkY19OVGE4dkpSd9IBsgFBVV95cUxNM3p3RVR1Ym52WjhjTUhBQW12bTRobmRkOVUxd2x6NW1lSzJMcHF1bWt3OXdCTTBkeElGTDNYa29mdXNnZ1JPajlFZ05WdjdDUHdCb0I1TzltWTFhMW5GOVFFWVFFVm5hSVhnc3FuTlNud21meHRDTHlpdWgwYTgwNzRHazlGcFBvWlpTQUhmT1diNGlEeHhWUGJWLVJWTldqR2YyUHlLYW5JazV4NTc1NE1n?oc=5",
-      "summary": "CDC testing finds no confirmed hantavirus infection in Pine Ridge &nbsp;&nbsp; KOTA Territory News",
-      "source": "KOTA Territory News"
+      "summary": "CDC testing finds no confirmed hantavirus infection in Pine Ridge &nbsp;&nbsp; kotatv.com",
+      "source": "kotatv.com"
     },
     {
       "title": "2026 News - Maryland School of Medicine",
@@ -192,25 +210,25 @@
       "source": "Maryland School of Medicine"
     },
     {
-      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - nejm.org",
+      "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xSzJQdm1QOTNvVXFfckdGcGNwU1p1cmFHb1FQR0RzSVFpRVFjTVo5ckI3UkxVWktmTHJTRmEzQVZISV9wa0o5c3ZNMW01MlJPSmVsTHRTUVd0VkRIUU04?oc=5",
-      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; nejm.org",
-      "source": "nejm.org"
+      "summary": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 &nbsp;&nbsp; NEJM",
+      "source": "NEJM"
     },
     {
-      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - who.int",
+      "title": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means - World Health Organization (WHO)",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlFKTmFYZ01HWlZ0bjNERmFrcG5mMU1oclNSQnk2SU1aM2xlTkY5NDVmcmh4WWpTWTUyVHltSFJGa1gtMUctSjYtY3NqcUYxcEZBcDhZWkRBemYxSHhFcVRjNm9uZEV6eEFnMUdDZHdWTEY1MlhpWGVpRHI5WDlRQTJKTmM3aE91S0lYR1ZQQlU3T0ZMSWRxZ3JTSGU4Yk5ITFY2ZDlPdVoyd3NtVUlLY2Vab2VQbVVQNklMcjd4Q21RZw?oc=5",
-      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; who.int",
-      "source": "who.int"
+      "summary": "WHO Health Emergencies EPI-WIN webinar: Hantavirus in Focus I: what we know and what it means &nbsp;&nbsp; World Health Organization (WHO)",
+      "source": "World Health Organization (WHO)"
     },
     {
-      "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern - Frontiers",
+      "title": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern - frontiersin.org",
       "published": "Wed, 19 Aug 2026 23:24:36 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm9MOXJIT201MWpSc0NWWW9tV3VSYWd3dmFqaWhZeGdMWVZ2aVdMNVpud04xNmFYYjJOeHFJaVB4Q191U0N1YW1sd245UEx2RFRUZzNFbVc5TDJRUWR6b0o1WUk5d2Z5ZDE5YUhMVTA3dlZCMmZZTUNhUVVtMWxMV1FaaWVLSUZqRHpLbDhwZnZDaHdv?oc=5",
-      "summary": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern &nbsp;&nbsp; Frontiers",
-      "source": "Frontiers"
+      "summary": "Climate change, rodent ecology, and the rising risk of hantavirus outbreaks: an alarming public health concern &nbsp;&nbsp; frontiersin.org",
+      "source": "frontiersin.org"
     },
     {
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
@@ -227,32 +245,39 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams - cidrap.umn.edu",
+      "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
+      "published": "Wed, 06 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
+      "summary": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
+    },
+    {
+      "title": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams - CIDRAP",
       "published": "Tue, 22 Sep 2026 19:44:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2VQNVA2aC1Cc2dBZ0xqTnhsRW10Zk0tMDdPZUNQN1VUZVl2bUdvb2ZDcm1PT1ZKRG56UDl6RF9JeFhOTTJyOWxxTkd3UWF5NkYzQndNcVAyQUFZWE1ycW9xYVVTQ21PVEs0WU5vRk5oQkRHUmJ3VnBhSGFLWFRObkdlSzMwSGJwZWswSHppdW1vT21rZjZwWnZWMUZxdkFFM2FyU1hKZF9oZVk?oc=5",
-      "summary": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
-      "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - cidrap.umn.edu",
-      "published": "Tue, 22 Sep 2026 19:38:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5",
-      "summary": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
+      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
+      "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "source": "Anadolu Ajans\u0131"
     },
     {
-      "title": "Five things to know about hantavirus from a Stanford Medicine expert - med.stanford.edu",
+      "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; med.stanford.edu",
-      "source": "med.stanford.edu"
+      "summary": "Five things to know about hantavirus from a Stanford Medicine expert &nbsp;&nbsp; Stanford Medicine",
+      "source": "Stanford Medicine"
     },
     {
-      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - cidrap.umn.edu",
+      "title": "Hantavirus outbreak grows to 11 cases, 9 confirmed - CIDRAP",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVFcDdTODBzaHBCN2dxWG5mRkZTU0xsQ1laTFQyNGJQb3VPVVh6RGNvdlBLNmlaemJGdkhldE93MDVVa3VSMXFfSVF5SW5LSGNwb0ZobEhGd3ZaRU5oOUs5NUl4U1NSQktjM1NFbU5TcE1BV2ZMczBnZ0FtdVNGTWcxY0JBQnJJdmZsbA?oc=5",
-      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; cidrap.umn.edu",
-      "source": "cidrap.umn.edu"
+      "summary": "Hantavirus outbreak grows to 11 cases, 9 confirmed &nbsp;&nbsp; CIDRAP",
+      "source": "CIDRAP"
     },
     {
       "title": "Hantavirus likely to be fully contained but may take time, Hanage says - Harvard Gazette",
@@ -269,11 +294,11 @@
       "source": "WTTW News"
     },
     {
-      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - ema.europa.eu",
+      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
-      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; ema.europa.eu",
-      "source": "ema.europa.eu"
+      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+      "source": "European Medicines Agency (EMA)"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -288,6 +313,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
       "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
       "source": "AZ Family"
+    },
+    {
+      "title": "What happens when disease jokes go viral? | Opinion - The Tennessean",
+      "published": "Thu, 24 Sep 2026 10:10:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObTd5TENMdXYtbTlMQW8tMHFhWnhnWUZFSjJnbXczVlk3ZFZyRDBVTFkxckVRUVc3N2NKdDJSLWVfQnhjakRLTmNJQnBHRm1mYTNhSXVicXF3Nm5FU05tcXIyVHVIMEJLaVA0LWFHZmM0c2E1dUE3ZHZxaDZqRkJoNjdQNlNGZWJseVM3UFVaUjh0c2M0STdFQk0tN1RlcTNkVDJNTXhqYlhzRmdNbENyZzRmakVRZTh6SktyRUdoYnJaQ3preTVybHVYbmhQamt2dTFhMDlkNlVmUE1lS2c?oc=5",
+      "summary": "What happens when disease jokes go viral? | Opinion &nbsp;&nbsp; The Tennessean",
+      "source": "The Tennessean"
     },
     {
       "title": "Hantavirus Outbreak 2026 - Johns Hopkins Medicine",
@@ -332,32 +364,18 @@
       "source": "Douglas County (.gov)"
     },
     {
-      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - pbs.org",
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
       "published": "Sat, 09 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
-      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; pbs.org",
-      "source": "pbs.org"
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
     },
     {
-      "title": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief - Anadolu Ajans\u0131",
-      "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU1N3cGh0aVcyUk00SVE4cDNVVmlvcXNqMEFBaTN4ZGhFcmVwY3YtVXNHTlBNNVVvSDBYR0pTZ3ZpdmlKUThTSkVXVy1OVlg1bkd5d0NwWmdEY0VpNndHNFhqNi1wUGoySjVMZDlncXlmNzZ0UUNrNzBXSlgyOGZZU0poQ1Z2bVJJOTd2ajNsclpBNl9YMTA0RThEd09wdWI1QjF6QmhrbnNnMVB5QWZiVzJvMVNIR3M?oc=5",
-      "summary": "Hantavirus cases remain at 13, no new deaths reported in over month: WHO chief &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
-    },
-    {
-      "title": "Voss: Zoonotic diseases, part 2 - aspentimes.com",
+      "title": "Voss: Zoonotic diseases, part 2 - AspenTimes.com",
       "published": "Mon, 21 Sep 2026 19:01:56 GMT",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQcXZZdlhKX3hqWGVIMkJobGhqc1Y3MmcycFlIb0dLQ29YaEFacUxkVWs2YjJ3TWQ2Ukt5bVJEcnA2aW91d1Nyc1pVd1FfZXd1MVRUbWVWbUdqczFCXy1jMVNTMzltaDFmUHYzSDFrQQ?oc=5",
-      "summary": "Voss: Zoonotic diseases, part 2 &nbsp;&nbsp; aspentimes.com",
-      "source": "aspentimes.com"
-    },
-    {
-      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
-      "published": "Mon, 18 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
-      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
+      "summary": "Voss: Zoonotic diseases, part 2 &nbsp;&nbsp; AspenTimes.com",
+      "source": "AspenTimes.com"
     }
   ],
   "usHistoric": {
@@ -387,10 +405,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-24T06:44:16.672784Z",
+    "timestamp": "2026-09-24T12:13:04.743845Z",
     "who": 0,
     "promed": 0,
-    "news": 35,
+    "news": 36,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
