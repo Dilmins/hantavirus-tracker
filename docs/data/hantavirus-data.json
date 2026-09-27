@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:29:32.962350Z",
+  "lastUpdated": "2026-09-27T23:52:57.150084Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -79,11 +79,11 @@
           "source": "European Medicines Agency (EMA)"
         },
         {
-          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
           "published": "Tue, 05 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-          "source": "BBC"
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+          "source": "bbc.com"
         },
         {
           "title": "Hantavirus outbreak on cruise ship raises transmission concerns - University of California, Riverside",
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
-        "CIDRAP",
-        "Contagion Live",
-        "KDHE.ks.gov",
-        "PBS",
-        "WTTW News",
-        "ABC News - Breaking News, Latest News and Videos",
-        "NEJM",
-        "BBC",
         "The Guardian",
-        "University of California, Riverside"
+        "CIDRAP",
+        "PBS",
+        "KDHE.ks.gov",
+        "NEJM",
+        "University of California, Riverside",
+        "Contagion Live",
+        "European Medicines Agency (EMA)",
+        "bbc.com",
+        "WTTW News",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
       "alertCount": 12
     },
@@ -178,15 +178,15 @@
       "lng": -63.59,
       "alerts": [
         {
-          "title": "Bolivia \u2014 Hantavirus: 34 cases and seven deaths as of Week 36 - Atlas Global de Riesgo",
+          "title": "Bolivia \u2014 Hantavirus: 34 cases and seven deaths as of Week 36 - globalriskatlas.com",
           "published": "Fri, 25 Sep 2026 05:06:22 GMT",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjAxTFhYS1VuMUNRQ3oxTmpzSjFzZ0dydWpOaU5MMk05MzVOYjZDRjA3d3lyTUcwbUxtWnFyMl93amt0TzF3VDNPRTBRcVcwYnRyYVhyMDRZR25ZYmEyMkt2eVB3N2tXWFVmR3ZUNUE5NEsxVUJwWjQ2eFpHSFotWTFscktUMDBFdnFaVzNOSGhLY3FF?oc=5",
-          "summary": "Bolivia \u2014 Hantavirus: 34 cases and seven deaths as of Week 36 &nbsp;&nbsp; Atlas Global de Riesgo",
-          "source": "Atlas Global de Riesgo"
+          "summary": "Bolivia \u2014 Hantavirus: 34 cases and seven deaths as of Week 36 &nbsp;&nbsp; globalriskatlas.com",
+          "source": "globalriskatlas.com"
         }
       ],
       "sources": [
-        "Atlas Global de Riesgo"
+        "globalriskatlas.com"
       ],
       "alertCount": 1
     },
@@ -323,11 +323,11 @@
       "source": "European Medicines Agency (EMA)"
     },
     {
-      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+      "title": "Second hantavirus case confirmed after deaths on cruise ship - bbc.com",
       "published": "Tue, 05 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
-      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
-      "source": "BBC"
+      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; bbc.com",
+      "source": "bbc.com"
     },
     {
       "title": "Conserve O Gram 2/8: Hantavirus Disease Health and Safety Update - National Park Service (.gov)",
@@ -379,11 +379,11 @@
       "source": "The Guardian"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric.org",
+      "title": "Hantavirus: What You Need to Know About the Virus - Unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric.org",
-      "source": "unric.org"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; Unric",
+      "source": "Unric"
     },
     {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
@@ -448,7 +448,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-09-27T21:29:32.962360Z",
+    "timestamp": "2026-09-27T23:52:57.150097Z",
     "who": 0,
     "promed": 0,
     "news": 38,
