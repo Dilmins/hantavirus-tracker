@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-06T20:33:21.949582Z",
+  "lastUpdated": "2026-10-07T00:07:26.369478Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 4,
-  "newsCount": 41,
+  "locationsTracked": 6,
+  "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -58,18 +58,18 @@
           "source": "KDHE.ks.gov"
         },
         {
-          "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
-          "published": "Wed, 06 May 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-          "summary": "Hantavirus explained: What to know after the cruise ship outbreak &nbsp;&nbsp; Harvard Health",
-          "source": "Harvard Health"
-        },
-        {
           "title": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship - WTTW News",
           "published": "Tue, 12 May 2026 07:00:00 GMT",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
           "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
           "source": "WTTW News"
+        },
+        {
+          "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
+          "published": "Tue, 12 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
+          "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+          "source": "European Medicines Agency (EMA)"
         },
         {
           "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -93,13 +93,6 @@
           "source": "World Health Organization (WHO)"
         },
         {
-          "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
-          "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-          "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-          "source": "The Guardian"
-        },
-        {
           "title": "Here's what to know about hantavirus vaccines after the cruise ship outbreak - ABC7 Los Angeles",
           "published": "Sun, 04 Oct 2026 04:51:26 GMT",
           "link": "https://news.google.com/rss/articles/CBMi-BJBVV95cUxPUk84LUZlM0txWE1YNFZuR0lXS2I5UTNYWmdqUVVLdmVmZjRYMVUtSjRVRHZHY3h1WFo0WGxPWnhkdl9xNV9uUkZXRzRZaTJVOHVVdjFxdnV5RXk2Sk51ZUluSDA2ZERDYjd1N1kzUVR2N0JGMXVfcVVnUG5CcE9tUjZUbzRTTFJPc0FfcHZ6R09NMklhbW9xZURTQ2djSWEwUnliejNfVGRiaTJsR1E2ZkZwQk1BX2JvSDdoTUsyZFN1UlQ4VWlyTFhXcExhZnRmMnVLV3pFVHNpeUpNcWNvbXMyZk90RGdabWFLMmdJTVU1ZjRpeFRycjFDT3FPYmJRZnMteHo2QW1qQzVsSUNDZFloTk5lSUJUZGFBM2hzS1gzSHY1QnY0SUpEQUI5UElkTkZvZFpZOV9CUkpPMFlhT3NoQlZHOC1oVHJlRzQ1RU5HUmpmclEzN2pvalZsVTRwRmlUZXpyN2dmcllLbC1QSzctRE9UQUxHcXRpa2pTMjhVMzJkempzNjhWSFpId1hCNERWcjM1NnBIZk9PS3Q0S28zTjVSYUhMTTdFdDlfajBiaDhvaUxLN3ZOaDFfZnB3VmNmUWhUUllvaTd6ZnZZOXkxVzRxSEh5S1dkcmlqOUk0YUNmWmZGSWV1bktjTy1FQ0ZSMU80bFo2TTFkTDR4ME9tbVRvN3BGd3hEeHM4a0JXMkNHVm9KRnF4ZE1XVzd3OE9Dd1kxOVNJcHgyd0sxWUlYWWZSNHRqSlJWUUtXc0ViT2ZNQjh4YTF6dHpJZXF3S2xlZEZUU0tXMndIRjU5SEJnQmJEc3IwNWdmd1BCS3RpbVF1dHdLeHFJMWw2bW04OWROTHNISDdMR0k5VXlxUVYyek5SbXUzRmxUZTF3anNfOWM4M3VteWRMSHM1alZkLThtaExWY2FMc2x4SzBGeXdQMUh0b2hfa2FpdTFBX1FjZllwUDQzQlU0LVJDcmk1cm12bUloWlRYMGQyaWsyTm1WTzVjbVc1aHpoQVRYLU9FRUxWVkdCT1BaUU5IeThaM1Z0M0ZXd19DWHhTWlRMYW1wV01tNV9DUU8xMzhWcjBJWThubXVQMV9Qc3k1RkhrdWFCUE9XS0NMbWpRX2x2QWhmTVpJM1BCdkxvRzlNN2RBNVo0TGNnN01idW5TMTZ3aW5CVU8xd2dSZk1aZnpLNFhPS3BPNllTclQ5SWxVNXFyYV9xRHZ5cm5Wc3hUSG9uejY4Tks0aF9wZUlrOHBFREpiUVFDeEdZcnVDc1N4ZlhKYWhUcGM0bjFKaWp4QUpNVlNpeE84WTNScElZWFVtNFVIcVB4R1l0bXpRelYzQzIydVp0Zl9qbUtOQzA0MTMyU3cyaXhoYk1TdjA2enZhQ2M1dE9oS05aWDU4eUJzaGZTa1hSNzA2QUFjV09oS0dVejNhZzhhOEQ5c0dNaTRncjdQMTNsV0JKT0VpWVlxeTJYMklqTWVyajA4c2tFeFJPQjJLTEhIdTNlTHN1Ti1aMnl5SFlzcnJjTW4zQmVlcVQ5dV9VWEtaNTluQnNvaDVldkpOdmJ4cjdRakxGbkEyRGlHZEVlLUp4N0h4T2RkRi1UWnBVUHZNdDdlNkZRQkhzem9USThJS2dtTXZiRzlpeUE4cERHVjVYTWpaTi01YUE5NzFMVTEyQWlEMW1xWU81endhRHhZN2R2amxmUUFKdnljc0wzLTdDdWZKZGVvSFQxMlQyZTExdkVxdU9oSlRDSi1OWlBUZngwNmpqRzMzS1JocUYtSmt4NjM4R19EdzZnX2tXV1ZTcUpvN1MzY3pHaVRlejFkNnhEaFN5TjhjOE1CS3p6OHAzaTBHcmZHelBaYWxYdDVpTUJTQ1d3b0hRT3VMcHRPMmdvRFY2eFlwRXRJRlVFYlNiQ3RQdUNPQlNaYmJjRkQ3aUxiS1QwYm9DOUJPLWNmc3dLRGFPTndlb1JBaUFVS1BCTlBHZ1pheEphZnlEWklNeDJaQnFHUkJJSmFTLWwwdnE0Z3d2RlAydm5zN0g3TUNsWGtjVG9KdTJkc3A2bDNQc0JuS1o5MlM3ZkNlQ3lBU0hvakNTbmFQRDVKcnhYYlZ3NFVKaTgzTzB3XzVPZHJCbEJkQUJsTFJ6cVpiWjhpMzlWbXlMcUJNaTg3bm5pejBlRi05enhHVFFtRk1MQS1uZl9JVVE1ZDV0SFBsSzNpZ1JValQ4Yno0VTA5WHF0MUJ3SkhKS2RINGNxZHVraW05cU5RZVNRc3U5SzJUbFFtM0E4QktQRHN1em1oSF9qeVdMZFB3WFhKSzZJYlUtcmRMdzhWN01RbDVCUnNqUV9lR0k5bC1qb05PZENudTBZMklYWDlHclRlRlpGY2JLRWhOeEdLdEw1d1BKMzl6Zl9zNktpamZETHcwZjlZWVROeWdqaDFNU3RRSnBUQmNJeHk1U1hWaFhHbnVJTDlscFMwbVpiQzVyb0gzSWw1dzJxdTdwY0pqXzdkZ1kyQkNlcVgwSXhEZzgySm5vNnB1ZFNKQWlVUFJtZlhRS0FlaWxaQ0JUcFllYWswc042T0ZWbkVpcXZYOXlFbVJFUjY1VFJmekIzQVdmZWFRX3FpcXc5RUtVbmE3YV8zbzBnTXluekZyN0dPMk9pOE5Wd2FyNFd3dUJlczN0RF9YYWFvc1NjTGxRYi00QnlPdUdRekoweTRERzA2WUIzS2tpQl9XbVg2NlVlMW9TalZMYlY2TEZrajE3VE0yRHdtYU1CMlVhVnltZHFjckJFQkFFcjVXZkE3R0dEWVpvOVlSWThPXy1XM1FBdTBlTzFjMWkzS3I5RWdRMFB0UmlmMU5IUDFuRThiTmpwdjhVWTJfX0lhRVRzd1p4d1JiUDV1QWxKcFF3MkVlcmRCWVdsTVBldHhNTWdaRklMX2FVbnVyUjJQVXEtM3VBMmJfbGhrbG9KXzZTSjFCd1dwQl9ORW5TWjRLZDFCdlBHWWE1eUwtcUF5elJ0YzktX2FEc1VUT0NacHIxTnRhR0Y4UlZRbWk0Qm8wb2NHdW1nMm9helBCUFlWNG53eEEyZ25UYUMzTlczSlZWSDEwVUllQ1BWOUZSRmlHQWhwaUVxUk9kbUlBOGp5YXpfRHhZNXo5cDltUmxtU2k2SFd1TFFjM1RFcGJLRDg3NGFYOUdoZEdPWXpGaDN0c1ZxbFpVLW1rRlBjQ3k0akZRZ3hOYk8zUGhodU1WV01qUjF1STQ?oc=5",
@@ -119,24 +112,65 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
           "summary": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
+          "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
+          "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
+          "source": "CIDRAP"
         }
       ],
       "sources": [
-        "The Colorado Sun",
-        "World Health Organization (WHO)",
-        "CIDRAP",
-        "BBC",
-        "The Guardian",
-        "NJ.gov",
-        "University of California, Riverside",
         "KDHE.ks.gov",
-        "ABC News - Breaking News, Latest News and Videos",
-        "PBS",
-        "ABC7 Los Angeles",
+        "BBC",
         "WTTW News",
-        "Harvard Health"
+        "PBS",
+        "CIDRAP",
+        "ABC7 Los Angeles",
+        "World Health Organization (WHO)",
+        "The Colorado Sun",
+        "European Medicines Agency (EMA)",
+        "University of California, Riverside",
+        "ABC News - Breaking News, Latest News and Videos"
       ],
-      "alertCount": 13
+      "alertCount": 11
+    },
+    {
+      "country": "China",
+      "lat": 35.86,
+      "lng": 104.2,
+      "alerts": [
+        {
+          "title": "Human Density, Not Climate, Drives Rodent-Borne Hemorrhagic Fever Risk in Southwest China - Bioengineer.org",
+          "published": "Tue, 06 Oct 2026 22:00:51 GMT",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTBybU9EbmhibjVhdURGUU5MbFdQSmhSX3doN1AydjdwV2JmSzhtSXhNbVZrNlFXUjA4SXM0OXpyYzdYUUtJRXZYbUczM2N6OXhFQ09JWW9reHB6VTJKR2l5YXJIbXh5T2d3czIzcU9ZeGhnSkl6NjRwcEZCdklla1diTkV0YlNIM1gwQzctVXFqN0ZtNUF2Z2F3dGJPdVFLX09HNTdKOVFlM2ZIejJUNGRB?oc=5",
+          "summary": "Human Density, Not Climate, Drives Rodent-Borne Hemorrhagic Fever Risk in Southwest China &nbsp;&nbsp; Bioengineer.org",
+          "source": "Bioengineer.org"
+        }
+      ],
+      "sources": [
+        "Bioengineer.org"
+      ],
+      "alertCount": 1
+    },
+    {
+      "country": "France",
+      "lat": 46.23,
+      "lng": 2.21,
+      "alerts": [
+        {
+          "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+          "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
+          "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
+          "source": "Le Monde.fr"
+        }
+      ],
+      "sources": [
+        "Le Monde.fr"
+      ],
+      "alertCount": 1
     },
     {
       "country": "United Kingdom",
@@ -195,6 +229,13 @@
   ],
   "recentNews": [
     {
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "summary": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case &nbsp;&nbsp; HHS.gov",
+      "source": "HHS.gov"
+    },
+    {
       "title": "CDC Officially Ends Hantavirus Response as Outbreak Risk Recedes - AJMC",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY01QWXJ3RDZBaDdxM3ZncFVkdFdyWmxUeTRFeTcwWGVqeFJJS0prWldJQnFBTkI3LVFJaFdQcnJpSUpFVHhFNzhrV1h6R25OVU1NU1h4UjNobmxBXzc1Rkg1WUttRDhiakZjSWd4c1ZlNmFjblJ4bHFzWjN0MUxNUXN0NEJlaVJQWVljZTE1NnctQnpl?oc=5",
@@ -237,13 +278,6 @@
       "source": "KDHE.ks.gov"
     },
     {
-      "title": "Hantavirus explained: What to know after the cruise ship outbreak - Harvard Health",
-      "published": "Wed, 06 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeGNyVUdqb2ZkWnRRT0ZzNnZ6MXRnTVlRUnJjQ0MwckNocmRmdE5IbEZ6TkUtR1pSUGFJbFB4aXNuQ3R6em9sa0t4U0hsN0t1TFEtSjF5clREdEdvZlp0dVRvQk9NdGphQm5nX0Q4TFF0NEYtNk5hWlBaSG85TVdmaDF6ZnUwYlhxZFdWeFpJYVpLREc2ekJIam9QQ2R4RTM5QUUya3AzdUdERWkzZnU3cUJwcHJyWDhOUUZDb1FLZkJ2Vld3?oc=5",
-      "summary": "Hantavirus explained: What to know after the cruise ship outbreak &nbsp;&nbsp; Harvard Health",
-      "source": "Harvard Health"
-    },
-    {
       "title": "At least 8 sickened in suspected hantavirus outbreak; Andes strain confirmed - CIDRAP",
       "published": "Wed, 06 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYmljM0VyVUV4RndyUVJaRUNicnVPcWhMNFg1ams0bktDZExCZ0tTb3dmOTYzQ0lRWTZNdTlPeC1HWXJlWElDRnZ2cjEzMkFnS1JpckFyZnRBRGJ2Q1ZlUVg2TDEtYlBSVFo0c3NoQlJieXZlZTdIbi1VUk1qRm5TUDNzdENZNEZ3UnZfS1NZSi1idU9MY184cWxZcmNmRkdXQ3JSUzhMNzZFeFE?oc=5",
@@ -284,6 +318,27 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWZvUVlDRjg2dzZPVFloZHhJSXZNXzR5b2haMlo2MTVIREZoaDVXR0FJU0EzSTVnRFNXZzRLdGNIS1ItYUxtc3V6RVBaQ0RXclpJVmc0OWhISFVXeTcyUHU2SXNpMzVJeDYzZFFGMGtwS2FyemFWSGxKTVBRQm44d3ZLOU1IU1pObW9NdE9FRGxlenlSMVFmbGpDVU9fY0k?oc=5",
       "summary": "Possible Illinois Hantavirus Case Not Linked to Outbreak on Cruise Ship &nbsp;&nbsp; WTTW News",
       "source": "WTTW News"
+    },
+    {
+      "title": "EMA actively monitoring cruise ship Hantavirus outbreak - European Medicines Agency (EMA)",
+      "published": "Tue, 12 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1pxdE04RE9wZ1R1UENRSHdELXhuMDdqbjFRdTJ1U0R1eTVWWlNfNnNzSDBIZnJVVTlYRW5xU1JhcXBzS0tDOHlBZDR6SFhIdW9XM2h3QkZzRkNVMmRFSTJVd0pVU1Z0NnRneWxmdHkteFBOQmRBMnhLeFh4UTh6emRQM0c1NzJiQ19ySjNsbnhYRFk?oc=5",
+      "summary": "EMA actively monitoring cruise ship Hantavirus outbreak &nbsp;&nbsp; European Medicines Agency (EMA)",
+      "source": "European Medicines Agency (EMA)"
+    },
+    {
+      "title": "Human Density, Not Climate, Drives Rodent-Borne Hemorrhagic Fever Risk in Southwest China - Bioengineer.org",
+      "published": "Tue, 06 Oct 2026 22:00:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaTBybU9EbmhibjVhdURGUU5MbFdQSmhSX3doN1AydjdwV2JmSzhtSXhNbVZrNlFXUjA4SXM0OXpyYzdYUUtJRXZYbUczM2N6OXhFQ09JWW9reHB6VTJKR2l5YXJIbXh5T2d3czIzcU9ZeGhnSkl6NjRwcEZCdklla1diTkV0YlNIM1gwQzctVXFqN0ZtNUF2Z2F3dGJPdVFLX09HNTdKOVFlM2ZIejJUNGRB?oc=5",
+      "summary": "Human Density, Not Climate, Drives Rodent-Borne Hemorrhagic Fever Risk in Southwest China &nbsp;&nbsp; Bioengineer.org",
+      "source": "Bioengineer.org"
+    },
+    {
+      "title": "Three Decades of Trapping Mice: How Montana Tech Is Tracking the Next Zoonotic Threat - Vet Candy",
+      "published": "Tue, 06 Oct 2026 16:21:19 GMT",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FKbHNGRHp0RWpXejN0STA0TE9hZF9CSHp1U1hnOXBXVnZTOU5RUHJPM3JPazhsb3hDMEY0UU9YU2xsVjhwdXllX3MyaHc1ckk4UTZubmVHNG1vWWtuTDZNV1BrZnN3RjlaV01pUHBwSVB5eGxBeHhXaDhJcG1teVp4VmxlYkZuZzEwRnNiQ194R1h2RXhoNnI5WkkwcDVXT2lPcDZzVkp1S21LWEJZTnlBRUt4NHBEZkg3ZFdsVlNxZnlR?oc=5",
+      "summary": "Three Decades of Trapping Mice: How Montana Tech Is Tracking the Next Zoonotic Threat &nbsp;&nbsp; Vet Candy",
+      "source": "Vet Candy"
     },
     {
       "title": "Call: Andes Virus and Hantavirus Research - fundsforNGOs - Grants and Resources for Sustainability",
@@ -335,13 +390,6 @@
       "source": "Harvard T.H. Chan School of Public Health"
     },
     {
-      "title": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update - NPR",
-      "published": "Thu, 07 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRHhfenVfMEhwdTBCUjhzWkljM3hlQi1ibDJtZUZHaG9HSUplNGh2WFFtQWtzNHdvVG9iU2hkRnptX0ZWeWxmVXd0LWxkTjMtcl9GNm5ZNGFCRFJ6Sl9pZDZWZXQzdEdFRGtMdDFJbHJmQ0dGLVlIeFI4RHJUcHFnbnVrVnZiQ3k0?oc=5",
-      "summary": "Is hantavirus the next COVID? Is the U.S. response on point? An outbreak update &nbsp;&nbsp; NPR",
-      "source": "NPR"
-    },
-    {
       "title": "The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say - Time Magazine",
       "published": "Thu, 07 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV3FsZHA3ZDdRV0FSZTI3ZklHQmlRbDdUNjdNMHhDSVFGa1lkTFVmc0lJcE5zdzk5aUNQWDZwb1RYMVVTUkotV2V6Q3FjWi1VSlA1QkZOTElWbFhJNFg4dFpHVjBnb0ZkR2lVYzg0VXRRMkVKUnNRcVM3UkNZTGMxc0lEMGs?oc=5",
@@ -363,11 +411,11 @@
       "source": "World Health Organization (WHO)"
     },
     {
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - The Guardian",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMlF2eE91cTdnaWVmYU9Kd2ctTlN4M2RpSm9KaXNSLVdta2NxampvMW40ZGx1TVd5UjFqNVU3bTFObjd2SFN3S1d6ZGdhUnVpTllQVzFSWGNYZ2xUZTdzMnItTVBneUlsTFBwbGhRa0ZfcXc?oc=5",
-      "summary": "WHO declares hantavirus outbreak linked to cruise ship over &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian"
+      "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
+      "summary": "Hantavirus: Tourist who transited France in July tests positive &nbsp;&nbsp; Le Monde.fr",
+      "source": "Le Monde.fr"
     },
     {
       "title": "Hantavirus: What You Need to Know About the Virus - Unric",
@@ -389,20 +437,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
       "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
       "source": "PBS"
-    },
-    {
-      "title": "The country where lethal hantavirus cases are on the rise. Experts blame climate change - CNN",
-      "published": "Sat, 09 May 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWdlV2lFNjlCX0VBSHJJbmQxSmZncl8wS25TeXZVQ2o2aHI2bWVlT2pERC1mdThpWDRyUGs4X1FUM0tXYkU3Z1Jna2dPcldVZjVkOEN0cmhWX3pvZ1Z0cTg4VVRtdzl1bHprRUtraGduVTVaZmQwTkVyNWR6blpGVmFNa2Z6S0RPbWdEeGs3cGozd3lKazVqaUdfaUxtR29n?oc=5",
-      "summary": "The country where lethal hantavirus cases are on the rise. Experts blame climate change &nbsp;&nbsp; CNN",
-      "source": "CNN"
-    },
-    {
-      "title": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US - ABC News - Breaking News, Latest News and Videos",
-      "published": "Sat, 03 Oct 2026 11:03:29 GMT",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeFY0UEluMmNRVzc0a0NhZ25Cd19EMFAwNzI5NjZHZm13SXlla3VnQ0FfdmZ6X3BwcVRvbThMRTdFbjR0MXBEQ2Z5OXA0MkNuaUhvcVhlYWtTenlKUlRydTVWYU53NE1XaV9JejM5dVVzMkk0bUo4RlBQMHQwMlFpdDEzOXBBNzFxWVBqcng1c2pqSF9yU1R3RUhBaVJVdXU3RkxIUtIBqgFBVV95cUxQQnVZbl9jc0NZM3otVGpTclk1TXpJMGIyTm4wVHFOQ2hZSmktdzR4S1duNzc3QnBWLTRlbTFLVTNhaXhtcWptZXA5UWViVUwtc2d6QXNLNmxCZEhtMGdjMllHZUNRclJwb3F3SE03alFDWHlwbUxpTGJvTThqeWRycEdWTUNXMHRYSEpZeE9NQ1dlblhVYVZNQ05oWExuU0hrd1U0ci1oem9Wdw?oc=5",
-      "summary": "Officials in Arizona, Georgia monitoring some hantavirus cruise ship passengers who have returned to US &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos"
     }
   ],
   "usHistoric": {
@@ -432,10 +466,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-06T20:33:21.949599Z",
+    "timestamp": "2026-10-07T00:07:26.369495Z",
     "who": 0,
     "promed": 0,
-    "news": 41,
+    "news": 40,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
