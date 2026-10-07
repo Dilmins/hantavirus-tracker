@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-07T12:14:47.636188Z",
+  "lastUpdated": "2026-10-07T18:57:06.245072Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
   "locationsTracked": 4,
-  "newsCount": 40,
+  "newsCount": 39,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
   "outbreaks": [
@@ -122,19 +122,19 @@
         }
       ],
       "sources": [
-        "ABC News - Breaking News, Latest News and Videos",
-        "Harvard Health",
-        "PBS",
-        "BBC",
-        "NJ.gov",
-        "European Medicines Agency (EMA)",
-        "ABC7 Los Angeles",
-        "KDHE.ks.gov",
         "University of California, Riverside",
-        "World Health Organization (WHO)",
-        "WTTW News",
+        "ABC7 Los Angeles",
         "The Colorado Sun",
-        "CIDRAP"
+        "World Health Organization (WHO)",
+        "ABC News - Breaking News, Latest News and Videos",
+        "KDHE.ks.gov",
+        "NJ.gov",
+        "Harvard Health",
+        "BBC",
+        "CIDRAP",
+        "European Medicines Agency (EMA)",
+        "WTTW News",
+        "PBS"
       ],
       "alertCount": 13
     },
@@ -202,11 +202,11 @@
       "source": "AJMC"
     },
     {
-      "title": "2026 News - Maryland School of Medicine",
+      "title": "2026 News - The University of Maryland, Baltimore",
       "published": "Wed, 22 Jul 2026 20:26:42 GMT",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "summary": "2026 News &nbsp;&nbsp; Maryland School of Medicine",
-      "source": "Maryland School of Medicine"
+      "summary": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
+      "source": "The University of Maryland, Baltimore"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - The New England Journal of Medicine",
@@ -298,13 +298,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92SUVyVTlPT3c3UUlKdGxrQjRMb0t0NEpuNk5UY3pBdUg4YXhuUjdGOEl1V1hRQ0c1VGw5SFlQVDRNZ2VmMFF0OTk0M0NDbS15bTlrSzJWUEVtTU5VNUY4bw?oc=5",
       "summary": "KDHE Monitoring Individuals with Andes Hantavirus Exposure &nbsp;&nbsp; KDHE.ks.gov",
       "source": "KDHE.ks.gov"
-    },
-    {
-      "title": "Three Decades of Trapping Mice: How Montana Tech Is Tracking the Next Zoonotic Threat - Vet Candy",
-      "published": "Tue, 06 Oct 2026 16:21:19 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2FKbHNGRHp0RWpXejN0STA0TE9hZF9CSHp1U1hnOXBXVnZTOU5RUHJPM3JPazhsb3hDMEY0UU9YU2xsVjhwdXllX3MyaHc1ckk4UTZubmVHNG1vWWtuTDZNV1BrZnN3RjlaV01pUHBwSVB5eGxBeHhXaDhJcG1teVp4VmxlYkZuZzEwRnNiQ194R1h2RXhoNnI5WkkwcDVXT2lPcDZzVkp1S21LWEJZTnlBRUt4NHBEZkg3ZFdsVlNxZnlR?oc=5",
-      "summary": "Three Decades of Trapping Mice: How Montana Tech Is Tracking the Next Zoonotic Threat &nbsp;&nbsp; Vet Candy",
-      "source": "Vet Candy"
     },
     {
       "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
@@ -403,6 +396,13 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
       "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain &nbsp;&nbsp; CIDRAP",
       "source": "CIDRAP"
+    },
+    {
+      "title": "2026 Hantavirus Outbreak: Testing for Potential Infection - Centers for Disease Control and Prevention | CDC (.gov)",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QSW9Ib29RUFhsNUh1c1NTXy1BNTE3aFYtM0ZDblROUk8teV96UTU1c0lZTU1vSU44b2J1dm5kZF9jTEJiNUVleVBPQllZMkVFXzA5d2ZNeGZveTkxRHc?oc=5",
+      "summary": "2026 Hantavirus Outbreak: Testing for Potential Infection &nbsp;&nbsp; Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)"
     }
   ],
   "usHistoric": {
@@ -432,10 +432,10 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-07T12:14:47.636199Z",
+    "timestamp": "2026-10-07T18:57:06.245088Z",
     "who": 0,
     "promed": 0,
-    "news": 40,
+    "news": 39,
     "cdc_cases": 890,
     "cdc_deaths": 35
   }
