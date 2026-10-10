@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T19:24:14.760997Z",
+  "lastUpdated": "2026-10-10T22:44:51.276883Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
+        "CIDRAP",
+        "University of California, Riverside",
+        "ABC News - Breaking News, Latest News and Videos",
         "BBC",
         "NJ.gov",
         "WTTW News",
-        "ABC News - Breaking News, Latest News and Videos",
         "KDHE.ks.gov",
-        "The Colorado Sun",
-        "University of California, Riverside",
-        "European Medicines Agency (EMA)",
-        "CIDRAP",
         "Contagion Live",
-        "PBS"
+        "PBS",
+        "European Medicines Agency (EMA)",
+        "The Colorado Sun"
       ],
       "alertCount": 11
     },
@@ -448,7 +448,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-10T19:24:14.761012Z",
+    "timestamp": "2026-10-10T22:44:51.276898Z",
     "who": 0,
     "promed": 0,
     "news": 39,
