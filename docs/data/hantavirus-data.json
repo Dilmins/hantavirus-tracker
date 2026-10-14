@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-14T17:35:55.203502Z",
+  "lastUpdated": "2026-10-14T20:58:16.873810Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -101,13 +101,13 @@
         }
       ],
       "sources": [
-        "University of California, Riverside",
-        "The Colorado Sun",
+        "KDHE.ks.gov",
         "WTTW News",
         "NEJM",
         "European Medicines Agency (EMA)",
-        "KDHE.ks.gov",
-        "PBS"
+        "University of California, Riverside",
+        "PBS",
+        "The Colorado Sun"
       ],
       "alertCount": 7
     },
@@ -441,7 +441,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-14T17:35:55.203516Z",
+    "timestamp": "2026-10-14T20:58:16.873826Z",
     "who": 0,
     "promed": 0,
     "news": 40,
