@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T18:47:04.708700Z",
+  "lastUpdated": "2026-10-16T21:48:56.638474Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,17 +122,17 @@
         }
       ],
       "sources": [
-        "BBC",
         "Contagion Live",
-        "European Medicines Agency (EMA)",
-        "PBS",
-        "NEJM",
-        "ABC News - Breaking News, Latest News and Videos",
-        "CIDRAP",
         "WTTW News",
+        "PBS",
+        "University of California, Riverside",
+        "European Medicines Agency (EMA)",
         "The Colorado Sun",
+        "BBC",
         "KDHE.ks.gov",
-        "University of California, Riverside"
+        "ABC News - Breaking News, Latest News and Videos",
+        "NEJM",
+        "CIDRAP"
       ],
       "alertCount": 11
     },
@@ -214,11 +214,11 @@
       "source": "KOTA Territory News"
     },
     {
-      "title": "2026 News - The University of Maryland, Baltimore",
+      "title": "2026 News - Maryland School of Medicine",
       "published": "Wed, 22 Jul 2026 20:26:42 GMT",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWmJCd0N4TUZuYXBfWmdWM1JJczNjVGxDeDZ6dHJKN3lpb3hjR3g5al9idV85MFEyanM5T29QTHdrdWJrZTdkLUpRSGhraHVXdi1DOWN0Rk9QSjB5UEZVbzljeUVRc2ZsTDFiZ3ZXZk5pV0t5SU9jcVlGTGlnY3F2czg5ZzhHcG04UlQ4SnppWTl4QVVFN0JkanNrZ3hIRk9RZEVCeVF6RjVzbllCSzdCTFNETjQ3RVdtTmkycWl4UV9fWU4ybnQtcFd3eDlUbTRDbEI5XzBRSlNwb0RCczF3Z2pHWnNBWm5EUFdnbjZPT21aN2dDRlBZcmRDOUc?oc=5",
-      "summary": "2026 News &nbsp;&nbsp; The University of Maryland, Baltimore",
-      "source": "The University of Maryland, Baltimore"
+      "summary": "2026 News &nbsp;&nbsp; Maryland School of Medicine",
+      "source": "Maryland School of Medicine"
     },
     {
       "title": "Andes Hantavirus Outbreak on a Cruise Ship, 2026 - NEJM",
@@ -333,13 +333,6 @@
       "source": "Virginia Tech News"
     },
     {
-      "title": "Norgen Biotek Expands Biodefence Portfolio with the Launch of Hantavirus and Ebola Virus Detection Kits - EIN News",
-      "published": "Thu, 15 Oct 2026 14:33:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNel81SkZPNmJrdjVYTUNfajVQcGRrMGZTeHJocTBVXzZLcHY5a2hiZENRYUdUazEzRkxqQmxjbkFHM1lCN0xIYkpqOHY0MTlmN1VjWEljbExOeU9Lc0NGc21VeHptVElKeVFlMmlORUdZSW1kd05fRDdsaV9IX1dKbGRYM1VIQXdSZWQ3R1hkSHBlSGd3ZnIzb2xnUWhkdl8tYjFCU2h6NEt5MTFObEItQ1RTVV9LZXJtZXJUOW1BSDczdHZWQU1nYXNwUmpvX0lvYlotUXRQSUtPZjE0dHc?oc=5",
-      "summary": "Norgen Biotek Expands Biodefence Portfolio with the Launch of Hantavirus and Ebola Virus Detection Kits &nbsp;&nbsp; EIN News",
-      "source": "EIN News"
-    },
-    {
       "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
       "published": "Thu, 15 Oct 2026 01:58:06 GMT",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
@@ -401,6 +394,13 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
       "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; Unric",
       "source": "Unric"
+    },
+    {
+      "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
+      "published": "Sat, 09 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUp1UElUWjE0QVAtQl9rRkRzWWhvSG1LTWpIR1NZc1NETUFYYnVsN2dqQW10ZmV2UW9qN3FsREdFenRfVF94S1hqRFhUc25WVzNfRnJVWjlKeUdVOEVVSkdxWVJ2NG4wS2tYM09TQ285VzY5OVl4dGxmUUxmU1A0YXl3T204ZXdzVnM1WDR3cWFlOTJWa2s3LWlobEI0X1NFdVBubWhqb1pXN0MwQUkzcmxZbEVFaEpyb2lDSU9iaw?oc=5",
+      "summary": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak &nbsp;&nbsp; PBS",
+      "source": "PBS"
     }
   ],
   "usHistoric": {
@@ -430,7 +430,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-16T18:47:04.708710Z",
+    "timestamp": "2026-10-16T21:48:56.638484Z",
     "who": 0,
     "promed": 0,
     "news": 41,
