@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T23:02:48.225403Z",
+  "lastUpdated": "2026-10-16T01:18:00.750738Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
@@ -122,16 +122,16 @@
         }
       ],
       "sources": [
-        "European Medicines Agency (EMA)",
-        "KDHE.ks.gov",
+        "The Colorado Sun",
+        "Harvard Health",
         "CIDRAP",
-        "PBS",
+        "KDHE.ks.gov",
         "WTTW News",
         "Contagion Live",
-        "The Colorado Sun",
-        "BBC",
-        "Harvard Health",
+        "European Medicines Agency (EMA)",
+        "PBS",
         "NEJM",
+        "BBC",
         "University of California, Riverside"
       ],
       "alertCount": 11
@@ -357,11 +357,11 @@
       "source": "University of California, Riverside"
     },
     {
-      "title": "Hantavirus: What You Need to Know About the Virus - unric",
+      "title": "Hantavirus: What You Need to Know About the Virus - Unric",
       "published": "Sun, 17 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45M3FneFFzUksyUUg3ZWQwUmZLY1l0Z3Vhd3ZPZW0yLWFBQ0VSR01DczNNZ1NwU1ZSc05JbEZtN1pKWDEzZ2NKZnRwcXJKZXpWMXc?oc=5",
-      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; unric",
-      "source": "unric"
+      "summary": "Hantavirus: What You Need to Know About the Virus &nbsp;&nbsp; Unric",
+      "source": "Unric"
     },
     {
       "title": "Medical epidemiologist explains what to know about the cruise ship hantavirus outbreak - PBS",
@@ -412,7 +412,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-15T23:02:48.225420Z",
+    "timestamp": "2026-10-16T01:18:00.750754Z",
     "who": 0,
     "promed": 0,
     "news": 37,
