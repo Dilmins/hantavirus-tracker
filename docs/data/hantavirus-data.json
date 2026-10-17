@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-17T04:18:49.457380Z",
+  "lastUpdated": "2026-10-17T08:41:23.189518Z",
   "totalCases": 22,
   "totalDeaths": 5,
   "countriesAffected": 1,
   "activeOutbreaks": 2,
-  "locationsTracked": 6,
+  "locationsTracked": 4,
   "newsCount": 40,
   "whoAlertCount": 0,
   "promedAlertCount": 0,
@@ -65,6 +65,13 @@
           "source": "KDHE.ks.gov"
         },
         {
+          "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+          "published": "Tue, 05 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
+          "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
+          "source": "BBC"
+        },
+        {
           "title": "3 dead in suspected hantavirus outbreak aboard a cruise ship: What to know - ABC News - Breaking News, Latest News and Videos",
           "published": "Thu, 15 Oct 2026 01:58:06 GMT",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVFxQTZQbEFJdm9jTU5qVFFlbUh1Z2tCRDhCZHBlY3NneVhwN0VEV1lJOUlZVjVoNUxfMGVsbmVpcGkwVTF6TWVRWTlhb0xSamJaZU5QMFJoZ0lNME1BT0FoRlJCSmNnWW81cXN0QVBqb2RhSWhJTDRmYWE4eW4tcUdMVlFjcTBVVTVCMGFKOF9RMjhUX2ZJTFRnTzVyLW0zbk930gGoAUFVX3lxTE50VnEwRi1SSDJvaTZ0Z2VjVjZaNWlrZGlZa3BneElvZjJzcUZoRWlIZ0hXTzV4QW1TY21oVVRuMVRGZHB5X09fU3NFVWhtVVpNN3Q2aWR3UkpUM3lOamItODI2R2VWdnhjRnhQNC1ub1hqQzhmUUVRVG5idWt1Q0VIcVQ2NzRVWUF4N1NWclk4ZVZqSEF4RHBFYUpzNnl5SHZMbDhYdHlRMw?oc=5",
@@ -105,19 +112,28 @@
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNXEyd0NaWGFHOTJiTFhYS2R6Y2w4NFViQmNXR2V5czdMR2VfeVFraHdTQi0xUWdMVVBuVXRxZV9ENWxaemdhME84OFlEcF96UVZUTW9LTHRDTHlGdnhVejZ3bnhyZmlObERJaTEyVTl1dHpNeGxHMkw5cWx0UQ?oc=5",
           "summary": "Colorado records first hantavirus death since 2024. It\u2019s not from the cruise ship. &nbsp;&nbsp; The Colorado Sun",
           "source": "The Colorado Sun"
+        },
+        {
+          "title": "US Flies Back American Passengers from Cruise Ship Affected by Hantavirus Exposure - Contagion Live",
+          "published": "Mon, 11 May 2026 07:00:00 GMT",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHcxaTNUaWp5YXVxSVdnTFUwQUhrbVpUanotdlg3TjhSdy1GaEExVjhtNlREWldxX1RhSlEwWFRQWGtUNVk3dDBEWHYyNzh2WnZCVHVUTTd4TWY5WUtRaWtVWVNNczRYeGktOE9kVXctdTZ5OENMQVEzbnRkWmpZbHhRRk9nS21JUUJGUlg3d0t2dXc3c3lVaTJkdmVCQnVtd0hSaVMteXJTdjNVTDd3cnB1eG5kZ2t0MU9MWEJUaw?oc=5",
+          "summary": "US Flies Back American Passengers from Cruise Ship Affected by Hantavirus Exposure &nbsp;&nbsp; Contagion Live",
+          "source": "Contagion Live"
         }
       ],
       "sources": [
-        "CIDRAP",
-        "KDHE.ks.gov",
-        "ABC News - Breaking News, Latest News and Videos",
-        "The Guardian",
-        "University of California, Riverside",
         "The Colorado Sun",
-        "NEJM",
-        "Reuters"
+        "CIDRAP",
+        "BBC",
+        "University of California, Riverside",
+        "The Guardian",
+        "KDHE.ks.gov",
+        "Reuters",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Contagion Live",
+        "NEJM"
       ],
-      "alertCount": 8
+      "alertCount": 10
     },
     {
       "country": "France",
@@ -152,42 +168,6 @@
       ],
       "sources": [
         "CIDRAP"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Bolivia",
-      "lat": -16.29,
-      "lng": -63.59,
-      "alerts": [
-        {
-          "title": "Bolivia \u2014 Hantavirus: 34 cases and seven deaths as of Week 36 - Atlas Global de Riesgo",
-          "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSjAxTFhYS1VuMUNRQ3oxTmpzSjFzZ0dydWpOaU5MMk05MzVOYjZDRjA3d3lyTUcwbUxtWnFyMl93amt0TzF3VDNPRTBRcVcwYnRyYVhyMDRZR25ZYmEyMkt2eVB3N2tXWFVmR3ZUNUE5NEsxVUJwWjQ2eFpHSFotWTFscktUMDBFdnFaVzNOSGhLY3FF?oc=5",
-          "summary": "Bolivia \u2014 Hantavirus: 34 cases and seven deaths as of Week 36 &nbsp;&nbsp; Atlas Global de Riesgo",
-          "source": "Atlas Global de Riesgo"
-        }
-      ],
-      "sources": [
-        "Atlas Global de Riesgo"
-      ],
-      "alertCount": 1
-    },
-    {
-      "country": "Venezuela",
-      "lat": 6.42,
-      "lng": -66.59,
-      "alerts": [
-        {
-          "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
-          "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
-          "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
-          "source": "Anadolu Ajans\u0131"
-        }
-      ],
-      "sources": [
-        "Anadolu Ajans\u0131"
       ],
       "alertCount": 1
     },
@@ -275,20 +255,6 @@
       "source": "CIDRAP"
     },
     {
-      "title": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections - CIDRAP",
-      "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFNFX2NXcXVsU3dlYURXMUFhSTRsRnlJdFBzSURiUE1kQTEwYm9SVERZa1hUMldIVS1Xamc3SzNGSWVHRUt0S2h1WHoyWl9kdWViRm9BeXRXVFBJZTZFRG5POGQzYlRVSjZkT2tiUmlLam5IdVd2WHdTa2M2UUt1WE5uWVZwQUU5Nm02RWVTNVJ1T1JpX285Y2poTThSLWxoOExmY0d1ejA2Um96ZGVkV3Q0eUFVSFhmai14SFdjLXk?oc=5",
-      "summary": "Study shows high need for respiratory support in patients with severe Andes hantavirus infections &nbsp;&nbsp; CIDRAP",
-      "source": "CIDRAP"
-    },
-    {
-      "title": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis - Anadolu Ajans\u0131",
-      "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOHM4T0Q2Qy1yUG1MUXZ3V2VrdHlzbnpDTHBaUl96amt1Yzllb0NDdV9YTjJ2LUdFYzNqSU1FbEdKLWNkdGZSand1Q2FHcmVRVjRJSkdMUm8tdU5mMDNqRnFGS21TbDNLV3B0RDQ1djZoQjJNdTYzSjlvVGxtT1VOOTRIeW9sZGFLTzJMSW15a19aa1RNM1V6RnluTFpZbVVVTGpiUS03UFpYTHhBZ2xFYVlQaWhtTi1qcWhmUWhWUTQ5aVpsRVE?oc=5",
-      "summary": "Venezuela confirms 3 hantavirus deaths as medical association warns of broader crisis &nbsp;&nbsp; Anadolu Ajans\u0131",
-      "source": "Anadolu Ajans\u0131"
-    },
-    {
       "title": "Five things to know about hantavirus from a Stanford Medicine expert - Stanford Medicine",
       "published": "Tue, 12 May 2026 07:00:00 GMT",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
@@ -317,11 +283,18 @@
       "source": "Harvard Gazette"
     },
     {
-      "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
-      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-      "summary": "First hantavirus death reported in Arizona in 2026 &nbsp;&nbsp; AZ Family",
-      "source": "AZ Family"
+      "title": "Second hantavirus case confirmed after deaths on cruise ship - BBC",
+      "published": "Tue, 05 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oV3pWUWNZOHNLcjQ3YVFrWGp2MTVqekw0RXBWT1JuSDE1RDVZR3lrRGU4QlRCcFdLRXV6ejhGZXptaHc1UVQtYkNpOFBLSUV2MzBfWnlxUHVuUQ?oc=5",
+      "summary": "Second hantavirus case confirmed after deaths on cruise ship &nbsp;&nbsp; BBC",
+      "source": "BBC"
+    },
+    {
+      "title": "Conserve O Gram 2/8: Hantavirus Disease Health and Safety Update - National Park Service (.gov)",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDJFN2oxWWZJbHNXdi1QaTNrX3VtSmx0T0VaSjFCQ1E4ZHFBQmVoWEJwX0s0TXJQMWtHVGRhZGJZVkZsVHhkYzk3blVnbmFrMS16dVBGVkhoWmQ1R0ZNRURNc2VicE1laG1DRlFFaklHM3BHZkppU3Fuc3VIQnFCMXVLOVk5MjE1LS1BT2NGZXJIcDRxNlFYWF93NFg4cHNqQ1pIT0xXSQ?oc=5",
+      "summary": "Conserve O Gram 2/8: Hantavirus Disease Health and Safety Update &nbsp;&nbsp; National Park Service (.gov)",
+      "source": "National Park Service (.gov)"
     },
     {
       "title": "Of mice and men: Examining how hantavirus leaps from rodent to human - Virginia Tech News",
@@ -350,6 +323,13 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN050YU5sU2hVMUowcEFxbVI1ZmZjSUhyR0lJTDU0NzhselBJaWtIT200c0R5MWllTG9tN2gzX2dnbDdZUHFWYi1remZibFRLc2g1VHp1cFNtNFJUUVEyOTlEWWhLTVlRcWx1dWFYZFVfZldhTHlHSmVDazJzam1vU1U5MUpmLTZHRDhDSS1TRURBNGJEdFFBczhKRkZMT3NXOTlON0UwdUVPVVEzOGdHTTExUFA?oc=5",
       "summary": "Hantavirus Outbreak Raises Greater Concern about Emergency Preparedness &nbsp;&nbsp; Boston University",
       "source": "Boston University"
+    },
+    {
+      "title": "What to know about hantavirus, and past cases and deaths in Kansas - The Topeka Capital-Journal",
+      "published": "Thu, 14 May 2026 07:00:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNERQZGJJekVmd1IyM2xNSlhkaUpacURfeFNPT0duQmpuR0swR3hPTkNMUEFfTFQ1MU1kaHZsdGZFcDhwN2hRR2xLRkpXaERoeUgzQUZ3TDd0MXQ4OXEwZEYyY3MzR2ZxTEVQcGN6Tmk3TVZRa05pNEl0S3ZQSElUVWFYQU1ZTWFYRXJINnhoN21SNmxMUnZHSnBqVFRCVVREamFxRjh1MmFkZVhYajVweEVjVk9qWUV4WDRvOS1RZ3lHLXAxNTdYY3BKbUl4YVZlZ1E?oc=5",
+      "summary": "What to know about hantavirus, and past cases and deaths in Kansas &nbsp;&nbsp; The Topeka Capital-Journal",
+      "source": "The Topeka Capital-Journal"
     },
     {
       "title": "How hantavirus actually spreads is a key question - Harvard T.H. Chan School of Public Health",
@@ -449,7 +429,7 @@
     "National Health Authorities"
   ],
   "fetchMeta": {
-    "timestamp": "2026-10-17T04:18:49.457396Z",
+    "timestamp": "2026-10-17T08:41:23.189534Z",
     "who": 0,
     "promed": 0,
     "news": 40,
